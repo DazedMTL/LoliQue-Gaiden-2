@@ -1,0 +1,1675 @@
+[
+    null,
+    {
+        "id": 1,
+        "battlerName": "Actor1",
+        "characterIndex": 0,
+        "characterName": "hokou_konoha0",
+        "classId": 2,
+        "equips": [
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "faceIndex": 0,
+        "faceName": "A_face01",
+        "traits": [
+            {
+                "code": 62,
+                "dataId": 0,
+                "value": 1
+            },
+            {
+                "code": 23,
+                "dataId": 5,
+                "value": 0
+            },
+            {
+                "code": 53,
+                "dataId": 1,
+                "value": 1
+            }
+        ],
+        "initialLevel": 1,
+        "maxLevel": 99,
+        "name": "コノハ",
+        "nickname": "純白な乙女",
+        "note": "<Set Sts Data>\nTreeType:50, 52\nInit Sp:5\n</Set Sts Data>\n<spine:\n{ T_konoha_b, zamen:     vl(287, 0),  st(17), st(14), am(1) },\n{ T_konoha_b:            vl(287, 0),          st(14), am(1) },\n{ T_konoha_b, isyou50Z:  vl(287, 50), st(17), st(14), am(1) },\n{ T_konoha_b, isyou50:   vl(287, 50),         st(14), am(1) },\n{ T_konoha_b, isyou100Z:              st(17), st(14), am(1) },\n{ T_konoha_b, isyou100:                       st(14), am(1) },\n\n{ T_konoha_h, zamen:     vl(287, 0),  st(17), vl(261, 299), am(1) },\n{ T_konoha_h:            vl(287, 0),          vl(261, 299), am(1) },\n\n{ T_konoha  , zamen:     vl(287, 0),  st(17), am(1) },\n{ T_konoha  :            vl(287, 0),          am(1) },\n{ T_konoha  , isyou50Z:  vl(287, 50), st(17), am(1) },\n{ T_konoha  , isyou50:   vl(287, 50),         am(1) },\n{ T_konoha  , isyou100Z:              st(17), am(1) },\n{ T_konoha  , isyou100:                       am(1) },\n\n{ T_konoha_b_ex, zamen:     vl(287, 0),  st(17), st(14), am(3) },\n{ T_konoha_b_ex:            vl(287, 0),          st(14), am(3) },\n{ T_konoha_b_ex, isyou50Z:  vl(287, 50), st(17), st(14), am(3) },\n{ T_konoha_b_ex, isyou50:   vl(287, 50),         st(14), am(3) },\n{ T_konoha_b_ex, isyou100Z:              st(17), st(14), am(3) },\n{ T_konoha_b_ex, isyou100:                       st(14), am(3) },\n\n{ T_konoha_h, zamen:     vl(287, 0),  st(17), vl(261, 299), am(3) },\n{ T_konoha_h:            vl(287, 0),          vl(261, 299), am(3) },\n\n{ T_konoha_ex  , zamen:     vl(287, 0),  st(17), am(3) },\n{ T_konoha_ex  :            vl(287, 0),          am(3) },\n{ T_konoha_ex  , isyou50Z:  vl(287, 50), st(17), am(3) },\n{ T_konoha_ex  , isyou50:   vl(287, 50),         am(3) },\n{ T_konoha_ex  , isyou100Z:              st(17), am(3) },\n{ T_konoha_ex  , isyou100:                       am(3) },\n\n{ T_konoha_b, zamen:                  st(17), st(14) },\n{ T_konoha_b:                                 st(14) },\n\n{ T_konoha_h, zamen:                  st(17), vl(261, 299) },\n{ T_konoha_h:                                 vl(261, 299) },\n\n{ T_konoha  , zamen:                  st(17) },\n{ T_konoha  :            default             }\n>\n<image:\n{ hokou_konoha1_swim_Rs30, 3: vl(287, 0),  st(14),               am(1), rg(6) },\n{ hokou_konoha1_swim_Rs30, 1: vl(287, 50), st(14),               am(1), rg(6) },\n{ hokou_konoha1_swim_Rs30, 0:              st(14),               am(1), rg(6) },\n\n{ hokou_konoha0_swim, 0:      vl(287, 0),          vl(261, 299), am(1), rg(6) },\n\n{ hokou_konoha1_swim, 3:      vl(287, 0),                        am(1), rg(6) },\n{ hokou_konoha1_swim, 1:      vl(287, 50),                       am(1), rg(6) },\n{ hokou_konoha1_swim, 0:                                         am(1), rg(6) },\n\n{ hokou_konoha1_swim_Rs30, 3:              st(14),                      rg(6) },\n\n{ hokou_konoha0_swim, 0:                           vl(261, 299),        rg(6) },\n\n{ hokou_konoha1_swim, 3:                                                rg(6) },\n\n{ hokou_konoha1_Rs30, 3:      vl(287, 0),  st(14),               am(1) },\n{ hokou_konoha1_Rs30, 1:      vl(287, 50), st(14),               am(1) },\n{ hokou_konoha1_Rs30, 0:                   st(14),               am(1) },\n\n{ hokou_konoha0, 0:           vl(287, 0),          vl(261, 299), am(1) },\n\n{ hokou_konoha1, 3:           vl(287, 0),                        am(1) },\n{ hokou_konoha1, 1:           vl(287, 50),                       am(1) },\n{ hokou_konoha1, 0:                                              am(1) },\n\n{ hokou_konoha1_swim_Rs30, 3: vl(287, 0),  st(14),               am(3), rg(6) },\n{ hokou_konoha1_swim_Rs30, 1: vl(287, 50), st(14),               am(3), rg(6) },\n{ hokou_konoha1_swim_Rs30, 0:              st(14),               am(3), rg(6) },\n\n{ hokou_konoha0_swim, 0:      vl(287, 0),          vl(261, 299), am(3), rg(6) },\n\n{ hokou_konoha1_swim, 3:      vl(287, 0),                        am(3), rg(6) },\n{ hokou_konoha1_swim, 1:      vl(287, 50),                       am(3), rg(6) },\n{ hokou_konoha1_swim, 0:                                         am(3), rg(6) },\n\n{ hokou_konoha1_Rs30, 3:      vl(287, 0),  st(14),               am(3) },\n{ hokou_konoha1_Rs30, 1:      vl(287, 50), st(14),               am(3) },\n{ hokou_konoha1_Rs30, 0:                   st(14),               am(3) },\n\n{ hokou_konoha0, 0:           vl(287, 0),          vl(261, 299), am(3) },\n\n{ hokou_konoha1, 3:           vl(287, 0),                        am(3) },\n{ hokou_konoha1, 1:           vl(287, 50),                       am(3) },\n{ hokou_konoha1, 0:                                              am(3) },\n\n{ hokou_konoha1_Rs30, 3:                   st(14)                      },\n\n{ hokou_konoha0, 0:                                vl(261, 299)        },\n\n{ hokou_konoha1, 3:           default                                  }\n>\n\n<firstVoice:bt_ko_v/bt_ko_v01_ikuwa,bt_ko_v/bt_ko_v02_kakatte,$>\n<recoverVoice:defo_ko_v/defo_ko_v08_makasete,$>\n<attackVoice:bt_ko_v/bt_ko_v03_ha,bt_ko_v/bt_ko_v04_ei,bt_ko_v/bt_ko_v05_yaa,$>\n<skillVoice:bt_ko_v/bt_ko_v06_kuraina,bt_ko_v/bt_ko_v07_koreha,bt_ko_v/bt_ko_v07b_koreha2,$>\n<damageVoice:bt_ko_v/bt_ko_v08_ku,bt_ko_v/bt_ko_v09_gaa,bt_ko_v/bt_ko_v10_kyaa,bt_ko_v/bt_ko_v11_iya,$>\n<evadeVoice:bt_ko_v/bt_ko_v12_zannen,bt_ko_v/bt_ko_v12b_zannen2,$>\n<defeatedVoice:bt_ko_v/bt_ko_v13_moudame>\n<victoryVoice:defo_ko_v/defo_ko_v05_huhu,defo_ko_v/defo_ko_v05b_huhu2,$>\n<stateVoice51:h_bgv/h_bgv_h01>\n<stateVoice52:h_bgv/h_bgv_h01>\n<stateVoice53:h_bgv/h_bgv_f02>\n<stateVoice54:h_bgv/h_bgv_f02>\n<stateVoice55:h_bgv/h_bgv_h01>\n<stateVoice56:h_bgv/h_bgv_h01>\n<stateVoice57:h_bgv/h_bgv_h01>\n<stateVoice58:h_bgv/h_bgv_h01>\n<stateVoice59:h_bgv/h_bgv_h02>\n<stateVoice60:h_bgv/h_bgv_h02>\n<stateVoice61:h_bgv/h_bgv_h02>\n<stateVoice62:h_bgv/h_bgv_h02>\n<stateVoice63:h_bgv/h_bgv_h02>\n<stateVoice64:h_bgv/h_bgv_h03>\n<stateVoice65:h_bgv/h_bgv_h03>",
+        "profile": ""
+    },
+    {
+        "id": 2,
+        "battlerName": "Actor2",
+        "characterIndex": 0,
+        "characterName": "hokou_DW0",
+        "classId": 3,
+        "equips": [
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "faceIndex": 1,
+        "faceName": "A_face01",
+        "traits": [
+            {
+                "code": 62,
+                "dataId": 0,
+                "value": 1
+            },
+            {
+                "code": 23,
+                "dataId": 5,
+                "value": 0
+            },
+            {
+                "code": 53,
+                "dataId": 1,
+                "value": 1
+            }
+        ],
+        "initialLevel": 1,
+        "maxLevel": 99,
+        "name": "コノハ(堕)",
+        "nickname": "悪堕ち",
+        "note": "<Set Sts Data>\nTreeType:51, 52\nInit Sp:5\n</Set Sts Data>\n<spine:\n{ T_DW_b, zamen:     vl(287, 0),  st(17), st(14), am(2) },\n{ T_DW_b:            vl(287, 0),          st(14), am(2) },\n{ T_DW_b, isyou50Z:  vl(287, 50), st(17), st(14), am(2) },\n{ T_DW_b, isyou50:   vl(287, 50),         st(14), am(2) },\n{ T_DW_b, isyou100Z:              st(17), st(14), am(2) },\n{ T_DW_b, isyou100:                       st(14), am(2) },\n\n{ T_DW  , zamen:     vl(287, 0),  st(29), am(2) },\n{ T_DW  :            vl(287, 0),          am(2) },\n{ T_DW  , isyou50Z:  vl(287, 50), st(29), am(2) },\n{ T_DW  , isyou50:   vl(287, 50),         am(2) },\n{ T_DW  , isyou100Z:              st(29), am(2) },\n{ T_DW  , isyou100:                       am(2) },\n\n{ T_DW_b, zamen:                  st(17), st(14) },\n{ T_DW_b:                                 st(14) },\n\n{ T_DW  , zamen:                  st(17) },\n{ T_DW  :            default             }\n>\n<image:\n{ hokou_DW1_swim_Rs30, 3: vl(287, 0),  st(14),               am(2), rg(6) },\n{ hokou_DW1_swim_Rs30, 1: vl(287, 50), st(14),               am(2), rg(6) },\n{ hokou_DW1_swim_Rs30, 0:              st(14),               am(2), rg(6) },\n\n{ hokou_DW1_swim, 3:      vl(287, 0),                        am(2), rg(6) },\n{ hokou_DW1_swim, 1:      vl(287, 50),                       am(2), rg(6) },\n{ hokou_DW1_swim, 0:                                         am(2), rg(6) },\n\n{ hokou_DW1_swim_Rs30, 3:              st(14),                      rg(6) },\n\n{ hokou_DW1_swim, 3:                                                rg(6) },\n\n{ hokou_DW1_Rs30, 3:      vl(287, 0),  st(14),               am(2) },\n{ hokou_DW1_Rs30, 1:      vl(287, 50), st(14),               am(2) },\n{ hokou_DW1_Rs30, 0:                   st(14),               am(2) },\n\n{ hokou_DW1, 3:           vl(287, 0),                        am(2) },\n{ hokou_DW1, 1:           vl(287, 50),                       am(2) },\n{ hokou_DW1, 0:                                              am(2) },\n\n{ hokou_DW1_Rs30, 3:                   st(14)                      },\n\n{ hokou_DW1, 3:           default                                  }\n>\n<firstVoice:bt_dw_v/bt_dw_v01_hun,bt_dw_v/bt_dw_v02_karuku,$>\n<recoverVoice:defo_dw_v/defo_dw_v08_makasena,$>\n<attackVoice:bt_dw_v/bt_dw_v03_ya,bt_dw_v/bt_dw_v04_haa,bt_dw_v/bt_dw_v05_teya,$>\n<skillVoice:bt_dw_v/bt_dw_v06_kurae,bt_dw_v/bt_dw_v07_korehadou,$>\n<damageVoice:bt_dw_v/bt_dw_v08_utt,bt_dw_v/bt_dw_v09_gua,bt_dw_v/bt_dw_v10_uwa,bt_dw_v/bt_dw_v11_ii,$>\n<evadeVoice:bt_dw_v/bt_dw_v12_hoi,$>\n<defeatedVoice:bt_dw_v/bt_dw_v13_moumuri>\n<victoryVoice:defo_dw_v/defo_dw_v05_ahaha,$>\n<stateVoice51:h_bgv/h_bgv_h01>\n<stateVoice52:h_bgv/h_bgv_h01>\n<stateVoice53:h_bgv/h_bgv_f02>\n<stateVoice54:h_bgv/h_bgv_f02>\n<stateVoice55:h_bgv/h_bgv_h01>\n<stateVoice56:h_bgv/h_bgv_h01>\n<stateVoice57:h_bgv/h_bgv_h01>\n<stateVoice58:h_bgv/h_bgv_h01>\n<stateVoice59:h_bgv/h_bgv_h02>\n<stateVoice60:h_bgv/h_bgv_h02>\n<stateVoice61:h_bgv/h_bgv_h02>\n<stateVoice62:h_bgv/h_bgv_h02>\n<stateVoice63:h_bgv/h_bgv_h02>\n<stateVoice64:h_bgv/h_bgv_h03>\n<stateVoice65:h_bgv/h_bgv_h03>",
+        "profile": ""
+    },
+    {
+        "id": 3,
+        "battlerName": "",
+        "characterIndex": 0,
+        "characterName": "",
+        "classId": 1,
+        "equips": [
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "faceIndex": 0,
+        "faceName": "",
+        "traits": [],
+        "initialLevel": 1,
+        "maxLevel": 99,
+        "name": "",
+        "nickname": "",
+        "note": "",
+        "profile": ""
+    },
+    {
+        "id": 4,
+        "battlerName": "",
+        "characterIndex": 0,
+        "characterName": "",
+        "classId": 1,
+        "equips": [
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "faceIndex": 0,
+        "faceName": "",
+        "traits": [],
+        "initialLevel": 1,
+        "maxLevel": 99,
+        "name": "",
+        "nickname": "",
+        "note": "",
+        "profile": ""
+    },
+    {
+        "id": 5,
+        "battlerName": "",
+        "characterIndex": 3,
+        "characterName": "chara-konoha",
+        "classId": 1,
+        "equips": [
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "faceIndex": 1,
+        "faceName": "Actor-face01",
+        "traits": [],
+        "initialLevel": 1,
+        "maxLevel": 99,
+        "name": "コノハ（OP用）",
+        "nickname": "純白な乙女",
+        "note": "",
+        "profile": ""
+    },
+    {
+        "id": 6,
+        "battlerName": "",
+        "characterIndex": 0,
+        "characterName": "!$SkillCursor",
+        "classId": 1,
+        "equips": [
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "faceIndex": 0,
+        "faceName": "",
+        "traits": [],
+        "initialLevel": 1,
+        "maxLevel": 99,
+        "name": "カーソル用",
+        "nickname": "",
+        "note": "",
+        "profile": ""
+    },
+    {
+        "id": 7,
+        "battlerName": "",
+        "characterIndex": 1,
+        "characterName": "L2-k-hokou",
+        "classId": 1,
+        "equips": [
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "faceIndex": 1,
+        "faceName": "Actor-face01",
+        "traits": [],
+        "initialLevel": 1,
+        "maxLevel": 99,
+        "name": "コノハ（回想用）",
+        "nickname": "純白な乙女",
+        "note": "",
+        "profile": ""
+    },
+    {
+        "id": 8,
+        "battlerName": "",
+        "characterIndex": 0,
+        "characterName": "",
+        "classId": 1,
+        "equips": [
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "faceIndex": 0,
+        "faceName": "",
+        "traits": [],
+        "initialLevel": 1,
+        "maxLevel": 99,
+        "name": "",
+        "nickname": "",
+        "note": "",
+        "profile": ""
+    },
+    {
+        "id": 9,
+        "battlerName": "",
+        "characterIndex": 0,
+        "characterName": "",
+        "classId": 1,
+        "equips": [
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "faceIndex": 0,
+        "faceName": "",
+        "traits": [],
+        "initialLevel": 1,
+        "maxLevel": 99,
+        "name": "",
+        "nickname": "",
+        "note": "",
+        "profile": ""
+    },
+    {
+        "id": 10,
+        "battlerName": "Actor10",
+        "characterIndex": 0,
+        "characterName": "hokou_LM_imp",
+        "classId": 10,
+        "equips": [
+            10,
+            0,
+            0,
+            306,
+            0
+        ],
+        "faceIndex": 2,
+        "faceName": "A_face01",
+        "traits": [
+            {
+                "code": 62,
+                "dataId": 0,
+                "value": 1
+            },
+            {
+                "code": 51,
+                "dataId": 2,
+                "value": 0
+            },
+            {
+                "code": 52,
+                "dataId": 2,
+                "value": 0
+            },
+            {
+                "code": 52,
+                "dataId": 4,
+                "value": 0
+            },
+            {
+                "code": 52,
+                "dataId": 7,
+                "value": 0
+            },
+            {
+                "code": 52,
+                "dataId": 11,
+                "value": 0
+            },
+            {
+                "code": 52,
+                "dataId": 16,
+                "value": 0
+            },
+            {
+                "code": 52,
+                "dataId": 17,
+                "value": 0
+            },
+            {
+                "code": 52,
+                "dataId": 20,
+                "value": 0
+            },
+            {
+                "code": 23,
+                "dataId": 5,
+                "value": 0
+            },
+            {
+                "code": 53,
+                "dataId": 1,
+                "value": 1
+            }
+        ],
+        "initialLevel": 1,
+        "maxLevel": 99,
+        "name": "インプ",
+        "nickname": "小さな淫魔",
+        "note": "",
+        "profile": ""
+    },
+    {
+        "id": 11,
+        "battlerName": "Actor11",
+        "characterIndex": 0,
+        "characterName": "hokou_LM_goblin",
+        "classId": 11,
+        "equips": [
+            11,
+            0,
+            0,
+            307,
+            0
+        ],
+        "faceIndex": 3,
+        "faceName": "A_face01",
+        "traits": [
+            {
+                "code": 62,
+                "dataId": 0,
+                "value": 1
+            },
+            {
+                "code": 51,
+                "dataId": 3,
+                "value": 0
+            },
+            {
+                "code": 52,
+                "dataId": 2,
+                "value": 0
+            },
+            {
+                "code": 52,
+                "dataId": 8,
+                "value": 0
+            },
+            {
+                "code": 52,
+                "dataId": 9,
+                "value": 0
+            },
+            {
+                "code": 52,
+                "dataId": 10,
+                "value": 0
+            },
+            {
+                "code": 52,
+                "dataId": 13,
+                "value": 0
+            },
+            {
+                "code": 52,
+                "dataId": 18,
+                "value": 0
+            },
+            {
+                "code": 52,
+                "dataId": 20,
+                "value": 0
+            },
+            {
+                "code": 23,
+                "dataId": 5,
+                "value": 0
+            },
+            {
+                "code": 53,
+                "dataId": 1,
+                "value": 1
+            }
+        ],
+        "initialLevel": 1,
+        "maxLevel": 99,
+        "name": "ゴブリン",
+        "nickname": "小心者な子鬼",
+        "note": "",
+        "profile": ""
+    },
+    {
+        "id": 12,
+        "battlerName": "Actor12",
+        "characterIndex": 0,
+        "characterName": "hokou_LM_dragon",
+        "classId": 12,
+        "equips": [
+            12,
+            0,
+            0,
+            308,
+            0
+        ],
+        "faceIndex": 4,
+        "faceName": "A_face01",
+        "traits": [
+            {
+                "code": 62,
+                "dataId": 0,
+                "value": 1
+            },
+            {
+                "code": 51,
+                "dataId": 4,
+                "value": 0
+            },
+            {
+                "code": 52,
+                "dataId": 2,
+                "value": 0
+            },
+            {
+                "code": 52,
+                "dataId": 3,
+                "value": 0
+            },
+            {
+                "code": 52,
+                "dataId": 5,
+                "value": 0
+            },
+            {
+                "code": 52,
+                "dataId": 12,
+                "value": 0
+            },
+            {
+                "code": 52,
+                "dataId": 14,
+                "value": 0
+            },
+            {
+                "code": 52,
+                "dataId": 16,
+                "value": 0
+            },
+            {
+                "code": 52,
+                "dataId": 20,
+                "value": 0
+            },
+            {
+                "code": 23,
+                "dataId": 5,
+                "value": 0
+            },
+            {
+                "code": 53,
+                "dataId": 1,
+                "value": 1
+            }
+        ],
+        "initialLevel": 1,
+        "maxLevel": 99,
+        "name": "ドラゴン",
+        "nickname": "強気の竜",
+        "note": "",
+        "profile": ""
+    },
+    {
+        "id": 13,
+        "battlerName": "Actor13",
+        "characterIndex": 0,
+        "characterName": "hokou_LM_dullahan",
+        "classId": 13,
+        "equips": [
+            13,
+            0,
+            0,
+            309,
+            0
+        ],
+        "faceIndex": 5,
+        "faceName": "A_face01",
+        "traits": [
+            {
+                "code": 62,
+                "dataId": 0,
+                "value": 1
+            },
+            {
+                "code": 51,
+                "dataId": 6,
+                "value": 0
+            },
+            {
+                "code": 52,
+                "dataId": 2,
+                "value": 0
+            },
+            {
+                "code": 52,
+                "dataId": 4,
+                "value": 0
+            },
+            {
+                "code": 52,
+                "dataId": 6,
+                "value": 0
+            },
+            {
+                "code": 52,
+                "dataId": 9,
+                "value": 0
+            },
+            {
+                "code": 52,
+                "dataId": 15,
+                "value": 0
+            },
+            {
+                "code": 52,
+                "dataId": 16,
+                "value": 0
+            },
+            {
+                "code": 52,
+                "dataId": 20,
+                "value": 0
+            },
+            {
+                "code": 23,
+                "dataId": 5,
+                "value": 0
+            },
+            {
+                "code": 53,
+                "dataId": 1,
+                "value": 1
+            }
+        ],
+        "initialLevel": 1,
+        "maxLevel": 99,
+        "name": "デュラハン",
+        "nickname": "愛しき生首",
+        "note": "",
+        "profile": ""
+    },
+    {
+        "id": 14,
+        "battlerName": "Actor14",
+        "characterIndex": 0,
+        "characterName": "hokou_LM_catsith",
+        "classId": 14,
+        "equips": [
+            14,
+            0,
+            0,
+            310,
+            0
+        ],
+        "faceIndex": 6,
+        "faceName": "A_face01",
+        "traits": [
+            {
+                "code": 62,
+                "dataId": 0,
+                "value": 1
+            },
+            {
+                "code": 51,
+                "dataId": 7,
+                "value": 0
+            },
+            {
+                "code": 52,
+                "dataId": 2,
+                "value": 0
+            },
+            {
+                "code": 52,
+                "dataId": 4,
+                "value": 0
+            },
+            {
+                "code": 52,
+                "dataId": 6,
+                "value": 0
+            },
+            {
+                "code": 52,
+                "dataId": 3,
+                "value": 0
+            },
+            {
+                "code": 52,
+                "dataId": 13,
+                "value": 0
+            },
+            {
+                "code": 52,
+                "dataId": 17,
+                "value": 0
+            },
+            {
+                "code": 52,
+                "dataId": 20,
+                "value": 0
+            },
+            {
+                "code": 23,
+                "dataId": 5,
+                "value": 0
+            },
+            {
+                "code": 53,
+                "dataId": 1,
+                "value": 1
+            }
+        ],
+        "initialLevel": 1,
+        "maxLevel": 99,
+        "name": "ケットシー",
+        "nickname": "見抜いている猫",
+        "note": "",
+        "profile": ""
+    },
+    {
+        "id": 15,
+        "battlerName": "Actor15",
+        "characterIndex": 0,
+        "characterName": "hokou_LM_harpy",
+        "classId": 15,
+        "equips": [
+            15,
+            0,
+            0,
+            311,
+            0
+        ],
+        "faceIndex": 7,
+        "faceName": "A_face01",
+        "traits": [
+            {
+                "code": 62,
+                "dataId": 0,
+                "value": 1
+            },
+            {
+                "code": 51,
+                "dataId": 8,
+                "value": 0
+            },
+            {
+                "code": 52,
+                "dataId": 2,
+                "value": 0
+            },
+            {
+                "code": 52,
+                "dataId": 7,
+                "value": 0
+            },
+            {
+                "code": 52,
+                "dataId": 10,
+                "value": 0
+            },
+            {
+                "code": 52,
+                "dataId": 12,
+                "value": 0
+            },
+            {
+                "code": 52,
+                "dataId": 14,
+                "value": 0
+            },
+            {
+                "code": 52,
+                "dataId": 16,
+                "value": 0
+            },
+            {
+                "code": 52,
+                "dataId": 20,
+                "value": 0
+            },
+            {
+                "code": 23,
+                "dataId": 5,
+                "value": 0
+            },
+            {
+                "code": 53,
+                "dataId": 1,
+                "value": 1
+            }
+        ],
+        "initialLevel": 1,
+        "maxLevel": 99,
+        "name": "ハーピー",
+        "nickname": "見た目は天使",
+        "note": "",
+        "profile": ""
+    },
+    {
+        "id": 16,
+        "battlerName": "Actor16",
+        "characterIndex": 0,
+        "characterName": "hokou_LM_mummy",
+        "classId": 16,
+        "equips": [
+            16,
+            0,
+            0,
+            312,
+            0
+        ],
+        "faceIndex": 0,
+        "faceName": "A_face02",
+        "traits": [
+            {
+                "code": 62,
+                "dataId": 0,
+                "value": 1
+            },
+            {
+                "code": 51,
+                "dataId": 9,
+                "value": 0
+            },
+            {
+                "code": 52,
+                "dataId": 2,
+                "value": 0
+            },
+            {
+                "code": 52,
+                "dataId": 5,
+                "value": 0
+            },
+            {
+                "code": 52,
+                "dataId": 9,
+                "value": 0
+            },
+            {
+                "code": 52,
+                "dataId": 11,
+                "value": 0
+            },
+            {
+                "code": 52,
+                "dataId": 14,
+                "value": 0
+            },
+            {
+                "code": 52,
+                "dataId": 16,
+                "value": 0
+            },
+            {
+                "code": 52,
+                "dataId": 20,
+                "value": 0
+            },
+            {
+                "code": 23,
+                "dataId": 5,
+                "value": 0
+            },
+            {
+                "code": 53,
+                "dataId": 1,
+                "value": 1
+            }
+        ],
+        "initialLevel": 1,
+        "maxLevel": 99,
+        "name": "マミー",
+        "nickname": "麗しきミイラ",
+        "note": "",
+        "profile": ""
+    },
+    {
+        "id": 17,
+        "battlerName": "Actor17",
+        "characterIndex": 0,
+        "characterName": "hokou_LM_ghoul",
+        "classId": 17,
+        "equips": [
+            17,
+            0,
+            0,
+            313,
+            0
+        ],
+        "faceIndex": 1,
+        "faceName": "A_face02",
+        "traits": [
+            {
+                "code": 62,
+                "dataId": 0,
+                "value": 1
+            },
+            {
+                "code": 51,
+                "dataId": 10,
+                "value": 0
+            },
+            {
+                "code": 52,
+                "dataId": 2,
+                "value": 0
+            },
+            {
+                "code": 52,
+                "dataId": 8,
+                "value": 0
+            },
+            {
+                "code": 52,
+                "dataId": 4,
+                "value": 0
+            },
+            {
+                "code": 52,
+                "dataId": 10,
+                "value": 0
+            },
+            {
+                "code": 52,
+                "dataId": 13,
+                "value": 0
+            },
+            {
+                "code": 52,
+                "dataId": 18,
+                "value": 0
+            },
+            {
+                "code": 52,
+                "dataId": 20,
+                "value": 0
+            },
+            {
+                "code": 23,
+                "dataId": 5,
+                "value": 0
+            },
+            {
+                "code": 53,
+                "dataId": 1,
+                "value": 1
+            }
+        ],
+        "initialLevel": 1,
+        "maxLevel": 99,
+        "name": "グール",
+        "nickname": "腐乱女子",
+        "note": "",
+        "profile": ""
+    },
+    {
+        "id": 18,
+        "battlerName": "Actor18",
+        "characterIndex": 0,
+        "characterName": "hokou_LM_medusa",
+        "classId": 18,
+        "equips": [
+            18,
+            0,
+            0,
+            314,
+            0
+        ],
+        "faceIndex": 2,
+        "faceName": "A_face02",
+        "traits": [
+            {
+                "code": 62,
+                "dataId": 0,
+                "value": 1
+            },
+            {
+                "code": 51,
+                "dataId": 11,
+                "value": 0
+            },
+            {
+                "code": 52,
+                "dataId": 2,
+                "value": 0
+            },
+            {
+                "code": 52,
+                "dataId": 3,
+                "value": 0
+            },
+            {
+                "code": 52,
+                "dataId": 6,
+                "value": 0
+            },
+            {
+                "code": 52,
+                "dataId": 8,
+                "value": 0
+            },
+            {
+                "code": 52,
+                "dataId": 15,
+                "value": 0
+            },
+            {
+                "code": 52,
+                "dataId": 19,
+                "value": 0
+            },
+            {
+                "code": 52,
+                "dataId": 20,
+                "value": 0
+            },
+            {
+                "code": 23,
+                "dataId": 5,
+                "value": 0
+            },
+            {
+                "code": 53,
+                "dataId": 1,
+                "value": 1
+            }
+        ],
+        "initialLevel": 1,
+        "maxLevel": 99,
+        "name": "メデューサ",
+        "nickname": "美しき死の瞳",
+        "note": "",
+        "profile": ""
+    },
+    {
+        "id": 19,
+        "battlerName": "Actor19",
+        "characterIndex": 0,
+        "characterName": "hokou_LM_sahuagin",
+        "classId": 19,
+        "equips": [
+            19,
+            0,
+            0,
+            315,
+            0
+        ],
+        "faceIndex": 3,
+        "faceName": "A_face02",
+        "traits": [
+            {
+                "code": 62,
+                "dataId": 0,
+                "value": 1
+            },
+            {
+                "code": 51,
+                "dataId": 12,
+                "value": 0
+            },
+            {
+                "code": 52,
+                "dataId": 2,
+                "value": 0
+            },
+            {
+                "code": 52,
+                "dataId": 4,
+                "value": 0
+            },
+            {
+                "code": 52,
+                "dataId": 7,
+                "value": 0
+            },
+            {
+                "code": 52,
+                "dataId": 12,
+                "value": 0
+            },
+            {
+                "code": 52,
+                "dataId": 13,
+                "value": 0
+            },
+            {
+                "code": 52,
+                "dataId": 18,
+                "value": 0
+            },
+            {
+                "code": 52,
+                "dataId": 20,
+                "value": 0
+            },
+            {
+                "code": 23,
+                "dataId": 5,
+                "value": 0
+            },
+            {
+                "code": 53,
+                "dataId": 1,
+                "value": 1
+            }
+        ],
+        "initialLevel": 1,
+        "maxLevel": 99,
+        "name": "サハギン",
+        "nickname": "水は友達",
+        "note": "",
+        "profile": ""
+    },
+    {
+        "id": 20,
+        "battlerName": "Actor20",
+        "characterIndex": 0,
+        "characterName": "hokou_LM_pixie",
+        "classId": 20,
+        "equips": [
+            20,
+            0,
+            0,
+            316,
+            0
+        ],
+        "faceIndex": 4,
+        "faceName": "A_face02",
+        "traits": [
+            {
+                "code": 62,
+                "dataId": 0,
+                "value": 1
+            },
+            {
+                "code": 51,
+                "dataId": 13,
+                "value": 0
+            },
+            {
+                "code": 52,
+                "dataId": 2,
+                "value": 0
+            },
+            {
+                "code": 52,
+                "dataId": 4,
+                "value": 0
+            },
+            {
+                "code": 52,
+                "dataId": 8,
+                "value": 0
+            },
+            {
+                "code": 52,
+                "dataId": 10,
+                "value": 0
+            },
+            {
+                "code": 52,
+                "dataId": 11,
+                "value": 0
+            },
+            {
+                "code": 52,
+                "dataId": 16,
+                "value": 0
+            },
+            {
+                "code": 52,
+                "dataId": 19,
+                "value": 0
+            },
+            {
+                "code": 52,
+                "dataId": 20,
+                "value": 0
+            },
+            {
+                "code": 23,
+                "dataId": 5,
+                "value": 0
+            },
+            {
+                "code": 53,
+                "dataId": 1,
+                "value": 1
+            }
+        ],
+        "initialLevel": 1,
+        "maxLevel": 99,
+        "name": "ピクシー",
+        "nickname": "いたずら大好き",
+        "note": "",
+        "profile": ""
+    },
+    {
+        "id": 21,
+        "battlerName": "Actor21",
+        "characterIndex": 0,
+        "characterName": "hokou_LM_slime",
+        "classId": 21,
+        "equips": [
+            21,
+            0,
+            0,
+            317,
+            0
+        ],
+        "faceIndex": 5,
+        "faceName": "A_face02",
+        "traits": [
+            {
+                "code": 62,
+                "dataId": 0,
+                "value": 1
+            },
+            {
+                "code": 51,
+                "dataId": 14,
+                "value": 0
+            },
+            {
+                "code": 52,
+                "dataId": 2,
+                "value": 0
+            },
+            {
+                "code": 52,
+                "dataId": 5,
+                "value": 0
+            },
+            {
+                "code": 52,
+                "dataId": 7,
+                "value": 0
+            },
+            {
+                "code": 52,
+                "dataId": 9,
+                "value": 0
+            },
+            {
+                "code": 52,
+                "dataId": 14,
+                "value": 0
+            },
+            {
+                "code": 52,
+                "dataId": 17,
+                "value": 0
+            },
+            {
+                "code": 52,
+                "dataId": 20,
+                "value": 0
+            },
+            {
+                "code": 23,
+                "dataId": 5,
+                "value": 0
+            },
+            {
+                "code": 53,
+                "dataId": 1,
+                "value": 1
+            }
+        ],
+        "initialLevel": 1,
+        "maxLevel": 99,
+        "name": "スライム",
+        "nickname": "全ては溶けていく",
+        "note": "",
+        "profile": ""
+    },
+    {
+        "id": 22,
+        "battlerName": "Actor22",
+        "characterIndex": 0,
+        "characterName": "hokou_RLM_kumo",
+        "classId": 22,
+        "equips": [
+            22,
+            0,
+            0,
+            318,
+            0
+        ],
+        "faceIndex": 0,
+        "faceName": "A_face03",
+        "traits": [
+            {
+                "code": 62,
+                "dataId": 0,
+                "value": 1
+            },
+            {
+                "code": 51,
+                "dataId": 15,
+                "value": 0
+            },
+            {
+                "code": 52,
+                "dataId": 2,
+                "value": 0
+            },
+            {
+                "code": 52,
+                "dataId": 4,
+                "value": 0
+            },
+            {
+                "code": 52,
+                "dataId": 5,
+                "value": 0
+            },
+            {
+                "code": 52,
+                "dataId": 9,
+                "value": 0
+            },
+            {
+                "code": 52,
+                "dataId": 11,
+                "value": 0
+            },
+            {
+                "code": 52,
+                "dataId": 13,
+                "value": 0
+            },
+            {
+                "code": 52,
+                "dataId": 16,
+                "value": 0
+            },
+            {
+                "code": 52,
+                "dataId": 18,
+                "value": 0
+            },
+            {
+                "code": 52,
+                "dataId": 20,
+                "value": 0
+            },
+            {
+                "code": 23,
+                "dataId": 5,
+                "value": 0
+            },
+            {
+                "code": 53,
+                "dataId": 1,
+                "value": 1
+            }
+        ],
+        "initialLevel": 1,
+        "maxLevel": 99,
+        "name": "ジョロウグモ",
+        "nickname": "オスを喰らう",
+        "note": "",
+        "profile": ""
+    },
+    {
+        "id": 23,
+        "battlerName": "Actor23",
+        "characterIndex": 0,
+        "characterName": "hokou_RLM_tenko",
+        "classId": 23,
+        "equips": [
+            23,
+            0,
+            0,
+            319,
+            0
+        ],
+        "faceIndex": 1,
+        "faceName": "A_face03",
+        "traits": [
+            {
+                "code": 62,
+                "dataId": 0,
+                "value": 1
+            },
+            {
+                "code": 51,
+                "dataId": 16,
+                "value": 0
+            },
+            {
+                "code": 52,
+                "dataId": 2,
+                "value": 0
+            },
+            {
+                "code": 52,
+                "dataId": 3,
+                "value": 0
+            },
+            {
+                "code": 52,
+                "dataId": 7,
+                "value": 0
+            },
+            {
+                "code": 52,
+                "dataId": 12,
+                "value": 0
+            },
+            {
+                "code": 52,
+                "dataId": 10,
+                "value": 0
+            },
+            {
+                "code": 52,
+                "dataId": 14,
+                "value": 0
+            },
+            {
+                "code": 52,
+                "dataId": 16,
+                "value": 0
+            },
+            {
+                "code": 52,
+                "dataId": 19,
+                "value": 0
+            },
+            {
+                "code": 52,
+                "dataId": 20,
+                "value": 0
+            },
+            {
+                "code": 23,
+                "dataId": 5,
+                "value": 0
+            },
+            {
+                "code": 53,
+                "dataId": 1,
+                "value": 1
+            }
+        ],
+        "initialLevel": 1,
+        "maxLevel": 99,
+        "name": "テンコ",
+        "nickname": "気高きモフモフ",
+        "note": "",
+        "profile": ""
+    },
+    {
+        "id": 24,
+        "battlerName": "Actor24",
+        "characterIndex": 0,
+        "characterName": "hokou_RLM_oroti",
+        "classId": 24,
+        "equips": [
+            24,
+            0,
+            0,
+            320,
+            0
+        ],
+        "faceIndex": 2,
+        "faceName": "A_face03",
+        "traits": [
+            {
+                "code": 62,
+                "dataId": 0,
+                "value": 1
+            },
+            {
+                "code": 51,
+                "dataId": 17,
+                "value": 0
+            },
+            {
+                "code": 52,
+                "dataId": 2,
+                "value": 0
+            },
+            {
+                "code": 52,
+                "dataId": 4,
+                "value": 0
+            },
+            {
+                "code": 52,
+                "dataId": 5,
+                "value": 0
+            },
+            {
+                "code": 52,
+                "dataId": 3,
+                "value": 0
+            },
+            {
+                "code": 52,
+                "dataId": 8,
+                "value": 0
+            },
+            {
+                "code": 52,
+                "dataId": 15,
+                "value": 0
+            },
+            {
+                "code": 52,
+                "dataId": 17,
+                "value": 0
+            },
+            {
+                "code": 52,
+                "dataId": 14,
+                "value": 0
+            },
+            {
+                "code": 52,
+                "dataId": 20,
+                "value": 0
+            },
+            {
+                "code": 23,
+                "dataId": 5,
+                "value": 0
+            },
+            {
+                "code": 53,
+                "dataId": 1,
+                "value": 1
+            }
+        ],
+        "initialLevel": 1,
+        "maxLevel": 99,
+        "name": "オロチ",
+        "nickname": "愛の締め上げ",
+        "note": "",
+        "profile": ""
+    },
+    {
+        "id": 25,
+        "battlerName": "",
+        "characterIndex": 0,
+        "characterName": "",
+        "classId": 25,
+        "equips": [
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "faceIndex": 0,
+        "faceName": "",
+        "traits": [
+            {
+                "code": 62,
+                "dataId": 0,
+                "value": 1
+            }
+        ],
+        "initialLevel": 1,
+        "maxLevel": 99,
+        "name": "クロパンダ",
+        "nickname": "",
+        "note": "",
+        "profile": ""
+    },
+    {
+        "id": 26,
+        "battlerName": "",
+        "characterIndex": 0,
+        "characterName": "",
+        "classId": 1,
+        "equips": [
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "faceIndex": 0,
+        "faceName": "",
+        "traits": [],
+        "initialLevel": 1,
+        "maxLevel": 99,
+        "name": "",
+        "nickname": "",
+        "note": "",
+        "profile": ""
+    },
+    {
+        "id": 27,
+        "battlerName": "",
+        "characterIndex": 0,
+        "characterName": "",
+        "classId": 1,
+        "equips": [
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "faceIndex": 0,
+        "faceName": "",
+        "traits": [],
+        "initialLevel": 1,
+        "maxLevel": 99,
+        "name": "回想用ネーム",
+        "nickname": "",
+        "note": "",
+        "profile": ""
+    },
+    {
+        "id": 28,
+        "battlerName": "",
+        "characterIndex": 0,
+        "characterName": "",
+        "classId": 1,
+        "equips": [
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "faceIndex": 0,
+        "faceName": "",
+        "traits": [],
+        "initialLevel": 1,
+        "maxLevel": 99,
+        "name": "",
+        "nickname": "",
+        "note": "",
+        "profile": ""
+    },
+    {
+        "id": 29,
+        "battlerName": "",
+        "characterIndex": 0,
+        "characterName": "",
+        "classId": 1,
+        "equips": [
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "faceIndex": 0,
+        "faceName": "",
+        "traits": [],
+        "initialLevel": 1,
+        "maxLevel": 99,
+        "name": "",
+        "nickname": "",
+        "note": "",
+        "profile": ""
+    },
+    {
+        "id": 30,
+        "battlerName": "",
+        "characterIndex": 0,
+        "characterName": "hokou_LLM_MARIMARI",
+        "classId": 30,
+        "equips": [
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "faceIndex": 0,
+        "faceName": "",
+        "traits": [],
+        "initialLevel": 1,
+        "maxLevel": 99,
+        "name": "マリマリ",
+        "nickname": "",
+        "note": "",
+        "profile": ""
+    },
+    {
+        "id": 31,
+        "battlerName": "",
+        "characterIndex": 0,
+        "characterName": "hokou_LLM_dorotea",
+        "classId": 31,
+        "equips": [
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "faceIndex": 0,
+        "faceName": "",
+        "traits": [],
+        "initialLevel": 1,
+        "maxLevel": 99,
+        "name": "ドロテア",
+        "nickname": "",
+        "note": "",
+        "profile": ""
+    },
+    {
+        "id": 32,
+        "battlerName": "",
+        "characterIndex": 0,
+        "characterName": "hokou_LLM_rui-za",
+        "classId": 32,
+        "equips": [
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "faceIndex": 0,
+        "faceName": "",
+        "traits": [],
+        "initialLevel": 1,
+        "maxLevel": 99,
+        "name": "ルイーザ",
+        "nickname": "",
+        "note": "",
+        "profile": ""
+    },
+    {
+        "id": 33,
+        "battlerName": "",
+        "characterIndex": 0,
+        "characterName": "hokou_LLM_rui-za",
+        "classId": 33,
+        "equips": [
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "faceIndex": 0,
+        "faceName": "",
+        "traits": [],
+        "initialLevel": 1,
+        "maxLevel": 99,
+        "name": "ファリス",
+        "nickname": "",
+        "note": "",
+        "profile": ""
+    }
+]

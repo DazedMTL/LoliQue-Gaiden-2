@@ -1,0 +1,1795 @@
+[
+    null,
+    {
+        "id": 1,
+        "animationId": 7,
+        "description": "魔法少女となったコノハ専用の武器\n秘めている力は予想がつかない",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 53,
+                "dataId": 0,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 2,
+                "value": 0.5
+            }
+        ],
+        "iconIndex": 1322,
+        "name": "ワイルドキャット",
+        "note": "<Not Independent item>\n<Text Color: 22>\n<SG種別:2>\n<SGカテゴリ:武器>\n<SG説明:\\DATA[description]\n金額　\\DATA[price]Lo\n\nコノハがグリモアランドに転生する際に\n持っていた剣がこの剣に変化してしまった\n宝珠をはめ込んでどんなスタイルの\n攻撃にも対応することが可能>\n<Info Text Bottom>\nコノハがグリモアランドに転生する際に\n持っていた剣がこの剣に変化してしまった\n宝珠をはめ込んでどんなスタイルの\n攻撃にも対応することが可能\n</Info Text Bottom>\n\n",
+        "params": [
+            0,
+            0,
+            20,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 1
+    },
+    {
+        "id": 2,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 3,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 4,
+        "animationId": 7,
+        "description": "魔法少女となったコノハ専用の武器\n秘めている力は予想がつかない",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 53,
+                "dataId": 0,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 2,
+                "value": 0.5
+            }
+        ],
+        "iconIndex": 1322,
+        "name": "保守用ワイルドキャット",
+        "note": "<Not Independent item>\n<Text Color: 22>\n<SG種別:2>\n<SGカテゴリ:武器>\n<SG説明:\\DATA[description]\n金額　\\DATA[price]Lo\n\nコノハがグリモアランドに転生する際に\n持っていた剣がこの剣に変化してしまった\n宝珠をはめ込んでどんなスタイルの\n攻撃にも対応することが可能>\n<Info Text Bottom>\nコノハがグリモアランドに転生する際に\n持っていた剣がこの剣に変化してしまった\n宝珠をはめ込んでどんなスタイルの\n攻撃にも対応することが可能\n</Info Text Bottom>\n\n",
+        "params": [
+            0,
+            0,
+            20,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 1
+    },
+    {
+        "id": 5,
+        "animationId": 13,
+        "description": "インプ専用の武器",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            },
+            {
+                "code": 53,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 1988,
+        "name": "保守用リリステイル",
+        "note": "<Not Independent item>\n<Text Color: 22>\n<SG種別:2>\n<SGカテゴリ:武器>\n<SG説明:\\DATA[description]\n金額　\\DATA[price]Lo\n\nインプが装備する武器はリリスという上級淫魔の\n尻尾から造られた武器で、鞭のような形の武器で\nある。インプは力が弱くたいして武器も持てない\nため、この軽めの鞭を使うようになった>\n<Info Text Bottom>\nインプが装備する武器はリリスという上級淫魔の\n尻尾から造られた武器で、鞭のような形の武器で\nある。インプは力が弱くたいして武器も持てない\nため、この軽めの鞭を使うようになった\n</Info Text Bottom>\n",
+        "params": [
+            0,
+            0,
+            14,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 2
+    },
+    {
+        "id": 6,
+        "animationId": 19,
+        "description": "ゴブリン専用の武器",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            },
+            {
+                "code": 53,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 1872,
+        "name": "保守用羅刹門",
+        "note": "<Not Independent item>\n<Text Color: 22>\n<SG種別:2>\n<SGカテゴリ:武器>\n<SG説明:\\DATA[description]\n金額　\\DATA[price]Lo\n\nゴブリンは器用でもあるので比較的なんでも武器は\n使いこなせるが、力任せに相手を叩けるこの棍棒が\n一番武器としては扱いやすいようだ。本気で使えば\n修羅羅刹の如く敵を屠りさるだろう>\n<Info Text Bottom>\nゴブリンは器用でもあるので比較的なんでも武器は\n使いこなせるが、力任せに相手を叩けるこの棍棒が\n一番武器としては扱いやすいようだ。本気で使えば\n修羅羅刹の如く敵を屠りさるだろう\n</Info Text Bottom>\n",
+        "params": [
+            0,
+            0,
+            22,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 3
+    },
+    {
+        "id": 7,
+        "animationId": 1,
+        "description": "ドラゴン専用の武器",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            },
+            {
+                "code": 53,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 1815,
+        "name": "保守用バハムートオメガ",
+        "note": "<Not Independent item>\n<Text Color: 22>\n<SG種別:2>\n<SGカテゴリ:武器>\n<SG説明:\\DATA[description]\n金額　\\DATA[price]Lo\n\nドラゴン族特有のブレスを魔力化し、爪近接武器\nとして扱いやすくした。多少の金属であればバター\nのように裂くことができるだろう>\n<Info Text Bottom>\nドラゴン族特有のブレスを魔力化し、爪近接武器\nとして扱いやすくした。多少の金属であればバター\nのように裂くことができるだろう\n</Info Text Bottom>\n",
+        "params": [
+            0,
+            0,
+            19,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 4
+    },
+    {
+        "id": 8,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 9,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 10,
+        "animationId": 13,
+        "description": "インプ専用の武器",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            },
+            {
+                "code": 53,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 1988,
+        "name": "リリステイル",
+        "note": "<Not Independent item>\n<Text Color: 22>\n<SG種別:2>\n<SGカテゴリ:武器>\n<SG説明:\\DATA[description]\n金額　\\DATA[price]Lo\n\nインプが装備する武器はリリスという上級淫魔の\n尻尾から造られた武器で、鞭のような形の武器で\nある。インプは力が弱くたいして武器も持てない\nため、この軽めの鞭を使うようになった>\n<Info Text Bottom>\nインプが装備する武器はリリスという上級淫魔の\n尻尾から造られた武器で、鞭のような形の武器で\nある。インプは力が弱くたいして武器も持てない\nため、この軽めの鞭を使うようになった\n</Info Text Bottom>\n",
+        "params": [
+            0,
+            0,
+            14,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 2
+    },
+    {
+        "id": 11,
+        "animationId": 19,
+        "description": "ゴブリン専用の武器",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            },
+            {
+                "code": 53,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 1872,
+        "name": "羅刹門",
+        "note": "<Not Independent item>\n<Text Color: 22>\n<SG種別:2>\n<SGカテゴリ:武器>\n<SG説明:\\DATA[description]\n金額　\\DATA[price]Lo\n\nゴブリンは器用でもあるので比較的なんでも武器は\n使いこなせるが、力任せに相手を叩けるこの棍棒が\n一番武器としては扱いやすいようだ。本気で使えば\n修羅羅刹の如く敵を屠りさるだろう>\n<Info Text Bottom>\nゴブリンは器用でもあるので比較的なんでも武器は\n使いこなせるが、力任せに相手を叩けるこの棍棒が\n一番武器としては扱いやすいようだ。本気で使えば\n修羅羅刹の如く敵を屠りさるだろう\n</Info Text Bottom>\n",
+        "params": [
+            0,
+            0,
+            22,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 3
+    },
+    {
+        "id": 12,
+        "animationId": 1,
+        "description": "ドラゴン専用の武器",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            },
+            {
+                "code": 53,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 1815,
+        "name": "バハムートオメガ",
+        "note": "<Not Independent item>\n<Text Color: 22>\n<SG種別:2>\n<SGカテゴリ:武器>\n<SG説明:\\DATA[description]\n金額　\\DATA[price]Lo\n\nドラゴン族特有のブレスを魔力化し、爪近接武器\nとして扱いやすくした。多少の金属であればバター\nのように裂くことができるだろう>\n<Info Text Bottom>\nドラゴン族特有のブレスを魔力化し、爪近接武器\nとして扱いやすくした。多少の金属であればバター\nのように裂くことができるだろう\n</Info Text Bottom>\n",
+        "params": [
+            0,
+            0,
+            19,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 4
+    },
+    {
+        "id": 13,
+        "animationId": 7,
+        "description": "デュラハン専用の武器",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            },
+            {
+                "code": 53,
+                "dataId": 0,
+                "value": 0
+            },
+            {
+                "code": 34,
+                "dataId": 0,
+                "value": 1
+            }
+        ],
+        "iconIndex": 1833,
+        "name": "キメラスピン",
+        "note": "<Not Independent item>\n<Text Color: 22>\n<SG種別:2>\n<SGカテゴリ:武器>\n<SG説明:\\DATA[description]\n金額　\\DATA[price]Lo\n\n両刃タイプの武器で、下手に扱うと自分の首を\n刎ねることになってしまう。幸いデュラハンは\n最初から首が取れているので非常に向いている。\n回転によって敵を八つ裂きにしていく>\n<Info Text Bottom>\n両刃タイプの武器で、下手に扱うと自分の首を\n刎ねることになってしまう。幸いデュラハンは\n最初から首が取れているので非常に向いている。\n回転によって敵を八つ裂きにしていく\n</Info Text Bottom>\n",
+        "params": [
+            0,
+            0,
+            8,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 6
+    },
+    {
+        "id": 14,
+        "animationId": 7,
+        "description": "ケットシー専用の武器",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            },
+            {
+                "code": 53,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 2057,
+        "name": "ジャック＆ローズ",
+        "note": "<Not Independent item>\n<Text Color: 22>\n<SG種別:2>\n<SGカテゴリ:武器>\n<SG説明:\\DATA[description]\n金額　\\DATA[price]Lo\n\n武器としては非常に特殊で、カードに魔力を\n付与したもの。カード自体の切れ味が鋭く敵に\n投げつけても必ず手元に戻るようになっている。\n名前の由来は古いカードゲームから来ているという>\n<Info Text Bottom>\n武器としては非常に特殊で、カードに魔力を\n付与したもの。カード自体の切れ味が鋭く敵に\n投げつけても必ず手元に戻るようになっている。\n名前の由来は古いカードゲームから来ているという\n</Info Text Bottom>\n",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 7
+    },
+    {
+        "id": 15,
+        "animationId": 30,
+        "description": "ハーピー専用の武器",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            },
+            {
+                "code": 53,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 2162,
+        "name": "オリオンディーヴァ",
+        "note": "<Not Independent item>\n<Text Color: 22>\n<SG種別:2>\n<SGカテゴリ:武器>\n<SG説明:\\DATA[description]\n金額　\\DATA[price]Lo\n\n音楽を攻撃として扱うハープ型の武器。ハーピーの\nボイスを乗せることができる。麗しい音楽ではあるが\nまともに聴くと精神に異常をきたしてしまうほどの\nノイズがあり、とても危険な武器である>\n<Info Text Bottom>\n音楽を攻撃として扱うハープ型の武器。ハーピーの\nボイスを乗せることができる。麗しい音楽ではあるが\nまともに聴くと精神に異常をきたしてしまうほどの\nノイズがあり、とても危険な武器である\n</Info Text Bottom>\n",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 8
+    },
+    {
+        "id": 16,
+        "animationId": 19,
+        "description": "マミー専用の武器",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            },
+            {
+                "code": 53,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 921,
+        "name": "死巻白包帯",
+        "note": "<Not Independent item>\n<Text Color: 22>\n<SG種別:2>\n<SGカテゴリ:武器>\n<SG説明:\\DATA[description]\n金額　\\DATA[price]Lo\n\nミイラ状態のマミーは身につけている包帯を武器と\nすることができる。変幻自在に操り、敵を翻弄させる\nことができるだろう。包帯はとても不衛生で病原菌など\n大量に付着しているようだ>\n<Info Text Bottom>\nミイラ状態のマミーは身につけている包帯を武器と\nすることができる。変幻自在に操り、敵を翻弄させる\nことができるだろう。包帯はとても不衛生で病原菌など\n大量に付着しているようだ\n</Info Text Bottom>\n",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 9
+    },
+    {
+        "id": 17,
+        "animationId": 19,
+        "description": "グール専用の武器",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            },
+            {
+                "code": 53,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 1889,
+        "name": "エンドレスペイン",
+        "note": "<Not Independent item>\n<Text Color: 22>\n<SG種別:2>\n<SGカテゴリ:武器>\n<SG説明:\\DATA[description]\n金額　\\DATA[price]Lo\n\nグールは基本的に痛みというものには鈍感であり\nそのためその”痛み”を常時受けることによって\n手にも付与させることができた。この手で攻撃\nされればそれはとてつもない痛みで苦しむという>\n<Info Text Bottom>\nグールは基本的に痛みというものには鈍感であり\nそのためその”痛み”を常時受けることによって\n手にも付与させることができた。この手で攻撃\nされればそれはとてつもない痛みで苦しむという\n</Info Text Bottom>\n",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 10
+    },
+    {
+        "id": 18,
+        "animationId": 7,
+        "description": "メデューサ専用の武器",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            },
+            {
+                "code": 53,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 1315,
+        "name": "ブラッドレイン",
+        "note": "<Not Independent item>\n<Text Color: 22>\n<SG種別:2>\n<SGカテゴリ:武器>\n<SG説明:\\DATA[description]\n金額　\\DATA[price]Lo\n\n狡猾で悪どいメデューサは眼力で敵の動きを\n封じることができ、使用する小型のナイフの\n武器は蛇の数だけ増えるという。したがって\nこの武器で攻撃されれば血の雨が降るという>\n<Info Text Bottom>\n狡猾で悪どいメデューサは眼力で敵の動きを\n封じることができ、使用する小型のナイフの\n武器は蛇の数だけ増えるという。したがって\nこの武器で攻撃されれば血の雨が降るという\n</Info Text Bottom>\n",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 11
+    },
+    {
+        "id": 19,
+        "animationId": 13,
+        "description": "サハギン専用の武器",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            },
+            {
+                "code": 53,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 1689,
+        "name": "ポセイドンハンド",
+        "note": "<Not Independent item>\n<Text Color: 22>\n<SG種別:2>\n<SGカテゴリ:武器>\n<SG説明:\\DATA[description]\n金額　\\DATA[price]Lo\n\n別名トライデントとも言われる三叉槍だが元は\nポセイドンと言われる神の左手だという。しかし\nこの神はグリモアランドにいた痕跡がないことから\n別世界の神の遺物とされている>\n<Info Text Bottom>\n別名トライデントとも言われる三叉槍だが元は\nポセイドンと言われる神の左手だという。しかし\nこの神はグリモアランドにいた痕跡がないことから\n別世界の神の遺物とされている\n</Info Text Bottom>\n",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 12
+    },
+    {
+        "id": 20,
+        "animationId": 19,
+        "description": "ピクシー専用の武器",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            },
+            {
+                "code": 53,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 1907,
+        "name": "マザーファッカー",
+        "note": "<Not Independent item>\n<Text Color: 22>\n<SG種別:2>\n<SGカテゴリ:武器>\n<SG説明:\\DATA[description]\n金額　\\DATA[price]Lo\n\nいたずら好きのピクシーであるが、この世界の\nピクシーはいたずらでは済まないほどのいじわる\nである。この杖で何人の人間を困らせてきたことか。\n言葉では表せないほどの嫌がらせをされるだろう>\n<Info Text Bottom>\nいたずら好きのピクシーであるが、この世界の\nピクシーはいたずらでは済まないほどのいじわる\nである。この杖で何人の人間を困らせてきたことか。\n言葉では表せないほどの嫌がらせをされるだろう\n</Info Text Bottom>\n",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 13
+    },
+    {
+        "id": 21,
+        "animationId": 49,
+        "description": "スライム専用の武器",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            },
+            {
+                "code": 53,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 1635,
+        "name": "ブルーティアーズ",
+        "note": "<Not Independent item>\n<Text Color: 22>\n<SG種別:2>\n<SGカテゴリ:武器>\n<SG説明:\\DATA[description]\n金額　\\DATA[price]Lo\n\nスライム粘液がそのまま武器となっている。\n粘液の中でも毒性の高いスライムの涙の成分が\n入っており、この粘液に絡め取られたら地獄の\n苦しみが待っているらしい>\n<Info Text Bottom>\nスライム粘液がそのまま武器となっている。\n粘液の中でも毒性の高いスライムの涙の成分が\n入っており、この粘液に絡め取られたら地獄の\n苦しみが待っているらしい\n</Info Text Bottom>\n",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 14
+    },
+    {
+        "id": 22,
+        "animationId": 47,
+        "description": "ジョロウグモ専用の武器",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            },
+            {
+                "code": 53,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 1123,
+        "name": "月見で一杯",
+        "note": "<Not Independent item>\n<Text Color: 22>\n<SG種別:2>\n<SGカテゴリ:武器>\n<SG説明:\\DATA[description]\n金額　\\DATA[price]Lo\n\n記憶に残る絵札遊びの役からの由来であり\n月夜の晩に蜘蛛の糸で吊し上げた敵を肴に酒を\n嗜んだことからこの名前となった。鈎のようにえぐれた\n先を身体にひっかけるため、逃げることもできない>\n<Info Text Bottom>\n記憶に残る絵札遊びの役からの由来であり\n月夜の晩に蜘蛛の糸で吊し上げた敵を肴に酒を\n嗜んだことからこの名前となった。鈎のようにえぐれた\n先を身体にひっかけるため、逃げることもできない\n</Info Text Bottom>\n",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 15
+    },
+    {
+        "id": 23,
+        "animationId": 7,
+        "description": "テンコ専用の武器",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            },
+            {
+                "code": 53,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 1840,
+        "name": "国士無双",
+        "note": "<Not Independent item>\n<Text Color: 22>\n<SG種別:2>\n<SGカテゴリ:武器>\n<SG説明:\\DATA[description]\n金額　\\DATA[price]Lo\n\n天下を取った武将が使っていた唯一無二の扇子の\n武器。その武将に力を貸していたのが天狐と言われる\n神であった。この扇子を使えば雷雨とともにどんな\n敵軍も一掃できたという>\n<Info Text Bottom>\n天下を取った武将が使っていた唯一無二の扇子の\n武器。その武将に力を貸していたのが天狐と言われる\n神であった。この扇子を使えば雷雨とともにどんな\n敵軍も一掃できたという\n</Info Text Bottom>\n",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 16
+    },
+    {
+        "id": 24,
+        "animationId": 82,
+        "description": "オロチ専用の武器",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            },
+            {
+                "code": 53,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 2135,
+        "name": "一歩千金",
+        "note": "<Not Independent item>\n<Text Color: 22>\n<SG種別:2>\n<SGカテゴリ:武器>\n<SG説明:\\DATA[description]\n金額　\\DATA[price]Lo\n\nお金を儲けるための方法が記された書物。\nあまりにもでかい本であるため、殴って殺すこと\nもできた。攻撃をするたびに本人の懐が暖まる\nという仕様になっている>\n<Info Text Bottom>\nお金を儲けるための方法が記された書物。\nあまりにもでかい本であるため、殴って殺すこと\nもできた。攻撃をするたびに本人の懐が暖まる\nという仕様になっている\n</Info Text Bottom>\n",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 17
+    },
+    {
+        "id": 25,
+        "animationId": 0,
+        "description": "クロパンダ専用の武器",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "クロパンダ武器",
+        "note": "<Not Independent item>\n<Text Color: 22>\n<SG種別:2>\n<SGカテゴリ:武器>\n<SG説明:\\DATA[description]\n金額　\\DATA[price]Lo\n\n>\n<Info Text Bottom>\n</Info Text Bottom>\n",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 2
+    },
+    {
+        "id": 26,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 27,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 28,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 29,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 30,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 31,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 32,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 33,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 34,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 35,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 36,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 37,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 38,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 39,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 40,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 41,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 42,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 43,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 44,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 45,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 46,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 47,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 48,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 49,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 50,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "バトルスキル",
+        "note": "<Set Sts Data>\nskill: 10, 0, 0, 60, 0, 0, 32\nskill 2: 0, 0, 20, 0, 63 \nskill 3: 0, 13\nskill 4: 0, 0, 0, 0, 0, 0, 0, 0, 0, 47\nskill 5: 0, 0, 0, 0, 0, 0, 0, 0, 44, 48\nskill 6: 0, 0, 0, 0, 0, 0, 0, 0, 0, 49\nskill 7: 16, 79, 26, 0, 67, 0, 75, 0, 52, 0\nskill 8: 17, 80, 27, 57, 68, 71, 76, 83, 53, 0\nskill 9: 18, 81, 28, 58, 69, 72, 77, 84, 0, 0\nskill 10: 0, 0, 0, 59, 0, 73, 0, 85, 0, 0\nskill 11: 0, 0, 0, 0, 87, 0, 94, 0, 0, 0\nskill 12: 0, 0, 0, 0, 88, 0, 95, 0, 0, 0\nskill 13: 0, 0, 0, 0, 89, 0, 96, 0, 54, 0\nskill 15: 0, 0, 0, 0, 0, 0, 97, 0, 0, 0\n\n\n\n</Set Sts Data>",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 5
+    },
+    {
+        "id": 51,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "バトルスキル",
+        "note": "<Set Sts Data>\nskill: 100, 0, 0, 103, 0, 0, 112\nskill 6: 106, 0, 0, 109, 0, 142, 0, 145\nskill 11: 0, 148, 0, 0, 0, 0, 0, 151\n</Set Sts Data>",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 5
+    },
+    {
+        "id": 52,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "Ｈスキル",
+        "note": "<Set Sts Data>\nskill: 192, 0, 0, 201, 0, 0, 0, 237\nskill 8: 216, 0, 0, 225, 0, 0, 0, 243\nskill 14: 249, 0, 0, 0, 0, 261\n</Set Sts Data>",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 5
+    },
+    {
+        "id": 53,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 54,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    }
+]
