@@ -213,7 +213,7 @@
 	var Window_Options_addGeneralOptions = Window_Options.prototype.addGeneralOptions;
 	Window_Options.prototype.addGeneralOptions = function () {
 		Window_Options_addGeneralOptions.call(this);
-		this.addCommand('画面効果', 'screenEffect');
+		this.addCommand('Screen Effects', 'screenEffect');
 	};
 
 
