@@ -16,7 +16,7 @@
         "volume": 80
     },
     "disableDashing": false,
-    "displayName": "小屋",
+    "displayName": "Cottage",
     "encounterList": [],
     "encounterStep": 30,
     "height": 25,
@@ -4977,7 +4977,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[2]３つの燭台にロウソクがあるうち、二つだけ火が灯っている"
+                                "Among the three candlesticks, only two of them\nhave lit candles."
                             ]
                         },
                         {
@@ -5015,7 +5015,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\C[2]３つの燭台にロウソクがあるうち、一つだけ火が灯っている"
+                                "Among the three candlesticks, only one of them has\na lit candle."
                             ]
                         },
                         {
@@ -5042,7 +5042,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\C[2]３つの燭台にロウソクがあるが、火は灯っていない"
+                                "Among the three candlesticks, there are candles,\nbut none of them are lit."
                             ]
                         },
                         {
@@ -5180,7 +5180,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[2]３つの燭台のロウソクが灯っている"
+                                "Three candles are lit on the three candlesticks."
                             ]
                         },
                         {
@@ -5215,14 +5215,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "嫌な感じがするわ……！"
+                                "I have a bad feeling about this...!"
                             ]
                         },
                         {
@@ -5315,21 +5315,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[10]デーモン\\C[0]"
+                                "\\C[10]Demon\\C[0] Gigigi... Gigigi... Kill..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ギギギ………ギギギ………"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "……コロス……"
+                                ""
                             ]
                         },
                         {
@@ -5379,21 +5379,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "強いデーモンだったわね……"
+                                "It was a strong demon... I wonder why it was\nsealed in a place like this."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "なんでこんなところに封印をしてたのかしら"
+                                ""
                             ]
                         },
                         {
@@ -5410,14 +5410,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ひとまず戻りましょう"
+                                "Let's go back for now."
                             ]
                         },
                         {
@@ -5487,14 +5487,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "くっ……強い……！"
+                                "Ugh... Strong...!"
                             ]
                         },
                         {

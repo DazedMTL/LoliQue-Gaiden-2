@@ -21574,21 +21574,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[10]EVIL END"
+                                "\\C[10]EVIL END\\x1★MEMORIES ROOM has been added."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
                                 ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "\\C[2]★MEMORIES ROOMが追加されました"
+                                ""
                             ]
                         },
                         {
@@ -21704,21 +21704,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[2]「ニューゲーム+」を選択可能です。"
+                                "\\C[2]You can select New Game+ option.※If you don't\nselect it here, you can start New Game+ from Tower\nof Reincarnation 2F as well."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "※ここで選択しない場合は「転生の塔２F」からでも"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ニューゲーム＋を開始できます。"
+                                ""
                             ]
                         },
                         {

@@ -16,7 +16,7 @@
         "volume": 80
     },
     "disableDashing": false,
-    "displayName": "ハルディア宮殿",
+    "displayName": "Haldia Palace",
     "encounterList": [
         {
             "regionSet": [],
@@ -29142,7 +29142,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[2]怪しい女神像が建っている…"
+                                "There is a suspicious goddess statue standing..."
                             ]
                         },
                         {
@@ -30239,7 +30239,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[2]怪しい女神像が建っている…"
+                                "There is a suspicious goddess statue standing..."
                             ]
                         },
                         {
@@ -30319,7 +30319,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[2]どこかで大きな音がした…"
+                                "I heard a loud noise somewhere..."
                             ]
                         },
                         {
@@ -30563,21 +30563,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[1]ルイーザ\\C[0]"
+                                "\\C[1]Louisa\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ここには地下への階段が隠されてるんやけど"
+                                "There's a hidden staircase to the basement here,\nbut it seems like the mechanism has already been\nunlocked."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "もう仕掛けが解かれてるわ"
+                                ""
                             ]
                         },
                         {
@@ -30594,14 +30594,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[1]ルイーザ\\C[0]"
+                                "\\C[1]Louisa\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "こっからまっすぐ行けばええで！"
+                                "Just go straight from here!"
                             ]
                         },
                         {

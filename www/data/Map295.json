@@ -16,7 +16,7 @@
         "volume": 80
     },
     "disableDashing": false,
-    "displayName": "ポムリンの道具屋",
+    "displayName": "Pomlin's Tool Shop",
     "encounterList": [],
     "encounterStep": 30,
     "height": 25,
@@ -6455,14 +6455,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[1]ポムリン\\C[0]"
+                                "\\C[1]Pomurin\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "そ、そんな……えっちすぎるのは……やめてクデ"
+                                "S-Stop... that's... too lewd... please stop."
                             ]
                         },
                         {
@@ -6489,21 +6489,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[1]ポムリン\\C[0]"
+                                "\\C[1]Pomurin\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "いろいろアイテム置いてる"
+                                "If there's anything you want me to put out, like\nvarious items, I'll buy them for you."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "ほしいのあったら、買ってクデ"
+                                ""
                             ]
                         },
                         {
@@ -6631,14 +6631,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[1]ポムリン\\C[0]"
+                                "\\C[1]Pomurin\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ありがとナ"
+                                "Thank you."
                             ]
                         },
                         {
@@ -6751,14 +6751,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[1]ポムリン\\C[0]"
+                                "\\C[1]Pomurin\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "いらっしゃいマゼ"
+                                "Welcome, Mase."
                             ]
                         },
                         {
@@ -6802,14 +6802,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "うわっと！"
+                                "Oh my!"
                             ]
                         },
                         {
@@ -6826,21 +6826,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[1]ポムリン\\C[0]"
+                                "\\C[1]Pomurin\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "おで、悪い魔獣じゃない"
+                                "Oh, sorry. Because I don't look like a bad\nmonster, everyone is always surprised."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "見た目こんなだからいつもみんなびっくりズル"
+                                ""
                             ]
                         },
                         {
@@ -6900,21 +6900,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "珍しいわね？話せる魔獣なんて"
+                                "How unusual, isn't it? A talking monster, then you\nmust be Pomurin?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "じゃあ、あなたがポムリン？"
+                                ""
                             ]
                         },
                         {
@@ -6931,21 +6931,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[1]ポムリン\\C[0]"
+                                "\\C[1]Pomurin\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "この道具屋やらせてもらっデル"
+                                "Let me run this tool shop, Pomurin."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "おで、ポムリン"
+                                ""
                             ]
                         },
                         {
@@ -7005,28 +7005,28 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "私、魔法少女のコノハよ。よろしくね"
+                                "I'm Konoha, the magical girl. Nice to meet you. I\nhave a request from Dorothy. I need an antidote\npotion for drug addiction. Do you have one?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ドロテアからの依頼ということになるんだけど、薬物中毒用の"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "解毒ポーションが欲しいんだけど、あるかしら？"
+                                ""
                             ]
                         },
                         {
@@ -7043,21 +7043,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[1]ポムリン\\C[0]"
+                                "\\C[1]Pomurin\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ド、ドロテア様！？"
+                                "D-Dorothy-sama!? I-I'll do my best!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "わがった、おで頑張る"
+                                ""
                             ]
                         },
                         {
@@ -7074,21 +7074,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[1]ポムリン\\C[0]"
+                                "\\C[1]Pomurin\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "えっど……解毒ポーション…中毒用のは今生成できる素材…"
+                                "Eh... an antidote potion... the materials to make\none for addiction are currently out of stock...\nwhat a coincidence... I'm sorry..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ちょうど切らしてる……おでやくたたず……すまん…"
+                                ""
                             ]
                         },
                         {
@@ -7148,21 +7148,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "素材があればいいのかしら？"
+                                "I wonder if having the materials would be enough?\nI'll go gather them."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "私、集めてくるわよ"
+                                ""
                             ]
                         },
                         {
@@ -7179,21 +7179,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[1]ポムリン\\C[0]"
+                                "\\C[1]Pomurin\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "それなら助かる、素材さえあればすぐにできる"
+                                "If that's the case, it would be a relief. I wrote\ndown the materials needed, so I can make it right\naway if we have the materials."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "素材こでに書いた"
+                                ""
                             ]
                         },
                         {
@@ -7210,28 +7210,28 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[1]ポムリン\\C[0]"
+                                "\\C[1]Pomurin\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「放毒茸」は城の周りに生えてる"
+                                "To obtain the 'Poisonous Mushroom,' you should go\nto the hot springs near the castle and collect\nsome 'Hot Spring Water.' The hot springs are\nlocated to the northwest, so thoroughly\ninvestigate the waterfall in that direction."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「温泉水」は温泉に行って取ってくるといい"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "温泉は北西の方にある滝をよく調べてミデ"
+                                ""
                             ]
                         },
                         {
@@ -7266,14 +7266,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "わかったわ、急いで集めてくるわね"
+                                "Alright, I understand. I'll hurry and gather them."
                             ]
                         },
                         {
@@ -7394,14 +7394,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[1]ポムリン\\C[0]"
+                                "\\C[1]Pomurin\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "素材たのんダ"
+                                "Please order materials."
                             ]
                         },
                         {
@@ -7522,14 +7522,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "これでいいかしら？"
+                                "Is this okay, I wonder?"
                             ]
                         },
                         {
@@ -7546,21 +7546,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[1]ポムリン\\C[0]"
+                                "\\C[1]Pomurin\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "問題ない、これで完成する"
+                                "No problem, with this it will be complete. I'll do\nmy best."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "おで、頑張る"
+                                ""
                             ]
                         },
                         {
@@ -7606,21 +7606,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[1]ポムリン\\C[0]"
+                                "\\C[1]Pomurin\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "できた。この解毒ポーションならきっと完治ズル"
+                                "It's done. With this antidote potion, I'm sure\nLady Rudia will fully recover."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ドロテア様治る"
+                                ""
                             ]
                         },
                         {
@@ -7655,21 +7655,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あ、ごめんドロテアが中毒になったわけではないのよ"
+                                "Ah, sorry, it's not like Dorothea got poisoned or\nanything. It's just that the surveillance officer\nat the observation tower..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "監視塔の監視員がね"
+                                ""
                             ]
                         },
                         {
@@ -7686,21 +7686,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[1]ポムリン\\C[0]"
+                                "\\C[1]Pomurin\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ドロテア様じゃなかった、でもそれならよかった"
+                                "It wasn't Lady Dorothea, but if that's the case,\nthen it's a relief. Lady Dorothea is a vampire, so\nI thought it was strange."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ドロテア様はヴァンパイアだから…おかしいと思ってた"
+                                ""
                             ]
                         },
                         {
@@ -7760,14 +7760,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "それじゃ、もらっていくわね"
+                                "Well then, I'll take it."
                             ]
                         },
                         {
@@ -7920,14 +7920,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[1]ポムリン\\C[0]"
+                                "\\C[1]Pomurin\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "そ、そんな……えっちすぎるのは……やめてクデ"
+                                "S-Stop... that's... too lewd... please stop."
                             ]
                         },
                         {
@@ -7954,21 +7954,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[1]ポムリン\\C[0]"
+                                "\\C[1]Pomurin\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "いろいろアイテム置いてる"
+                                "If there's anything you want me to put out, like\nvarious items, I'll buy them for you."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "ほしいのあったら、買ってクデ"
+                                ""
                             ]
                         },
                         {
@@ -8096,14 +8096,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[1]ポムリン\\C[0]"
+                                "\\C[1]Pomurin\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ありがとナ"
+                                "Thank you."
                             ]
                         },
                         {
@@ -8264,14 +8264,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "悪いけど、そういう罠には引っかからないよ"
+                                "Sorry, but I won't fall for that kind of trap.\nI've been caught in the beauty scam a hundred\ntimes, you know."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "美人局１００回引っかかった僕にはね"
+                                ""
                             ]
                         },
                         {
@@ -8298,21 +8298,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "君たち魔法少女は基本的には死ぬことがないと言われてる"
+                                "It is said that magical girls generally do not\ndie, but on the flip side, it means they will\nsuffer for eternity. So, they must be careful not\nto become a breeding ground for demons or anything\nlike that."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "だが、それは逆を言えば永遠に苦しむことにもなる"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "ま、デーモンの苗床などにならないよう気をつけることだ"
+                                ""
                             ]
                         },
                         {
@@ -8547,8 +8547,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "\\C[3]盗むLV4",
-                                    "何もしない"
+                                    "Steal LV4",
+                                    "Doing nothing"
                                 ],
                                 1,
                                 -1,
@@ -8776,14 +8776,14 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\c[6]コノハ\\c[0]"
+                                "\\c[6]Konoha\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "なんかまずい気がするわ"
+                                "I have a bad feeling about this."
                             ]
                         },
                         {
@@ -8822,14 +8822,14 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\c[6]コノハ\\c[0]"
+                                "\\c[6]Konoha\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "ちょっと失敗ね"
+                                "I messed up a little."
                             ]
                         },
                         {
@@ -9047,14 +9047,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ヒトの醜さ、卑しさ、そろそろ気づいてきたのでは"
+                                "Have you started to notice the ugliness and\ndepravity of humans? ... Hehehe"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "ありませんか？……ふふふ"
+                                ""
                             ]
                         },
                         {
@@ -9097,14 +9097,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "歴史の長い紅き血族……"
+                                "The long history of the crimson bloodline... I am\nalso endlessly fascinated."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "私も興味が尽きません"
+                                ""
                             ]
                         },
                         {
@@ -9159,7 +9159,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "また会いましたね。今日はこれをどうぞ"
+                                "We meet again. Here, have this today."
                             ]
                         },
                         {
@@ -9204,21 +9204,21 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "まぁ、また貰えるの？いつも悪い気がするわ"
+                                "Well, can I have it again? I always feel a bit\nguilty receiving things from you. By the way,\nwhat's your name..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "あなたところでお名前は…"
+                                ""
                             ]
                         },
                         {
@@ -9263,14 +9263,14 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "調子はどうですか、魔法少女さん"
+                                "How are you doing, magical girl? Let me give you\nthis today."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 3,
                             "parameters": [
-                                "今日はこれを贈らせてください"
+                                ""
                             ]
                         },
                         {
@@ -9334,21 +9334,21 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "あら、あなた。またくれるの？"
+                                "Oh, it's you. Are you giving me something again?\nThank you, I'll do my best!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 3,
                             "parameters": [
-                                "ありがとう、頑張るわ！"
+                                ""
                             ]
                         },
                         {
@@ -9393,14 +9393,14 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "頑張っているようですね、魔法少女さん"
+                                "It seems like you're working hard, magical girl.\nI'm cheering for you."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 4,
                             "parameters": [
-                                "応援していますよ"
+                                ""
                             ]
                         },
                         {
@@ -9464,21 +9464,21 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "こないだもアイテムくれた方？"
+                                "Are you the one who gave me an item the other day?\nThank you..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 4,
                             "parameters": [
-                                "ありがとう……"
+                                ""
                             ]
                         },
                         {
@@ -9512,14 +9512,14 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "魔法少女さん、いろいろと大変でしょう"
+                                "Magical girl, I'm sure you're going through a lot.\nHere, please take this."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 4,
                             "parameters": [
-                                "これをどうぞ"
+                                ""
                             ]
                         },
                         {
@@ -9583,14 +9583,14 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "はぁ。これはどうも……"
+                                "Haa... I'm not sure about this..."
                             ]
                         },
                         {
@@ -9655,14 +9655,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ヒトの醜さ、卑しさ、そろそろ気づいてきたのでは"
+                                "Have you started to notice the ugliness and\ndepravity of humans? ... Hehehe"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "ありませんか？……ふふふ"
+                                ""
                             ]
                         },
                         {
@@ -9705,14 +9705,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "歴史の長い紅き血族……"
+                                "The long history of the crimson bloodline... I am\nalso endlessly fascinated."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "私も興味が尽きません"
+                                ""
                             ]
                         },
                         {
@@ -10096,8 +10096,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "\\C[3]盗むLV4",
-                                    "何もしない"
+                                    "Steal LV4",
+                                    "Doing nothing"
                                 ],
                                 1,
                                 -1,
@@ -10325,14 +10325,14 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\c[6]コノハ\\c[0]"
+                                "\\c[6]Konoha\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "なんかまずい気がするわ"
+                                "I have a bad feeling about this."
                             ]
                         },
                         {
@@ -10371,14 +10371,14 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\c[6]コノハ\\c[0]"
+                                "\\c[6]Konoha\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "ちょっと失敗ね"
+                                "I messed up a little."
                             ]
                         },
                         {

@@ -7593,14 +7593,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[2]ペナルティにより外に出れない"
+                                "Let's finish the night duty that we can't leave\ndue to \\c[2]penalty."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "夜伽を済ませよう"
+                                ""
                             ]
                         },
                         {
@@ -8223,21 +8223,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[1]モーラン\\c[0]"
+                                "\\c[1]Morlan\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "返済するのか？"
+                                "Are you going to repay the remaining debt, \\c[2]?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "\\c[2]残債\\c[0]\\v[384]Lo"
+                                ""
                             ]
                         },
                         {
@@ -8245,9 +8245,9 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "返済する",
-                                    "説明を聞く",
-                                    "別に何も"
+                                    "Repay",
+                                    "Listen to the explanation",
+                                    "Nothing in particular"
                                 ],
                                 2,
                                 -1,
@@ -8286,21 +8286,21 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[1]モーラン\\c[0]"
+                                "\\c[1]Morlan\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "今日はペナルティの日だろう"
+                                "Today is penalty day, so finish your night duties."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "夜伽を済ませろ"
+                                ""
                             ]
                         },
                         {
@@ -8336,21 +8336,21 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\c[1]モーラン\\c[0]"
+                                "\\c[1]Morlan\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "今日はもう返済している"
+                                "Today, repay it quickly and prepare for the night\nduties."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 3,
                             "parameters": [
-                                "さっさと夜伽の準備をしろ"
+                                ""
                             ]
                         },
                         {
@@ -8377,21 +8377,21 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\c[1]モーラン\\c[0]"
+                                "\\c[1]Morlan\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "いくら返済するんだ？\\$"
+                                "How much are you going to repay? The remaining\ndebt is \\$ \\c[2]Lo."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 3,
                             "parameters": [
-                                "\\c[2]残債\\c[0]\\v[384]Lo"
+                                ""
                             ]
                         },
                         {
@@ -8434,14 +8434,14 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\c[1]モーラン\\c[0]"
+                                "\\c[1]Morlan\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "10000Lo以上50000Lo以内だ"
+                                "It's between 10,000Lo and 50,000Lo."
                             ]
                         },
                         {
@@ -8486,14 +8486,14 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "\\c[1]モーラン\\c[0]"
+                                "\\c[1]Morlan\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "10000Lo以上50000Lo以内だ"
+                                "It's between 10,000Lo and 50,000Lo."
                             ]
                         },
                         {
@@ -8620,28 +8620,28 @@
                             "code": 401,
                             "indent": 7,
                             "parameters": [
-                                "\\c[1]モーラン\\c[0]"
+                                "\\c[1]Morlan\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 7,
                             "parameters": [
-                                "むう？"
+                                "Huh? Complete repayment... The remaining debt is\n\\c[2]Lo."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 7,
                             "parameters": [
-                                "完済だと…"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 7,
                             "parameters": [
-                                "\\c[2]残債\\c[0]\\v[384]Lo"
+                                ""
                             ]
                         },
                         {
@@ -8658,14 +8658,14 @@
                             "code": 401,
                             "indent": 7,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 7,
                             "parameters": [
-                                "これで……いいんでしょう…？"
+                                "Is this... alright...?"
                             ]
                         },
                         {
@@ -8682,14 +8682,14 @@
                             "code": 401,
                             "indent": 7,
                             "parameters": [
-                                "\\c[1]モーラン\\c[0]"
+                                "\\c[1]Morlan\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 7,
                             "parameters": [
-                                "ちぃ……まぁいいだろう"
+                                "Chii... Well, I guess it's fine."
                             ]
                         },
                         {
@@ -8822,21 +8822,21 @@
                             "code": 401,
                             "indent": 7,
                             "parameters": [
-                                "\\c[1]モーラン\\c[0]"
+                                "\\c[1]Morlan\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 7,
                             "parameters": [
-                                "今日の返済は完了した。さぁ夜伽の準備をしろ"
+                                "Today's repayment is complete. Now, prepare for\nthe night duties. The remaining debt is \\c[2]Lo."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 7,
                             "parameters": [
-                                "\\c[2]残債\\c[0]\\v[384]Lo"
+                                ""
                             ]
                         },
                         {
@@ -8882,14 +8882,14 @@
                             "code": 401,
                             "indent": 6,
                             "parameters": [
-                                "\\c[1]モーラン\\c[0]"
+                                "\\c[1]Morlan\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 6,
                             "parameters": [
-                                "金が足らないな…"
+                                "I don't have enough money..."
                             ]
                         },
                         {
@@ -8906,14 +8906,14 @@
                             "code": 401,
                             "indent": 6,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 6,
                             "parameters": [
-                                "どうすれば……"
+                                "What should I do..."
                             ]
                         },
                         {
@@ -8930,21 +8930,21 @@
                             "code": 401,
                             "indent": 6,
                             "parameters": [
-                                "\\c[1]モーラン\\c[0]"
+                                "\\c[1]Morlan\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 6,
                             "parameters": [
-                                "ちっ…仕方ない、もう時間もないし"
+                                "Tch... Can't be helped, there's no time left.\nLet's skip today's repayment. Prepare for the\nnight duties."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 6,
                             "parameters": [
-                                "今日の返済はスルーだ。夜伽の準備をしろ"
+                                ""
                             ]
                         },
                         {
@@ -9033,28 +9033,28 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[1]モーラン\\c[0]"
+                                "\\c[1]Morlan\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "一日必ず、最低10000Lo～最高額50000Loの返済が認められる"
+                                "If you forget to make a repayment of at least\n10,000Lo to a maximum of 50,000Lo per day and go\nto the night duties, you won't be allowed to work\nthe next day."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "返済忘れて夜伽に行った場合は、次の日働きに行くことは"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "認められない"
+                                ""
                             ]
                         },
                         {
@@ -9071,21 +9071,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[1]モーラン\\c[0]"
+                                "\\c[1]Morlan\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "その間ここで男の相手をしてもらう"
+                                "As a penalty for engaging with men during that\ntime, items such as After Pipirun will also be\nconfiscated."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "ペナルティとして、「アフターピピルン」なども没収となる"
+                                ""
                             ]
                         },
                         {
@@ -9102,21 +9102,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[1]モーラン\\c[0]"
+                                "\\c[1]Morlan\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "働き口はスラム街ならなんでも可能だ。娼館、酒場アルバイト"
+                                "Any job is possible in the slums. You can work at\na brothel, a bar, or whatever you like."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "その他好きにするがいい"
+                                ""
                             ]
                         },
                         {
@@ -9133,21 +9133,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[1]モーラン\\c[0]"
+                                "\\c[1]Morlan\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ちなみに、ここに来るまでの借金がある場合は、それも加算"
+                                "By the way, if you have any debts prior to coming\nhere, you will also have to repay them in\naddition. However, the interest is waived..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "されて返済しなければならない。その代わり利息は免除だ…"
+                                ""
                             ]
                         },
                         {
@@ -9182,14 +9182,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "完済したら、刻印の解除はしてもらえるんでしょうね"
+                                "Once I've paid off my debt, will they remove the\nseal?"
                             ]
                         },
                         {
@@ -9206,14 +9206,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[1]モーラン\\c[0]"
+                                "\\c[1]Morlan\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "もちろんだ。完済できたら、な"
+                                "Of course. Once you've paid off your debt, then..."
                             ]
                         },
                         {
@@ -9230,14 +9230,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "（なんとしても完済してしまわないと……）"
+                                "(I have to repay it no matter what...)"
                             ]
                         },
                         {
@@ -9539,28 +9539,28 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[2]身体が怠い……違和感を感じたコノハは"
+                                "Konoha, who felt unwell and sensed discomfort in\nher body, slowly opened her eyes... In front of\nher stood a man, looking down at her with eyes\nthat seemed to see her as trash."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ゆっくりと目を開ける……"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "前方には立ちはだかる男。ゴミを見るような目で"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "コノハを見下している"
+                                ""
                             ]
                         },
                         {
@@ -9582,21 +9582,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[1]ジャッカル\\c[0]"
+                                "\\c[1]Jackal\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "哀れな子猫、でぇすねぇ…"
+                                "Poor little kitten, isn't it... You must be\nKonoha, a magical girl, right?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "あなた、コノハという魔法少女らしいですね"
+                                ""
                             ]
                         },
                         {
@@ -9631,14 +9631,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……う…あ、あんたは…"
+                                "......Ugh... Ah, you are..."
                             ]
                         },
                         {
@@ -9666,21 +9666,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[1]ジャッカル\\c[0]"
+                                "\\c[1]Jackal\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "わたくしは、この賭博場のオーナー、ジャッカルと申しまぁす"
+                                "I am the owner of this gambling den, Jackal. It\nseems you caused quite a ruckus, huh?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "えらく暴れたらしいでぇすね"
+                                ""
                             ]
                         },
                         {
@@ -9715,14 +9715,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "そりゃそうでしょ、めちゃくちゃよあんなの"
+                                "Well, of course! It was a complete mess, that kind\nof thing."
                             ]
                         },
                         {
@@ -9739,28 +9739,28 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[1]ジャッカル\\c[0]"
+                                "\\c[1]Jackal\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ギャンブルをわかってないでぇすね"
+                                "It seems you don't understand gambling, huh? In\nthe world of gambling, you have to do whatever it\ntakes to win. But let's put that aside for now and\nexplain the Slave Mark."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "どんな手を使ってでも勝つ、それがこの世界のギャンブルでぇす"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "それはいいとして、奴隷刻印の説明をしましょう"
+                                ""
                             ]
                         },
                         {
@@ -9787,21 +9787,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[1]ジャッカル\\c[0]"
+                                "\\c[1]Jackal\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "わたくしは、この賭博場のオーナー、ジャッカルと申しまぁす"
+                                "I am the owner of this gambling den, Jackal. It's\nquite unusual for someone like you to willingly\naccept the Slave Mark. You're different, aren't\nyou?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "えらく素直に奴隷刻印を受けたとか。変わってますねあなた"
+                                ""
                             ]
                         },
                         {
@@ -9836,14 +9836,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "そうね。よく…言われるわ…"
+                                "Yes, I... hear that a lot..."
                             ]
                         },
                         {
@@ -9860,28 +9860,28 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[1]ジャッカル\\c[0]"
+                                "\\c[1]Jackal\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "まぁ…確かにいますけどね。自らここに来る少女も"
+                                "Well... there certainly are girls who come here\nwillingly. Maybe they don't really understand what\nthe Slave Mark is, so I'll explain it just in\ncase..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "もしかすると、あまり奴隷刻印の事をわかってないのかも"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "しれないので、一応説明しますが…"
+                                ""
                             ]
                         },
                         {
@@ -9908,21 +9908,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[1]ジャッカル\\c[0]"
+                                "\\c[1]Jackal\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "奴隷はマスターに絶対服従という力が奴隷刻印でぇす"
+                                "The Slave Mark grants absolute obedience to the\nmaster. It's impossible for a slave to escape from\nthis slum city on their own."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "このスラム街から勝手に抜け出すことは不可能"
+                                ""
                             ]
                         },
                         {
@@ -9957,14 +9957,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そんなこと…聞いてないけど……う…ぅ"
+                                "I didn't hear anything like that... Ugh..."
                             ]
                         },
                         {
@@ -9981,28 +9981,28 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[1]ジャッカル\\c[0]"
+                                "\\c[1]Jackal\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そして、奴隷がマスターに手出しすることも不可能でぇす"
+                                "And until you repay your debt, it's impossible for\na slave to lay a hand on their master. This mark\nwon't be lifted."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あなたが借金を返すまで、この刻印が解除されることは"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ありませぇん"
+                                "I don't have it."
                             ]
                         },
                         {
@@ -10037,14 +10037,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "な…なんてこと…"
+                                "W-What is this..."
                             ]
                         },
                         {
@@ -10061,21 +10061,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[1]ジャッカル\\c[0]"
+                                "\\c[1]Jackal\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "お金の管理は全て、モーモーファイナンスのモーランという男に"
+                                "All money management is entrusted to a man named\nMoran from Moomoo Finance... So, it's best to ask\nhim about repayment."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "任せていますので…返済に関しては彼に聞くといいでぇす"
+                                ""
                             ]
                         },
                         {
@@ -10092,21 +10092,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[1]ジャッカル\\c[0]"
+                                "\\c[1]Jackal\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "地下スラム街内でいかに稼ぐのも自由です。しかし必ずここに"
+                                "You're free to earn money however you want within\nthe underground slum city. But when you come back\nhere, you'll have to entertain a certain man."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "帰ってきてから一人の男の相手をしてもらいまぁす"
+                                ""
                             ]
                         },
                         {
@@ -10141,21 +10141,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "な…孕んだりしたら…どうするの…よ"
+                                "I... If I were to get pregnant... What would\nhappen... I can't possibly give birth..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "産むわけにはいかないわ…"
+                                ""
                             ]
                         },
                         {
@@ -10172,28 +10172,28 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[1]ジャッカル\\c[0]"
+                                "\\c[1]Jackal\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "何を言ってるんですか？みんなそうですよ"
+                                "What are you talking about? Everyone is the same.\nNot everyone can give birth, but they work hard.\nWell, at least in the beginning."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "誰もが産むわけにはいかないけれど、頑張って働きまぁす"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ま、最初だけですがぁね"
+                                ""
                             ]
                         },
                         {
@@ -10210,21 +10210,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[1]ジャッカル\\c[0]"
+                                "\\c[1]Jackal\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "毎日規定の返済額を返せなかったら、ペナルティとして"
+                                "If you can't repay the specified amount every day,\nthe penalty is that the number of days of\nconfinement will increase each time."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "その都度監禁日が増えていきまぁす"
+                                ""
                             ]
                         },
                         {
@@ -10241,21 +10241,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[1]ジャッカル\\c[0]"
+                                "\\c[1]Jackal\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "監禁日が増えれば、それだけ孕んで産む可能性も"
+                                "If the number of confinement days increases, the\npossibility of getting pregnant and giving birth\nalso becomes higher, you know."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "高くなりまぁすね"
+                                ""
                             ]
                         },
                         {
@@ -10290,21 +10290,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（これは…安易すぎたかしら…奴隷刻印というものを"
+                                "(This... might have been too easy... I may have\nunderestimated the power of the slave mark...)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　甘く見すぎていたかもしれない……）"
+                                ""
                             ]
                         },
                         {
@@ -10321,14 +10321,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[1]ジャッカル\\c[0]"
+                                "\\c[1]Jackal\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "それでは、頑張ってくださぁいねぇ～"
+                                "Well then, do your best~"
                             ]
                         },
                         {
@@ -10601,21 +10601,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ひとまず、カーモさんに報告だけはしないと"
+                                "For now, I guess I just won't report to Mr.\nKarmo... Hmm, the mission failed, huh..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "うーん依頼失敗ね…"
+                                ""
                             ]
                         },
                         {
@@ -10863,28 +10863,28 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[2]陵辱され続け、薬も何本打たれたかわからない"
+                                "Konoha's genitals have been continuously violated\nand played with as a toilet, to the point where\nshe doesn't even know how many drugs have been\ninjected into her. As a result, her genitalia has\nbecome distorted and stretched. One man is glaring\nat her with a look of disdain, as if looking down\non her in that state."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "便器で遊ばれ続けた結果、コノハの性器は歪に拡がって"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "しまったまんまだ。そんな様子を一人の男が"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "見下すように睨めつけている"
+                                ""
                             ]
                         },
                         {
@@ -10906,28 +10906,28 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[1]ジャッカル\\c[0]"
+                                "\\c[1]Jackal\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "どうでぇすかぁ？"
+                                "How about it? I believe you understand very well\nwhat it means to point a blade at me."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "わたくしに刃を向けるということがどういうことか"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "よぉくわかったと思いまぁす"
+                                ""
                             ]
                         },
                         {
@@ -10962,14 +10962,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……ぐ…ぅ……"
+                                "......uh...ah......"
                             ]
                         },
                         {
@@ -10986,28 +10986,28 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[1]ジャッカル\\c[0]"
+                                "\\c[1]Jackal\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "さて……"
+                                "Well... you have become my slave. Let me\nexplain..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "あなたはわたくしの奴隷となりました"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "説明は…"
+                                ""
                             ]
                         },
                         {
@@ -11015,8 +11015,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "説明して",
-                                    "説明はいらない"
+                                    "Explain",
+                                    "No need for explanations"
                                 ],
                                 -1,
                                 -1,
@@ -11046,21 +11046,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[1]ジャッカル\\c[0]"
+                                "\\c[1]Jackal\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "奴隷はマスターに絶対服従という力が奴隷刻印でぇす"
+                                "Slaves have the power of absolute obedience to\ntheir masters, it's engraved in their slave mark.\nIt's impossible for them to escape from this slum\ncity on their own."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "このスラム街から勝手に抜け出すことは不可能"
+                                ""
                             ]
                         },
                         {
@@ -11077,14 +11077,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "………っ"
+                                "........."
                             ]
                         },
                         {
@@ -11101,28 +11101,28 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[1]ジャッカル\\c[0]"
+                                "\\c[1]Jackal\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "そして、奴隷がマスターに手出しすることも不可能でぇす"
+                                "And, it's also impossible for a slave to lay a\nhand on their master. Until you repay your debt,\nthis mark will not be removed."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "あなたが借金を返すまで、この刻印が解除されることは"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "ありませぇん"
+                                ""
                             ]
                         },
                         {
@@ -11139,14 +11139,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "……くっ…"
+                                "......ugh..."
                             ]
                         },
                         {
@@ -11163,21 +11163,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[1]ジャッカル\\c[0]"
+                                "\\c[1]Jackal\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "お金の管理は全て、モーモーファイナンスのモーランという男に"
+                                "All financial matters are entrusted to a man named\nMoran from Moomoo Finance... So, it would be best\nto ask him about repayment."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "任せていますので…返済に関しては彼に聞くといいでぇす"
+                                ""
                             ]
                         },
                         {
@@ -11194,21 +11194,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[1]ジャッカル\\c[0]"
+                                "\\c[1]Jackal\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "地下スラム街内でいかに稼ぐのも自由です。しかし必ずここに"
+                                "You are free to earn money however you want within\nthe underground slum city. However, you must\nalways come back here and entertain one man."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "帰ってきてから一人の男の相手をしてもらいまぁす"
+                                ""
                             ]
                         },
                         {
@@ -11243,21 +11243,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "な…孕んだりしたら…どうするの…よ"
+                                "I-if I were to get pregnant... what would\nhappen... I can't possibly give birth..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "産むわけにはいかないわ…"
+                                ""
                             ]
                         },
                         {
@@ -11274,28 +11274,28 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[1]ジャッカル\\c[0]"
+                                "\\c[1]Jackal\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "何を言ってるんですか？みんなそうですよ"
+                                "What are you talking about? Everyone is the same.\nNot everyone can give birth, but do your best and\nwork hard. Well, at least in the beginning."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "誰もが産むわけにはいかないけれど、頑張って働きまぁす"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "ま、最初だけですがぁね"
+                                ""
                             ]
                         },
                         {
@@ -11312,21 +11312,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[1]ジャッカル\\c[0]"
+                                "\\c[1]Jackal\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "毎日規定の返済額を返せなかったら、ペナルティとして"
+                                "If you can't repay the specified amount every day,\nthe penalty will be an increase in the number of\ndays of confinement each time."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "その都度監禁日が増えていきまぁす"
+                                ""
                             ]
                         },
                         {
@@ -11343,21 +11343,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[1]ジャッカル\\c[0]"
+                                "\\c[1]Jackal\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "監禁日が増えれば、それだけ孕んで産む可能性も"
+                                "If the number of confinement days increases, the\npossibility of getting pregnant and giving birth\nalso becomes higher, you know."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "高くなりまぁすね"
+                                ""
                             ]
                         },
                         {
@@ -11392,21 +11392,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "（これは…安易すぎたかしら…奴隷刻印というものを"
+                                "(This... might have been too easy... I may have\nunderestimated the power of the slave mark...)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　甘く見すぎていたかもしれない……）"
+                                ""
                             ]
                         },
                         {
@@ -11423,14 +11423,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[1]ジャッカル\\c[0]"
+                                "\\c[1]Jackal\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "それでは、頑張ってくださぁいねぇ～"
+                                "Well then, do your best~"
                             ]
                         },
                         {
@@ -11460,21 +11460,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[1]ジャッカル\\c[0]"
+                                "\\c[1]Jackal\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "了解でぇす"
+                                "Understood. Well then, please do your best..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "それではせいぜい頑張ってくださぁい……"
+                                ""
                             ]
                         },
                         {
@@ -12265,8 +12265,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "夜伽を始めますか？",
-                                    "まだ…"
+                                    "Do you want to start a night of pleasure?",
+                                    "Not yet"
                                 ],
                                 1,
                                 -1,
@@ -12804,21 +12804,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[2]ここは賭博場の地下のようだ…"
+                                "It seems like we're in the underground of a\ngambling den... There's a man standing ahead,\nlooking down at Konoha with eyes that seem to see\nher as trash."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "前方には立ちはだかる男。ゴミを見るような目で"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "コノハを見下している"
+                                ""
                             ]
                         },
                         {
@@ -12840,21 +12840,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[1]ジャッカル\\c[0]"
+                                "\\c[1]Jackal\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "哀れな子猫、でぇすねぇ…"
+                                "Poor little kitten... You must be Konoha, the\nmagical girl, right?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "あなた、コノハという魔法少女らしいですね"
+                                ""
                             ]
                         },
                         {
@@ -12920,14 +12920,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……う…あ、あんたは…"
+                                "......Ugh... Ah, you're..."
                             ]
                         },
                         {
@@ -12944,21 +12944,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[1]ジャッカル\\c[0]"
+                                "\\c[1]Jackal\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "わたくしは、この賭博場のオーナー、ジャッカルと申しまぁす"
+                                "I am the owner of this gambling den, Jackal. It\nseems like you have incurred a large amount of\ndebt."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "どうやら多額の借金を背負ったようで"
+                                ""
                             ]
                         },
                         {
@@ -12993,14 +12993,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ふん……！"
+                                "Hmph...!"
                             ]
                         },
                         {
@@ -13017,28 +13017,28 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[1]ジャッカル\\c[0]"
+                                "\\c[1]Jackal\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "わたくしはモーモーファイナンスとも仲良くさせて"
+                                "I have a good relationship with Moomoo Finance, so\nlet's get started with the explanation of the\nslave branding right away."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "頂いているわけです"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "それでは早速、奴隷刻印の説明をしましょう"
+                                ""
                             ]
                         },
                         {
@@ -13055,21 +13055,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[1]ジャッカル\\c[0]"
+                                "\\c[1]Jackal\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "奴隷はマスターに絶対服従という力が奴隷刻印でぇす"
+                                "Slaves have the power of absolute obedience to\ntheir masters through the slave branding. It's\nimpossible to escape from this slum city on your\nown."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "このスラム街から勝手に抜け出すことは不可能"
+                                ""
                             ]
                         },
                         {
@@ -13104,14 +13104,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そんなこと…聞いてないけど……？"
+                                "I didn't... hear anything like that...?"
                             ]
                         },
                         {
@@ -13128,28 +13128,28 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[1]ジャッカル\\c[0]"
+                                "\\c[1]Jackal\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そして、奴隷がマスターに手出しすることも不可能でぇす"
+                                "And, it's also impossible for a slave to lay a\nhand on their master. Until you repay your debt,\nthis branding will not be removed."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "あなたが借金を返すまで、この刻印が解除されることは"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ありませぇん"
+                                ""
                             ]
                         },
                         {
@@ -13184,14 +13184,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "な…なんてこと…"
+                                "W-What is this..."
                             ]
                         },
                         {
@@ -13208,21 +13208,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[1]ジャッカル\\c[0]"
+                                "\\c[1]Jackal\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "お金の管理は全て、モーモーファイナンスのモーランという男に"
+                                "All financial matters are entrusted to a man named\nMoran from Moomoo Finance... It would be best to\nask him about repayment."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "任せていますので…返済に関しては彼に聞くといいでぇす"
+                                ""
                             ]
                         },
                         {
@@ -13239,21 +13239,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[1]ジャッカル\\c[0]"
+                                "\\c[1]Jackal\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "地下スラム街内でいかに稼ぐのも自由です。しかし必ずここに"
+                                "You are free to earn money however you want within\nthe underground slum city. But you must always\ncome back here and entertain a certain man."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "帰ってきてから一人の男の相手をしてもらいまぁす"
+                                ""
                             ]
                         },
                         {
@@ -13288,21 +13288,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "な…孕んだりしたら…どうするの…よ"
+                                "If I were to get pregnant... what would happen...\nI can't afford to have a child..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "産むわけにはいかないわ…"
+                                ""
                             ]
                         },
                         {
@@ -13319,28 +13319,28 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[1]ジャッカル\\c[0]"
+                                "\\c[1]Jackal\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "何を言ってるんですか？みんなそうですよ"
+                                "What are you talking about? Everyone is the same.\nNot everyone can afford to have a child, but they\nwork hard. Well, at least in the beginning."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "誰もが産むわけにはいかないけれど、頑張って働きまぁす"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ま、最初だけですがぁね"
+                                ""
                             ]
                         },
                         {
@@ -13357,21 +13357,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[1]ジャッカル\\c[0]"
+                                "\\c[1]Jackal\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "毎日規定の返済額を返せなかったら、ペナルティとして"
+                                "If you can't repay the specified amount every day,\nthe penalty is that the number of days of\nconfinement will increase each time."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "その都度監禁日が増えていきまぁす"
+                                ""
                             ]
                         },
                         {
@@ -13388,21 +13388,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[1]ジャッカル\\c[0]"
+                                "\\c[1]Jackal\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "監禁日が増えれば、それだけ孕んで産む可能性も"
+                                "If the number of confinement days increases, the\npossibility of getting pregnant and giving birth\nalso becomes higher, you know."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "高くなりまぁすね"
+                                ""
                             ]
                         },
                         {
@@ -13437,21 +13437,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（これは…安易すぎたかしら…奴隷刻印というものを"
+                                "(This... might have been too easy... I may have\nunderestimated the power of the slave branding...)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　甘く見すぎていたかもしれない……）"
+                                ""
                             ]
                         },
                         {
@@ -13468,14 +13468,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[1]ジャッカル\\c[0]"
+                                "\\c[1]Jackal\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "それでは、頑張ってくださぁいねぇ～"
+                                "Well then, do your best~"
                             ]
                         },
                         {
@@ -13889,21 +13889,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[2]ここは賭博場の地下のようだ…"
+                                "It seems like this is the underground of a\ngambling den... There's a man standing ahead,\nlooking down at Konoha with eyes that seem to see\nher as trash."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "前方には立ちはだかる男。ゴミを見るような目で"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "コノハを見下している"
+                                ""
                             ]
                         },
                         {
@@ -13925,21 +13925,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[1]ジャッカル\\c[0]"
+                                "\\c[1]Jackal\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "哀れな子猫、でぇすねぇ…"
+                                "Poor little kitten, isn't it... You were\napparently a magical girl named Konoha, huh?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "あなた、コノハという魔法少女だったらしいですね"
+                                ""
                             ]
                         },
                         {
@@ -14005,14 +14005,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……う…あ、あんたは…"
+                                "......Ugh... Y-You are..."
                             ]
                         },
                         {
@@ -14029,28 +14029,28 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[1]ジャッカル\\c[0]"
+                                "\\c[1]Jackal\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "わたくしは、この賭博場のオーナー、ジャッカルと申しまぁす"
+                                "I am the owner of this gambling den, Jackal. It\nseems that my subordinate has found you and\nbrought you here."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "どうやらわたくしの部下があなたを見つけ買ってきた"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ようでぇす"
+                                ""
                             ]
                         },
                         {
@@ -14067,14 +14067,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "くっ……"
+                                "Ugh..."
                             ]
                         },
                         {
@@ -14091,28 +14091,28 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[1]ジャッカル\\c[0]"
+                                "\\c[1]Jackal\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "高値で買い取ったんです、しっかり働いてもらわないと"
+                                "I bought you at a high price, so you better work\nhard for me. It looks like you'll be forced to\ntake on debt starting from today."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "困りまぁすねぇ。あなたは今日から強制的に借金を"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "負うことになりまぁす"
+                                ""
                             ]
                         },
                         {
@@ -14129,14 +14129,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[1]ジャッカル\\c[0]"
+                                "\\c[1]Jackal\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "それでは早速、奴隷刻印の説明をしましょう"
+                                "Well then, let's explain the slave branding right\naway."
                             ]
                         },
                         {
@@ -14153,21 +14153,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[1]ジャッカル\\c[0]"
+                                "\\c[1]Jackal\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "奴隷はマスターに絶対服従という力が奴隷刻印でぇす"
+                                "Slaves have the power of absolute obedience to\ntheir masters. It's impossible to escape from this\nslum city on your own, thanks to the slave\nbranding."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "このスラム街から勝手に抜け出すことは不可能"
+                                ""
                             ]
                         },
                         {
@@ -14202,21 +14202,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "………どうせ、何の力もないんだから"
+                                "......Anyway, since I don't have any power,\nthere's nowhere for me to go."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "どこにも行けやしないわよ"
+                                ""
                             ]
                         },
                         {
@@ -14233,28 +14233,28 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[1]ジャッカル\\c[0]"
+                                "\\c[1]Jackal\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そして、奴隷がマスターに手出しすることも不可能でぇす"
+                                "And until you repay your debt, it's impossible for\na slave to lay a hand on their master. This\nbranding will not be removed."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "あなたが借金を返すまで、この刻印が解除されることは"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ありませぇん"
+                                ""
                             ]
                         },
                         {
@@ -14271,14 +14271,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "な…なんてこと…"
+                                "W-What is this..."
                             ]
                         },
                         {
@@ -14295,21 +14295,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[1]ジャッカル\\c[0]"
+                                "\\c[1]Jackal\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "お金の管理は全て、モーモーファイナンスのモーランという男に"
+                                "I leave all the money management to a man named\nMoran from Moomoo Finance, so... It would be best\nto ask him about repayment."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "任せていますので…返済に関しては彼に聞くといいでぇす"
+                                ""
                             ]
                         },
                         {
@@ -14326,21 +14326,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[1]ジャッカル\\c[0]"
+                                "\\c[1]Jackal\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "地下スラム街内でいかに稼ぐのも自由です。しかし必ずここに"
+                                "You are free to earn money however you want within\nthe underground slum city. However, you must\nalways come back here and entertain a certain man."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "帰ってきてから一人の男の相手をしてもらいまぁす"
+                                ""
                             ]
                         },
                         {
@@ -14375,14 +14375,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "また…性交ばっかりさせて……"
+                                "Again... forced to have sex all the time..."
                             ]
                         },
                         {
@@ -14399,14 +14399,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[1]ジャッカル\\c[0]"
+                                "\\c[1]Jackal\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "はけ口が必要なんですよ、男の子ってのは……"
+                                "Boys need an outlet, you know..."
                             ]
                         },
                         {
@@ -14423,21 +14423,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[1]ジャッカル\\c[0]"
+                                "\\c[1]Jackal\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "毎日規定の返済額を返せなかったら、ペナルティとして"
+                                "If you can't repay the specified amount every day,\nthe penalty will be an increase in the number of\ndays you'll be confined."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "その都度監禁日が増えていきまぁす"
+                                ""
                             ]
                         },
                         {
@@ -14454,21 +14454,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[1]ジャッカル\\c[0]"
+                                "\\c[1]Jackal\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "監禁日が増えれば、それだけ孕んで産む可能性も"
+                                "If the number of confinement days increases, the\npossibility of getting pregnant and giving birth\nalso increases, which would be quite difficult,\nyou know."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "高くなりますし、大変でしょうねぇ"
+                                ""
                             ]
                         },
                         {
@@ -14503,21 +14503,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（とにかく……なんとかして"
+                                "(Anyway... I have to find a way to remove this\nslave branding...)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　奴隷刻印を解除しないと……）"
+                                ""
                             ]
                         },
                         {
@@ -14534,14 +14534,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[1]ジャッカル\\c[0]"
+                                "\\c[1]Jackal\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "それでは、頑張ってくださぁいねぇ～"
+                                "Well then, do your best~"
                             ]
                         },
                         {

@@ -16,7 +16,7 @@
         "volume": 80
     },
     "disableDashing": false,
-    "displayName": "B1F 医務室、懺悔室",
+    "displayName": "B1F Infirmary, Confession Room",
     "encounterList": [],
     "encounterStep": 30,
     "height": 40,
@@ -9444,21 +9444,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[1]医師ドレイク\\C[0]"
+                                "\\C[1]Doctor Drake\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "それは趣味かね？それとも敵に衣服を破かれたのかな？"
+                                "Is that a hobby of yours? Or did someone tear your\nclothes off as an enemy? If they were torn, it\nwould be best to talk to the shrine maiden in the\nadjacent confessional room."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "もし破かれたのであれば隣の懺悔室にいる巫女に話すといい"
+                                ""
                             ]
                         },
                         {
@@ -9485,21 +9485,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[1]医師ドレイク\\C[0]"
+                                "\\C[1]Doctor Drake\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "お前さんはギルドに加入しておらんのか。ギルド非加入者は"
+                                "Aren't you a member of the guild? Non-members are\nrequired to pay the appropriate fee."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "相応のお金を要求するぞ"
+                                ""
                             ]
                         },
                         {
@@ -9542,10 +9542,10 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "何を孕んでいるか検査する【1000Lo】",
-                                    "浄化（堕胎）する【10000Lo】",
-                                    "en(s[29])浄化（寄生）する【5000Lo】",
-                                    "話す【無料】"
+                                    "Testing what you're pregnant with [1000Lo]",
+                                    "Purification (Abortion) [10000Lo]",
+                                    "en(s[29])Purification (Parasite) 【5000Lo】",
+                                    "Talk [Free]"
                                 ],
                                 -1,
                                 0,
@@ -9600,14 +9600,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\C[1]医師ドレイク\\C[0]"
+                                "\\C[1]Doctor Drake\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "よろしい。それでは、お腹を少し触らせてもらうよ"
+                                "Alright. Then, let me touch your stomach a little."
                             ]
                         },
                         {
@@ -9635,14 +9635,14 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "お願いします先生…"
+                                "Please, sensei..."
                             ]
                         },
                         {
@@ -9659,7 +9659,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\C[4]ドレイクは優しくコノハのお腹をさすった…"
+                                "Drake gently stroked Konoha's stomach..."
                             ]
                         },
                         {
@@ -9676,14 +9676,14 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\C[1]医師ドレイク\\C[0]"
+                                "\\C[1]Doctor Drake\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "……。"
+                                "......."
                             ]
                         },
                         {
@@ -9700,14 +9700,14 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\C[1]医師ドレイク\\C[0]"
+                                "\\C[1]Doctor Drake\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "ふむ……。"
+                                "Hmmm..."
                             ]
                         },
                         {
@@ -9735,28 +9735,28 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\C[1]医師ドレイク\\C[0]"
+                                "\\C[1]Doctor Drake\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "お腹におるのは\\C[1]ロリモン\\C[0]じゃな"
+                                "The one in your stomach isn't a \\C[1]Lolimon\\C[0],\ndid you forget that you conceived a Lolimon egg?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 4,
                             "parameters": [
-                                "おぬしロリモンエッグを受胎したんじゃろ？"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 4,
                             "parameters": [
-                                "忘れてしまったのか？"
+                                ""
                             ]
                         },
                         {
@@ -9791,14 +9791,14 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "あ…そ、そういえばそうだったわ！"
+                                "Ah... Th-That's right, I completely forgot!"
                             ]
                         },
                         {
@@ -9815,21 +9815,21 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\C[1]医師ドレイク\\C[0]"
+                                "\\C[1]Doctor Drake\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "いずれ産まれるはずじゃ。魔法少女の身体は健康第一じゃ"
+                                "You should be giving birth soon. The health of a\nmagical girl's body is of utmost importance. It's\ngood to come whenever you're concerned."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 4,
                             "parameters": [
-                                "気になる時はいつでも来るといい"
+                                ""
                             ]
                         },
                         {
@@ -9846,14 +9846,14 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "ありがとうございます"
+                                "Thank you very much."
                             ]
                         },
                         {
@@ -9902,21 +9902,21 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\C[1]医師ドレイク\\C[0]"
+                                "\\C[1]Doctor Drake\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "お腹におるのは\\C[14]魔獣\\C[0]じゃ"
+                                "If there's a \\C[14]magical beast\\C[0] in your\nstomach, it needs to be purified soon or your life\nwill be in danger."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 4,
                             "parameters": [
-                                "すぐに浄化せねば命も危ないぞ"
+                                ""
                             ]
                         },
                         {
@@ -9933,14 +9933,14 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "ま…魔獣が……私の…中に……"
+                                "M-Magical beast... inside me..."
                             ]
                         },
                         {
@@ -9957,21 +9957,21 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\C[1]医師ドレイク\\C[0]"
+                                "\\C[1]Doctor Drake\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "心当たりはあるはずじゃ。なに、お前さん達はそういうやつらと"
+                                "You should have an idea. After all, you guys are\nfighting against those kinds of creatures. There's\nno need to be ashamed."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 4,
                             "parameters": [
-                                "戦っておるんじゃ、恥ずることではない"
+                                ""
                             ]
                         },
                         {
@@ -9988,14 +9988,14 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "はい…"
+                                "Yes..."
                             ]
                         },
                         {
@@ -10044,21 +10044,21 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\C[1]医師ドレイク\\C[0]"
+                                "\\C[1]Doctor Drake\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "お腹におるのは\\C[10]デーモン\\C[0]じゃ"
+                                "The one in your stomach is a \\C[10]demon\\C[0], it\nmust be purified soon."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 4,
                             "parameters": [
-                                "すぐに浄化せねばならん"
+                                ""
                             ]
                         },
                         {
@@ -10075,14 +10075,14 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "デーモンが私のお腹に……"
+                                "A demon in my stomach..."
                             ]
                         },
                         {
@@ -10099,21 +10099,21 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\C[1]医師ドレイク\\C[0]"
+                                "\\C[1]Doctor Drake\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "デーモンを産むのはご法度じゃ。それに魔法少女自身も危険だ"
+                                "It is forbidden to give birth to a demon. It is\nnot only dangerous for the magical girl herself,\nbut also for the city."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 4,
                             "parameters": [
-                                "街にとっても、な"
+                                ""
                             ]
                         },
                         {
@@ -10130,14 +10130,14 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "わかりました…"
+                                "Understood..."
                             ]
                         },
                         {
@@ -10186,14 +10186,14 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\C[1]医師ドレイク\\C[0]"
+                                "\\C[1]Doctor Drake\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "お腹におるのは\\C[8]ヒト\\C[0]の子じゃ"
+                                "The one in your stomach is a \\C[8]human\\C[0]\nchild."
                             ]
                         },
                         {
@@ -10210,14 +10210,14 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "ヒトの子が…私のお腹に…"
+                                "A human child... in my stomach..."
                             ]
                         },
                         {
@@ -10234,21 +10234,21 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\C[1]医師ドレイク\\C[0]"
+                                "\\C[1]Doctor Drake\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "わかっておるじゃろうが、魔法少女がヒトの子を産むという事は"
+                                "You should understand that if a magical girl gives\nbirth to a human child, she will also lose her\n\\C[9]powers\\C[0]..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 4,
                             "parameters": [
-                                "その\\C[9]力\\C[0]も失うということ…"
+                                ""
                             ]
                         },
                         {
@@ -10265,21 +10265,21 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\C[1]医師ドレイク\\C[0]"
+                                "\\C[1]Doctor Drake\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "魔法少女として転生してきたお前さんの人生、別に強制される"
+                                "Your life as a reincarnated magical girl is not\nforced upon you, but I want you to carefully\nconsider the fact that you will lose your powers."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 4,
                             "parameters": [
-                                "わけではないが、その力を失うということをよく考えて欲しい"
+                                ""
                             ]
                         },
                         {
@@ -10296,14 +10296,14 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\C[1]医師ドレイク\\C[0]"
+                                "\\C[1]Doctor Drake\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "選択するのはお主じゃ"
+                                "The one who will make the choice is you."
                             ]
                         },
                         {
@@ -10320,14 +10320,14 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "はい…わかりました…"
+                                "Yes... I understand..."
                             ]
                         },
                         {
@@ -10364,14 +10364,14 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\C[1]医師ドレイク\\C[0]"
+                                "\\C[1]Doctor Drake\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "ふむ、お前さんそもそも孕んでおらんようじゃな"
+                                "Hmmm, it seems you're not pregnant to begin with."
                             ]
                         },
                         {
@@ -10388,21 +10388,21 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\C[1]医師ドレイク\\C[0]"
+                                "\\C[1]Doctor Drake\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "朝起きた時にお腹が大きくなっていたら孕んでしまった証拠じゃ"
+                                "If your stomach gets bigger when you wake up in\nthe morning, it's evidence that you're pregnant.\nIf that happens, come back at that time."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 3,
                             "parameters": [
-                                "その時にまた来るとよかろう"
+                                ""
                             ]
                         },
                         {
@@ -10428,14 +10428,14 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\C[1]医師ドレイク\\C[0]"
+                                "\\C[1]Doctor Drake\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "お金は返しておくよ"
+                                "I'll return the money."
                             ]
                         },
                         {
@@ -10496,14 +10496,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\C[1]医師ドレイク\\C[0]"
+                                "\\C[1]Doctor Drake\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "お金が足らんようじゃの"
+                                "If you don't have enough money..."
                             ]
                         },
                         {
@@ -10552,28 +10552,28 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\C[1]医師ドレイク\\C[0]"
+                                "\\C[1]Doctor Drake\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "むっ？"
+                                "Hm? You, \\C[10]the mark of lust\\C[0] is showing!\nIn this state, abortion is not possible."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "おぬし、\\C[10]淫紋\\C[0]が浮き出ておる！"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "この状態では、堕胎はできぬ"
+                                ""
                             ]
                         },
                         {
@@ -10590,14 +10590,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\C[1]医師ドレイク\\C[0]"
+                                "\\C[1]Doctor Drake\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "淫紋を解除してからまた来るんじゃな"
+                                "Come back after removing the lust mark."
                             ]
                         },
                         {
@@ -10678,21 +10678,21 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "今、ロリモン以外を産むわけにはいかないので…"
+                                "Right now, I can't give birth to anyone other than\nLolimon... Doctor, please take care of me."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 4,
                             "parameters": [
-                                "先生、よろしくお願いします"
+                                ""
                             ]
                         },
                         {
@@ -10709,21 +10709,21 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\C[1]医師ドレイク\\C[0]"
+                                "\\C[1]Doctor Drake\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "よかろう。それでは診察台に乗ってくれたまえ"
+                                "Very well. Then please get on the examination\ntable and let's proceed with the treatment\nimmediately."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 4,
                             "parameters": [
-                                "早速処置をするとしよう"
+                                ""
                             ]
                         },
                         {
@@ -10903,14 +10903,14 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\C[1]医師ドレイク\\C[0]"
+                                "\\C[1]Doctor Drake\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "それでは開始する。力を抜いてくれたまえ"
+                                "Alright, let's begin. Please relax and let go of\nyour strength."
                             ]
                         },
                         {
@@ -10927,7 +10927,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "ドレイクはコノハの割れ目にゆっくりと手を入れていく…"
+                                "Drake slowly inserts his hand into Konoha's\npussy..."
                             ]
                         },
                         {
@@ -10962,14 +10962,14 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "うぅ……っぐ…"
+                                "Ugh... ah..."
                             ]
                         },
                         {
@@ -10997,14 +10997,14 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "ドレイクの手はコノハのお腹の中で蠢く魔獣を探す…"
+                                "Drake's hand searches for the wriggling beast\ninside Konoha's stomach... He must directly\ncapture the beast that is running around inside\nher uterus."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 5,
                             "parameters": [
-                                "子宮内を逃げ回る魔獣を直接捕まえなければならない"
+                                ""
                             ]
                         },
                         {
@@ -11021,21 +11021,21 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "\\C[1]医師ドレイク\\C[0]"
+                                "\\C[1]Doctor Drake\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "大丈夫だ、動かないでくれたまえ…"
+                                "It's okay, please don't move... Just a little\nmore... Just a little longer... Just a little more"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 5,
                             "parameters": [
-                                "もう少し…もう少しだ"
+                                ""
                             ]
                         },
                         {
@@ -11052,14 +11052,14 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "…っっっい…痛っ！"
+                                "...Ahh...it hurts!"
                             ]
                         },
                         {
@@ -11076,14 +11076,14 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "そしてドレイクは孵化した魔獣の胎児を確実に捕まえた"
+                                "And Drake must securely capture the fetus of the\nhatched demonic beast and pull it out."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 5,
                             "parameters": [
-                                "このまま引き抜かなければならない"
+                                ""
                             ]
                         },
                         {
@@ -11100,14 +11100,14 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "\\C[1]医師ドレイク\\C[0]"
+                                "\\C[1]Doctor Drake\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "さぁ、最後だ……我慢してくれたまえコノハ君"
+                                "Now, this is the final part... Endure it for me,\nKonoha."
                             ]
                         },
                         {
@@ -11145,21 +11145,21 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "ドレイクの手はコノハのお腹の中で佇むデーモンを探す…"
+                                "Drake's hand searches for the lurking demon inside\nKonoha's stomach... The demon remains quiet within\nthe uterus, but it spreads its wicked roots and\nit's not easy to remove it."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 5,
                             "parameters": [
-                                "デーモンは子宮内では静かにしているが、悪根と呼ばれる足を"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 5,
                             "parameters": [
-                                "張り巡らせており、そう簡単には外に出せない"
+                                ""
                             ]
                         },
                         {
@@ -11176,21 +11176,21 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "\\C[1]医師ドレイク\\C[0]"
+                                "\\C[1]Doctor Drake\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "えぇいデーモンめ…私の聖なる手でもって浄化してやろう"
+                                "Oh, you demon... With my sacred hand, I will\npurify you. Using Rudia's pure power, I will\ncleanse those wicked roots."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 5,
                             "parameters": [
-                                "バーディアの清き力で、その悪根を祓おうぞ"
+                                ""
                             ]
                         },
                         {
@@ -11207,14 +11207,14 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "…んあ…っっ！！"
+                                "...Ah...ahh!!"
                             ]
                         },
                         {
@@ -11231,14 +11231,14 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "そしてドレイクはデーモンの悪根を除去し本体を"
+                                "And Drake removes the wicked roots of the demon\nand completely captures its main body."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 5,
                             "parameters": [
-                                "完全に捕まえた"
+                                ""
                             ]
                         },
                         {
@@ -11255,21 +11255,21 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "\\C[1]医師ドレイク\\C[0]"
+                                "\\C[1]Doctor Drake\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "さぁ、デーモン、もう逃げられんぞ"
+                                "Now, demon, you can't escape anymore. I'm going to\npull you out all at once. Endure it for me,\nKonoha."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 5,
                             "parameters": [
-                                "一気に引き抜く、耐えてくれコノハ君"
+                                ""
                             ]
                         },
                         {
@@ -11307,21 +11307,21 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "ドレイクの手はコノハのお腹の中の胎児を探す…"
+                                "Drake's hand searches for the fetus inside\nKonoha's stomach... The fetus desperately tries to\nescape within the uterus... It instinctively runs\naround to survive, refusing to be caught."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 5,
                             "parameters": [
-                                "胎児は子宮の中を必死に逃げ回る……"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 5,
                             "parameters": [
-                                "捕まるものかと、生きるために本能で逃げ回るのだ"
+                                ""
                             ]
                         },
                         {
@@ -11338,21 +11338,21 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "\\C[1]医師ドレイク\\C[0]"
+                                "\\C[1]Doctor Drake\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "…これも魔法少女の力を残すため……"
+                                "...This is also to preserve the power of the\nmagical girls... Your soul, without a doubt, will\nbe embraced by the goddess Baretta."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 5,
                             "parameters": [
-                                "お主の魂、必ずやバーディア神が抱擁してくださるであろう"
+                                ""
                             ]
                         },
                         {
@@ -11369,14 +11369,14 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "…んぐ…い、痛いっ！！"
+                                "...Ngh...It hurts!!"
                             ]
                         },
                         {
@@ -11393,7 +11393,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "そしてドレイクは胎児をしっかりと捕まえた"
+                                "And Drake firmly caught the fetus."
                             ]
                         },
                         {
@@ -11410,21 +11410,21 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "\\C[1]医師ドレイク\\C[0]"
+                                "\\C[1]Doctor Drake\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "安らかに眠ってくれ小さな命…"
+                                "Rest peacefully, little life... Now, I'm going to\npull you out. It will hurt, but endure it, Konoha."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 5,
                             "parameters": [
-                                "それでは引き抜くぞ、痛いが我慢するんじゃコノハ君"
+                                ""
                             ]
                         },
                         {
@@ -11603,14 +11603,14 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "…んひぃぃっ！！！"
+                                "...Nghiiii!!!"
                             ]
                         },
                         {
@@ -11627,21 +11627,21 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\C[2]コノハの浄化(堕胎)は成功しました"
+                                "\\C[2]Konoha's purification (abortion) was\nsuccessful. The state pregnancy \\C[8] has been\nlifted. The state post-abortion syndrome \\C[9] has\nbeen applied."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 4,
                             "parameters": [
-                                "ステート\\C[8]「妊娠」\\C[2]が解除されました"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 4,
                             "parameters": [
-                                "ステート\\C[9]「堕胎後遺症」\\C[2]が付与されました"
+                                ""
                             ]
                         },
                         {
@@ -11763,21 +11763,21 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\C[1]医師ドレイク\\C[0]"
+                                "\\C[1]Doctor Drake\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "よく頑張ったな、しかし少しの間は後遺症が残る、すぐには"
+                                "You did well, but there will be some lingering\naftereffects. It won't heal immediately, but\neventually it will return to normal."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 4,
                             "parameters": [
-                                "治らないが、いずれ元通りになるじゃろう"
+                                ""
                             ]
                         },
                         {
@@ -11905,14 +11905,14 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "先生ありがとうございました…"
+                                "Thank you, Doctor..."
                             ]
                         },
                         {
@@ -11929,14 +11929,14 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\C[1]医師ドレイク\\C[0]"
+                                "\\C[1]Doctor Drake\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "うむ、気になることがあったらまた来るといい"
+                                "Well, if you have any concerns, it would be good\nfor you to come back again."
                             ]
                         },
                         {
@@ -11974,21 +11974,21 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "\\C[1]医師ドレイク\\C[0]"
+                                "\\C[1]Doctor Drake\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "ん？お前さんのお腹におるのはロリモンじゃぞ"
+                                "Huh? What's inside your stomach is a Loli-mon.\nLoli-mon cannot be purified. You'll have to give\nbirth as it is."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 5,
                             "parameters": [
-                                "ロリモンは浄化できん。そのまま産むしかないのじゃ"
+                                ""
                             ]
                         },
                         {
@@ -12015,14 +12015,14 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "\\C[1]医師ドレイク\\C[0]"
+                                "\\C[1]Doctor Drake\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "ふむ、お前さんそもそも孕んでおらんようじゃな"
+                                "Hmmm, it seems you weren't pregnant to begin with."
                             ]
                         },
                         {
@@ -12039,21 +12039,21 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "\\C[1]医師ドレイク\\C[0]"
+                                "\\C[1]Doctor Drake\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "朝起きた時にお腹が大きくなっていたら孕んでしまった証拠じゃ"
+                                "If you wake up in the morning and find that your\nstomach has gotten bigger, it's evidence that\nyou've become pregnant. It would be good for you\nto come back at that time."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 5,
                             "parameters": [
-                                "その時にまた来るとよかろう"
+                                ""
                             ]
                         },
                         {
@@ -12079,14 +12079,14 @@
                             "code": 401,
                             "indent": 6,
                             "parameters": [
-                                "\\C[1]医師ドレイク\\C[0]"
+                                "\\C[1]Doctor Drake\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 6,
                             "parameters": [
-                                "お金は返しておくよ"
+                                "I'll refund the money."
                             ]
                         },
                         {
@@ -12157,14 +12157,14 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\C[1]医師ドレイク\\C[0]"
+                                "\\C[1]Doctor Drake\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "お金が足らんようじゃの"
+                                "If you don't have enough money..."
                             ]
                         },
                         {
@@ -12223,21 +12223,21 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\C[1]医師ドレイク\\C[0]"
+                                "\\C[1]Doctor Drake\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "寄生されておるようじゃの"
+                                "If you're being parasitized, I'll purify you\nimmediately."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "すぐにでも浄化してやろう"
+                                ""
                             ]
                         },
                         {
@@ -12272,14 +12272,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "はい、よろしくお願いします……"
+                                "Yes, please take care of me..."
                             ]
                         },
                         {
@@ -12459,14 +12459,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\C[1]医師ドレイク\\C[0]"
+                                "\\C[1]Doctor Drake\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "それでは開始する。力を抜いてくれたまえ"
+                                "Now, let's begin. Please relax."
                             ]
                         },
                         {
@@ -12483,7 +12483,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ドレイクはコノハの割れ目にゆっくりと手を入れていく…"
+                                "Drake slowly inserts his hand into Konoha's\npussy..."
                             ]
                         },
                         {
@@ -12518,14 +12518,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "うぅ……っぐ…"
+                                "Ugh... Ahh..."
                             ]
                         },
                         {
@@ -12694,14 +12694,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "…んくっ！！！"
+                                "...Nnkuu!!!"
                             ]
                         },
                         {
@@ -12718,14 +12718,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\C[2]コノハの浄化(寄生)は成功しました"
+                                "The purification (parasitism) of Konoha was\nsuccessful. The state parasitism has been lifted."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "ステート\\C[10]「寄生」\\C[2]が解除されました"
+                                ""
                             ]
                         },
                         {
@@ -12798,14 +12798,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\C[1]医師ドレイク\\C[0]"
+                                "\\C[1]Doctor Drake\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "さぁもう大丈夫だ"
+                                "Now, it's all right."
                             ]
                         },
                         {
@@ -12933,14 +12933,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "先生ありがとうございました…"
+                                "Thank you very much, Doctor..."
                             ]
                         },
                         {
@@ -12957,14 +12957,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\C[1]医師ドレイク\\C[0]"
+                                "\\C[1]Doctor Drake\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "うむ、気になることがあったらまた来るといい"
+                                "Well, if you have any concerns, it would be good\nto come back again."
                             ]
                         },
                         {
@@ -12996,14 +12996,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\C[1]医師ドレイク\\C[0]"
+                                "\\C[1]Doctor Drake\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "お金が足らんようじゃの"
+                                "If you don't have enough money..."
                             ]
                         },
                         {
@@ -13073,21 +13073,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[1]医師ドレイク\\C[0]"
+                                "\\C[1]Doctor Drake\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "君が噂の魔法少女か。ギルド長から話しは聞いている"
+                                "So, you're the rumored magical girl. I heard about\nthe recent demon attack from the guild leader. It\nwas truly a crisis for the town. I'm really glad\nit turned out okay."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "先日のデーモン襲撃は本当に街の危機だった、本当に良かった"
+                                ""
                             ]
                         },
                         {
@@ -13104,14 +13104,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[1]医師ドレイク\\C[0]"
+                                "\\C[1]Doctor Drake\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "私からも礼を言わせてくれ。ありがとう"
+                                "Let me also express my gratitude. Thank you."
                             ]
                         },
                         {
@@ -13146,21 +13146,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "あの時は偶然ってのもあったし、当然といえば当然のことを"
+                                "At that time, there was some coincidence involved,\nbut I did what was only natural. Don't worry about\nit."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "したまでよ。気にしないで"
+                                ""
                             ]
                         },
                         {
@@ -13177,21 +13177,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[1]医師ドレイク\\C[0]"
+                                "\\C[1]Doctor Drake\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "恐らく君の力は我々の希望となるだろう。私は魔法少女の身体を"
+                                "Your power will likely become our hope. I am\nstationed here to protect the body of the magical\ngirl."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "守るためにここに常駐している"
+                                ""
                             ]
                         },
                         {
@@ -13208,21 +13208,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[1]医師ドレイク\\C[0]"
+                                "\\C[1]Doctor Drake\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "何か身体に異変があったらいつでも来るといい"
+                                "If there are any abnormalities in your body, it's\nimportant to come back anytime. We can't afford to\nlose hope."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "希望を絶やすわけにはいかんからな"
+                                ""
                             ]
                         },
                         {
@@ -13257,21 +13257,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "わかったわ、これからもどうぞよろしくね"
+                                "Alright, from now on, please take care of me, Dr.\nDrake."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "ドレイク先生"
+                                ""
                             ]
                         },
                         {
@@ -13288,21 +13288,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[1]医師ドレイク\\C[0]"
+                                "\\C[1]Doctor Drake\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ところで、先にギルドに登録したらどうじゃ？"
+                                "By the way, how about registering with the guild\nfirst? Once you're registered, you'll be able to\nuse the facilities here for free."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "ここの施設は無料で使えるようになるぞ"
+                                ""
                             ]
                         },
                         {
@@ -13325,10 +13325,10 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "\\C[22]♥誘惑en(v[261]>=300)",
-                                    "\\C[14]♠窃盗en(v[263]>=20)",
-                                    "\\C[3]☠攻撃en(v[263]>=100)",
-                                    "特に何もない"
+                                    "\\C[22]♥ Temptationen(v[261]>=300)",
+                                    "\\C[14]♠Theften(v[263]>=20)",
+                                    "\\C[3]☠ Attacken(v[263]>=100)",
+                                    "Nothing in particular"
                                 ],
                                 -2,
                                 -1,
@@ -13502,14 +13502,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[1]医師ドレイク\\C[0]"
+                                "\\C[1]Doctor Drake\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ぎゃあ！な、なぜ…！？"
+                                "Gyaah! W-Why...!?"
                             ]
                         },
                         {
@@ -13548,14 +13548,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[1]医師ドレイク\\C[0]"
+                                "\\C[1]Doctor Drake\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "うむ、気になることがあったらまた来るといい"
+                                "Well, if you have any concerns, it would be good\nto come back again."
                             ]
                         },
                         {
@@ -13797,21 +13797,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[1]医師ドレイク\\C[0]"
+                                "\\C[1]Doctor Drake\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "それは趣味かね？それとも敵に衣服を破かれたのかな？"
+                                "Is that a hobby of yours? Or did someone tear your\nclothes off as an enemy? If they were torn, it\nwould be good to talk to the shrine maiden in the\nconfession room next door."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "もし破かれたのであれば隣の懺悔室にいる巫女に話すといい"
+                                ""
                             ]
                         },
                         {
@@ -13838,14 +13838,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[1]医師ドレイク\\C[0]"
+                                "\\C[1]Doctor Drake\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "今日はどうされたかね？"
+                                "How are you today?"
                             ]
                         },
                         {
@@ -13870,10 +13870,10 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "何を孕んでいるか検査する",
-                                    "浄化（堕胎）する",
-                                    "en(s[29])浄化（寄生）する",
-                                    "話す"
+                                    "Testing what you're carrying inside",
+                                    "Purify (Abort)",
+                                    "en(s[29])Purify (Parasite)",
+                                    "To speak"
                                 ],
                                 -2,
                                 0,
@@ -13910,14 +13910,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[1]医師ドレイク\\C[0]"
+                                "\\C[1]Doctor Drake\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "よろしい。それでは、お腹を少し触らせてもらうよ"
+                                "Alright. Then, let me touch your stomach a little."
                             ]
                         },
                         {
@@ -13963,14 +13963,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "お願いします先生…"
+                                "Please, Doctor..."
                             ]
                         },
                         {
@@ -13987,7 +13987,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\C[4]ドレイクは優しくコノハのお腹をさすった…"
+                                "Drake gently stroked Konoha's stomach..."
                             ]
                         },
                         {
@@ -14004,14 +14004,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\C[1]医師ドレイク\\C[0]"
+                                "\\C[1]Doctor Drake\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "……。"
+                                "......."
                             ]
                         },
                         {
@@ -14028,14 +14028,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\C[1]医師ドレイク\\C[0]"
+                                "\\C[1]Doctor Drake\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ふむ……。"
+                                "Hmmm..."
                             ]
                         },
                         {
@@ -14063,28 +14063,28 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\C[1]医師ドレイク\\C[0]"
+                                "\\C[1]Doctor Drake\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "お腹におるのは\\C[1]ロリモン\\C[0]じゃな"
+                                "Is it not \\C[1]Lolimon\\C[0] in your belly? Have\nyou forgotten that you conceived a Lolimon egg?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 3,
                             "parameters": [
-                                "おぬしロリモンエッグを受胎したんじゃろ？"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 3,
                             "parameters": [
-                                "忘れてしまったのか？"
+                                ""
                             ]
                         },
                         {
@@ -14119,14 +14119,14 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "あ…そ、そういえばそうだったわ！"
+                                "Ah... Th-That's right, I remember now!"
                             ]
                         },
                         {
@@ -14143,21 +14143,21 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\C[1]医師ドレイク\\C[0]"
+                                "\\C[1]Doctor Drake\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "いずれ産まれるはずじゃ。魔法少女の身体は健康第一じゃ"
+                                "You should be giving birth soon. The health of a\nmagical girl's body is of utmost importance. It's\ngood to come whenever you're concerned."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 3,
                             "parameters": [
-                                "気になる時はいつでも来るといい"
+                                ""
                             ]
                         },
                         {
@@ -14174,14 +14174,14 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "ありがとうございます"
+                                "Thank you very much."
                             ]
                         },
                         {
@@ -14230,21 +14230,21 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\C[1]医師ドレイク\\C[0]"
+                                "\\C[1]Doctor Drake\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "お腹におるのは\\C[14]魔獣\\C[0]じゃ"
+                                "If there is a \\C[14]magical beast\\C[0] in your\nbelly, it must be purified soon, or your life will\nbe in danger."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 3,
                             "parameters": [
-                                "すぐに浄化せねば命も危ないぞ"
+                                ""
                             ]
                         },
                         {
@@ -14261,14 +14261,14 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "ま…魔獣が……私の…中に……"
+                                "M-Magical beast... inside me..."
                             ]
                         },
                         {
@@ -14285,21 +14285,21 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\C[1]医師ドレイク\\C[0]"
+                                "\\C[1]Doctor Drake\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "心当たりはあるはずじゃ。なに、お前さん達はそういうやつらと"
+                                "You should have an idea. After all, you guys are\nfighting against those kinds of creatures. There's\nno need to be ashamed."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 3,
                             "parameters": [
-                                "戦っておるんじゃ、恥ずることではない"
+                                ""
                             ]
                         },
                         {
@@ -14316,14 +14316,14 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "はい…"
+                                "Yes..."
                             ]
                         },
                         {
@@ -14372,21 +14372,21 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\C[1]医師ドレイク\\C[0]"
+                                "\\C[1]Doctor Drake\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "お腹におるのは\\C[10]デーモン\\C[0]じゃ"
+                                "The one inside your belly is a \\C[10]demon\\C[0],\nit must be purified soon."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 3,
                             "parameters": [
-                                "すぐに浄化せねばならん"
+                                ""
                             ]
                         },
                         {
@@ -14403,14 +14403,14 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "デーモンが私のお腹に……"
+                                "A demon in my belly..."
                             ]
                         },
                         {
@@ -14427,21 +14427,21 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\C[1]医師ドレイク\\C[0]"
+                                "\\C[1]Doctor Drake\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "デーモンを産むのはご法度じゃ。それに魔法少女自身も危険だ"
+                                "It is forbidden to give birth to a demon. It is\nnot only dangerous for the magical girl herself,\nbut also for the city."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 3,
                             "parameters": [
-                                "街にとっても、な"
+                                ""
                             ]
                         },
                         {
@@ -14458,14 +14458,14 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "わかりました…"
+                                "Understood..."
                             ]
                         },
                         {
@@ -14514,14 +14514,14 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\C[1]医師ドレイク\\C[0]"
+                                "\\C[1]Doctor Drake\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "お腹におるのは\\C[8]ヒト\\C[0]の子じゃ"
+                                "The one inside your belly is a human child."
                             ]
                         },
                         {
@@ -14538,14 +14538,14 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "ヒトの子が…私のお腹に…"
+                                "A human child... in my belly..."
                             ]
                         },
                         {
@@ -14562,21 +14562,21 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\C[1]医師ドレイク\\C[0]"
+                                "\\C[1]Doctor Drake\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "わかっておるじゃろうが、魔法少女がヒトの子を産むという事は"
+                                "You should understand that if a magical girl gives\nbirth to a human child, she will also lose her\n\\C[9]powers\\C[0]..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 3,
                             "parameters": [
-                                "その\\C[9]力\\C[0]も失うということ…"
+                                ""
                             ]
                         },
                         {
@@ -14593,21 +14593,21 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\C[1]医師ドレイク\\C[0]"
+                                "\\C[1]Doctor Drake\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "魔法少女として転生してきたお前さんの人生、別に強制される"
+                                "Your life as a reincarnated magical girl is not\nforced upon you, but I want you to carefully\nconsider the fact that you will lose your powers."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 3,
                             "parameters": [
-                                "わけではないが、その力を失うということをよく考えて欲しい"
+                                ""
                             ]
                         },
                         {
@@ -14624,14 +14624,14 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\C[1]医師ドレイク\\C[0]"
+                                "\\C[1]Doctor Drake\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "選択するのはお主じゃ"
+                                "The one who will make the choice is you."
                             ]
                         },
                         {
@@ -14648,14 +14648,14 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "はい…わかりました…"
+                                "Yes... I understand..."
                             ]
                         },
                         {
@@ -14692,14 +14692,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\C[1]医師ドレイク\\C[0]"
+                                "\\C[1]Doctor Drake\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ふむ、お前さんそもそも孕んでおらんようじゃな"
+                                "Hmmm, it seems you're not pregnant to begin with."
                             ]
                         },
                         {
@@ -14716,21 +14716,21 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\C[1]医師ドレイク\\C[0]"
+                                "\\C[1]Doctor Drake\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "朝起きた時にお腹が大きくなっていたら孕んでしまった証拠じゃ"
+                                "If your belly gets bigger when you wake up in the\nmorning, it's evidence that you're pregnant. Come\nback at that time if it happens."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "その時にまた来るとよかろう"
+                                ""
                             ]
                         },
                         {
@@ -14791,28 +14791,28 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\C[1]医師ドレイク\\C[0]"
+                                "\\C[1]Doctor Drake\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "むっ？"
+                                "Hmmm? You, \\C[10]the mark of lust\\C[0] is showing!\nIn this state, abortion is not possible."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "おぬし、\\C[10]淫紋\\C[0]が浮き出ておる！"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "この状態では、堕胎はできぬ"
+                                ""
                             ]
                         },
                         {
@@ -14829,14 +14829,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\C[1]医師ドレイク\\C[0]"
+                                "\\C[1]Doctor Drake\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "淫紋を解除してからまた来るんじゃな"
+                                "Come back after you've removed the lust mark."
                             ]
                         },
                         {
@@ -14892,21 +14892,21 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "今、ロリモン以外を産むわけにはいかないので…"
+                                "Right now, I can't give birth to anything other\nthan a loli-mon... So, Doctor, please take care of\nme."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 3,
                             "parameters": [
-                                "先生、よろしくお願いします"
+                                ""
                             ]
                         },
                         {
@@ -14923,21 +14923,21 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\C[1]医師ドレイク\\C[0]"
+                                "\\C[1]Doctor Drake\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "よかろう。それでは診察台に乗ってくれたまえ"
+                                "Very well. Please get on the examination table and\nlet's proceed with the treatment immediately."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 3,
                             "parameters": [
-                                "早速処置をするとしよう"
+                                ""
                             ]
                         },
                         {
@@ -15117,14 +15117,14 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\C[1]医師ドレイク\\C[0]"
+                                "\\C[1]Doctor Drake\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "それでは開始する。力を抜いてくれたまえ"
+                                "Let's begin. Please relax and let go of your\npower."
                             ]
                         },
                         {
@@ -15148,7 +15148,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "ドレイクはコノハの割れ目にゆっくりと手を入れていく…"
+                                "Drake slowly inserts his hand into Konoha's\npussy..."
                             ]
                         },
                         {
@@ -15183,14 +15183,14 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "うぅ……っぐ…"
+                                "Ugh... ah..."
                             ]
                         },
                         {
@@ -15218,14 +15218,14 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "ドレイクの手はコノハのお腹の中で蠢く魔獣を探す…"
+                                "Drake's hand searches for the wriggling beast\ninside Konoha's belly... He must directly capture\nthe beast that is running around inside her\nuterus."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 4,
                             "parameters": [
-                                "子宮内を逃げ回る魔獣を直接捕まえなければならない"
+                                ""
                             ]
                         },
                         {
@@ -15242,21 +15242,21 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\C[1]医師ドレイク\\C[0]"
+                                "\\C[1]Doctor Drake\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "大丈夫だ、動かないでくれたまえ…"
+                                "It's okay, please don't move... Just a little\nmore... Just a little more"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 4,
                             "parameters": [
-                                "もう少し…もう少しだ"
+                                ""
                             ]
                         },
                         {
@@ -15273,14 +15273,14 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "…っっっい…痛っ！"
+                                "...Ahh...it hurts!"
                             ]
                         },
                         {
@@ -15297,14 +15297,14 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "そしてドレイクは孵化した魔獣の胎児を確実に捕まえた"
+                                "And Drake must securely capture the fetus of the\nhatched demonic beast and pull it out."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 4,
                             "parameters": [
-                                "このまま引き抜かなければならない"
+                                ""
                             ]
                         },
                         {
@@ -15321,14 +15321,14 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\C[1]医師ドレイク\\C[0]"
+                                "\\C[1]Doctor Drake\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "さぁ、最後だ……我慢してくれたまえコノハ君"
+                                "Now, this is the final step... Please bear with\nit, Konoha."
                             ]
                         },
                         {
@@ -15366,21 +15366,21 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "ドレイクの手はコノハのお腹の中で佇むデーモンを探す…"
+                                "Drake's hand searches for the demon lurking inside\nKonoha's belly... The demon remains quiet within\nher uterus, but it spreads its wicked roots and\nit's not easy to remove it."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 4,
                             "parameters": [
-                                "デーモンは子宮内では静かにしているが、悪根と呼ばれる足を"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 4,
                             "parameters": [
-                                "張り巡らせており、そう簡単には外に出せない"
+                                ""
                             ]
                         },
                         {
@@ -15397,21 +15397,21 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\C[1]医師ドレイク\\C[0]"
+                                "\\C[1]Doctor Drake\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "えぇいデーモンめ…私の聖なる手でもって浄化してやろう"
+                                "Oh, you demon... With my sacred hand, I will\npurify you. Using Rudia's pure power, I will\ncleanse those wicked roots."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 4,
                             "parameters": [
-                                "バーディアの清き力で、その悪根を祓おうぞ"
+                                ""
                             ]
                         },
                         {
@@ -15428,14 +15428,14 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "…んあ…っっ！！"
+                                "...Ah...ahh!!"
                             ]
                         },
                         {
@@ -15452,14 +15452,14 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "そしてドレイクはデーモンの悪根を除去し本体を"
+                                "And Drake removes the wicked roots of the demon\nand completely captures its main body."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 4,
                             "parameters": [
-                                "完全に捕まえた"
+                                ""
                             ]
                         },
                         {
@@ -15476,21 +15476,21 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\C[1]医師ドレイク\\C[0]"
+                                "\\C[1]Doctor Drake\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "さぁ、デーモン、もう逃げられんぞ"
+                                "Now, demon, you can't escape anymore. I'm going to\npull you out all at once. Endure it, Konoha."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 4,
                             "parameters": [
-                                "一気に引き抜く、耐えてくれコノハ君"
+                                ""
                             ]
                         },
                         {
@@ -15528,21 +15528,21 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "ドレイクの手はコノハのお腹の中の胎児を探す…"
+                                "Drake's hand searches for the fetus inside\nKonoha's belly... The fetus desperately tries to\nescape within her uterus... It instinctively runs\naround to survive, as if refusing to be caught."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 4,
                             "parameters": [
-                                "胎児は子宮の中を必死に逃げ回る……"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 4,
                             "parameters": [
-                                "捕まるものかと、生きるために本能で逃げ回るのだ"
+                                ""
                             ]
                         },
                         {
@@ -15559,21 +15559,21 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\C[1]医師ドレイク\\C[0]"
+                                "\\C[1]Doctor Drake\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "…これも魔法少女の力を残すため……"
+                                "...This is also to preserve the power of the\nmagical girls... Your soul, without a doubt, will\nbe embraced by the goddess Baretta."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 4,
                             "parameters": [
-                                "お主の魂、必ずやバーディア神が抱擁してくださるであろう"
+                                ""
                             ]
                         },
                         {
@@ -15590,14 +15590,14 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "…んぐ…い、痛いっ！！"
+                                "...Ngh...It hurts!!"
                             ]
                         },
                         {
@@ -15614,7 +15614,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "そしてドレイクは胎児をしっかりと捕まえた"
+                                "And Drake firmly caught the fetus."
                             ]
                         },
                         {
@@ -15631,21 +15631,21 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\C[1]医師ドレイク\\C[0]"
+                                "\\C[1]Doctor Drake\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "安らかに眠ってくれ小さな命…"
+                                "Rest peacefully, little life... Now, I'm going to\npull you out. It will hurt, but bear with it,\nKonoha."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 4,
                             "parameters": [
-                                "それでは引き抜くぞ、痛いが我慢するんじゃコノハ君"
+                                ""
                             ]
                         },
                         {
@@ -15824,14 +15824,14 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "…んひぃぃっ！！！"
+                                "...Nghiiii!!!"
                             ]
                         },
                         {
@@ -15848,21 +15848,21 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\C[2]コノハの浄化(堕胎)は成功しました"
+                                "\\C[2]Konoha's purification (abortion) was\nsuccessful. The state pregnancy \\C[8] has been\nlifted. The state post-abortion syndrome \\C[9] has\nbeen applied."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 3,
                             "parameters": [
-                                "ステート\\C[8]「妊娠」\\C[2]が解除されました"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 3,
                             "parameters": [
-                                "ステート\\C[9]「堕胎後遺症」\\C[2]が付与されました"
+                                ""
                             ]
                         },
                         {
@@ -15984,21 +15984,21 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\C[1]医師ドレイク\\C[0]"
+                                "\\C[1]Doctor Drake\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "よく頑張ったな、しかし少しの間は後遺症が残る、すぐには"
+                                "You did well, but there will be some lingering\naftereffects. It won't heal immediately, but\neventually it will return to normal."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 3,
                             "parameters": [
-                                "治らないが、いずれ元通りになるじゃろう"
+                                ""
                             ]
                         },
                         {
@@ -16126,14 +16126,14 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "先生ありがとうございました…"
+                                "Thank you, Doctor..."
                             ]
                         },
                         {
@@ -16150,14 +16150,14 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\C[1]医師ドレイク\\C[0]"
+                                "\\C[1]Doctor Drake\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "うむ、気になることがあったらまた来るといい"
+                                "Well, if you have any concerns, it would be good\nto come back again."
                             ]
                         },
                         {
@@ -16192,14 +16192,14 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\C[1]医師ドレイク\\C[0]"
+                                "\\C[1]Doctor Drake\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "あ、これを持っていきなさい"
+                                "Ah, take this."
                             ]
                         },
                         {
@@ -16226,14 +16226,14 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "これは…？"
+                                "What is this...?"
                             ]
                         },
                         {
@@ -16250,28 +16250,28 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\C[1]医師ドレイク\\C[0]"
+                                "\\C[1]Doctor Drake\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "マッサージ無料券じゃ。それは魔法少女専門の特殊なところでな"
+                                "It's a free massage ticket. It's a special place\ndedicated to magical girls, where they can heal if\nthey experience physical fatigue due to things\nlike abortion."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 4,
                             "parameters": [
-                                "堕胎などによる体力低下が起きた場合そこで治すことができる"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 4,
                             "parameters": [
-                                "というものじゃ"
+                                ""
                             ]
                         },
                         {
@@ -16288,21 +16288,21 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\C[1]医師ドレイク\\C[0]"
+                                "\\C[1]Doctor Drake\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "元気のいい娘が行く必要はないから、ここで堕胎した者のみ"
+                                "There's no need for a lively girl like you to go\nthere, so I'm distributing this ticket only to\nthose who have had an abortion here."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 4,
                             "parameters": [
-                                "この券を配布しておるんじゃよ"
+                                ""
                             ]
                         },
                         {
@@ -16319,14 +16319,14 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "これは助かるわ、ありがとう医務室長！"
+                                "This is helpful, thank you, Doctor Drake!"
                             ]
                         },
                         {
@@ -16343,14 +16343,14 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\C[1]医師ドレイク\\C[0]"
+                                "\\C[1]Doctor Drake\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "場所は領主の屋敷に行って探せば見つかるじゃろう"
+                                "If you go to the lord's mansion and search, you\nshould be able to find the place."
                             ]
                         },
                         {
@@ -16367,21 +16367,21 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "領主の屋敷に…？"
+                                "To the lord's mansion...? Well, I guess I'll find\nout once I go there."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 4,
                             "parameters": [
-                                "まぁ行ってみればわかるかしらね"
+                                ""
                             ]
                         },
                         {
@@ -16429,21 +16429,21 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\C[1]医師ドレイク\\C[0]"
+                                "\\C[1]Doctor Drake\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "ん？お前さんのお腹におるのはロリモンじゃぞ"
+                                "Huh? What's in your belly is a Loli-mon. Loli-mon\ncannot be purified. You'll have to give birth as\nit is."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 4,
                             "parameters": [
-                                "ロリモンは浄化できん。そのまま産むしかないのじゃ"
+                                ""
                             ]
                         },
                         {
@@ -16470,14 +16470,14 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\C[1]医師ドレイク\\C[0]"
+                                "\\C[1]Doctor Drake\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "ふむ、お前さんそもそも孕んでおらんようじゃな"
+                                "Hmmm, it seems you're not pregnant to begin with."
                             ]
                         },
                         {
@@ -16494,21 +16494,21 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\C[1]医師ドレイク\\C[0]"
+                                "\\C[1]Doctor Drake\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "朝起きた時にお腹が大きくなっていたら孕んでしまった証拠じゃ"
+                                "If you wake up in the morning and find that your\nbelly has gotten bigger, it's evidence that you're\npregnant. It would be good to come back at that\ntime."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 4,
                             "parameters": [
-                                "その時にまた来るとよかろう"
+                                ""
                             ]
                         },
                         {
@@ -16573,21 +16573,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[1]医師ドレイク\\C[0]"
+                                "\\C[1]Doctor Drake\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "寄生されておるようじゃの"
+                                "If you're being parasitized, I'll purify you right\naway."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "すぐにでも浄化してやろう"
+                                ""
                             ]
                         },
                         {
@@ -16622,14 +16622,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "はい、よろしくお願いします……"
+                                "Yes, please take care of me..."
                             ]
                         },
                         {
@@ -16809,14 +16809,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[1]医師ドレイク\\C[0]"
+                                "\\C[1]Doctor Drake\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "それでは開始する。力を抜いてくれたまえ"
+                                "Now, let's begin. Please relax and let go of your\nstrength."
                             ]
                         },
                         {
@@ -16840,7 +16840,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ドレイクはコノハの割れ目にゆっくりと手を入れていく…"
+                                "Drake slowly inserts his hand into Konoha's\npussy..."
                             ]
                         },
                         {
@@ -16875,14 +16875,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "うぅ……っぐ…"
+                                "Ugh... ah..."
                             ]
                         },
                         {
@@ -17051,14 +17051,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "…んくっ！！！"
+                                "...Nnkuu!!!"
                             ]
                         },
                         {
@@ -17075,14 +17075,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[2]コノハの浄化(寄生)は成功しました"
+                                "The purification (parasitism) of Konoha was\nsuccessful. The state of parasitism has been\nlifted."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "ステート\\C[10]「寄生」\\C[2]が解除されました"
+                                ""
                             ]
                         },
                         {
@@ -17155,14 +17155,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[1]医師ドレイク\\C[0]"
+                                "\\C[1]Doctor Drake\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "さぁもう大丈夫だ"
+                                "Now, it's all right."
                             ]
                         },
                         {
@@ -17290,14 +17290,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "先生ありがとうございました…"
+                                "Thank you very much, Doctor..."
                             ]
                         },
                         {
@@ -17314,14 +17314,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[1]医師ドレイク\\C[0]"
+                                "\\C[1]Doctor Drake\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "うむ、気になることがあったらまた来るといい"
+                                "Yes, it would be good if you come back if there's\nanything concerning."
                             ]
                         },
                         {
@@ -17381,21 +17381,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[1]医師ドレイク\\C[0]"
+                                "\\C[1]Doctor Drake\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "君が噂の魔法少女か。ギルド長から話しは聞いている"
+                                "So, you're the rumored magical girl. I heard from\nthe guild leader that the recent demon attack was\na real crisis for the town. I'm really glad it\nturned out okay."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "先日のデーモン襲撃は本当に街の危機だった、本当に良かった"
+                                ""
                             ]
                         },
                         {
@@ -17412,14 +17412,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[1]医師ドレイク\\C[0]"
+                                "\\C[1]Doctor Drake\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "私からも礼を言わせてくれ。ありがとう"
+                                "Let me also express my gratitude. Thank you."
                             ]
                         },
                         {
@@ -17454,21 +17454,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "あの時は偶然ってのもあったし、当然といえば当然のことを"
+                                "At that time, there was some coincidence involved,\nbut I did what was only natural. Don't worry about\nit."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "したまでよ。気にしないで"
+                                ""
                             ]
                         },
                         {
@@ -17485,21 +17485,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[1]医師ドレイク\\C[0]"
+                                "\\C[1]Doctor Drake\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "恐らく君の力は我々の希望となるだろう。私は魔法少女の身体を"
+                                "Your power will likely become our hope. I am\nstationed here to protect the body of the magical\ngirl."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "守るためにここに常駐している"
+                                ""
                             ]
                         },
                         {
@@ -17516,21 +17516,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[1]医師ドレイク\\C[0]"
+                                "\\C[1]Doctor Drake\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "何か身体に異変があったらいつでも来るといい"
+                                "If there are any abnormalities in your body, it's\nimportant that you come back anytime. We can't\nafford to lose hope."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "希望を絶やすわけにはいかんからな"
+                                ""
                             ]
                         },
                         {
@@ -17565,21 +17565,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "わかったわ、これからもどうぞよろしくね"
+                                "Alright, from now on, please take care of me, Dr.\nDrake."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "ドレイク先生"
+                                ""
                             ]
                         },
                         {
@@ -17615,10 +17615,10 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "\\C[22]♥誘惑en(v[261]>=300)",
-                                    "\\C[14]♠窃盗en(v[263]>=20)",
-                                    "\\C[3]☠攻撃en(v[263]>=100)",
-                                    "特に何もない"
+                                    "\\C[22]♥ Temptationen(v[261]>=300)",
+                                    "\\C[14]♠Theften(v[263]>=20)",
+                                    "\\C[3]☠ Attacken(v[263]>=100)",
+                                    "Nothing in particular"
                                 ],
                                 -2,
                                 -1,
@@ -17792,14 +17792,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[1]医師ドレイク\\C[0]"
+                                "\\C[1]Doctor Drake\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ぎゃあ！な、なぜ…！？"
+                                "Gyaah! W-Why...!?"
                             ]
                         },
                         {
@@ -17838,14 +17838,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[1]医師ドレイク\\C[0]"
+                                "\\C[1]Doctor Drake\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "うむ、気になることがあったらまた来るといい"
+                                "Well, it would be good if you come back if there's\nanything concerning."
                             ]
                         },
                         {
@@ -18096,21 +18096,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[1]医師ドレイク\\C[0]"
+                                "\\C[1]Doctor Drake\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "こんなに殺して"
+                                "What do you intend to do by killing so many people\nin the town..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "街をどうするつもりじゃ…"
+                                ""
                             ]
                         },
                         {
@@ -18143,10 +18143,10 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "\\C[22]♥誘惑en(v[261]>=300)",
-                                    "\\C[14]♠窃盗en(v[263]>=20)",
-                                    "\\C[3]☠攻撃en(v[263]>=100)",
-                                    "特に何もない"
+                                    "\\C[22]♥ Temptationen(v[261]>=300)",
+                                    "\\C[14]♠Theften(v[263]>=20)",
+                                    "\\C[3]☠ Attacken(v[263]>=100)",
+                                    "There's nothing in particular"
                                 ],
                                 -2,
                                 -1,
@@ -18320,14 +18320,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[1]医師ドレイク\\C[0]"
+                                "\\C[1]Doctor Drake\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ぎゃあ！"
+                                "Gyaah!"
                             ]
                         },
                         {
@@ -18366,14 +18366,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[1]医師ドレイク\\C[0]"
+                                "\\C[1]Doctor Drake\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "もうここには来ないでくれ"
+                                "Please don't come here anymore."
                             ]
                         },
                         {
@@ -18542,9 +18542,9 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "会話",
-                                    "金剛膜の札が欲しい",
-                                    "淫紋を剥がしたい"
+                                    "Conversation",
+                                    "I want a Konoha's amulet",
+                                    "I want to remove the lewd seal"
                                 ],
                                 -2,
                                 0,
@@ -18594,21 +18594,21 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\c[1]巫女\\c[0]"
+                                "\\c[1]Miko\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "戦闘で傷ついてしまい、仕方なくそのような格好になって"
+                                "I got injured in battle, so I had no choice but to\ndress like this. Let me repair it for you right\naway."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 3,
                             "parameters": [
-                                "いるのですね。すぐにリペアして差し上げましょう"
+                                ""
                             ]
                         },
                         {
@@ -18641,14 +18641,14 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "助かりました。ありがとうございます"
+                                "Thank you for saving me. I really appreciate it."
                             ]
                         },
                         {
@@ -18675,14 +18675,14 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\c[1]巫女\\c[0]"
+                                "\\c[1]Miko\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "そんな格好で大丈夫ですか…？"
+                                "Are you okay dressed like that...?"
                             ]
                         },
                         {
@@ -18699,14 +18699,14 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "大丈夫です。問題ありません"
+                                "I'm fine. There's no problem."
                             ]
                         },
                         {
@@ -18754,21 +18754,21 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\c[1]巫女\\c[0]"
+                                "\\c[1]Miko\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "戦闘で傷ついてしまい、仕方なくそのような格好になって"
+                                "I got injured in battle, so I had no choice but to\ndress like this. Let me repair it for you right\naway."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 3,
                             "parameters": [
-                                "いるのですね。すぐにリペアして差し上げましょう"
+                                ""
                             ]
                         },
                         {
@@ -18801,14 +18801,14 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "助かりました。ありがとうございます"
+                                "Thank you for saving me. I really appreciate it."
                             ]
                         },
                         {
@@ -18835,14 +18835,14 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\c[1]巫女\\c[0]"
+                                "\\c[1]Miko\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "懺悔すべき事があるのなら像の前でお祈りをするとよいでしょう"
+                                "If you have something to repent for, it would be\ngood to pray in front of the statue."
                             ]
                         },
                         {
@@ -18859,21 +18859,21 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\c[1]巫女\\c[0]"
+                                "\\c[1]Miko\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "ギルドの者ならばきっと慈悲を持って減罪されることでしょう"
+                                "If you are a member of the guild, you will surely\nbe forgiven with compassion. Those who are not\nwill be forgiven with some sincerity."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 3,
                             "parameters": [
-                                "そうでない者はいくばくかの誠意で減罪されることでしょう"
+                                ""
                             ]
                         },
                         {
@@ -18890,14 +18890,14 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\c[1]巫女\\c[0]"
+                                "\\c[1]Miko\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "慈愛神バーディアの祝福のあらんことを"
+                                "May you receive the blessings of the merciful\ngoddess Baretta."
                             ]
                         },
                         {
@@ -18955,14 +18955,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[1]巫女\\c[0]"
+                                "\\c[1]Miko\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "もうすでにお持ちのようですね"
+                                "It seems like you already have it."
                             ]
                         },
                         {
@@ -18998,21 +18998,21 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\c[1]巫女\\c[0]"
+                                "\\c[1]Miko\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "ギルドの方には無償で「金剛膜の札」を差し上げています"
+                                "I offer the Adamantine Membrane Talisman to guild\nmembers free of charge. Please accept it."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 3,
                             "parameters": [
-                                "お受け取りください"
+                                ""
                             ]
                         },
                         {
@@ -19039,21 +19039,21 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\c[1]巫女\\c[0]"
+                                "\\c[1]Miko\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "アイテム欄で使用すれば、効果を付与したり解除したり"
+                                "If you use it in the item slot, you can apply or\nremove its effects."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 3,
                             "parameters": [
-                                "できます"
+                                ""
                             ]
                         },
                         {
@@ -19080,14 +19080,14 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\c[1]巫女\\c[0]"
+                                "\\c[1]Miko\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "「金剛膜の札」は3000Loでお売りしています"
+                                "The 'Adamantine Membrane Talisman' is being sold\nfor 3000Lo."
                             ]
                         },
                         {
@@ -19095,8 +19095,8 @@
                             "indent": 3,
                             "parameters": [
                                 [
-                                    "買う",
-                                    "いらない"
+                                    "Buy",
+                                    "Not needed"
                                 ],
                                 1,
                                 0,
@@ -19154,21 +19154,21 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "\\c[1]巫女\\c[0]"
+                                "\\c[1]Miko\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "アイテム欄で使用すれば、効果を付与したり解除したり"
+                                "If you use it in the item slot, you can apply or\nremove its effects."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 5,
                             "parameters": [
-                                "できます"
+                                ""
                             ]
                         },
                         {
@@ -19195,14 +19195,14 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "\\c[1]巫女\\c[0]"
+                                "\\c[1]Miko\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "お金が足らないようですね……"
+                                "It seems like you don't have enough money..."
                             ]
                         },
                         {
@@ -19294,14 +19294,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[1]巫女\\c[0]"
+                                "\\c[1]Miko\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ギルドの方には無償で「淫紋剥がしの術」を施します"
+                                "I will perform the Lust Mark Removal Technique on\nguild members free of charge."
                             ]
                         },
                         {
@@ -19383,14 +19383,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[1]巫女\\c[0]"
+                                "\\c[1]Miko\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "これでもう大丈夫ですよ"
+                                "Now, you should be completely fine."
                             ]
                         },
                         {
@@ -19417,14 +19417,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[1]巫女\\c[0]"
+                                "\\c[1]Miko\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "「淫紋剥がしの術」は10000Loで承っています"
+                                "I offer the 'Lust Mark Removal Technique' for\n10,000Lo."
                             ]
                         },
                         {
@@ -19432,8 +19432,8 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "処置をしてもらう",
-                                    "しない"
+                                    "I want to receive the treatment",
+                                    "Don't do it"
                                 ],
                                 1,
                                 0,
@@ -19546,14 +19546,14 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\c[1]巫女\\c[0]"
+                                "\\c[1]Miko\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "これでもう大丈夫ですよ"
+                                "Now, you should be completely fine."
                             ]
                         },
                         {
@@ -19580,14 +19580,14 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\c[1]巫女\\c[0]"
+                                "\\c[1]Miko\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "お金が足らないようですね……"
+                                "It seems like you don't have enough money..."
                             ]
                         },
                         {
@@ -19661,10 +19661,10 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "\\C[22]♥誘惑en(v[261]>=300)",
-                                    "\\C[14]♠窃盗en(v[263]>=20)",
-                                    "\\C[3]☠攻撃en(v[263]>=100)",
-                                    "特に何もない"
+                                    "\\C[22]♥ Temptationen(v[261]>=300)",
+                                    "\\C[14]♠Theften(v[263]>=20)",
+                                    "\\C[3]☠ Attacken(v[263]>=100)",
+                                    "There's nothing special"
                                 ],
                                 -2,
                                 -1,
@@ -19694,14 +19694,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[1]巫女\\c[0]"
+                                "\\c[1]Miko\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "うふふ、私を誘っても無意味ですわ"
+                                "Hehe, tempting me is pointless."
                             ]
                         },
                         {
@@ -19827,14 +19827,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[1]巫女\\c[0]"
+                                "\\c[1]Miko\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "あぁ…なんという罪深きことを……"
+                                "Ah... What a sinful thing..."
                             ]
                         },
                         {
@@ -19873,14 +19873,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[1]巫女\\c[0]"
+                                "\\c[1]Miko\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "慈愛神バーディアの祝福のあらんことを"
+                                "May the blessings of the benevolent deity Baretta\nbe upon you."
                             ]
                         },
                         {
@@ -19989,7 +19989,7 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "会話"
+                                    "Conversation"
                                 ],
                                 -1,
                                 0,
@@ -20019,14 +20019,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[1]巫女\\c[0]"
+                                "\\c[1]Miko\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "あなたにバーディアの加護はありません"
+                                "You do not have Baretta's protection."
                             ]
                         },
                         {
@@ -20044,10 +20044,10 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "\\C[22]♥誘惑en(v[261]>=300)",
-                                    "\\C[14]♠窃盗en(v[263]>=20)",
-                                    "\\C[3]☠攻撃en(v[263]>=100)",
-                                    "特に何もない"
+                                    "\\C[22]♥ Temptationen(v[261]>=300)",
+                                    "\\C[14]♠Theften(v[263]>=20)",
+                                    "\\C[3]☠ Attacken(v[263]>=100)",
+                                    "Nothing in particular"
                                 ],
                                 -2,
                                 -1,
@@ -20077,14 +20077,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[1]巫女\\c[0]"
+                                "\\c[1]Miko\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "無駄ですわ"
+                                "It's futile."
                             ]
                         },
                         {
@@ -20210,14 +20210,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[1]巫女\\c[0]"
+                                "\\c[1]Miko\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "あぁ…なんという罪深きことを……"
+                                "Ah... What a sinful thing..."
                             ]
                         },
                         {
@@ -20256,14 +20256,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[1]巫女\\c[0]"
+                                "\\c[1]Miko\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "あなたにバーディアの加護はありません"
+                                "You do not have Rudia's protection."
                             ]
                         },
                         {
@@ -20420,9 +20420,9 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "懺悔する",
-                                    "お祈りする（運を戻したい…）",
-                                    "しない"
+                                    "Repent",
+                                    "Praying (I want to turn back my luck)",
+                                    "Don't do it"
                                 ],
                                 -2,
                                 0,
@@ -20463,7 +20463,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\C[6]あなたは懺悔をする必要がないようだ"
+                                "It seems like you don't need to repent, \\C[6]."
                             ]
                         },
                         {
@@ -20779,14 +20779,14 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\C[1]カルマが下がった！"
+                                "\\C[1]Karma has decreased! \\C[10]Current\nkarma\\v[263]"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 3,
                             "parameters": [
-                                "\\C[10]現在のカルマ　\\v[263]"
+                                ""
                             ]
                         },
                         {
@@ -20900,7 +20900,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\C[1]運はすでに悪くないようです"
+                                "It seems like luck is not already bad."
                             ]
                         },
                         {
@@ -20962,7 +20962,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\C[1]運が少しよくなった！"
+                                "Luck has improved a little!"
                             ]
                         },
                         {
@@ -21034,9 +21034,9 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "懺悔する",
-                                    "お祈りする（運を戻したい）",
-                                    "しない"
+                                    "Repent",
+                                    "Praying (Want to turn back luck)",
+                                    "Don't do it"
                                 ],
                                 -2,
                                 0,
@@ -21077,7 +21077,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\C[6]あなたは懺悔をする必要がないようだ"
+                                "It seems like you don't need to repent."
                             ]
                         },
                         {
@@ -21128,7 +21128,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\C[2]寄付金　100000Loが必要です"
+                                "\\C[2] I need a donation of 100,000 Lo."
                             ]
                         },
                         {
@@ -21136,8 +21136,8 @@
                             "indent": 4,
                             "parameters": [
                                 [
-                                    "払う",
-                                    "払わない"
+                                    "Pay",
+                                    "Don't pay"
                                 ],
                                 1,
                                 0,
@@ -21202,7 +21202,7 @@
                             "code": 401,
                             "indent": 6,
                             "parameters": [
-                                "\\C[2]お金が足りません"
+                                "I don't have enough money."
                             ]
                         },
                         {
@@ -21273,7 +21273,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "\\C[2]寄付金　50000Loが必要です"
+                                "A donation of 50,000 Lo is required."
                             ]
                         },
                         {
@@ -21281,8 +21281,8 @@
                             "indent": 5,
                             "parameters": [
                                 [
-                                    "払う",
-                                    "払わない"
+                                    "Pay",
+                                    "Not paying"
                                 ],
                                 1,
                                 0,
@@ -21347,7 +21347,7 @@
                             "code": 401,
                             "indent": 7,
                             "parameters": [
-                                "\\C[2]お金が足りません"
+                                "I don't have enough money."
                             ]
                         },
                         {
@@ -21418,7 +21418,7 @@
                             "code": 401,
                             "indent": 6,
                             "parameters": [
-                                "\\C[2]寄付金　25000Loが必要です"
+                                "A donation of 25,000 Lo is required."
                             ]
                         },
                         {
@@ -21426,8 +21426,8 @@
                             "indent": 6,
                             "parameters": [
                                 [
-                                    "払う",
-                                    "払わない"
+                                    "Pay",
+                                    "Not paying"
                                 ],
                                 1,
                                 0,
@@ -21492,7 +21492,7 @@
                             "code": 401,
                             "indent": 8,
                             "parameters": [
-                                "\\C[2]お金が足りません"
+                                "I don't have enough money."
                             ]
                         },
                         {
@@ -21563,7 +21563,7 @@
                             "code": 401,
                             "indent": 7,
                             "parameters": [
-                                "\\C[2]寄付金　12500Loが必要です"
+                                "A donation of 12,500 Lo is required."
                             ]
                         },
                         {
@@ -21571,8 +21571,8 @@
                             "indent": 7,
                             "parameters": [
                                 [
-                                    "払う",
-                                    "払わない"
+                                    "Pay",
+                                    "Not paying"
                                 ],
                                 1,
                                 0,
@@ -21637,7 +21637,7 @@
                             "code": 401,
                             "indent": 9,
                             "parameters": [
-                                "\\C[2]お金が足りません"
+                                "I don't have enough money."
                             ]
                         },
                         {
@@ -21708,7 +21708,7 @@
                             "code": 401,
                             "indent": 8,
                             "parameters": [
-                                "\\C[2]寄付金　6000Loが必要です"
+                                "A donation of 6,000 Lo is required."
                             ]
                         },
                         {
@@ -21716,8 +21716,8 @@
                             "indent": 8,
                             "parameters": [
                                 [
-                                    "払う",
-                                    "払わない"
+                                    "Pay",
+                                    "Not paying"
                                 ],
                                 1,
                                 0,
@@ -21782,7 +21782,7 @@
                             "code": 401,
                             "indent": 10,
                             "parameters": [
-                                "\\C[2]お金が足りません"
+                                "I don't have enough money."
                             ]
                         },
                         {
@@ -21853,7 +21853,7 @@
                             "code": 401,
                             "indent": 9,
                             "parameters": [
-                                "\\C[2]寄付金　3000Loが必要です"
+                                "A donation of 3,000 Lo is required."
                             ]
                         },
                         {
@@ -21861,8 +21861,8 @@
                             "indent": 9,
                             "parameters": [
                                 [
-                                    "払う",
-                                    "払わない"
+                                    "Pay",
+                                    "Not paying"
                                 ],
                                 1,
                                 0,
@@ -21927,7 +21927,7 @@
                             "code": 401,
                             "indent": 11,
                             "parameters": [
-                                "\\C[2]お金が足りません"
+                                "I don't have enough money."
                             ]
                         },
                         {
@@ -22070,7 +22070,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\C[2]寄付金　1000Loが必要です"
+                                "A donation of 1000 Lo is required."
                             ]
                         },
                         {
@@ -22078,8 +22078,8 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "払う",
-                                    "払わない"
+                                    "Pay",
+                                    "Not paying"
                                 ],
                                 1,
                                 0,
@@ -22193,7 +22193,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "\\C[1]運はすでに悪くないようです"
+                                "\\C[1] It seems like luck is not bad already."
                             ]
                         },
                         {
@@ -22255,7 +22255,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "\\C[1]運が少しよくなった！"
+                                "My luck has improved a little!"
                             ]
                         },
                         {
@@ -22300,7 +22300,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\C[2]お金が足りません"
+                                "I don't have enough money."
                             ]
                         },
                         {
@@ -22448,7 +22448,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[2]今日はもう懺悔やお祈りはできないようだ"
+                                "It seems like I can no longer repent or pray\ntoday."
                             ]
                         },
                         {
@@ -24376,14 +24376,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【託児所こどもランド】"
+                                "\\>【Childcare Land】\\>\\C[2]. We will take care of\nyour precious baby."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "\\>\\C[2]・大切な赤ちゃん、お預かりします"
+                                ""
                             ]
                         },
                         {

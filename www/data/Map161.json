@@ -16,7 +16,7 @@
         "volume": 80
     },
     "disableDashing": false,
-    "displayName": "よろず屋-ビターナッツ",
+    "displayName": "General Store - Bitternuts",
     "encounterList": [],
     "encounterStep": 30,
     "height": 20,
@@ -4269,8 +4269,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "\\C[3]盗むLV2",
-                                    "何もしない"
+                                    "Steal LV2",
+                                    "Doing nothing"
                                 ],
                                 1,
                                 -1,
@@ -4458,14 +4458,14 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\c[6]コノハ\\c[0]"
+                                "\\c[6]Konoha\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "なんかまずい気がするわ"
+                                "I have a bad feeling about this."
                             ]
                         },
                         {
@@ -4504,14 +4504,14 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\c[6]コノハ\\c[0]"
+                                "\\c[6]Konoha\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "ちょっと失敗ね"
+                                "I messed up a little."
                             ]
                         },
                         {
@@ -4731,14 +4731,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "なかなか綺麗な身体してるのね、あなた"
+                                "You have quite a beautiful body, but you still\nlack enough sex appeal."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "でもまだまだ色気が足りないわね"
+                                ""
                             ]
                         },
                         {
@@ -4765,21 +4765,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "貞操帯の代わりになる「金剛膜の札」は知ってる？"
+                                "Do you know about the 'Adamant Membrane Charm'\nthat can replace a chastity belt? It's reliable in\nunexpected situations of defloration crisis, but\nif you lose or willingly desire it, the charm's\npower will be lost."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "予期せぬ破瓜の危機時に頼りになるんだけど、敗北したり"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "自分で望んでしまうと札の効力は無くなってしまうの"
+                                ""
                             ]
                         },
                         {
@@ -4995,8 +4995,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "\\C[3]盗むLV2",
-                                    "何もしない"
+                                    "Steal LV2",
+                                    "Doing nothing"
                                 ],
                                 1,
                                 -1,
@@ -5204,14 +5204,14 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\c[6]コノハ\\c[0]"
+                                "\\c[6]Konoha\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "なんかまずい気がするわ"
+                                "I have a bad feeling about this."
                             ]
                         },
                         {
@@ -5250,14 +5250,14 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\c[6]コノハ\\c[0]"
+                                "\\c[6]Konoha\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "ちょっと失敗ね"
+                                "I messed up a little."
                             ]
                         },
                         {
@@ -5531,8 +5531,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "\\C[3]盗むLV2",
-                                    "何もしない"
+                                    "Steal LV2",
+                                    "Doing nothing"
                                 ],
                                 1,
                                 -1,
@@ -5700,14 +5700,14 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\c[6]コノハ\\c[0]"
+                                "\\c[6]Konoha\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "なんかまずい気がするわ"
+                                "I have a bad feeling about this."
                             ]
                         },
                         {
@@ -5746,14 +5746,14 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\c[6]コノハ\\c[0]"
+                                "\\c[6]Konoha\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "ちょっと失敗ね"
+                                "I messed up a little."
                             ]
                         },
                         {
@@ -6027,8 +6027,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "\\C[3]盗むLV2",
-                                    "何もしない"
+                                    "Steal LV2",
+                                    "Doing nothing"
                                 ],
                                 1,
                                 -1,
@@ -6256,14 +6256,14 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\c[6]コノハ\\c[0]"
+                                "\\c[6]Konoha\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "なんかまずい気がするわ"
+                                "I have a bad feeling about this."
                             ]
                         },
                         {
@@ -6302,14 +6302,14 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\c[6]コノハ\\c[0]"
+                                "\\c[6]Konoha\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "ちょっと失敗ね"
+                                "I messed up a little."
                             ]
                         },
                         {
@@ -6536,21 +6536,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[1]ボロノフ\\C[0]"
+                                "\\C[1]Boronov\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ぶほぉ！？"
+                                "Bo-ho!? Is it okay?! Even though it's visible, is\nit okay?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "いいのか？！見えちゃってるけどいいのか？"
+                                ""
                             ]
                         },
                         {
@@ -6577,14 +6577,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[1]ボロノフ\\C[0]"
+                                "\\C[1]Boronov\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "宝珠はそこの箱がやってくれるぞい"
+                                "The treasure will be taken care of by that box\nover there."
                             ]
                         },
                         {
@@ -6592,9 +6592,9 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "宝珠の錬成",
-                                    "話す",
-                                    "やめる"
+                                    "Alchemy of the treasure beads",
+                                    "Speak",
+                                    "Stop"
                                 ],
                                 2,
                                 0,
@@ -6624,21 +6624,21 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\C[1]ボロノフ\\C[0]"
+                                "\\C[1]Boronov\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "宝珠の作り方わかるやろ？"
+                                "Do you know how to make the treasure beads? Put\nthe materials in that box over there."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "そこの箱に素材ポーンと入れてこ"
+                                ""
                             ]
                         },
                         {
@@ -6659,8 +6659,8 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "情報",
-                                    "特に無し"
+                                    "Information",
+                                    "Nothing in particular"
                                 ],
                                 -2,
                                 0,
@@ -6690,28 +6690,28 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\C[1]ボロノフ\\C[0]"
+                                "\\C[1]Boronov\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "ワシ？ドロノフの弟ぞい"
+                                "Me? I was sent over here because I don't have as\nmuch motivation as my brother Doronov, you see."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 3,
                             "parameters": [
-                                "あいつに比べてワシはやる気あんまりないから、こっちに"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 3,
                             "parameters": [
-                                "飛ばされてきたんだぞい"
+                                ""
                             ]
                         },
                         {
@@ -6939,14 +6939,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "あら、いい格好してるわね"
+                                "Oh, you're looking good, Rudia. Lui-nee might be\ninterested."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "ルイ姐は気にいるかもね"
+                                ""
                             ]
                         },
                         {
@@ -6973,14 +6973,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "いらっしゃいませ！"
+                                "Welcome! We're selling gems and items here~"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "宝珠とアイテムの販売やってるわよ～"
+                                ""
                             ]
                         },
                         {
@@ -6995,10 +6995,10 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "宝珠を見る",
-                                    "アイテムを見る",
-                                    "説明を聞く",
-                                    "やめる"
+                                    "Look at the gems",
+                                    "View items",
+                                    "Listen to the explanation",
+                                    "Stop"
                                 ],
                                 3,
                                 0,
@@ -7019,10 +7019,10 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "武器宝珠",
-                                    "サブ宝珠",
-                                    "防具宝珠",
-                                    "やめる"
+                                    "Weapon Treasure Beads",
+                                    "Sub Gems",
+                                    "Armor Gem",
+                                    "Stop"
                                 ],
                                 3,
                                 0,
@@ -7455,14 +7455,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ここはよろず屋よ。武器防具の宝珠とともにアイテム類も"
+                                "This is a general store. We have items along with\nweapon and armor gems, so take a look."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "置いてるから見ていってね"
+                                ""
                             ]
                         },
                         {

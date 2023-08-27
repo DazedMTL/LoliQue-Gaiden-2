@@ -16,7 +16,7 @@
         "volume": 80
     },
     "disableDashing": false,
-    "displayName": "宿屋：ネンゴロ",
+    "displayName": "Inn: Nengoro",
     "encounterList": [],
     "encounterStep": 30,
     "height": 30,
@@ -7748,9 +7748,9 @@
                             "indent": 3,
                             "parameters": [
                                 [
-                                    "\\C[3]寝る",
-                                    "\\C[3]♥エッチな本を読んでみる",
-                                    "何もしない"
+                                    "\\C[3]Sleeping",
+                                    "\\C[3]♥ I'll try reading a naughty book",
+                                    "Doing nothing"
                                 ],
                                 2,
                                 0,
@@ -7787,14 +7787,14 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\C[1]店主\\C[0]"
+                                "\\C[1]Shopkeeper\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "こらっ！金払って寝ろ！"
+                                "Hey! Pay up and go to sleep!"
                             ]
                         },
                         {
@@ -7823,7 +7823,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "外に追い出された…"
+                                "I was kicked out..."
                             ]
                         },
                         {
@@ -7869,14 +7869,14 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\C[1]店主\\C[0]"
+                                "\\C[1]Shopkeeper\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "こらっ！金払ってしろ！"
+                                "Hey! Pay up the money!"
                             ]
                         },
                         {
@@ -7905,7 +7905,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "外に追い出された…"
+                                "I was kicked out..."
                             ]
                         },
                         {
@@ -7955,8 +7955,8 @@
                             "indent": 3,
                             "parameters": [
                                 [
-                                    "\\C[3]寝る",
-                                    "何もしない"
+                                    "\\C[3]Sleeping",
+                                    "Doing nothing"
                                 ],
                                 1,
                                 0,
@@ -7993,14 +7993,14 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\C[1]店主\\C[0]"
+                                "\\C[1]Shopkeeper\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "こらっ！金払って寝ろ！"
+                                "Hey! Pay up and go to sleep!"
                             ]
                         },
                         {
@@ -8029,7 +8029,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "外に追い出された…"
+                                "I was kicked out..."
                             ]
                         },
                         {
@@ -8189,8 +8189,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "\\C[9]♥寝る",
-                                    "何もしない"
+                                    "\\C[9]♥Sleeping",
+                                    "Doing nothing"
                                 ],
                                 1,
                                 0,
@@ -8467,9 +8467,9 @@
                             "indent": 3,
                             "parameters": [
                                 [
-                                    "\\C[3]寝る",
-                                    "\\C[3]♥エッチな本を読んでみる",
-                                    "何もしない"
+                                    "\\C[3]Sleeping",
+                                    "\\C[3]♥ I'll try reading a naughty book",
+                                    "Doing nothing"
                                 ],
                                 2,
                                 0,
@@ -8506,21 +8506,21 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\C[1]店主\\C[0]"
+                                "\\C[1]Shopkeeper\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "こらっ！金払って寝ろ！"
+                                "Hey! Pay up and go to sleep! Just because you're\npregnant doesn't mean the world is going to be\neasy on you!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 4,
                             "parameters": [
-                                "妊娠してるからって世の中甘くないぞ！"
+                                ""
                             ]
                         },
                         {
@@ -8549,7 +8549,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "外に追い出された…"
+                                "I was kicked out..."
                             ]
                         },
                         {
@@ -8595,21 +8595,21 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\C[1]店主\\C[0]"
+                                "\\C[1]Shopkeeper\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "こらっ！金払って寝ろ！"
+                                "Hey! Pay up and go to sleep! Just because you're\npregnant doesn't mean the world is going to be\neasy on you!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 4,
                             "parameters": [
-                                "妊娠してるからって世の中甘くないぞ！"
+                                ""
                             ]
                         },
                         {
@@ -8638,7 +8638,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "外に追い出された…"
+                                "I was kicked out..."
                             ]
                         },
                         {
@@ -8688,8 +8688,8 @@
                             "indent": 3,
                             "parameters": [
                                 [
-                                    "\\C[3]寝る",
-                                    "何もしない"
+                                    "\\C[3]Sleeping",
+                                    "Doing nothing"
                                 ],
                                 1,
                                 0,
@@ -8726,21 +8726,21 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\C[1]店主\\C[0]"
+                                "\\C[1]Shopkeeper\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "こらっ！金払って寝ろ！"
+                                "Hey! Pay up and go to sleep! Just because you're\npregnant doesn't mean the world is going to be\neasy on you!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 4,
                             "parameters": [
-                                "妊娠してるからって世の中甘くないぞ！"
+                                ""
                             ]
                         },
                         {
@@ -8769,7 +8769,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "外に追い出された…"
+                                "I was kicked out..."
                             ]
                         },
                         {
@@ -9001,9 +9001,9 @@
                             "indent": 3,
                             "parameters": [
                                 [
-                                    "寝る",
-                                    "\\c[22]♥エッチな本を読んでみる",
-                                    "何もしない"
+                                    "Sleep",
+                                    "\\c[22]♥ I'll try reading a naughty book",
+                                    "Doing nothing"
                                 ],
                                 1,
                                 0,
@@ -9133,8 +9133,8 @@
                             "indent": 3,
                             "parameters": [
                                 [
-                                    "寝る",
-                                    "何もしない"
+                                    "Sleep",
+                                    "Doing nothing"
                                 ],
                                 1,
                                 0,
@@ -9355,14 +9355,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[1]店主\\C[0]"
+                                "\\C[1]Shopkeeper\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "元気がよろしいことで……ふぉふぉ"
+                                "It's good to see you're in high spirits... hehehe."
                             ]
                         },
                         {
@@ -9398,14 +9398,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\C[1]店主\\C[0]"
+                                "\\C[1]Shopkeeper\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "空いてるお部屋のお好きなところをお使いください"
+                                "Please feel free to use any available room."
                             ]
                         },
                         {
@@ -9432,28 +9432,28 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\C[1]店主\\C[0]"
+                                "\\C[1]Shopkeeper\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "いらっしゃいませ。\\c[1]宿屋ネンゴロ\\c[0]にようこそ"
+                                "Welcome. Are you planning to stay at the Nengoro\nInn for 500 Lo per night?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "一晩500Loになります"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "ご利用になられますか？"
+                                ""
                             ]
                         },
                         {
@@ -9461,8 +9461,8 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -9519,21 +9519,21 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\C[1]店主\\C[0]"
+                                "\\C[1]Shopkeeper\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "ありがとうございます"
+                                "Thank you very much. Please rest wherever you\nlike..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 4,
                             "parameters": [
-                                "お好きなところでおやすみください…"
+                                ""
                             ]
                         },
                         {
@@ -9560,14 +9560,14 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\C[1]店主\\C[0]"
+                                "\\C[1]Shopkeeper\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "所持金が足らないようですね…"
+                                "It seems like you don't have enough money..."
                             ]
                         },
                         {
@@ -10071,9 +10071,9 @@
                             "indent": 3,
                             "parameters": [
                                 [
-                                    "\\C[3]寝る",
-                                    "\\C[3]♥エッチな本を読んでみる",
-                                    "何もしない"
+                                    "\\C[3]Sleeping",
+                                    "\\C[3]♥ I'll try reading a naughty book",
+                                    "Doing nothing"
                                 ],
                                 2,
                                 0,
@@ -10110,14 +10110,14 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\C[1]店主\\C[0]"
+                                "\\C[1]Shopkeeper\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "こらっ！金払って寝ろ！"
+                                "Hey! Pay up and go to sleep!"
                             ]
                         },
                         {
@@ -10146,7 +10146,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "外に追い出された…"
+                                "I was kicked out..."
                             ]
                         },
                         {
@@ -10192,14 +10192,14 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\C[1]店主\\C[0]"
+                                "\\C[1]Shopkeeper\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "こらっ！金払ってしろ！"
+                                "Hey! Pay up the money!"
                             ]
                         },
                         {
@@ -10228,7 +10228,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "外に追い出された…"
+                                "I was kicked out..."
                             ]
                         },
                         {
@@ -10278,8 +10278,8 @@
                             "indent": 3,
                             "parameters": [
                                 [
-                                    "\\C[3]寝る",
-                                    "何もしない"
+                                    "\\C[3]Sleeping",
+                                    "Doing nothing"
                                 ],
                                 1,
                                 0,
@@ -10316,14 +10316,14 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\C[1]店主\\C[0]"
+                                "\\C[1]Shopkeeper\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "こらっ！金払って寝ろ！"
+                                "Hey! Pay up and go to sleep!"
                             ]
                         },
                         {
@@ -10352,7 +10352,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "外に追い出された…"
+                                "I was kicked out..."
                             ]
                         },
                         {
@@ -10512,8 +10512,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "\\C[9]♥寝る",
-                                    "何もしない"
+                                    "\\C[9]♥Sleeping",
+                                    "Doing nothing"
                                 ],
                                 1,
                                 0,
@@ -10790,9 +10790,9 @@
                             "indent": 3,
                             "parameters": [
                                 [
-                                    "\\C[3]寝る",
-                                    "\\C[3]♥エッチな本を読んでみる",
-                                    "何もしない"
+                                    "\\C[3]Sleeping",
+                                    "\\C[3]♥ I'll try reading a naughty book",
+                                    "Doing nothing"
                                 ],
                                 2,
                                 0,
@@ -10829,21 +10829,21 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\C[1]店主\\C[0]"
+                                "\\C[1]Shopkeeper\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "こらっ！金払って寝ろ！"
+                                "Hey! Pay up and go to sleep! Just because you're\npregnant doesn't mean the world is going to be\neasy on you!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 4,
                             "parameters": [
-                                "妊娠してるからって世の中甘くないぞ！"
+                                ""
                             ]
                         },
                         {
@@ -10872,7 +10872,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "外に追い出された…"
+                                "I was kicked out..."
                             ]
                         },
                         {
@@ -10918,21 +10918,21 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\C[1]店主\\C[0]"
+                                "\\C[1]Shopkeeper\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "こらっ！金払って寝ろ！"
+                                "Hey! Pay up and go to sleep! Just because you're\npregnant doesn't mean the world is going to be\neasy on you!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 4,
                             "parameters": [
-                                "妊娠してるからって世の中甘くないぞ！"
+                                ""
                             ]
                         },
                         {
@@ -10961,7 +10961,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "外に追い出された…"
+                                "I was kicked out..."
                             ]
                         },
                         {
@@ -11011,8 +11011,8 @@
                             "indent": 3,
                             "parameters": [
                                 [
-                                    "\\C[3]寝る",
-                                    "何もしない"
+                                    "\\C[3]Sleeping",
+                                    "Doing nothing"
                                 ],
                                 1,
                                 0,
@@ -11049,21 +11049,21 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\C[1]店主\\C[0]"
+                                "\\C[1]Shopkeeper\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "こらっ！金払って寝ろ！"
+                                "Hey! Pay up and go to sleep! Just because you're\npregnant doesn't mean the world is going to be\neasy on you!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 4,
                             "parameters": [
-                                "妊娠してるからって世の中甘くないぞ！"
+                                ""
                             ]
                         },
                         {
@@ -11092,7 +11092,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "外に追い出された…"
+                                "I was kicked out..."
                             ]
                         },
                         {
@@ -11324,9 +11324,9 @@
                             "indent": 3,
                             "parameters": [
                                 [
-                                    "寝る",
-                                    "\\c[22]♥エッチな本を読んでみる",
-                                    "何もしない"
+                                    "Sleep",
+                                    "\\c[22]♥ I'll try reading a naughty book",
+                                    "Doing nothing"
                                 ],
                                 1,
                                 0,
@@ -11456,8 +11456,8 @@
                             "indent": 3,
                             "parameters": [
                                 [
-                                    "寝る",
-                                    "何もしない"
+                                    "Sleep",
+                                    "Doing nothing"
                                 ],
                                 1,
                                 0,
@@ -11730,9 +11730,9 @@
                             "indent": 3,
                             "parameters": [
                                 [
-                                    "\\C[3]寝る",
-                                    "\\C[3]♥エッチな本を読んでみる",
-                                    "何もしない"
+                                    "\\C[3]Sleeping",
+                                    "\\C[3]♥ I'll try reading a naughty book",
+                                    "Doing nothing"
                                 ],
                                 2,
                                 0,
@@ -11769,14 +11769,14 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\C[1]店主\\C[0]"
+                                "\\C[1]Shopkeeper\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "こらっ！金払って寝ろ！"
+                                "Hey! Pay up and go to sleep!"
                             ]
                         },
                         {
@@ -11805,7 +11805,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "外に追い出された…"
+                                "I was kicked out..."
                             ]
                         },
                         {
@@ -11851,14 +11851,14 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\C[1]店主\\C[0]"
+                                "\\C[1]Shopkeeper\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "こらっ！金払ってしろ！"
+                                "Hey! Pay up!"
                             ]
                         },
                         {
@@ -11887,7 +11887,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "外に追い出された…"
+                                "I was kicked out..."
                             ]
                         },
                         {
@@ -11937,8 +11937,8 @@
                             "indent": 3,
                             "parameters": [
                                 [
-                                    "\\C[3]寝る",
-                                    "何もしない"
+                                    "\\C[3]Sleeping",
+                                    "Doing nothing"
                                 ],
                                 1,
                                 0,
@@ -11975,14 +11975,14 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\C[1]店主\\C[0]"
+                                "\\C[1]Shopkeeper\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "こらっ！金払って寝ろ！"
+                                "Hey! Pay up and go to sleep!"
                             ]
                         },
                         {
@@ -12011,7 +12011,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "外に追い出された…"
+                                "I was kicked out..."
                             ]
                         },
                         {
@@ -12171,8 +12171,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "\\C[9]♥寝る",
-                                    "何もしない"
+                                    "\\C[9]♥Sleeping",
+                                    "Doing nothing"
                                 ],
                                 1,
                                 0,
@@ -12449,9 +12449,9 @@
                             "indent": 3,
                             "parameters": [
                                 [
-                                    "\\C[3]寝る",
-                                    "\\C[3]♥エッチな本を読んでみる",
-                                    "何もしない"
+                                    "\\C[3]Sleeping",
+                                    "\\C[3]♥ I'll try reading a naughty book",
+                                    "Doing nothing"
                                 ],
                                 2,
                                 0,
@@ -12488,21 +12488,21 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\C[1]店主\\C[0]"
+                                "\\C[1]Shopkeeper\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "こらっ！金払って寝ろ！"
+                                "Hey! Pay up and go to sleep! Just because you're\npregnant doesn't mean the world is going to be\neasy on you!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 4,
                             "parameters": [
-                                "妊娠してるからって世の中甘くないぞ！"
+                                ""
                             ]
                         },
                         {
@@ -12531,7 +12531,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "外に追い出された…"
+                                "I was kicked out..."
                             ]
                         },
                         {
@@ -12577,21 +12577,21 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\C[1]店主\\C[0]"
+                                "\\C[1]Shopkeeper\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "こらっ！金払って寝ろ！"
+                                "Hey! Pay up and go to sleep! Just because you're\npregnant doesn't mean the world is going to be\neasy on you!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 4,
                             "parameters": [
-                                "妊娠してるからって世の中甘くないぞ！"
+                                ""
                             ]
                         },
                         {
@@ -12620,7 +12620,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "外に追い出された…"
+                                "I was kicked out..."
                             ]
                         },
                         {
@@ -12670,8 +12670,8 @@
                             "indent": 3,
                             "parameters": [
                                 [
-                                    "\\C[3]寝る",
-                                    "何もしない"
+                                    "\\C[3]Sleeping",
+                                    "Doing nothing"
                                 ],
                                 1,
                                 0,
@@ -12708,21 +12708,21 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\C[1]店主\\C[0]"
+                                "\\C[1]Shopkeeper\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "こらっ！金払って寝ろ！"
+                                "Hey! Pay up and go to sleep! Just because you're\npregnant doesn't mean the world is going to be\neasy on you!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 4,
                             "parameters": [
-                                "妊娠してるからって世の中甘くないぞ！"
+                                ""
                             ]
                         },
                         {
@@ -12751,7 +12751,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "外に追い出された…"
+                                "I was kicked out..."
                             ]
                         },
                         {
@@ -12983,9 +12983,9 @@
                             "indent": 3,
                             "parameters": [
                                 [
-                                    "寝る",
-                                    "\\c[22]♥エッチな本を読んでみる",
-                                    "何もしない"
+                                    "Sleep",
+                                    "\\c[22]♥ I'll try reading a naughty book",
+                                    "Doing nothing"
                                 ],
                                 1,
                                 0,
@@ -13115,8 +13115,8 @@
                             "indent": 3,
                             "parameters": [
                                 [
-                                    "寝る",
-                                    "何もしない"
+                                    "Sleep",
+                                    "Doing nothing"
                                 ],
                                 1,
                                 0,
@@ -13389,9 +13389,9 @@
                             "indent": 3,
                             "parameters": [
                                 [
-                                    "\\C[3]寝る",
-                                    "\\C[3]♥エッチな本を読んでみる",
-                                    "何もしない"
+                                    "\\C[3]Sleeping",
+                                    "\\C[3]♥ I'll try reading a naughty book",
+                                    "Doing nothing"
                                 ],
                                 2,
                                 0,
@@ -13428,14 +13428,14 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\C[1]店主\\C[0]"
+                                "\\C[1]Shopkeeper\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "こらっ！金払って寝ろ！"
+                                "Hey! Pay up and go to sleep!"
                             ]
                         },
                         {
@@ -13464,7 +13464,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "外に追い出された…"
+                                "I was kicked out..."
                             ]
                         },
                         {
@@ -13510,14 +13510,14 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\C[1]店主\\C[0]"
+                                "\\C[1]Shopkeeper\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "こらっ！金払ってしろ！"
+                                "Hey! Pay up the money!"
                             ]
                         },
                         {
@@ -13546,7 +13546,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "外に追い出された…"
+                                "I was kicked out..."
                             ]
                         },
                         {
@@ -13596,8 +13596,8 @@
                             "indent": 3,
                             "parameters": [
                                 [
-                                    "\\C[3]寝る",
-                                    "何もしない"
+                                    "\\C[3]Sleeping",
+                                    "Doing nothing"
                                 ],
                                 1,
                                 0,
@@ -13634,14 +13634,14 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\C[1]店主\\C[0]"
+                                "\\C[1]Shopkeeper\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "こらっ！金払って寝ろ！"
+                                "Hey! Pay up and go to sleep!"
                             ]
                         },
                         {
@@ -13670,7 +13670,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "外に追い出された…"
+                                "I was kicked out..."
                             ]
                         },
                         {
@@ -13830,8 +13830,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "\\C[9]♥寝る",
-                                    "何もしない"
+                                    "\\C[9]♥Sleeping",
+                                    "Doing nothing"
                                 ],
                                 1,
                                 0,
@@ -14108,9 +14108,9 @@
                             "indent": 3,
                             "parameters": [
                                 [
-                                    "\\C[3]寝る",
-                                    "\\C[3]♥エッチな本を読んでみる",
-                                    "何もしない"
+                                    "\\C[3]Sleeping",
+                                    "\\C[3]♥ I'll try reading a naughty book",
+                                    "Doing nothing"
                                 ],
                                 2,
                                 0,
@@ -14147,21 +14147,21 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\C[1]店主\\C[0]"
+                                "\\C[1]Shopkeeper\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "こらっ！金払って寝ろ！"
+                                "Hey! Pay up and go to sleep! Just because you're\npregnant doesn't mean the world is going to be\neasy on you!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 4,
                             "parameters": [
-                                "妊娠してるからって世の中甘くないぞ！"
+                                ""
                             ]
                         },
                         {
@@ -14190,7 +14190,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "外に追い出された…"
+                                "I was kicked out..."
                             ]
                         },
                         {
@@ -14236,21 +14236,21 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\C[1]店主\\C[0]"
+                                "\\C[1]Shopkeeper\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "こらっ！金払って寝ろ！"
+                                "Hey! Pay up and go to sleep! Just because you're\npregnant doesn't mean the world is going to be\neasy on you!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 4,
                             "parameters": [
-                                "妊娠してるからって世の中甘くないぞ！"
+                                ""
                             ]
                         },
                         {
@@ -14279,7 +14279,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "外に追い出された…"
+                                "I was kicked out..."
                             ]
                         },
                         {
@@ -14329,8 +14329,8 @@
                             "indent": 3,
                             "parameters": [
                                 [
-                                    "\\C[3]寝る",
-                                    "何もしない"
+                                    "\\C[3]Sleeping",
+                                    "Doing nothing"
                                 ],
                                 1,
                                 0,
@@ -14367,21 +14367,21 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\C[1]店主\\C[0]"
+                                "\\C[1]Shopkeeper\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "こらっ！金払って寝ろ！"
+                                "Hey! Pay up and go to sleep! Just because you're\npregnant doesn't mean the world is going to be\neasy on you!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 4,
                             "parameters": [
-                                "妊娠してるからって世の中甘くないぞ！"
+                                ""
                             ]
                         },
                         {
@@ -14410,7 +14410,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "外に追い出された…"
+                                "I was kicked out..."
                             ]
                         },
                         {
@@ -14642,9 +14642,9 @@
                             "indent": 3,
                             "parameters": [
                                 [
-                                    "寝る",
-                                    "\\c[22]♥エッチな本を読んでみる",
-                                    "何もしない"
+                                    "Sleep",
+                                    "\\c[22]♥ I'll try reading a naughty book",
+                                    "Doing nothing"
                                 ],
                                 1,
                                 0,
@@ -14774,8 +14774,8 @@
                             "indent": 3,
                             "parameters": [
                                 [
-                                    "寝る",
-                                    "何もしない"
+                                    "Sleep",
+                                    "Doing nothing"
                                 ],
                                 1,
                                 0,
@@ -15001,14 +15001,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[9]♥宿屋ネンゴロイベント"
+                                "\\C[9]♥ Inn Nengoroi Event Trigger Condition:\nRequired Karma Value of 100 or more."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "発生条件：必要カルマ値100以上"
+                                ""
                             ]
                         },
                         {
@@ -15207,21 +15207,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[1]店主\\C[0]"
+                                "\\C[1]Shopkeeper\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "アンドリューさん、よく来てくれたね……へへ"
+                                "Andrew, it's good to see you... hehe, you look\nlively, which is great."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "元気そうでなによりだ"
+                                ""
                             ]
                         },
                         {
@@ -15238,21 +15238,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[1]アンドリュー\\C[0]"
+                                "\\C[1]Andrew\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "で？なんだい話ってぇのは……"
+                                "So, what's this talk about... You didn't call me\njust to tell old stories, did you?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "まさか昔話するために呼んだんじゃねーだろうな？"
+                                ""
                             ]
                         },
                         {
@@ -15269,21 +15269,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[1]店主\\C[0]"
+                                "\\C[1]Shopkeeper\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "まぁまぁそんなに急かさなくとも……"
+                                "Well, there's no need to rush that much... But I\nguess I can't help it. Let's get straight to the\npoint."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "仕方ない、早速本題に入るとしますか"
+                                ""
                             ]
                         },
                         {
@@ -15300,14 +15300,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[1]アンドリュー\\C[0]"
+                                "\\C[1]Andrew\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "聞こうか……"
+                                "Let's hear it..."
                             ]
                         },
                         {
@@ -15324,21 +15324,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[1]店主\\C[0]"
+                                "\\C[1]Shopkeeper\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "この宿屋ネンゴロは、比較的安全に寝泊まりできるように"
+                                "You know that this inn, Nengoro, is relatively\nsafe for staying overnight, right?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "なってるのは知ってるでしょう"
+                                ""
                             ]
                         },
                         {
@@ -15355,21 +15355,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[1]店主\\C[0]"
+                                "\\C[1]Shopkeeper\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "それもあってか魔法少女もたまに泊まるんですわ"
+                                "Because of that, sometimes magical girls also stay\nhere, emitting a strong scent of lust..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "そりゃもうエロいメスの匂いぷんぷんさせながら…"
+                                ""
                             ]
                         },
                         {
@@ -15386,14 +15386,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[1]アンドリュー\\C[0]"
+                                "\\C[1]Andrew\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "………。"
+                                ".........."
                             ]
                         },
                         {
@@ -15410,21 +15410,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[1]店主\\C[0]"
+                                "\\C[1]Shopkeeper\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "でまぁ宿泊するぶんにはいいんですが、たまに無銭宿泊する"
+                                "Well, it's fine as long as they stay as guests,\nbut occasionally there are some disrespectful\nindividuals who stay without paying."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "不届き者もいてですね"
+                                ""
                             ]
                         },
                         {
@@ -15441,14 +15441,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[1]店主\\C[0]"
+                                "\\C[1]Shopkeeper\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ちょっとここらでお灸を据えないといけないと思いまして…"
+                                "I thought it was about time to apply some\nmoxibustion around here..."
                             ]
                         },
                         {
@@ -15465,21 +15465,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[1]アンドリュー\\C[0]"
+                                "\\C[1]Andrew\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "おいおい、待ってくれよ。まさか魔法少女相手に戦えと？"
+                                "Hey, wait a minute. You're not seriously asking us\nto fight against magical girls, right? That's not\na joke. They're not opponents we can handle."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "冗談じゃねぇ。俺たちが敵う相手じゃないぞ"
+                                ""
                             ]
                         },
                         {
@@ -15496,21 +15496,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[1]店主\\C[0]"
+                                "\\C[1]Shopkeeper\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "それが……これを用意しました。\\C[3]惑わしのお香\\C[0]です"
+                                "Well... I prepared this. \\C[3]Deceptive\nIncense\\C[0]. It's specifically made to work on\nmagical girls..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "これは魔法少女のみ効くように作られたものです……"
+                                ""
                             ]
                         },
                         {
@@ -15527,21 +15527,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[1]店主\\C[0]"
+                                "\\C[1]Shopkeeper\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "これを部屋で炊けば魔法少女といえど無抵抗になります"
+                                "If you burn this in the room, even magical girls\nwill become defenseless, and then... Andrew, it's\ntime for your huge cock to shine."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "そして後は……アンドリューさんあなたのその巨根の出番"
+                                ""
                             ]
                         },
                         {
@@ -15558,14 +15558,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[1]アンドリュー\\C[0]"
+                                "\\C[1]Andrew\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "へへ、まさか好きに犯していいってわけかい？"
+                                "Hehe, so you're saying I can fuck her as much as I\nwant?"
                             ]
                         },
                         {
@@ -15582,21 +15582,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[1]店主\\C[0]"
+                                "\\C[1]Shopkeeper\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "まさにその通り。あなたには昔の借りがある"
+                                "Exactly. This is one way to show my gratitude for\nthe debt you owed me in the past..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "これはそのお礼のひとつです……"
+                                ""
                             ]
                         },
                         {
@@ -15613,21 +15613,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[1]アンドリュー\\C[0]"
+                                "\\C[1]Andrew\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そうとなれば、話は早ぇ。魔法少女食べ放題ってわけか"
+                                "Well, in that case, it's simple. We just have to\ntarget the all-you-can-eat magical girls who stay\nfor free."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "\\C[2]ただで泊まる\\C[0]魔法少女を狙えばいいんだな"
+                                ""
                             ]
                         },
                         {
@@ -15644,14 +15644,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[1]店主\\C[0]"
+                                "\\C[1]Shopkeeper\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "はい、お願いしますアンドリューさん"
+                                "Yes, please, Mr. Andrew."
                             ]
                         },
                         {
@@ -15811,14 +15811,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[9]♥宿屋ネンゴロイベント"
+                                "\\C[9]♥ Inn Nengoroi Event Activation Condition:\nStay overnight without paying money, non-pregnant."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "発動条件：お金を払わずに寝泊まりする、非妊娠"
+                                ""
                             ]
                         },
                         {

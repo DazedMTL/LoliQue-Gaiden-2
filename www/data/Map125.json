@@ -16,7 +16,7 @@
         "volume": 80
     },
     "disableDashing": false,
-    "displayName": "ギルドハウス",
+    "displayName": "Guild House",
     "encounterList": [],
     "encounterStep": 30,
     "height": 30,
@@ -7730,21 +7730,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[1]ハウス管理人\\C[0]"
+                                "\\C[1]House Manager\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ちょっとちょっと、見たことないわねあなた"
+                                "Hey, hey, I've never seen you before, so don't\nwander around naked!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "裸でうろうろしないでよ！"
+                                ""
                             ]
                         },
                         {
@@ -7771,21 +7771,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[1]ハウス管理人\\C[0]"
+                                "\\C[1]House Manager\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "えーーっと？"
+                                "Um? You haven't registered with the guild yet...\nAre you a magical girl, I wonder?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "あなたはまだギルド登録はされてない…魔法少女かしら"
+                                ""
                             ]
                         },
                         {
@@ -7802,28 +7802,28 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[1]ハウス管理人\\C[0]"
+                                "\\C[1]House Manager\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "加入してくれたらここの施設が使えるから"
+                                "If you join, you'll be able to use the facilities\nhere, so it would be great if you could meet the\nguild's guildmaster, Gilcho, and register."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "魔法少女ギルドのギルチョーに会って"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "是非登録してくれるといいわ"
+                                ""
                             ]
                         },
                         {
@@ -7970,28 +7970,28 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[1]ハウス管理人\\C[0]"
+                                "\\C[1]House Manager\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "おかえり～……って"
+                                "Welcome back~... Oh, you're a first-time visitor,\naren't you? How can you be comfortable dressed\nlike that?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "あなた初めましての方ね？"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "よくそんな格好でいられるわね？"
+                                ""
                             ]
                         },
                         {
@@ -8018,28 +8018,28 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[1]ハウス管理人\\C[0]"
+                                "\\C[1]House Manager\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "おかえり～……って"
+                                "Welcome back~... Oh, you're a first-time visitor,\naren't you? Could you be the magical girl from the\nother day?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "あなた初めましての方ね？"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "もしかしてこないだの魔法少女かな？"
+                                ""
                             ]
                         },
                         {
@@ -8093,21 +8093,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "それはほっといて…"
+                                "Forget about that... I just talked to Gilcho a\nlittle while ago."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "さっきギルチョーに話しを通してきたわ"
+                                ""
                             ]
                         },
                         {
@@ -8152,21 +8152,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "そうね、ギルチョーに言われてここの事はあなたに聞けば"
+                                "Yes, Gilcho told me to ask you about this place."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "いいって言われたわ"
+                                ""
                             ]
                         },
                         {
@@ -8202,28 +8202,28 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[1]ハウス管理人\\C[0]"
+                                "\\C[1]House Manager\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ということは、ギルドに加入してくれたのね！"
+                                "So, you've joined the guild! Thank you very much.\nI'm just a regular house manager in charge of this\nplace, nice to meet you."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ありがとうございます。あたしはここの管理を任されている"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ただのハウス管理人だよ、よろしくね"
+                                ""
                             ]
                         },
                         {
@@ -8240,14 +8240,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "よろしく"
+                                "Nice to meet you."
                             ]
                         },
                         {
@@ -8264,28 +8264,28 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[1]ハウス管理人\\C[0]"
+                                "\\C[1]House Manager\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "このギルドハウスはあなた達魔法少女の拠点と思って"
+                                "You can think of this guild house as your magical\ngirls' base. For now, let me give you a brief\nexplanation."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "もらえればいいわ。とりあえず最低限の説明だけ"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "させてもらうわね"
+                                ""
                             ]
                         },
                         {
@@ -8293,8 +8293,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "説明お願い",
-                                    "後からでいいわ"
+                                    "Please explain",
+                                    "It's fine later"
                                 ],
                                 -1,
                                 0,
@@ -8344,21 +8344,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[1]ハウス管理人\\C[0]"
+                                "\\C[1]House Manager\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "おーけい！それじゃ、大変だとは思うけどこれから"
+                                "Okay! I know it might be tough, but let's do our\nbest from now on~"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "頑張っていきましょう～"
+                                ""
                             ]
                         },
                         {
@@ -8532,21 +8532,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[1]ハウス管理人\\C[0]"
+                                "\\C[1]House Manager\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "おかえり～！"
+                                "Welcome back~! Take care not to catch a cold..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "風邪ひかないようにね…"
+                                ""
                             ]
                         },
                         {
@@ -8573,21 +8573,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[1]ハウス管理人\\C[0]"
+                                "\\C[1]House Manager\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "おかえり～！"
+                                "Welcome back~! What's going on today?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "今日は何かな？"
+                                ""
                             ]
                         },
                         {
@@ -8612,12 +8612,12 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "話す",
-                                    "家具を納品してポイントをアップする",
-                                    "「家具」カテゴリポイントを確認する",
-                                    "マイハウスエフェクトを変更する",
-                                    "いろいろ教えて",
-                                    "やめる"
+                                    "To speak",
+                                    "Deliver furniture to increase points",
+                                    "Check the points for the 'Furniture' category",
+                                    "Change my house effect",
+                                    "Tell me everything",
+                                    "Stop"
                                 ],
                                 4,
                                 -1,
@@ -8647,21 +8647,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[1]ハウス管理人\\C[0]"
+                                "\\C[1]House Manager\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "階段を上がったところはあなたの先輩方の部屋もあるわ"
+                                "Up the stairs, there are also the rooms of your\nsenior colleagues. It might be a good idea to\ngreet them when you have some free time."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "時間のある時にでも挨拶しておくといいかもしれないわね"
+                                ""
                             ]
                         },
                         {
@@ -8739,14 +8739,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[1]ハウス管理人\\C[0]"
+                                "\\C[1]House Manager\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "今の各カテゴリのレベルとポイントだよ～"
+                                "Now, it's the level and points for each category~"
                             ]
                         },
                         {
@@ -8788,12 +8788,12 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "ノーマル",
-                                    "プア",
-                                    "カジュアル",
-                                    "ラグジュアリー",
-                                    "シタデル",
-                                    "エロティズム"
+                                    "Normal",
+                                    "Poor",
+                                    "Casual",
+                                    "Luxury",
+                                    "Citadel",
+                                    "Eroticism"
                                 ],
                                 -2,
                                 -1,
@@ -8855,14 +8855,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\C[1]ハウス管理人\\C[0]"
+                                "\\C[1]House Manager\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "部屋をノーマルに変更したよ～"
+                                "I changed the room to normal~"
                             ]
                         },
                         {
@@ -8921,14 +8921,14 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\C[1]ハウス管理人\\C[0]"
+                                "\\C[1]House Manager\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "部屋をプアLV5に変更したよ～"
+                                "I changed the room to Poor LV5~"
                             ]
                         },
                         {
@@ -8977,14 +8977,14 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\C[1]ハウス管理人\\C[0]"
+                                "\\C[1]House Manager\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "部屋をプアLV4に変更したよ～"
+                                "I changed the room to Poor LV4~"
                             ]
                         },
                         {
@@ -9033,14 +9033,14 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "\\C[1]ハウス管理人\\C[0]"
+                                "\\C[1]House Manager\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "部屋をプアLV3に変更したよ～"
+                                "I changed the room to Poor LV3~"
                             ]
                         },
                         {
@@ -9089,14 +9089,14 @@
                             "code": 401,
                             "indent": 6,
                             "parameters": [
-                                "\\C[1]ハウス管理人\\C[0]"
+                                "\\C[1]House Manager\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 6,
                             "parameters": [
-                                "部屋をプアLV2に変更したよ～"
+                                "I changed the room to Poor LV2~"
                             ]
                         },
                         {
@@ -9145,14 +9145,14 @@
                             "code": 401,
                             "indent": 7,
                             "parameters": [
-                                "\\C[1]ハウス管理人\\C[0]"
+                                "\\C[1]House Manager\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 7,
                             "parameters": [
-                                "部屋をプアLV1に変更したよ～"
+                                "I changed the room to Poor LV1~"
                             ]
                         },
                         {
@@ -9179,28 +9179,28 @@
                             "code": 401,
                             "indent": 7,
                             "parameters": [
-                                "\\C[1]ハウス管理人\\C[0]"
+                                "\\C[1]House Manager\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 7,
                             "parameters": [
-                                "まだこのカテゴリはLVが0だから変更できないよ"
+                                "You can't change this category yet because its LV\nis still 0. Once you obtain furniture, deliver\nthem here one after another, and your points will\nstart accumulating."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 7,
                             "parameters": [
-                                "「家具」を手に入れたらここでどんどん納品してね"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 7,
                             "parameters": [
-                                "そしたらポイントが貯まっていくよ"
+                                ""
                             ]
                         },
                         {
@@ -9309,14 +9309,14 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\C[1]ハウス管理人\\C[0]"
+                                "\\C[1]House Manager\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "部屋をカジュアルLV5に変更したよ～"
+                                "I changed the room to Casual LV5~"
                             ]
                         },
                         {
@@ -9365,14 +9365,14 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\C[1]ハウス管理人\\C[0]"
+                                "\\C[1]House Manager\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "部屋をカジュアルLV4に変更したよ～"
+                                "I changed the room to Casual LV4~"
                             ]
                         },
                         {
@@ -9421,14 +9421,14 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "\\C[1]ハウス管理人\\C[0]"
+                                "\\C[1]House Manager\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "部屋をカジュアルLV3に変更したよ～"
+                                "I changed the room to Casual LV3~"
                             ]
                         },
                         {
@@ -9477,14 +9477,14 @@
                             "code": 401,
                             "indent": 6,
                             "parameters": [
-                                "\\C[1]ハウス管理人\\C[0]"
+                                "\\C[1]House Manager\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 6,
                             "parameters": [
-                                "部屋をカジュアルLV2に変更したよ～"
+                                "I changed the room to Casual LV2~"
                             ]
                         },
                         {
@@ -9533,14 +9533,14 @@
                             "code": 401,
                             "indent": 7,
                             "parameters": [
-                                "\\C[1]ハウス管理人\\C[0]"
+                                "\\C[1]House Manager\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 7,
                             "parameters": [
-                                "部屋をカジュアルLV1に変更したよ～"
+                                "I changed the room to Casual LV1~"
                             ]
                         },
                         {
@@ -9567,28 +9567,28 @@
                             "code": 401,
                             "indent": 7,
                             "parameters": [
-                                "\\C[1]ハウス管理人\\C[0]"
+                                "\\C[1]House Manager\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 7,
                             "parameters": [
-                                "まだこのカテゴリはLVが0だから変更できないよ"
+                                "You can't change this category yet because its LV\nis still 0. Once you obtain furniture, deliver\nthem here one after another, and your points will\nstart accumulating."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 7,
                             "parameters": [
-                                "「家具」を手に入れたらここでどんどん納品してね"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 7,
                             "parameters": [
-                                "そしたらポイントが貯まっていくよ"
+                                ""
                             ]
                         },
                         {
@@ -9697,14 +9697,14 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\C[1]ハウス管理人\\C[0]"
+                                "\\C[1]House Manager\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "部屋をラグジュアリーLV5に変更したよ～"
+                                "I changed the room to Luxury LV5~"
                             ]
                         },
                         {
@@ -9753,14 +9753,14 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\C[1]ハウス管理人\\C[0]"
+                                "\\C[1]House Manager\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "部屋をラグジュアリーLV4に変更したよ～"
+                                "I changed the room to Luxury LV4~"
                             ]
                         },
                         {
@@ -9809,14 +9809,14 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "\\C[1]ハウス管理人\\C[0]"
+                                "\\C[1]House Manager\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "部屋をラグジュアリーLV3に変更したよ～"
+                                "I changed the room to Luxury LV3~"
                             ]
                         },
                         {
@@ -9865,14 +9865,14 @@
                             "code": 401,
                             "indent": 6,
                             "parameters": [
-                                "\\C[1]ハウス管理人\\C[0]"
+                                "\\C[1]House Manager\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 6,
                             "parameters": [
-                                "部屋をラグジュアリーLV2に変更したよ～"
+                                "I changed the room to Luxury LV2~"
                             ]
                         },
                         {
@@ -9921,14 +9921,14 @@
                             "code": 401,
                             "indent": 7,
                             "parameters": [
-                                "\\C[1]ハウス管理人\\C[0]"
+                                "\\C[1]House Manager\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 7,
                             "parameters": [
-                                "部屋をラグジュアリーLV1に変更したよ～"
+                                "I changed the room to Luxury LV1~"
                             ]
                         },
                         {
@@ -9955,28 +9955,28 @@
                             "code": 401,
                             "indent": 7,
                             "parameters": [
-                                "\\C[1]ハウス管理人\\C[0]"
+                                "\\C[1]House Manager\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 7,
                             "parameters": [
-                                "まだこのカテゴリはLVが0だから変更できないよ"
+                                "You can't change this category yet because its LV\nis still 0. Once you obtain furniture, deliver\nthem here one after another, and your points will\nstart accumulating."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 7,
                             "parameters": [
-                                "「家具」を手に入れたらここでどんどん納品してね"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 7,
                             "parameters": [
-                                "そしたらポイントが貯まっていくよ"
+                                ""
                             ]
                         },
                         {
@@ -10085,14 +10085,14 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\C[1]ハウス管理人\\C[0]"
+                                "\\C[1]House Manager\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "部屋をシタデルLV5に変更したよ～"
+                                "I changed the room to Citadel LV5~"
                             ]
                         },
                         {
@@ -10141,14 +10141,14 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\C[1]ハウス管理人\\C[0]"
+                                "\\C[1]House Manager\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "部屋をシタデルLV4に変更したよ～"
+                                "I changed the room to Citadel LV4~"
                             ]
                         },
                         {
@@ -10197,14 +10197,14 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "\\C[1]ハウス管理人\\C[0]"
+                                "\\C[1]House Manager\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "部屋をシタデルLV3に変更したよ～"
+                                "I changed the room to Citadel LV3~"
                             ]
                         },
                         {
@@ -10253,14 +10253,14 @@
                             "code": 401,
                             "indent": 6,
                             "parameters": [
-                                "\\C[1]ハウス管理人\\C[0]"
+                                "\\C[1]House Manager\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 6,
                             "parameters": [
-                                "部屋をシタデルLV2に変更したよ～"
+                                "I changed the room to Citadel LV2~"
                             ]
                         },
                         {
@@ -10309,14 +10309,14 @@
                             "code": 401,
                             "indent": 7,
                             "parameters": [
-                                "\\C[1]ハウス管理人\\C[0]"
+                                "\\C[1]House Manager\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 7,
                             "parameters": [
-                                "部屋をシタデルLV1に変更したよ～"
+                                "I changed the room to Citadel LV1~"
                             ]
                         },
                         {
@@ -10343,28 +10343,28 @@
                             "code": 401,
                             "indent": 7,
                             "parameters": [
-                                "\\C[1]ハウス管理人\\C[0]"
+                                "\\C[1]House Manager\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 7,
                             "parameters": [
-                                "まだこのカテゴリはLVが0だから変更できないよ"
+                                "You can't change this category yet because its LV\nis still 0. Once you obtain furniture, deliver\nthem here one after another, and your points will\nstart accumulating."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 7,
                             "parameters": [
-                                "「家具」を手に入れたらここでどんどん納品してね"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 7,
                             "parameters": [
-                                "そしたらポイントが貯まっていくよ"
+                                ""
                             ]
                         },
                         {
@@ -10473,14 +10473,14 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\C[1]ハウス管理人\\C[0]"
+                                "\\C[1]House Manager\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "部屋をエロティズムLV5に変更したよ～"
+                                "I changed the room to Eroticism LV5~"
                             ]
                         },
                         {
@@ -10529,14 +10529,14 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\C[1]ハウス管理人\\C[0]"
+                                "\\C[1]House Manager\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "部屋をエロティズムLV4に変更したよ～"
+                                "I changed the room to Eroticism LV4~"
                             ]
                         },
                         {
@@ -10585,14 +10585,14 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "\\C[1]ハウス管理人\\C[0]"
+                                "\\C[1]House Manager\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "部屋をエロティズムLV3に変更したよ～"
+                                "I changed the room to Eroticism LV3~"
                             ]
                         },
                         {
@@ -10641,14 +10641,14 @@
                             "code": 401,
                             "indent": 6,
                             "parameters": [
-                                "\\C[1]ハウス管理人\\C[0]"
+                                "\\C[1]House Manager\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 6,
                             "parameters": [
-                                "部屋をエロティズムLV2に変更したよ～"
+                                "I changed the room to Eroticism LV2~"
                             ]
                         },
                         {
@@ -10697,14 +10697,14 @@
                             "code": 401,
                             "indent": 7,
                             "parameters": [
-                                "\\C[1]ハウス管理人\\C[0]"
+                                "\\C[1]House Manager\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 7,
                             "parameters": [
-                                "部屋をエロティズムLV1に変更したよ～"
+                                "I changed the room to Eroticism LV1~"
                             ]
                         },
                         {
@@ -10731,28 +10731,28 @@
                             "code": 401,
                             "indent": 7,
                             "parameters": [
-                                "\\C[1]ハウス管理人\\C[0]"
+                                "\\C[1]House Manager\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 7,
                             "parameters": [
-                                "まだこのカテゴリはLVが0だから変更できないよ"
+                                "You can't change this category yet because its LV\nis still 0. Once you obtain furniture, deliver\nthem here one after another, and your points will\nstart accumulating."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 7,
                             "parameters": [
-                                "「家具」を手に入れたらここでどんどん納品してね"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 7,
                             "parameters": [
-                                "そしたらポイントが貯まっていくよ"
+                                ""
                             ]
                         },
                         {
@@ -10881,10 +10881,10 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "ギルドハウスについて",
-                                    "ロリモンエッグ化について",
-                                    "出産について",
-                                    "やめる"
+                                    "About the Guild House",
+                                    "Regarding the transformation into a loli-mon egg",
+                                    "About childbirth",
+                                    "Stop"
                                 ],
                                 3,
                                 0,
@@ -11139,21 +11139,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[1]ハウス管理人\\C[0]"
+                                "\\C[1]House Manager\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "まぁ悪い子ね！"
+                                "Well, you've been a naughty one! Time for some\npunishment."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "お仕置きよ"
+                                ""
                             ]
                         },
                         {
@@ -11203,14 +11203,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[1]ハウス管理人\\C[0]"
+                                "\\C[1]House Manager\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "なんて……強さなの……"
+                                "How... strong you are..."
                             ]
                         },
                         {
@@ -11274,14 +11274,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[1]ハウス管理人\\C[0]"
+                                "\\C[1]House Manager\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "さぁ反省してちょうだい！"
+                                "Now, reflect on your actions, please!"
                             ]
                         },
                         {
@@ -11899,21 +11899,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[2]こちらはアイテム最大所持数バグの修正用イベントです"
+                                "This is an event to fix the bug with the maximum\nitem capacity. When you clear various areas, the\nmaximum capacity increases slightly. However, in\nthe old version, it didn't increase. So, we will\nfix that."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "各種エリアをクリアした際に最大所持が少し増えるのですが"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "昔のVERですと増えない状態でしたので、それを修正します"
+                                ""
                             ]
                         },
                         {
@@ -11921,8 +11921,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "増えてないので修正する",
-                                    "修正しない"
+                                    "We will fix it because it hasn't increased",
+                                    "Not fixing it"
                                 ],
                                 -1,
                                 -1,
@@ -12292,21 +12292,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[2]現在のマイハウスエフェクトはスラムハウスですので、"
+                                "Currently, my house effect is set to Slum House,\nso you can't enter unless you change it back to\nNormal. Would you like to revert to Normal?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "一旦ノーマルに変更しないと入れません。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "ノーマルに戻しますか？"
+                                ""
                             ]
                         },
                         {
@@ -12314,8 +12314,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 -2,
                                 -1,

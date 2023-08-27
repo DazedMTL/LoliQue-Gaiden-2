@@ -1486,14 +1486,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "こちら側からでは何もできないわね"
+                                "I can't do anything from this side."
                             ]
                         },
                         {
@@ -1519,8 +1519,8 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "ピッキングで解錠する",
-                                    "やめる"
+                                    "Unlocking with lock picking",
+                                    "Stop"
                                 ],
                                 1,
                                 0,
@@ -1615,21 +1615,21 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\C[2]ピッキングツール\\C[0]と\\C[2]ヘアピン\\C[0]を持っていれば"
+                                "If you have \\C[2]lockpicking tools\\C[0] and\n\\C[2]hairpins\\C[0], you might be able to attempt\npicking locks..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "鍵開けに挑戦できるかもしれないわね…"
+                                ""
                             ]
                         },
                         {
@@ -2348,8 +2348,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "バンディットを呼ぶ",
-                                    "何もしない"
+                                    "Calling the Bandit",
+                                    "Doing nothing"
                                 ],
                                 1,
                                 0,
@@ -2388,14 +2388,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[6]コノハ\\c[0]"
+                                "\\c[6]Konoha\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ねぇちょっと～！"
+                                "Hey, wait a minute~!"
                             ]
                         },
                         {
@@ -2412,14 +2412,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[6]コノハ\\c[0]"
+                                "\\c[6]Konoha\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "誰かいるんでしょー？"
+                                "Is someone there?"
                             ]
                         },
                         {
@@ -2446,21 +2446,21 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[6]コノハ\\c[0]"
+                                "\\c[6]Konoha\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "おーい"
+                                "Hey, is someone there?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "誰かいるんでしょー？"
+                                ""
                             ]
                         },
                         {
@@ -2641,14 +2641,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "うるせーな！"
+                                "Shut up! Be quiet!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "静かにしとけ！"
+                                ""
                             ]
                         },
                         {
@@ -2674,8 +2674,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "お金で解決…",
-                                    "\\C[22]♥誘惑en(v[261]>=300)"
+                                    "Solve it with money",
+                                    "\\C[22]♥ Temptationen(v[261]>=300)"
                                 ],
                                 -1,
                                 -1,
@@ -2714,21 +2714,21 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\c[6]コノハ\\c[0]"
+                                "\\c[6]Konoha\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "ねぇちょっと取り引きしない？"
+                                "Hey, would you be interested in making a deal? How\nmuch would you be willing to offer?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 3,
                             "parameters": [
-                                "いくらあれば出してくれる？"
+                                ""
                             ]
                         },
                         {
@@ -2755,21 +2755,21 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\c[6]コノハ\\c[0]"
+                                "\\c[6]Konoha\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "ねぇちょっと取り引きしない？"
+                                "Hey, would you be interested in making a deal? How\nmuch would you be willing to offer?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 3,
                             "parameters": [
-                                "いくらあれば出してくれる？"
+                                ""
                             ]
                         },
                         {
@@ -2803,38 +2803,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "あぁ？"
+                                "Ah? Are you trying to bribe me?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "俺を買収しようってかぁ？"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 2,
-                            "parameters": [
-                                "face_du",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "\\c[1]\\v[111]\\c[0]"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "………"
+                                ""
                             ]
                         },
                         {
@@ -2858,14 +2834,38 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "そうだな……"
+                                "........."
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 2,
+                            "parameters": [
+                                "face_du",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "10000Lo…ってとこか…"
+                                "\\c[1]\\v[111]\\c[0]"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 2,
+                            "parameters": [
+                                "I guess... around 10,000 Lo..."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -2900,14 +2900,14 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\c[6]コノハ\\c[0]"
+                                "\\c[6]Konoha\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "それくらいならあるわ……"
+                                "If it's around that much, I have it..."
                             ]
                         },
                         {
@@ -2934,14 +2934,14 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\c[6]コノハ\\c[0]"
+                                "\\c[6]Konoha\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "それくらいならあるわよ…"
+                                "If it's around that much, I have it..."
                             ]
                         },
                         {
@@ -2959,8 +2959,8 @@
                             "indent": 3,
                             "parameters": [
                                 [
-                                    "払う",
-                                    "払わない"
+                                    "Pay",
+                                    "Not paying"
                                 ],
                                 -1,
                                 -1,
@@ -3006,7 +3006,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "よーし……ま、いいだろう"
+                                "Alright... well, I guess it's fine."
                             ]
                         },
                         {
@@ -3032,14 +3032,14 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "\\c[6]コノハ\\c[0]"
+                                "\\c[6]Konoha\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "うふふ、やったわ♪"
+                                "Hehe, I did it♪"
                             ]
                         },
                         {
@@ -3066,14 +3066,14 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "\\c[6]コノハ\\c[0]"
+                                "\\c[6]Konoha\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "話しがわかるわね♪"
+                                "I understand what you're saying♪"
                             ]
                         },
                         {
@@ -3161,14 +3161,14 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "\\c[6]コノハ\\c[0]"
+                                "\\c[6]Konoha\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "と思ったけど気が変わったわ"
+                                "I thought about it, but I changed my mind."
                             ]
                         },
                         {
@@ -3195,14 +3195,14 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "\\c[6]コノハ\\c[0]"
+                                "\\c[6]Konoha\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "と思ったけどやっぱいいわ"
+                                "I thought about it, but never mind."
                             ]
                         },
                         {
@@ -3299,21 +3299,21 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\c[6]コノハ\\c[0]"
+                                "\\c[6]Konoha\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "ここだけの話なんだけど…"
+                                "This is just between us... but if you're okay with\nit, would you let me serve you with this mouth...\nhow about it?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 3,
                             "parameters": [
-                                "よければ「この口」でご奉仕させて…もらうわ…どう？"
+                                ""
                             ]
                         },
                         {
@@ -3337,7 +3337,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "なんだと？"
+                                "What did you say?"
                             ]
                         },
                         {
@@ -3354,21 +3354,21 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\c[6]コノハ\\c[0]"
+                                "\\c[6]Konoha\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "あなた新米さんで、まだ捕まえてる魔法少女と"
+                                "You're still a newbie, so you haven't had any\nnaughty encounters with captured magical girls,\nright?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 3,
                             "parameters": [
-                                "エッチとかできないんでしょ？"
+                                ""
                             ]
                         },
                         {
@@ -3392,7 +3392,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "う、うるせー！馬鹿にすんじゃねぇ！"
+                                "Shut up! Don't make fun of me!"
                             ]
                         },
                         {
@@ -3409,21 +3409,21 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\c[6]コノハ\\c[0]"
+                                "\\c[6]Konoha\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "まぁ落ち着いてよ、ここから出してくれたら"
+                                "Well, calm down. If you let me out from here, I'll\ndo even better things for you."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 3,
                             "parameters": [
-                                "もっといいことしちゃうわよ"
+                                ""
                             ]
                         },
                         {
@@ -3447,7 +3447,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "な……なんだ…と"
+                                "W-What... is this..."
                             ]
                         },
                         {
@@ -3482,7 +3482,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "よし、じゃあ……やってもらおうじゃねぇか……"
+                                "Alright, then... let me do it for you..."
                             ]
                         },
                         {
@@ -3517,21 +3517,21 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\c[6]コノハ\\c[0]"
+                                "\\c[6]Konoha\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "やった！"
+                                "Yatta! Well then, right away..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 4,
                             "parameters": [
-                                "じゃあ早速…"
+                                ""
                             ]
                         },
                         {
@@ -3626,14 +3626,14 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "くそっ…仕方ねぇ……"
+                                "Damn it... Can't be helped... Now, go."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 4,
                             "parameters": [
-                                "ほら行きな"
+                                ""
                             ]
                         },
                         {
@@ -3723,7 +3723,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "おいおい、俺が裏切るとでも思ったか？"
+                                "Hey hey, did you think I would betray you?"
                             ]
                         },
                         {
@@ -3758,14 +3758,14 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\c[6]コノハ\\c[0]"
+                                "\\c[6]Konoha\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "何よーもう"
+                                "What is it? Geez."
                             ]
                         },
                         {
@@ -3802,21 +3802,21 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\c[6]コノハ\\c[0]"
+                                "\\c[6]Konoha\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "ねぇねぇ"
+                                "Hey, hey, is your cock big?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 3,
                             "parameters": [
-                                "あなたのおちんちん大きい？"
+                                ""
                             ]
                         },
                         {
@@ -3840,14 +3840,14 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "何を言い出すんだいきなり！"
+                                "What are you suddenly saying! Are you making fun\nof me?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 3,
                             "parameters": [
-                                "馬鹿にしてるのか"
+                                ""
                             ]
                         },
                         {
@@ -3882,28 +3882,28 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\c[6]コノハ\\c[0]"
+                                "\\c[6]Konoha\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "溜まってるんでしょ？新米バンディットさん"
+                                "You're all backed up, right? Don't you want to\nshoot a big load into my mouth, you inexperienced\nbandit? Shoot it into this little pussy mouth of\nmine."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 3,
                             "parameters": [
-                                "私のこの口にいっぱいびゅーって"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 3,
                             "parameters": [
-                                "したくない？こどもの口まんこにびゅーって"
+                                ""
                             ]
                         },
                         {
@@ -3927,7 +3927,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "ふ、ふざけんな！誰がお前みたいな……"
+                                "F-Fuck off! Who the hell do you think you are..."
                             ]
                         },
                         {
@@ -3944,28 +3944,28 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\c[6]コノハ\\c[0]"
+                                "\\c[6]Konoha\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "好きなだけ出していいから"
+                                "You can cum as much as you want, so release me\nfrom here~ Hey~ ♥"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 3,
                             "parameters": [
-                                "私をここから出してよ～"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 3,
                             "parameters": [
-                                "ねぇ～♥"
+                                ""
                             ]
                         },
                         {
@@ -4000,7 +4000,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "よし、じゃあ……やってもらおうじゃねぇか……"
+                                "Alright, then... let me do it for you..."
                             ]
                         },
                         {
@@ -4035,21 +4035,21 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\c[6]コノハ\\c[0]"
+                                "\\c[6]Konoha\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "やったね！"
+                                "Yay! Well then, show me right away~"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 4,
                             "parameters": [
-                                "それじゃあ早速見せて～"
+                                ""
                             ]
                         },
                         {
@@ -4144,14 +4144,14 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "くそっ…仕方ねぇ……"
+                                "Damn it... Can't be helped... Now, go."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 4,
                             "parameters": [
-                                "ほら行きな"
+                                ""
                             ]
                         },
                         {
@@ -4259,7 +4259,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "おいおい、俺が裏切るとでも思ったか？"
+                                "Hey hey, did you think I would betray you?"
                             ]
                         },
                         {
@@ -4294,14 +4294,14 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\c[6]コノハ\\c[0]"
+                                "\\c[6]Konoha\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "何よ、ふん！"
+                                "What is it? Hmph!"
                             ]
                         },
                         {
@@ -4571,14 +4571,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "こちら側からでは何もできないわね"
+                                "I can't do anything from this side."
                             ]
                         },
                         {
@@ -4604,8 +4604,8 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "ピッキングで解錠する",
-                                    "やめる"
+                                    "Unlocking with lock picking",
+                                    "Stop"
                                 ],
                                 1,
                                 0,
@@ -4700,21 +4700,21 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\C[2]ピッキングツール\\C[0]と\\C[2]ヘアピン\\C[0]を持っていれば"
+                                "If you have \\C[2]lockpicking tools\\C[0] and\n\\C[2]hairpins\\C[0], you might be able to attempt\npicking locks..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "鍵開けに挑戦できるかもしれないわね…"
+                                ""
                             ]
                         },
                         {
@@ -5577,8 +5577,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "ピッキングで解錠する",
-                                    "やめる"
+                                    "Unlocking with lockpicking",
+                                    "Stop"
                                 ],
                                 1,
                                 0,
@@ -5673,21 +5673,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[2]ピッキングツール\\C[0]と\\C[2]ヘアピン\\C[0]を持っていれば"
+                                "If you have a \\C[2]lock-picking tool\\C[0] and a\n\\C[2]hairpin\\C[0], you might be able to challenge\nunlocking the door..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "鍵開けに挑戦できるかもしれないわね…"
+                                ""
                             ]
                         },
                         {
@@ -6134,8 +6134,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "ピッキングで解錠する",
-                                    "やめる"
+                                    "Unlocking with lock picking",
+                                    "Stop"
                                 ],
                                 1,
                                 0,
@@ -6230,21 +6230,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[2]ピッキングツール\\C[0]と\\C[2]ヘアピン\\C[0]を持っていれば"
+                                "If you have a \\C[2]lock-picking tool\\C[0] and a\n\\C[2]hairpin\\C[0], you might be able to challenge\nunlocking the door..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "鍵開けに挑戦できるかもしれないわね…"
+                                ""
                             ]
                         },
                         {

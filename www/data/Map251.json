@@ -16,7 +16,7 @@
         "volume": 80
     },
     "disableDashing": false,
-    "displayName": "よろず屋：蒼き雫",
+    "displayName": "General Store: Azure Droplet",
     "encounterList": [],
     "encounterStep": 30,
     "height": 30,
@@ -5829,8 +5829,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "\\C[3]盗むLV3",
-                                    "何もしない"
+                                    "Steal LV3",
+                                    "Doing nothing"
                                 ],
                                 1,
                                 -1,
@@ -6038,14 +6038,14 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\c[6]コノハ\\c[0]"
+                                "\\c[6]Konoha\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "なんかまずい気がするわ"
+                                "I have a bad feeling about this."
                             ]
                         },
                         {
@@ -6084,14 +6084,14 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\c[6]コノハ\\c[0]"
+                                "\\c[6]Konoha\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "ちょっと失敗ね"
+                                "I messed up a little."
                             ]
                         },
                         {
@@ -6318,14 +6318,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ちょっと！ゾロノフはあんたみたいなのに目がないから"
+                                "Hey! Zoronof is infatuated with someone like you,\nso stop dressing like that."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "そういう格好はやめておきな"
+                                ""
                             ]
                         },
                         {
@@ -6352,14 +6352,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "宝珠が錬成できない時はとりあえず買っていくのも"
+                                "I think it's a good idea to buy jewels when you\ncan't synthesize them for the time being."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "いいと思うわ"
+                                ""
                             ]
                         },
                         {
@@ -6374,11 +6374,11 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "武器宝珠",
-                                    "サブ宝珠",
-                                    "防具宝珠",
-                                    "アイテム",
-                                    "やめる"
+                                    "Weapon Jewels",
+                                    "Sub Gems",
+                                    "Armor Jewels",
+                                    "Item",
+                                    "Stop"
                                 ],
                                 4,
                                 -1,
@@ -6832,7 +6832,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ありがとう、また来てね"
+                                "Thank you, come again."
                             ]
                         },
                         {
@@ -7909,21 +7909,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[1]ゾロノフ\\C[0]"
+                                "\\C[1]Zoronof\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ぶほぉ！こりゃええな！"
+                                "Oh my! This is great! Miss, show me more!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "嬢ちゃん、もっと見せてくれ！"
+                                ""
                             ]
                         },
                         {
@@ -7950,21 +7950,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[1]ゾロノフ\\C[0]"
+                                "\\C[1]Zoronof\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "宝珠の錬成一筋、100年よ！"
+                                "I've been devoted to the art of gemstone alchemy\nfor 100 years! Now, now, step aside, step aside!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "さぁさぁどいたどいた！"
+                                ""
                             ]
                         },
                         {
@@ -8075,14 +8075,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ひゅー！こりゃ眼福ってもんだ"
+                                "Hoo! This is a feast for the eyes, I've found a\nbeautiful pussy!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "キレイなろりまんこ発見！"
+                                ""
                             ]
                         },
                         {
@@ -8109,14 +8109,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "知ってるか？伝説のロリモンの存在をよ"
+                                "Do you know? It seems that the legendary loli\nmonster is lurking in this Grimoire Land, you\nknow?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "このグリモアランドに潜んでるらしいぜ？"
+                                ""
                             ]
                         },
                         {
@@ -8133,21 +8133,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "俺が見つけたら力づくで飼いならして"
+                                "If I find it, I'll forcefully tame it and sell the\nEgg Core to a magical girl at a high price. It's a\ngood business, isn't it?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "エッグコアを魔法少女に高値で売り飛ばすんだ"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "いい商売だろ"
+                                ""
                             ]
                         },
                         {
@@ -8791,8 +8791,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "\\C[3]盗むLV3",
-                                    "何もしない"
+                                    "Steal LV3",
+                                    "Doing nothing"
                                 ],
                                 1,
                                 -1,
@@ -9030,14 +9030,14 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\c[6]コノハ\\c[0]"
+                                "\\c[6]Konoha\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "なんかまずい気がするわ"
+                                "I have a bad feeling about this."
                             ]
                         },
                         {
@@ -9076,14 +9076,14 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\c[6]コノハ\\c[0]"
+                                "\\c[6]Konoha\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "ちょっと失敗ね"
+                                "I messed up a little."
                             ]
                         },
                         {

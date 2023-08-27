@@ -16,7 +16,7 @@
         "volume": 80
     },
     "disableDashing": false,
-    "displayName": "サリアン遺跡",
+    "displayName": "Sarian Ruins",
     "encounterList": [
         {
             "regionSet": [],
@@ -17725,8 +17725,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "ピッキングで解錠する",
-                                    "やめる"
+                                    "Unlocking with lock picking",
+                                    "Stop"
                                 ],
                                 1,
                                 0,
@@ -17821,21 +17821,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[2]ピッキングツール\\C[0]と\\C[2]ヘアピン\\C[0]を持っていれば"
+                                "If you have a \\C[2]lock-picking tool\\C[0] and a\n\\C[2]hairpin\\C[0], you might be able to challenge\nunlocking the door..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "鍵開けに挑戦できるかもしれないわね…"
+                                ""
                             ]
                         },
                         {
@@ -18247,21 +18247,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "鍵は掛かっていないけどビクともしないわね"
+                                "The door isn't locked, but I'm not even flinching.\nThere might be some other mechanism at play here."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "どこか別の仕掛けがあるのかもしれないわ"
+                                ""
                             ]
                         },
                         {
@@ -18288,21 +18288,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "鍵は掛かっていないけどビクともしないわ"
+                                "The door isn't locked, but I'm not even flinching.\nThere might be some other mechanism at play here,\nyou know."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "どこか別の仕掛けがあるのかもしれないわね"
+                                ""
                             ]
                         },
                         {
@@ -18456,7 +18456,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レバーがある。引いてみる？"
+                                "There's a lever. Want to pull it?"
                             ]
                         },
                         {
@@ -18464,8 +18464,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "引く",
-                                    "引かない"
+                                    "Pull it",
+                                    "Not pulling it"
                                 ],
                                 -1,
                                 0,
@@ -18716,7 +18716,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レバーはもう引いてある"
+                                "The lever has already been pulled."
                             ]
                         },
                         {

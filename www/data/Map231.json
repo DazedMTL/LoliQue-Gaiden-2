@@ -16,7 +16,7 @@
         "volume": 80
     },
     "disableDashing": false,
-    "displayName": "グリティア墓",
+    "displayName": "Gritia Graveyard",
     "encounterList": [
         {
             "regionSet": [],
@@ -22240,7 +22240,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[2]炎スキルを使えるロリモンが蔓を焼き払った！"
+                                "The loli character who can use fire skills burned\naway the vines!"
                             ]
                         },
                         {
@@ -22333,7 +22333,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\C[2]炎スキルを使えるロリモンが蔓を焼き払った！"
+                                "The loli character who can use fire skills burned\naway the vines!"
                             ]
                         },
                         {
@@ -22426,7 +22426,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\C[2]炎スキルを使えるロリモンが蔓を焼き払った！"
+                                "The loli character who can use fire skills burned\naway the vines!"
                             ]
                         },
                         {
@@ -22461,14 +22461,14 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "宝箱に\\C[2]蔓\\C[0]が巻き付いてしまっている"
+                                "If there is someone in the party who can use the\nfire skill LV1 and there are vines wrapped around\nthe treasure chest, they could probably burn them\naway."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 3,
                             "parameters": [
-                                "\\C[3]炎スキルLV1\\C[0]を使える者がパーティに居れば焼き払えそうだ"
+                                ""
                             ]
                         },
                         {
@@ -23111,21 +23111,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[1]天才鍛冶屋さん\\C[0]"
+                                "\\C[1]Genius Blacksmith\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "お？客が来たみてえだな"
+                                "Oh? Looks like we have a customer. Our blacksmith\nhere is a bit different from the dwarves."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "うちの鍛冶はドワーフのところとは一味ちげぇよ"
+                                ""
                             ]
                         },
                         {

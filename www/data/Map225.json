@@ -4069,8 +4069,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "ピッキングで解錠する",
-                                    "やめる"
+                                    "Unlocking with lockpicking",
+                                    "Stop"
                                 ],
                                 1,
                                 0,
@@ -4165,21 +4165,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[2]ピッキングツール\\C[0]と\\C[2]ヘアピン\\C[0]を持っていれば"
+                                "If you have a \\C[2]lock-picking tool\\C[0] and a\n\\C[2]hairpin\\C[0], you might be able to challenge\nunlocking the door..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "鍵開けに挑戦できるかもしれないわね…"
+                                ""
                             ]
                         },
                         {
@@ -5109,7 +5109,7 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "会話"
+                                    "Conversation"
                                 ],
                                 -1,
                                 0,
@@ -5155,7 +5155,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "おっ、ガキまんこ発見"
+                                "Oh, found a kid's pussy."
                             ]
                         },
                         {
@@ -5189,7 +5189,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ダートル様は俺たちのことを一番に考えてくださってるんだ"
+                                "Lord Dartle always thinks of us first."
                             ]
                         },
                         {
@@ -5217,9 +5217,9 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "\\C[22]♥誘惑en(v[261]>=300)",
-                                    "\\C[14]♠窃盗en(v[263]>=20)",
-                                    "\\C[3]☠攻撃en(v[263]>=100)"
+                                    "\\C[22]♥ Temptationen(v[261]>=300)",
+                                    "\\C[14]♠Theften(v[263]>=20)",
+                                    "\\C[3]☠ Attacken(v[263]>=100)"
                                 ],
                                 -2,
                                 -1,
@@ -5382,14 +5382,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ぐえっ"
+                                "What the hell are you doing?!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "なにすんだ！"
+                                ""
                             ]
                         },
                         {
@@ -5435,7 +5435,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ぎえ…"
+                                "G-geez..."
                             ]
                         },
                         {
@@ -5494,7 +5494,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ざけんなよ……デビルウィッチは仲間じゃなかったのか"
+                                "Don't joke around... Wasn't the Devil Witch our\nally?"
                             ]
                         },
                         {

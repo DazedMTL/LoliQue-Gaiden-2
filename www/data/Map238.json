@@ -20678,8 +20678,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "ピッキングで解錠する",
-                                    "やめる"
+                                    "Unlocking with lock picking",
+                                    "Stop"
                                 ],
                                 1,
                                 0,
@@ -20774,21 +20774,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[2]ピッキングツール\\C[0]と\\C[2]ヘアピン\\C[0]を持っていれば"
+                                "If you have a \\C[2]lock-picking tool\\C[0] and a\n\\C[2]hairpin\\C[0], you might be able to challenge\nunlocking the door..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "鍵開けに挑戦できるかもしれないわね…"
+                                ""
                             ]
                         },
                         {
@@ -21478,7 +21478,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[2]左　　む　な　し　く"
+                                "\\C[2]Left in vain."
                             ]
                         },
                         {
@@ -21503,7 +21503,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[1]観察スキル\\C[0]が発動！"
+                                "\\C[1]Observation Skill\\C[0]Activated!"
                             ]
                         },
                         {
@@ -21520,7 +21520,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[2]左　　６　７　４　９"
+                                "Left 6749."
                             ]
                         },
                         {
@@ -21619,7 +21619,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[2]左　　む　な　し　く"
+                                "\\C[2]Left in vain."
                             ]
                         },
                         {

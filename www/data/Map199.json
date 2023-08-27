@@ -4004,7 +4004,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "リペアキットならギルドコインで交換できるでしょ？"
+                                "Can repair kits be exchanged for guild coins?"
                             ]
                         },
                         {
@@ -4031,21 +4031,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ギルドコインの使いみちってギルド以外でも"
+                                "I wonder if there are uses for guild coins outside\nof the guild? There might be someone who wants\nthem, you know."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "あるのかしらね？もしかしたら誰か欲しがる人も"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "いるのかもしれないわね"
+                                ""
                             ]
                         },
                         {
@@ -4206,7 +4206,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "そんな裸でうろうろされちゃたまらんよ！"
+                                "I can't resist it when you wander around naked\nlike that!"
                             ]
                         },
                         {
@@ -4233,7 +4233,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "あんたも魔法少女さんか。まぁゆっくりしていってくれ"
+                                "Are you also a magical girl? Well, take your time\nand relax."
                             ]
                         },
                         {
@@ -4442,8 +4442,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "ピッキングで解錠する",
-                                    "やめる"
+                                    "Unlocking with lock picking",
+                                    "Stop"
                                 ],
                                 1,
                                 0,
@@ -4538,21 +4538,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[2]ピッキングツール\\C[0]と\\C[2]ヘアピン\\C[0]を持っていれば"
+                                "If you have a \\C[2]lock-picking tool\\C[0] and a\n\\C[2]hairpin\\C[0], you might be able to challenge\nunlocking the door..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "鍵開けに挑戦できるかもしれないわね…"
+                                ""
                             ]
                         },
                         {
@@ -4636,8 +4636,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "\\C[3]盗むLV?",
-                                    "何もしない"
+                                    "Steal LV?",
+                                    "Doing nothing"
                                 ],
                                 1,
                                 -1,
@@ -4893,14 +4893,14 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\c[6]コノハ\\c[0]"
+                                "\\c[6]Konoha\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "なんかまずい気がするわ"
+                                "I have a bad feeling about this."
                             ]
                         },
                         {
@@ -4939,14 +4939,14 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\c[6]コノハ\\c[0]"
+                                "\\c[6]Konoha\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "ちょっと失敗ね"
+                                "I messed up a little."
                             ]
                         },
                         {

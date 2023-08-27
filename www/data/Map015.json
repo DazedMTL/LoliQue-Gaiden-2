@@ -16,7 +16,7 @@
         "volume": 100
     },
     "disableDashing": false,
-    "displayName": "パエリス湖「神樹の里」",
+    "displayName": "Lake Paelis \"Village of the Divine Tree",
     "encounterList": [
         {
             "regionSet": [],
@@ -18515,7 +18515,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[2]【神樹の里】\\c[0]をポータルに記録しました"
+                                "\\c[2][Village of the Divine Tree]\\c[0]Recorded in the portal."
                             ]
                         },
                         {
@@ -19377,14 +19377,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[2]このネストストーンを魔力で制御できるようになった"
+                                "\\C[2]The enemies in the vicinity became docile\nafter being able to control this Nest Stone with\nmagic\\C[1]!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "\\C[1]付近の敵がおとなしくなった！"
+                                ""
                             ]
                         },
                         {
@@ -19556,14 +19556,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[2]ネストストーンの制御を解除しますか？"
+                                "Do you want to release the control of the Nest\nStone? If you release it, nearby enemies will\nattack."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "\\C[3]解除すると、付近の敵が襲ってきます"
+                                ""
                             ]
                         },
                         {
@@ -19571,8 +19571,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "解除する",
-                                    "解除しない"
+                                    "Release",
+                                    "Don't release it"
                                 ],
                                 -1,
                                 -1,
@@ -19619,7 +19619,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[2]ネストストーンの制御を解除した！"
+                                "Released the control of the Nest Stone!"
                             ]
                         },
                         {
@@ -19784,14 +19784,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[2]このネストストーンを魔力で制御した！"
+                                "\\C[2]I controlled this Nest Stone with magic!\n\\C[1]The nearby enemies became docile!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "\\C[1]付近の敵がおとなしくなった！"
+                                ""
                             ]
                         },
                         {
@@ -24937,14 +24937,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "これは！？"
+                                "What is this!?"
                             ]
                         },
                         {
@@ -24961,21 +24961,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "遺体に魔獣が群がってる！"
+                                "There are demons swarming around the corpse! Could\nit be..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "まさか、これって……"
+                                ""
                             ]
                         },
                         {
@@ -25010,14 +25010,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "とにかく追い払わないと！"
+                                "We have to drive them away no matter what!"
                             ]
                         },
                         {
@@ -25829,14 +25829,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "なんとか倒したけれど……"
+                                "We managed to defeat them, but..."
                             ]
                         },
                         {
@@ -25939,14 +25939,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "あっ……"
+                                "Ah..."
                             ]
                         },
                         {
@@ -25970,14 +25970,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ありがとうございます……"
+                                "Thank you... I was about to become a demon beast\nsoon..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "もうすぐで、魔獣となるところでした……"
+                                ""
                             ]
                         },
                         {
@@ -26012,14 +26012,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "あなた…死んでる……のよね"
+                                "You... are dead... right?"
                             ]
                         },
                         {
@@ -26043,14 +26043,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "はい、そうです。故郷の神樹の里に帰る途中、ここで"
+                                "Yes, that's right. I was attacked here on my way\nback to my hometown, the Village of the Sacred\nTree..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "襲われて……"
+                                ""
                             ]
                         },
                         {
@@ -26085,14 +26085,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "もしかして、お子さんが一緒じゃなかった…？"
+                                "Could it be that your child wasn't with you...?"
                             ]
                         },
                         {
@@ -26196,14 +26196,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[1]クーラ\\C[0]"
+                                "\\C[1]Kura\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ママ！いたー！"
+                                "Mama! I found you!"
                             ]
                         },
                         {
@@ -26259,14 +26259,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "えっ！？クーラあなた"
+                                "Eh!? Kura, you..."
                             ]
                         },
                         {
@@ -26290,45 +26290,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "はい、不甲斐ないことにこの子ももう……すでに"
+                                "Yes, unfortunately, this child... their soul had\nalready safely arrived in the village."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "魂が上手く里に着いていたのは幸いでした"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 1,
-                            "parameters": [
-                                "face_du",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\C[1]？？？\\C[0]"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "おかげで、私とクーラはなんとかこのまま神樹の里の"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "聖域に還ることができそうです……"
+                                ""
                             ]
                         },
                         {
@@ -26352,7 +26321,38 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ありがとうございます、魔法少女さん……"
+                                "Thanks to you, Kura and I seem to be able to\nreturn to the sanctuary of the Village of the\nSacred Tree just like this..."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "face_du",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "\\C[1]？？？\\C[0]"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "Thank you, magical girl..."
                             ]
                         },
                         {
@@ -26414,14 +26414,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[1]クーラ\\C[0]"
+                                "\\C[1]Kura\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "お姉ちゃんありがとー！"
+                                "Thank you, big sister!"
                             ]
                         },
                         {
@@ -26562,14 +26562,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "浮かばれてなかった親子の魂……だったというの……"
+                                "It seems... it was the souls of a parent and child\nwho couldn't ascend..."
                             ]
                         },
                         {
@@ -26604,14 +26604,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "もっと安全な……大地にしていきたいわね…"
+                                "I want to make the earth... safer..."
                             ]
                         },
                         {

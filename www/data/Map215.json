@@ -16,7 +16,7 @@
         "volume": 80
     },
     "disableDashing": false,
-    "displayName": "バルンツ遺跡：B3F",
+    "displayName": "Balnitz Ruins: B3F",
     "encounterList": [
         {
             "regionSet": [],
@@ -21643,14 +21643,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[2]このネストストーンを魔力で制御できるようになった"
+                                "\\C[2]The enemies in the vicinity became docile\nafter being able to control this Nest Stone with\nmagic\\C[1]!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "\\C[1]付近の敵がおとなしくなった！"
+                                ""
                             ]
                         },
                         {
@@ -21822,14 +21822,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[2]ネストストーンの制御を解除しますか？"
+                                "Do you want to release the control of the Nest\nStone? If you release it, nearby enemies will\nattack."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "\\C[3]解除すると、付近の敵が襲ってきます"
+                                ""
                             ]
                         },
                         {
@@ -21837,8 +21837,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "解除する",
-                                    "解除しない"
+                                    "Release",
+                                    "Don't release it"
                                 ],
                                 -1,
                                 -1,
@@ -21885,7 +21885,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[2]ネストストーンの制御を解除した！"
+                                "Released the control of the Nest Stone!"
                             ]
                         },
                         {
@@ -22050,14 +22050,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[2]このネストストーンを魔力で制御した！"
+                                "\\C[2]I controlled this Nest Stone with magic!\n\\C[1]The nearby enemies became docile!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "\\C[1]付近の敵がおとなしくなった！"
+                                ""
                             ]
                         },
                         {
@@ -23887,14 +23887,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ここね。さてと……どうやって呼べばいいのかしらね"
+                                "Hmm... now, how should I be called, I wonder?"
                             ]
                         },
                         {
@@ -23929,21 +23929,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ここに、神様と崇められて調子乗ってるおバカな"
+                                "I heard there's a stupid demon here who's being\nworshipped like a god and getting carried away. I\nwonder if they really exist~?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "デーモンがいるって聞いたんだけど、いないのかしら～？"
+                                ""
                             ]
                         },
                         {
@@ -23981,7 +23981,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "イマ……ナント……"
+                                "Now... what should I be called..."
                             ]
                         },
                         {
@@ -24016,21 +24016,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "聞こえてるんじゃない"
+                                "I can hear you, so come out quickly, Baretta. Come\nout quickly, Baretta."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "早く出てきなさいよ、バルンツ"
+                                ""
                             ]
                         },
                         {
@@ -24047,14 +24047,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[1]バルンツ\\C[0]"
+                                "\\C[1]Balnitz\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "キサマァ"
+                                "You bastard."
                             ]
                         },
                         {
@@ -24205,14 +24205,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "やっとお目見えね"
+                                "Finally, we meet face to face."
                             ]
                         },
                         {
@@ -24241,14 +24241,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[1]バルンツ\\C[0]"
+                                "\\C[1]Balnitz\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "フトドキモノメ……ワレヲシラヌトミエル……"
+                                "A mysterious creature... that seems to see through\nme..."
                             ]
                         },
                         {
@@ -24265,21 +24265,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[1]バルンツ\\C[0]"
+                                "\\C[1]Balnitz\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ナニモノカシランガ……ナンニンモノマホウショウジョヲ"
+                                "What kind of being are you...? How did you manage\nto see through everyone's magic...? This power...\nit's both fascinating and dangerous."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "クルシメタ……コノチカラ……トクトアジワウガイイ"
+                                ""
                             ]
                         },
                         {
@@ -24332,28 +24332,28 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[1]バルンツ\\C[0]"
+                                "\\C[1]Balnitz\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ギイィヤアァァァァァ！！！"
+                                "Giiiyaaaaa!!! It's a lieeeee!!! Me... it's\nmeeeee!!!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "ウソダアアアアアア！！！"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "ワレガ……ワレガァァァァァァ！！！"
+                                ""
                             ]
                         },
                         {
@@ -24655,21 +24655,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "はぁ、なんとか倒したわ"
+                                "Phew, I managed to defeat that huge monster that\nwas causing such a rampage."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "こんなデカブツが大暴れしてたのね"
+                                ""
                             ]
                         },
                         {
@@ -24704,14 +24704,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "さて、エフィラに報告しましょ"
+                                "Well, let's report to Effila."
                             ]
                         },
                         {

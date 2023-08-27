@@ -7206,28 +7206,28 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[21]秘湯「まぐわいの湯」\\C[0]"
+                                "\\C[21]Secret Hot Spring Maguwai no Yu\n\\C[0]Benefits: It has various healing effects. It\nwill heal your tired body from the core. Just one\nthing... it may also..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "効能：あらゆる癒やしの効果があります。疲れた身体を芯から"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "癒やします。ただひとつだけ・・・・・ます。・・・・かって"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "る・・・事も・・・・・・なり・・・"
+                                ""
                             ]
                         },
                         {
@@ -7244,21 +7244,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "途中から文字がかすれて読めないわね"
+                                "The text becomes blurry and unreadable halfway\nthrough. Well, I guess it's fine."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "まぁ大丈夫でしょう"
+                                ""
                             ]
                         },
                         {
@@ -7523,8 +7523,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "温泉に入ってみる（悪堕ち状態不可）",
-                                    "やめておく"
+                                    "Trying out the hot springs (cannot be in a state of corruption)",
+                                    "I'll stop"
                                 ],
                                 1,
                                 -1,
@@ -7563,14 +7563,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "凄いキレイな温泉！早速脱いで入ってみましょう♪"
+                                "What a beautiful hot spring! Let's quickly undress\nand give it a try♪"
                             ]
                         },
                         {
@@ -7725,21 +7725,21 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "こんなのノボせてしまうだけよ"
+                                "I'll just end up getting all wet if I do something\nlike this, so I'll pass."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "やめとくー"
+                                ""
                             ]
                         },
                         {
@@ -7788,14 +7788,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "うーん、また今度にしましょうか…"
+                                "Hmm, maybe let's do it another time..."
                             ]
                         },
                         {
@@ -7822,14 +7822,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "やめとくー"
+                                "I'll pass."
                             ]
                         },
                         {
@@ -8130,7 +8130,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[2]「空き瓶」を使って「温泉水」を採取しますか？"
+                                "\\C[2] Do you want to collect 'hot spring water'\nusing an 'empty bottle'?"
                             ]
                         },
                         {
@@ -8138,8 +8138,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -8225,14 +8225,14 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "これで全部ね。ポムリンに持っていきましょう"
+                                "That's all. Let's take it to Pomurin."
                             ]
                         },
                         {
@@ -8311,7 +8311,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[2]「空き瓶」があれば「温泉水」を採取できそうだ"
+                                "\\C[2] It seems like you can collect hot spring\nwater if you have an empty bottle."
                             ]
                         },
                         {
@@ -8459,28 +8459,28 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[1]厳選アイテム屋さん\\C[0]"
+                                "\\C[1]Carefully Selected Item Shop\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "やぁどうもどうも。チラシを見て来てくれたんだね"
+                                "Hey there, thank you for coming after seeing the\nflyer. Don't worry, feel free to take a peek at\nthe hot springs..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ありがとうねぇ"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "大丈夫、温泉は覗いたりしたいから……"
+                                ""
                             ]
                         },
                         {
@@ -8504,14 +8504,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[1]厳選アイテム屋さん\\C[0]"
+                                "\\C[1]Carefully Selected Item Shop\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "また来てね"
+                                "Please come again."
                             ]
                         },
                         {

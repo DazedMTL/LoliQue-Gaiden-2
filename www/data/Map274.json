@@ -16,7 +16,7 @@
         "volume": 80
     },
     "disableDashing": false,
-    "displayName": "祠前",
+    "displayName": "Shrine Front",
     "encounterList": [
         {
             "regionSet": [],
@@ -49258,8 +49258,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "ピッキングで解錠する",
-                                    "やめる"
+                                    "Unlocking with lock picking",
+                                    "Stop"
                                 ],
                                 1,
                                 0,
@@ -49354,21 +49354,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[2]ピッキングツール\\C[0]と\\C[2]ヘアピン\\C[0]を持っていれば"
+                                "If you have a \\C[2]lock-picking tool\\C[0] and a\n\\C[2]hairpin\\C[0], you might be able to challenge\nunlocking the door..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "鍵開けに挑戦できるかもしれないわね…"
+                                ""
                             ]
                         },
                         {
@@ -50112,21 +50112,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[1]ドロテア\\C[0]"
+                                "\\C[1]Dorothea\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ここが入り口です。中に入ったら階段を登っていけば"
+                                "This is the entrance. Once you go inside, climb\nthe stairs and you will reach the altar."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "祭壇にたどり着きます"
+                                ""
                             ]
                         },
                         {
@@ -50143,21 +50143,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[1]ロージア\\C[0]"
+                                "\\C[1]Rosia\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "結界の弱体の関係で、中はデーモンがすでにいる可能性が"
+                                "Due to the weakening of the barrier, there is a\nhigh possibility that demons are already inside.\nPlease come with caution."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "高い。注意して来てくれ"
+                                ""
                             ]
                         },
                         {
@@ -50192,14 +50192,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "わかったわ。あなた達も気をつけて"
+                                "I understand. Please be careful, all of you."
                             ]
                         },
                         {
@@ -50353,21 +50353,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[1]ロージア\\C[0]"
+                                "\\C[1]Rosia\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "やはり、ココリだ…！"
+                                "As I thought, it's Kokori...! She has become even\nstronger than before!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "前より強大になっているぞ！"
+                                ""
                             ]
                         },
                         {
@@ -50427,14 +50427,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "もう負けないわよ、楽にしてあげるわココリ"
+                                "I won't lose anymore. I'll make it easy for you,\nKokori."
                             ]
                         },
                         {
@@ -50575,14 +50575,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "なんとか…倒したわね……"
+                                "Somehow... I managed to defeat her..."
                             ]
                         },
                         {
@@ -50599,14 +50599,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[1]ロージア\\C[0]"
+                                "\\C[1]Rosia\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "よし、このまま進もう"
+                                "Alright, let's keep going."
                             ]
                         },
                         {
@@ -50623,14 +50623,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[1]ドロテア\\C[0]"
+                                "\\C[1]Dorothea\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "中に入ったら階段を登っていけば祭壇にたどり着きます"
+                                "Once you enter, climb the stairs and you will\nreach the altar."
                             ]
                         },
                         {
@@ -50690,14 +50690,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "わかったわ。あなた達も気をつけて"
+                                "Alright, I understand. You all be careful too."
                             ]
                         },
                         {
@@ -51303,14 +51303,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーンロック\\C[2]「Σシグマ」\\C[0]が掛かっているようだ"
+                                "Rune Lock \\C[2] Σ Sigma \\C[0] seems to be in\nplace, it can't be opened with picking."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ピッキングでは開けられない"
+                                ""
                             ]
                         },
                         {
@@ -51326,8 +51326,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "ルーンストーンを使って解錠する",
-                                    "何もしない"
+                                    "Unlock using the rune stone",
+                                    "Do nothing"
                                 ],
                                 1,
                                 0,
@@ -51851,14 +51851,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[2]ルダリングによっておぞましい力の象徴を感じる……"
+                                "Do you feel the symbol of repulsive power through\n\\C[2] rendering... Will you fight?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "戦いますか？"
+                                ""
                             ]
                         },
                         {
@@ -51866,8 +51866,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "戦う",
-                                    "やめておく"
+                                    "Fight",
+                                    "I'll stop"
                                 ],
                                 -2,
                                 0,
@@ -51912,14 +51912,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "スサノオ…！おまえなのか？！"
+                                "Susano'o...! Is it you?! Ah... What a sinister and\nterrifying aura...!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "ああ……なんという禍々しい恐ろしい気じゃ……！"
+                                ""
                             ]
                         },
                         {
@@ -51943,14 +51943,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "全く、われを選んでおればこんなことには"
+                                "If only you had chosen me, things wouldn't have\nturned out like this... I'll make you feel good\nnow."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "ならんかったじゃろうに……今楽にしてやるわい"
+                                ""
                             ]
                         },
                         {
@@ -52359,14 +52359,14 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "ようやく……逝ったか。これでわれも次に進める……"
+                                "Finally... you're gone. Now I can move on... I\nmust find a new love..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 3,
                             "parameters": [
-                                "新しい恋を探さねばいかん……"
+                                ""
                             ]
                         },
                         {
@@ -52505,14 +52505,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ふむ、おそらくこれが…スサノオじゃろう……"
+                                "Hmmm, this is probably... Susano'o... You're\nadding me to your battle party, aren't you!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "われをバトルメンバーに入れるのじゃ！"
+                                ""
                             ]
                         },
                         {

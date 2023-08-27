@@ -4136,7 +4136,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[2]炎スキルを使えるロリモンが蔓を焼き払った！"
+                                "The loli character who can use fire skills burned\naway the vines!"
                             ]
                         },
                         {
@@ -4188,7 +4188,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\C[2]炎スキルを使えるロリモンが蔓を焼き払った！"
+                                "The loli character who can use fire skills burned\naway the vines!"
                             ]
                         },
                         {
@@ -4223,14 +4223,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "宝箱に\\C[2]蔓\\C[0]が巻き付いてしまっている"
+                                "If there is someone in the party who can use the\nLv2 fire skill, they might be able to burn away\nthe vines that have wrapped around the treasure\nchest."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "\\C[3]炎スキルLV2\\C[0]を使える者がパーティに居れば焼き払えそうだ"
+                                ""
                             ]
                         },
                         {
@@ -4673,8 +4673,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "ピッキングで解錠する",
-                                    "やめる"
+                                    "Unlocking with lockpicking",
+                                    "Stop"
                                 ],
                                 1,
                                 0,
@@ -4769,21 +4769,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[2]ピッキングツール\\C[0]と\\C[2]ヘアピン\\C[0]を持っていれば"
+                                "If you have a \\C[2]lock-picking tool\\C[0] and a\n\\C[2]hairpin\\C[0], you might be able to challenge\nunlocking the door..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "鍵開けに挑戦できるかもしれないわね…"
+                                ""
                             ]
                         },
                         {
@@ -4867,8 +4867,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "\\C[3]盗むLV?",
-                                    "何もしない"
+                                    "Steal LV?",
+                                    "Doing nothing"
                                 ],
                                 1,
                                 -1,
@@ -5124,14 +5124,14 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\c[6]コノハ\\c[0]"
+                                "\\c[6]Konoha\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "なんかまずい気がするわ"
+                                "I have a bad feeling about this."
                             ]
                         },
                         {
@@ -5170,14 +5170,14 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\c[6]コノハ\\c[0]"
+                                "\\c[6]Konoha\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "ちょっと失敗ね"
+                                "I messed up a little."
                             ]
                         },
                         {

@@ -16,7 +16,7 @@
         "volume": 80
     },
     "disableDashing": false,
-    "displayName": "ドングーのアジト",
+    "displayName": "Dungo's Hideout",
     "encounterList": [
         {
             "regionSet": [],
@@ -15877,8 +15877,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "ピッキングで解錠する",
-                                    "やめる"
+                                    "Unlocking with lock picking",
+                                    "Stop"
                                 ],
                                 1,
                                 0,
@@ -15973,21 +15973,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[2]ピッキングツール\\C[0]と\\C[2]ヘアピン\\C[0]を持っていれば"
+                                "If you have a \\C[2]lock-picking tool\\C[0] and a\n\\C[2]hairpin\\C[0], you might be able to challenge\nunlocking the door..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "鍵開けに挑戦できるかもしれないわね…"
+                                ""
                             ]
                         },
                         {
@@ -17667,7 +17667,7 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "会話"
+                                    "Conversation"
                                 ],
                                 -1,
                                 0,
@@ -17713,7 +17713,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "可愛いおっぱい！"
+                                "Cute boobs!"
                             ]
                         },
                         {
@@ -17747,14 +17747,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "もっと魔法少女を犯したいぜ"
+                                "I want to fuck more magical girls, hurry up and\nbring them to me."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "早く連れてきてくれよな"
+                                ""
                             ]
                         },
                         {
@@ -17782,9 +17782,9 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "\\C[22]♥誘惑en(v[261]>=300)",
-                                    "\\C[14]♠窃盗en(v[263]>=20)",
-                                    "\\C[3]☠攻撃en(v[263]>=100)"
+                                    "\\C[22]♥ Temptationen(v[261]>=300)",
+                                    "\\C[14]♠Theften(v[263]>=20)",
+                                    "\\C[3]☠ Attacken(v[263]>=100)"
                                 ],
                                 -2,
                                 -1,
@@ -17947,14 +17947,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "おわっ！"
+                                "Oh! What the hell are you doing?!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "なにしやがるっ"
+                                ""
                             ]
                         },
                         {
@@ -18000,7 +18000,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ぐぬぅ…"
+                                "Ugh..."
                             ]
                         },
                         {
@@ -18059,14 +18059,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "おまえなんてもう仲間じゃないぜ…"
+                                "You're no longer a comrade... You'll regret it."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "後悔するんだな"
+                                ""
                             ]
                         },
                         {
@@ -18863,8 +18863,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "ピッキングで解錠する",
-                                    "やめる"
+                                    "Unlocking with lock picking",
+                                    "Stop"
                                 ],
                                 1,
                                 0,
@@ -18959,21 +18959,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[2]ピッキングツール\\C[0]と\\C[2]ヘアピン\\C[0]を持っていれば"
+                                "If you have a \\C[2]lock-picking tool\\C[0] and a\n\\C[2]hairpin\\C[0], you might be able to challenge\nunlocking the door..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "鍵開けに挑戦できるかもしれないわね…"
+                                ""
                             ]
                         },
                         {
@@ -20124,8 +20124,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "ピッキングで解錠する",
-                                    "やめる"
+                                    "Unlocking with lock picking",
+                                    "Stop"
                                 ],
                                 1,
                                 0,
@@ -20220,21 +20220,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[2]ピッキングツール\\C[0]と\\C[2]ヘアピン\\C[0]を持っていれば"
+                                "If you have a \\C[2]lock-picking tool\\C[0] and a\n\\C[2]hairpin\\C[0], you might be able to challenge\nunlocking the door..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "鍵開けに挑戦できるかもしれないわね…"
+                                ""
                             ]
                         },
                         {
@@ -21164,7 +21164,7 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "会話"
+                                    "Conversation"
                                 ],
                                 -1,
                                 0,
@@ -21210,7 +21210,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "へへ…さすがいい身体してるぜ～♪"
+                                "Hehe... You sure have a nice body~♪"
                             ]
                         },
                         {
@@ -21244,14 +21244,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "あんた、こっち側だな？"
+                                "Are you on this side? If there's something you\nwant, I'll pass it to you."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "欲しい物あったらまわすぜ"
+                                ""
                             ]
                         },
                         {
@@ -21286,9 +21286,9 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "\\C[22]♥誘惑en(v[261]>=300)",
-                                    "\\C[14]♠窃盗en(v[263]>=20)",
-                                    "\\C[3]☠攻撃en(v[263]>=100)"
+                                    "\\C[22]♥ Temptationen(v[261]>=300)",
+                                    "\\C[14]♠Theften(v[263]>=20)",
+                                    "\\C[3]☠ Attacken(v[263]>=100)"
                                 ],
                                 -2,
                                 -1,
@@ -21451,14 +21451,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ぐえっ"
+                                "What the hell are you doing?!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "なにすんだ！"
+                                ""
                             ]
                         },
                         {
@@ -21504,7 +21504,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ぎえ…"
+                                "G-geez..."
                             ]
                         },
                         {
@@ -21563,7 +21563,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ざけんなよ……デビルウィッチは仲間じゃなかったのか"
+                                "Don't mess around... Wasn't the Devil Witch\nsupposed to be our ally?"
                             ]
                         },
                         {
@@ -23072,7 +23072,7 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "会話"
+                                    "Conversation"
                                 ],
                                 -1,
                                 0,
@@ -23118,7 +23118,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "へへへ…すっぱだかで堂々としてんな～"
+                                "Hehehe... You're so shameless, walking around\nnaked~"
                             ]
                         },
                         {
@@ -23152,14 +23152,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ドングー様が成りあがるためにいろいろと計画が"
+                                "Dongu-sama is working on various plans to rise to\npower."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "進行中なのよ"
+                                ""
                             ]
                         },
                         {
@@ -23187,9 +23187,9 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "\\C[22]♥誘惑en(v[261]>=300)",
-                                    "\\C[14]♠窃盗en(v[263]>=20)",
-                                    "\\C[3]☠攻撃en(v[263]>=100)"
+                                    "\\C[22]♥ Temptationen(v[261]>=300)",
+                                    "\\C[14]♠Theften(v[263]>=20)",
+                                    "\\C[3]☠ Attacken(v[263]>=100)"
                                 ],
                                 -2,
                                 -1,
@@ -23352,14 +23352,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "おわっ！"
+                                "Oh! What are you doing?!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "なにしやがるっ"
+                                ""
                             ]
                         },
                         {
@@ -23405,7 +23405,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ぐぬぅ…"
+                                "Ugh..."
                             ]
                         },
                         {
@@ -23464,14 +23464,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "おまえなんてもう仲間じゃないぜ…"
+                                "You're no longer a comrade... You'll regret it."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "後悔するんだな"
+                                ""
                             ]
                         },
                         {
@@ -24758,7 +24758,7 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "会話"
+                                    "Conversation"
                                 ],
                                 -1,
                                 0,
@@ -24804,7 +24804,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "なんだ？盛りのついたメス猫ちゃんか？"
+                                "What's this? A horny female kitty?"
                             ]
                         },
                         {
@@ -24838,14 +24838,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "街の地下の賭博場を仕切ってるジャッカルは元々この"
+                                "Jackal, who runs the underground gambling den in\ntown, was originally a servant of this Dongu-sama."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "ドングー様の下僕だったんだ"
+                                ""
                             ]
                         },
                         {
@@ -24873,9 +24873,9 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "\\C[22]♥誘惑en(v[261]>=300)",
-                                    "\\C[14]♠窃盗en(v[263]>=20)",
-                                    "\\C[3]☠攻撃en(v[263]>=100)"
+                                    "\\C[22]♥ Temptationen(v[261]>=300)",
+                                    "\\C[14]♠Theften(v[263]>=20)",
+                                    "\\C[3]☠ Attacken(v[263]>=100)"
                                 ],
                                 -2,
                                 -1,
@@ -25038,14 +25038,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "おわっ！"
+                                "Oh! What are you doing?!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "なにしやがるっ"
+                                ""
                             ]
                         },
                         {
@@ -25091,7 +25091,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ぐぬぅ…"
+                                "Ugh..."
                             ]
                         },
                         {
@@ -25150,14 +25150,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "おまえなんてもう仲間じゃないぜ…"
+                                "You're no longer a comrade... You'll regret it."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "後悔するんだな"
+                                ""
                             ]
                         },
                         {
@@ -26444,7 +26444,7 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "会話"
+                                    "Conversation"
                                 ],
                                 -1,
                                 0,
@@ -26490,14 +26490,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "おお…いいっすねぇ"
+                                "Oh... that's really nice, isn't it? You're really\namazing."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "あんためっちゃいいっすねぇ"
+                                ""
                             ]
                         },
                         {
@@ -26531,7 +26531,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ドングー様は気が短いから気をつけろよ"
+                                "Be careful, Dongu-sama has a short temper."
                             ]
                         },
                         {
@@ -26559,9 +26559,9 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "\\C[22]♥誘惑en(v[261]>=300)",
-                                    "\\C[14]♠窃盗en(v[263]>=20)",
-                                    "\\C[3]☠攻撃en(v[263]>=100)"
+                                    "\\C[22]♥ Temptationen(v[261]>=300)",
+                                    "\\C[14]♠Theften(v[263]>=20)",
+                                    "\\C[3]☠Attacken(v[263]>=100)"
                                 ],
                                 -2,
                                 -1,
@@ -26724,14 +26724,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "おわっ！"
+                                "Oh... what the hell are you doing?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "なにしやがるっ"
+                                ""
                             ]
                         },
                         {
@@ -26777,7 +26777,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ぐぬぅ…"
+                                "Ugh..."
                             ]
                         },
                         {
@@ -26836,14 +26836,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "おまえなんてもう仲間じゃないぜ…"
+                                "You're no longer a comrade... You'll regret it."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "後悔するんだな"
+                                ""
                             ]
                         },
                         {
@@ -27710,7 +27710,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "生意気そうなガキだな～～～！"
+                                "What a cheeky brat~!"
                             ]
                         },
                         {
@@ -27734,14 +27734,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "一つだけ聞く"
+                                "Will you come with the strongest thief, Dongu, if\nI ask you just one thing?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "最強の盗賊ドングーについてくるか？"
+                                ""
                             ]
                         },
                         {
@@ -27767,8 +27767,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "ついていくわ",
-                                    "誰があんたなんかに"
+                                    "I'll go with you",
+                                    "Who do you think you are to"
                                 ],
                                 -1,
                                 -1,
@@ -27823,7 +27823,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "いい答えだ。なかなか賢いじゃないか"
+                                "That's a good answer. You're quite clever, aren't\nyou?"
                             ]
                         },
                         {
@@ -27840,14 +27840,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[6]コノハ\\c[0]"
+                                "\\c[6]Konoha\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "で？具体的にはなんのメリットがあるのかしら"
+                                "So, what specific benefits are there, I wonder?"
                             ]
                         },
                         {
@@ -27871,14 +27871,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "まぁ焦るなよ。情報とスキルを用意してやろう"
+                                "Well, don't rush. I'll provide you with\ninformation and skills, but there are conditions."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "ただし、条件がある"
+                                ""
                             ]
                         },
                         {
@@ -27913,14 +27913,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[6]コノハ\\c[0]"
+                                "\\c[6]Konoha\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "条件とは…？"
+                                "What are the conditions...?"
                             ]
                         },
                         {
@@ -27944,14 +27944,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "悪堕ちして\\c[14]デビルウィッチ\\c[0]化するのが条件だ"
+                                "The condition is for \\c[14]to fall into darkness\nand become a\\c[0] Witch. There are risks for us\ntoo, you know?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "俺らにもリスクがあるからなぁ？"
+                                ""
                             ]
                         },
                         {
@@ -27986,14 +27986,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[6]コノハ\\c[0]"
+                                "\\c[6]Konoha\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "……"
+                                "......"
                             ]
                         },
                         {
@@ -28017,21 +28017,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "デビルウィッチ化する方法は俺も知らないが…"
+                                "I don't know the method to become a Devil Witch,\nbut... from what I heard a long time ago, it seems\nthat magical girls who gave birth to\n\\C[14]demons\\C[0] ended up falling into darkness."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "昔聞いた話しだと\\C[14]デーモン\\C[0]を産んだ魔法少女が"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "悪堕ちしたらしいぜ"
+                                ""
                             ]
                         },
                         {
@@ -28055,14 +28055,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "てなわけだからよ、悪堕ちしたらまた来るといい"
+                                "So, if you end up falling into darkness, it would\nbe nice if you came back. At that time, you will\nalready be a comrade."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "そんときゃあんたはもう”仲間”だ"
+                                ""
                             ]
                         },
                         {
@@ -28128,21 +28128,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[6]コノハ\\c[0]"
+                                "\\c[6]Konoha\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ようやく姿を現したと思ったら、ついてこいですって？"
+                                "Just when I thought you finally showed up, you're\ntelling me to follow you? I have no use for a\npathetic old man like you."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "あんたみたいなくそ雑魚おっさんに用はないわ"
+                                ""
                             ]
                         },
                         {
@@ -28166,21 +28166,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "言ってくれるじゃねぇの……"
+                                "You're saying it now... I got so damn angry...\nI'll make you regret it by impregnating you so\nmuch!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "俺、めっちゃキレちゃったよ……"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "後悔するくらい孕ませてやるよ！"
+                                ""
                             ]
                         },
                         {
@@ -28219,7 +28219,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ぐぎぃ……く…っそ…"
+                                "Guh...ku...so..."
                             ]
                         },
                         {
@@ -28287,7 +28287,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ドングー様を甘くみるんじゃねぇぜ…"
+                                "Don't underestimate Lord Dongu..."
                             ]
                         },
                         {
@@ -28571,7 +28571,7 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "会話"
+                                    "Conversation"
                                 ],
                                 -1,
                                 0,
@@ -28617,14 +28617,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "抱いてほしいのかぁ？"
+                                "Do you want to be embraced? Alright then? Serve me\nwell, okay?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "いいぜ？しっかりと奉仕しろよ？"
+                                ""
                             ]
                         },
                         {
@@ -28658,14 +28658,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "デーモンのオーラ、びしびし出てるな"
+                                "Your demon aura is pulsating strongly. It seems\nlike you could get along well with us."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "あんたなら、俺らと共にやっていけそうだ"
+                                ""
                             ]
                         },
                         {
@@ -28673,9 +28673,9 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "スキルを習得する",
-                                    "情報がほしい",
-                                    "特にない"
+                                    "Learn a skill",
+                                    "I want information",
+                                    "Nothing in particular"
                                 ],
                                 2,
                                 -1,
@@ -28696,9 +28696,9 @@
                             "indent": 3,
                             "parameters": [
                                 [
-                                    "窃盗スキル",
-                                    "解錠スキル",
-                                    "やめる"
+                                    "Stealing Skill",
+                                    "Unlocking Skill",
+                                    "Stop"
                                 ],
                                 2,
                                 -1,
@@ -28743,7 +28743,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "それだけのスキルがあれば十分だろう"
+                                "If you have that much skill, it should be enough."
                             ]
                         },
                         {
@@ -28785,14 +28785,14 @@
                             "code": 401,
                             "indent": 6,
                             "parameters": [
-                                "わりぃが、それ以上の技術は俺たちではムリだ"
+                                "Sorry, but we can't handle any higher level\ntechniques. Try asking someone else."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 6,
                             "parameters": [
-                                "他をあたるんだな"
+                                ""
                             ]
                         },
                         {
@@ -28834,14 +28834,14 @@
                             "code": 401,
                             "indent": 7,
                             "parameters": [
-                                "わりぃが、それ以上の技術は俺たちではムリだ"
+                                "Sorry, but we can't handle any higher level\ntechniques. Try asking someone else."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 7,
                             "parameters": [
-                                "他をあたるんだな"
+                                ""
                             ]
                         },
                         {
@@ -28883,14 +28883,14 @@
                             "code": 401,
                             "indent": 8,
                             "parameters": [
-                                "わりぃが、それ以上の技術は俺たちではムリだ"
+                                "Sorry, but we can't handle any higher level\ntechniques. Try asking someone else."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 8,
                             "parameters": [
-                                "他をあたるんだな"
+                                ""
                             ]
                         },
                         {
@@ -28932,7 +28932,7 @@
                             "code": 401,
                             "indent": 9,
                             "parameters": [
-                                "いいぜ。ただし、アイテムと金の交換条件だ"
+                                "Alright. However, the condition is to exchange\nitems and money."
                             ]
                         },
                         {
@@ -28949,21 +28949,21 @@
                             "code": 401,
                             "indent": 9,
                             "parameters": [
-                                "「窃盗Lv2」習得に必要なもの"
+                                "Items required to learn 'Stealing Lv2': \\C[2]\n'Pufferfish' x 1, '♥ Naughty Picture Book' x\n110,000 Lo."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 9,
                             "parameters": [
-                                "\\C[2]「フグ」×1　「♥エッチな絵本」×1"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 9,
                             "parameters": [
-                                "10000Lo"
+                                ""
                             ]
                         },
                         {
@@ -29005,28 +29005,28 @@
                             "code": 401,
                             "indent": 12,
                             "parameters": [
-                                "\\C[2]「フグ」×1　"
+                                "\\C[2] Will you give 1 Pufferfish and 1 ♥ Naughty\nPicture Book for 10,000 Lo?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 12,
                             "parameters": [
-                                "「♥エッチな絵本」×1 "
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 12,
                             "parameters": [
-                                "10000Lo"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 12,
                             "parameters": [
-                                "を渡しますか？"
+                                ""
                             ]
                         },
                         {
@@ -29034,8 +29034,8 @@
                             "indent": 12,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -29085,7 +29085,7 @@
                             "code": 401,
                             "indent": 13,
                             "parameters": [
-                                "\\C[2]コノハは窃盗スキルLV2を伝授してもらった！"
+                                "Konoha received the skill 'Stealing Lv2'!"
                             ]
                         },
                         {
@@ -29129,21 +29129,21 @@
                             "code": 401,
                             "indent": 14,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 14,
                             "parameters": [
-                                "なるほどこれが「窃盗LV2」ね"
+                                "I see, so this is Stealing Lv2. I understand it\nwell."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 14,
                             "parameters": [
-                                "よくわかったわ"
+                                ""
                             ]
                         },
                         {
@@ -29170,21 +29170,21 @@
                             "code": 401,
                             "indent": 14,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 14,
                             "parameters": [
-                                "ふむふむ、「窃盗LV2」はこうなのね"
+                                "Hmm, I see. So this is Stealing Lv2. I pretty much\nalready knew what it was about, but..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 14,
                             "parameters": [
-                                "だいたいわかってたけど"
+                                ""
                             ]
                         },
                         {
@@ -29258,7 +29258,7 @@
                             "code": 401,
                             "indent": 12,
                             "parameters": [
-                                "\\C[2]必要なものが足らないようだ"
+                                "It seems like \\C[2] is lacking the necessary\nitems."
                             ]
                         },
                         {
@@ -29295,7 +29295,7 @@
                             "code": 401,
                             "indent": 11,
                             "parameters": [
-                                "\\C[2]必要なものが足らないようだ"
+                                "It seems like \\C[2] is lacking the necessary\nitems."
                             ]
                         },
                         {
@@ -29332,7 +29332,7 @@
                             "code": 401,
                             "indent": 10,
                             "parameters": [
-                                "\\C[2]必要なものが足らないようだ"
+                                "It seems like \\C[2] is lacking the necessary\nitems."
                             ]
                         },
                         {
@@ -29376,14 +29376,14 @@
                             "code": 401,
                             "indent": 9,
                             "parameters": [
-                                "なんだ？まだ窃盗LV1も覚えてないのか？"
+                                "What? You still haven't learned Stealing Lv1? If\nit's just that, I can teach you right away."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 9,
                             "parameters": [
-                                "それくらいならすぐに教えてやるよ"
+                                ""
                             ]
                         },
                         {
@@ -29420,7 +29420,7 @@
                             "code": 401,
                             "indent": 9,
                             "parameters": [
-                                "\\C[2]コノハは窃盗スキルLV1を伝授してもらった！"
+                                "Konoha received the skill 'Stealing Lv1'!"
                             ]
                         },
                         {
@@ -29464,21 +29464,21 @@
                             "code": 401,
                             "indent": 10,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 10,
                             "parameters": [
-                                "あら、気前がいいのね"
+                                "Oh, you're so generous! Thank you!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 10,
                             "parameters": [
-                                "ありがとう！"
+                                ""
                             ]
                         },
                         {
@@ -29505,21 +29505,21 @@
                             "code": 401,
                             "indent": 10,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 10,
                             "parameters": [
-                                "なかなかいいとこあるじゃない"
+                                "Thank you for showing me such a nice place ♥"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 10,
                             "parameters": [
-                                "ありがと♥"
+                                ""
                             ]
                         },
                         {
@@ -29638,7 +29638,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "それだけのスキルがあれば十分だろう"
+                                "With that skill alone, it should be enough."
                             ]
                         },
                         {
@@ -29680,14 +29680,14 @@
                             "code": 401,
                             "indent": 6,
                             "parameters": [
-                                "わりぃが、それ以上の技術は俺たちではムリだ"
+                                "Sorry, but we're not capable of any higher level\ntechniques. Let's try asking someone else."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 6,
                             "parameters": [
-                                "他をあたるんだな"
+                                ""
                             ]
                         },
                         {
@@ -29729,14 +29729,14 @@
                             "code": 401,
                             "indent": 7,
                             "parameters": [
-                                "わりぃが、それ以上の技術は俺たちではムリだ"
+                                "Sorry, but we're not capable of any higher level\ntechniques. Let's try asking someone else."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 7,
                             "parameters": [
-                                "他をあたるんだな"
+                                ""
                             ]
                         },
                         {
@@ -29778,7 +29778,7 @@
                             "code": 401,
                             "indent": 8,
                             "parameters": [
-                                "いいぜ。ただし、アイテムと金の交換条件だ"
+                                "Alright. However, there's a condition for\nexchanging items and money."
                             ]
                         },
                         {
@@ -29795,21 +29795,21 @@
                             "code": 401,
                             "indent": 8,
                             "parameters": [
-                                "「解錠Lv3」習得に必要なもの"
+                                "Items required to learn 'Unlock Lv3': \\C[2]\n'Barracuda' x1, 'Spider's Eight Eyes' x120000 Lo."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 8,
                             "parameters": [
-                                "\\C[2]「バラクーダ」×1　「蜘蛛の八つ目」×1"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 8,
                             "parameters": [
-                                "20000Lo"
+                                ""
                             ]
                         },
                         {
@@ -29851,28 +29851,28 @@
                             "code": 401,
                             "indent": 11,
                             "parameters": [
-                                "\\C[2]「バラクーダ」×1　"
+                                "\\C[2] Barracuda x1, Spider's Eight Eyes x120000\nLo, do you want to hand them over?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 11,
                             "parameters": [
-                                "「蜘蛛の八つ目」×1"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 11,
                             "parameters": [
-                                "20000Lo"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 11,
                             "parameters": [
-                                "を渡しますか？"
+                                ""
                             ]
                         },
                         {
@@ -29880,8 +29880,8 @@
                             "indent": 11,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -29931,7 +29931,7 @@
                             "code": 401,
                             "indent": 12,
                             "parameters": [
-                                "\\C[2]コノハは解錠スキルLV3を伝授してもらった！"
+                                "Konoha received the skill 'Unlock Lv3'!"
                             ]
                         },
                         {
@@ -29975,21 +29975,21 @@
                             "code": 401,
                             "indent": 13,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 13,
                             "parameters": [
-                                "なるほどこれが「解錠LV3」ね"
+                                "I see, so this is Unlock Lv3. I understand it\nwell."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 13,
                             "parameters": [
-                                "よくわかったわ"
+                                ""
                             ]
                         },
                         {
@@ -30016,21 +30016,21 @@
                             "code": 401,
                             "indent": 13,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 13,
                             "parameters": [
-                                "ふむふむ、「解錠LV3」はこうなのね"
+                                "Hmmm, I see. So this is Unlock Lv3. I had a\ngeneral idea, but now I understand it better."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 13,
                             "parameters": [
-                                "だいたいわかってたけど"
+                                ""
                             ]
                         },
                         {
@@ -30104,7 +30104,7 @@
                             "code": 401,
                             "indent": 11,
                             "parameters": [
-                                "\\C[2]必要なものが足らないようだ"
+                                "It seems like \\C[2] is lacking what is necessary."
                             ]
                         },
                         {
@@ -30141,7 +30141,7 @@
                             "code": 401,
                             "indent": 10,
                             "parameters": [
-                                "\\C[2]必要なものが足らないようだ"
+                                "It seems like \\C[2] is lacking what is necessary."
                             ]
                         },
                         {
@@ -30178,7 +30178,7 @@
                             "code": 401,
                             "indent": 9,
                             "parameters": [
-                                "\\C[2]必要なものが足らないようだ"
+                                "It seems like something is missing."
                             ]
                         },
                         {
@@ -30230,7 +30230,7 @@
                             "code": 401,
                             "indent": 9,
                             "parameters": [
-                                "いいぜ。ただし、アイテムと金の交換条件だ"
+                                "Alright. However, there's a condition for\nexchanging items and money."
                             ]
                         },
                         {
@@ -30247,21 +30247,21 @@
                             "code": 401,
                             "indent": 9,
                             "parameters": [
-                                "「解錠Lv2」習得に必要なもの"
+                                "Items required to learn 'Unlock Lv2': 'Gisukajika'\nx1, 'Iron Ore' x110000 Lo."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 9,
                             "parameters": [
-                                "\\C[2]「ギスカジカ」×1　「鉄輝石」×1"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 9,
                             "parameters": [
-                                "10000Lo"
+                                ""
                             ]
                         },
                         {
@@ -30303,28 +30303,28 @@
                             "code": 401,
                             "indent": 12,
                             "parameters": [
-                                "\\C[2]「ギスカジカ」×1　"
+                                "\\C[2] Do you want to hand over 'Gisukajika' x1,\n'Iron Ore' x110000 Lo?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 12,
                             "parameters": [
-                                "「鉄輝石」×1"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 12,
                             "parameters": [
-                                "10000Lo"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 12,
                             "parameters": [
-                                "を渡しますか？"
+                                ""
                             ]
                         },
                         {
@@ -30332,8 +30332,8 @@
                             "indent": 12,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -30383,7 +30383,7 @@
                             "code": 401,
                             "indent": 13,
                             "parameters": [
-                                "\\C[2]コノハは解錠スキルLV2を伝授してもらった！"
+                                "Konoha received the skill 'Unlock Lv2'!"
                             ]
                         },
                         {
@@ -30427,21 +30427,21 @@
                             "code": 401,
                             "indent": 14,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 14,
                             "parameters": [
-                                "なるほどこれが「解錠LV2」ね"
+                                "I see, so this is Unlock Lv2. I understand it\nwell."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 14,
                             "parameters": [
-                                "よくわかったわ"
+                                ""
                             ]
                         },
                         {
@@ -30468,21 +30468,21 @@
                             "code": 401,
                             "indent": 14,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 14,
                             "parameters": [
-                                "ふむふむ、「解錠LV2」はこうなのね"
+                                "Hmmm, I see. So this is Unlock Lv2. I had a\ngeneral idea, but"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 14,
                             "parameters": [
-                                "だいたいわかってたけど"
+                                ""
                             ]
                         },
                         {
@@ -30556,7 +30556,7 @@
                             "code": 401,
                             "indent": 12,
                             "parameters": [
-                                "\\C[2]必要なものが足らないようだ"
+                                "It seems like something is missing."
                             ]
                         },
                         {
@@ -30593,7 +30593,7 @@
                             "code": 401,
                             "indent": 11,
                             "parameters": [
-                                "\\C[2]必要なものが足らないようだ"
+                                "It seems like something is lacking."
                             ]
                         },
                         {
@@ -30630,7 +30630,7 @@
                             "code": 401,
                             "indent": 10,
                             "parameters": [
-                                "\\C[2]必要なものが足らないようだ"
+                                "It seems like something is lacking."
                             ]
                         },
                         {
@@ -30674,14 +30674,14 @@
                             "code": 401,
                             "indent": 9,
                             "parameters": [
-                                "なんだ？まだ解錠LV1も覚えてないのか？"
+                                "What? You still haven't learned Unlock Lv1? If\nthat's all, I'll teach you right away."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 9,
                             "parameters": [
-                                "それくらいならすぐに教えてやるぜ"
+                                ""
                             ]
                         },
                         {
@@ -30718,7 +30718,7 @@
                             "code": 401,
                             "indent": 9,
                             "parameters": [
-                                "\\C[2]コノハは解錠スキルLV1を伝授してもらった！"
+                                "Konoha received the skill 'Unlock Lv1'!"
                             ]
                         },
                         {
@@ -30762,21 +30762,21 @@
                             "code": 401,
                             "indent": 10,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 10,
                             "parameters": [
-                                "あら、気前がいいのね"
+                                "Oh, you're so generous. Thank you!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 10,
                             "parameters": [
-                                "ありがとう！"
+                                ""
                             ]
                         },
                         {
@@ -30803,21 +30803,21 @@
                             "code": 401,
                             "indent": 10,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 10,
                             "parameters": [
-                                "なかなかいいとこあるじゃない"
+                                "There are some really nice places, thank you ♥"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 10,
                             "parameters": [
-                                "ありがと♥"
+                                ""
                             ]
                         },
                         {
@@ -30951,45 +30951,14 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "神樹の里の地下にはどえらいお宝が眠ってるって噂だぜ"
+                                "There's a rumor that there are amazing treasures\nsleeping underground in the Village of the Divine\nTree... but it's quite challenging to break in and\nsteal them."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 3,
                             "parameters": [
-                                "だが……盗みに入るのはなかなか骨が折れる"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 3,
-                            "parameters": [
-                                "face_du",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "\\c[1]\\v[111]\\c[0]"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "あそこのロリモンリーダーは一見隙だらけなんだが"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "見た目に騙されんな。怒らせたら手がつけらんねぇんだ"
+                                ""
                             ]
                         },
                         {
@@ -31013,7 +30982,38 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "だが、弱点さえ握れば…な"
+                                "The leader of that loli monster over there may\nseem vulnerable at first glance, but don't be\nfooled by appearances. If you anger them, they'll\nbe unstoppable."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 3,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 3,
+                            "parameters": [
+                                "face_du",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 3,
+                            "parameters": [
+                                "\\c[1]\\v[111]\\c[0]"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 3,
+                            "parameters": [
+                                "However, if you can grasp their weakness..."
                             ]
                         },
                         {
@@ -31057,7 +31057,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "いつでも来な"
+                                "Come anytime."
                             ]
                         },
                         {
@@ -31113,9 +31113,9 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "\\C[22]♥誘惑en(v[261]>=300)",
-                                    "\\C[14]♠窃盗en(v[263]>=20)",
-                                    "\\C[3]☠攻撃en(v[263]>=100)"
+                                    "\\C[22]♥ Temptationen(v[261]>=300)",
+                                    "\\C[14]♠Theften(v[263]>=20)",
+                                    "\\C[3]☠ Attacken(v[263]>=100)"
                                 ],
                                 -2,
                                 -1,
@@ -31257,14 +31257,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ぐおっ！"
+                                "Guoo! You, do you intend to betray me?!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "きさま、裏切るつもりか！"
+                                ""
                             ]
                         },
                         {
@@ -31310,7 +31310,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ぐぎぃ……く…っそ…"
+                                "Guh...kuh...so..."
                             ]
                         },
                         {
@@ -31378,7 +31378,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ドングー様を甘くみるんじゃねぇぜ…"
+                                "Don't underestimate Lord Dongu..."
                             ]
                         },
                         {
@@ -31685,7 +31685,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ぐぎぃ……く…っそ…"
+                                "Guh...ku...so..."
                             ]
                         },
                         {
@@ -31753,7 +31753,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ドングー様を甘くみるんじゃねぇぜ…"
+                                "Don't underestimate Lord Dongu..."
                             ]
                         },
                         {
@@ -32477,9 +32477,9 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "穴を通る",
-                                    "他の方法を考える",
-                                    "何もしない"
+                                    "Going through the hole",
+                                    "Think of another method",
+                                    "Doing nothing"
                                 ],
                                 2,
                                 -1,
@@ -32534,14 +32534,14 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\c[6]コノハ\\c[0]"
+                                "\\c[6]Konoha\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "このお腹じゃさすがに無理ね…"
+                                "With this belly, it's impossible..."
                             ]
                         },
                         {
@@ -32568,14 +32568,14 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\c[6]コノハ\\c[0]"
+                                "\\c[6]Konoha\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "このお腹じゃさすがに無理ね…"
+                                "With this belly, it's impossible..."
                             ]
                         },
                         {
@@ -32621,21 +32621,21 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\c[6]コノハ\\c[0]"
+                                "\\c[6]Konoha\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "これくらいの穴なら通りそうね"
+                                "With a hole like this, it seems like it'll go\nthrough... on three..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 3,
                             "parameters": [
-                                "せーの……"
+                                ""
                             ]
                         },
                         {
@@ -32669,14 +32669,14 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\c[6]コノハ\\c[0]"
+                                "\\c[6]Konoha\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "こんな見え見えの罠にかかるの嫌ー"
+                                "I hate falling for such an obvious trap."
                             ]
                         },
                         {
@@ -33059,7 +33059,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\C[2]馬鹿力スキルを使えるロリモンが岩を破壊！"
+                                "A loli character with the ability to use idiotic\nstrength skill destroys a rock!"
                             ]
                         },
                         {
@@ -33094,7 +33094,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\C[2]馬鹿力スキルLV2\\c[0]を使えれば岩を破壊できそうだ"
+                                "It seems like I can destroy the rock if I can use\n{it}."
                             ]
                         },
                         {
@@ -33987,8 +33987,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "ピッキングで解錠する",
-                                    "やめる"
+                                    "Unlocking with lockpicking",
+                                    "Stop"
                                 ],
                                 1,
                                 0,
@@ -34083,21 +34083,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[2]ピッキングツール\\C[0]と\\C[2]ヘアピン\\C[0]を持っていれば"
+                                "If you have a \\C[2]lock-picking tool\\C[0] and a\n\\C[2]hairpin\\C[0], you might be able to challenge\nunlocking the door..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "鍵開けに挑戦できるかもしれないわね…"
+                                ""
                             ]
                         },
                         {

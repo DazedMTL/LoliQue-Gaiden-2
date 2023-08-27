@@ -8825,9 +8825,9 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "アイテム保管庫",
-                                    "マイハウスエフェクト確認",
-                                    "何もしない"
+                                    "Item Storage",
+                                    "My House Effect Confirmation",
+                                    "Doing nothing"
                                 ],
                                 2,
                                 0,
@@ -9907,14 +9907,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[9]♥悪堕ちふたなりコノハレイプ"
+                                "\\C[9]♥ Corrupted Futanari Konoha Rape Trigger\nConditions: Corrupted state, non-virgin, lewd,\nkarma, and corruption level of 300 or higher."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "発生条件：悪堕ち状態、非処女、淫乱、カルマ、堕落が300以上"
+                                ""
                             ]
                         },
                         {
@@ -10082,14 +10082,14 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\C[9]ここなら……たっぷり……遊べそう……"
+                                "\\C[9]If we're here... we can play... a lot... right, Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "ねぇ、コノハ……\\C[0]"
+                                ""
                             ]
                         },
                         {
@@ -10106,69 +10106,14 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "ぐっ…！"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 4,
-                            "parameters": [
-                                "A_face01",
-                                1,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 4,
-                            "parameters": [
-                                "\\C[9]コノハ\\C[0]"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 4,
-                            "parameters": [
-                                "聞こえてるんでしょ？ふふふ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 4,
-                            "parameters": [
-                                "そろそろ一つになりたいわね"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 4,
-                            "parameters": [
-                                "A_face01",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 4,
-                            "parameters": [
-                                "\\C[6]コノハ\\C[0]"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 4,
-                            "parameters": [
-                                "返して…私の身体……"
+                                "Ahh...!"
                             ]
                         },
                         {
@@ -10185,21 +10130,21 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\C[9]コノハ\\C[0]"
+                                "\\C[9]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "あら？身も心も自由に使えてるはずだけど"
+                                "Can you hear it? Hehehe, I want us to become one\nsoon."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 4,
                             "parameters": [
-                                "何が気に入らないのかしら"
+                                ""
                             ]
                         },
                         {
@@ -10216,45 +10161,14 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "いいから……もういいから私から出てってよ"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 4,
-                            "parameters": [
-                                "A_face01",
-                                1,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 4,
-                            "parameters": [
-                                "\\C[9]コノハ\\C[0]"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 4,
-                            "parameters": [
-                                "無理な相談ねぇ。そんなことより早く一つになりましょうよ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 4,
-                            "parameters": [
-                                "あなたは求めていたはずよ"
+                                "Give it back... my body..."
                             ]
                         },
                         {
@@ -10271,14 +10185,21 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\C[9]コノハ\\C[0]"
+                                "\\C[9]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "”わたし”にじっくり犯されたいってね♪"
+                                "Oh? I should be able to freely use my body and\nheart, so what is it that you don't like?"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 4,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -10295,21 +10216,100 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "そんなこと、あるわけ……"
+                                "Enough... Just get out of me already."
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 4,
+                            "parameters": [
+                                "A_face01",
+                                1,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "……ちょ！？"
+                                "\\C[9]Konoha\\C[0]"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 4,
+                            "parameters": [
+                                "No need for pointless discussions. Instead, let's\nbecome one quickly. You should have been longing\nfor it."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 4,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 4,
+                            "parameters": [
+                                "A_face01",
+                                1,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 4,
+                            "parameters": [
+                                "\\C[9]Konoha\\C[0]"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 4,
+                            "parameters": [
+                                "I want to be thoroughly fucked by you♪"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 4,
+                            "parameters": [
+                                "A_face01",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 4,
+                            "parameters": [
+                                "\\C[6]Konoha\\C[0]"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 4,
+                            "parameters": [
+                                "There's no way that would... Wait!?"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 4,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -10326,7 +10326,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\C[2]コノハは突然の暗闇に閉ざされ、身体の自由を奪われた"
+                                "Konoha was suddenly enveloped in darkness, her\nfreedom taken away."
                             ]
                         },
                         {
@@ -10369,14 +10369,14 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\C[9]♥悪堕ちふたなりコノハレイプ"
+                                "\\C[9]♥ Conditions for the occurrence of the\ncorrupt futa Konoha rape: being in a corrupt\nstate, non-virgin, lewd, having a karma level of\n300 or higher."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 4,
                             "parameters": [
-                                "発生条件：悪堕ち状態、非処女、淫乱、カルマ、堕落が300以上"
+                                ""
                             ]
                         },
                         {
@@ -10413,14 +10413,14 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\C[9]♥悪堕ちふたなりコノハレイプ"
+                                "\\C[9]♥ Conditions for the occurrence of corrupt\nfuta Konoha rape: being in a corrupt state, non-\nvirgin, lewd, having a karma level of 300 or\nhigher."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 3,
                             "parameters": [
-                                "発生条件：悪堕ち状態、非処女、淫乱、カルマ、堕落が300以上"
+                                ""
                             ]
                         },
                         {
@@ -10457,14 +10457,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\C[9]♥悪堕ちふたなりコノハレイプ"
+                                "\\C[9]♥ Conditions for the occurrence of corrupt\nfuta Konoha rape: being in a corrupt state, non-\nvirgin, lewd, karma, and corruption level of 300\nor higher."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "発生条件：悪堕ち状態、非処女、淫乱、カルマ、堕落が300以上"
+                                ""
                             ]
                         },
                         {
@@ -10501,14 +10501,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[9]♥悪堕ちふたなりコノハレイプ"
+                                "\\C[9]♥ Conditions for the occurrence of corrupt\nfuta Konoha rape: being in a corrupt state, non-\nvirgin, lewd, karma, and corruption level of 300\nor higher."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "発生条件：悪堕ち状態、非処女、淫乱、カルマ、堕落が300以上"
+                                ""
                             ]
                         },
                         {
@@ -10613,8 +10613,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "ふたなりコノハレイプ",
-                                    "何もしない"
+                                    "Futanari Konoha Rape",
+                                    "Doing nothing"
                                 ],
                                 1,
                                 0,

@@ -6937,21 +6937,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[1]ガーディアン\\C[0]"
+                                "\\C[1]Guardian\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ここから先は認められし者のみが通過できる…"
+                                "Only those who have been recognized can pass\nbeyond this point... Show me your strength. If you\ncan defeat me, you may proceed further..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "力を示せ。私を倒せれば先に進めよう…"
+                                ""
                             ]
                         },
                         {
@@ -6968,14 +6968,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（さて、ここはどうするのがいいかしらね）"
+                                "(Now, I wonder what would be the best course of\naction here...)"
                             ]
                         },
                         {
@@ -6983,9 +6983,9 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "戦う",
-                                    "戦わない",
-                                    "私は認められて来た"
+                                    "Fight",
+                                    "Not fighting",
+                                    "I have been recognized"
                                 ],
                                 -1,
                                 0,
@@ -7015,14 +7015,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[1]ガーディアン\\C[0]"
+                                "\\C[1]Guardian\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "さぁ、参られよ！"
+                                "Now, come at me!"
                             ]
                         },
                         {
@@ -7075,21 +7075,21 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\C[1]ガーディアン\\C[0]"
+                                "\\C[1]Guardian\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "お主の力量はわかった……約束だ…"
+                                "I understand your strength... As promised... You\nmay proceed..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "行くが良い…"
+                                ""
                             ]
                         },
                         {
@@ -7135,14 +7135,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\C[1]ガーディアン\\C[0]"
+                                "\\C[1]Guardian\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "弱い……弱い者に用はない"
+                                "Weak... There is no use for the weak."
                             ]
                         },
                         {
@@ -7182,14 +7182,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[1]ガーディアン\\C[0]"
+                                "\\C[1]Guardian\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "戦いを拒むとな。何ゆえ、戦わぬ魔法少女"
+                                "If you refuse to fight... Why, a non-combatant\nmagical girl."
                             ]
                         },
                         {
@@ -7206,21 +7206,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "無駄な争いは好きじゃないわ"
+                                "I don't like pointless fights. You seem different\nfrom the usual magical beasts."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "あなたはどうも普通の魔獣とは違っているようだし"
+                                ""
                             ]
                         },
                         {
@@ -7237,14 +7237,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[1]ガーディアン\\C[0]"
+                                "\\C[1]Guardian\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "我はこの淫魔の村を守る者。不届き者はここで追い返すが仕事"
+                                "I am the protector of this lewd demon village. I\nsend away those who do not belong here, that is my\njob."
                             ]
                         },
                         {
@@ -7261,21 +7261,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[1]ガーディアン\\C[0]"
+                                "\\C[1]Guardian\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "そして力を見せない者もまた、ここを通らせるわけにはいかぬ"
+                                "And those who do not show their strength, they\ncannot pass through here. Give up on passing\nthrough here."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "ここを通るのは諦めよ"
+                                ""
                             ]
                         },
                         {
@@ -7305,21 +7305,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "淫魔の村に入る許可はもらってあるわ"
+                                "I have permission to enter the lewd demon village.\nIf a fight is necessary, I will fight. What will\nyou do?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "戦いが必要なら戦うけど、どうする？"
+                                ""
                             ]
                         },
                         {
@@ -7361,7 +7361,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "うちが認めたから通していいのだ！"
+                                "You may pass because I have recognized you!"
                             ]
                         },
                         {
@@ -7378,21 +7378,21 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\C[1]ガーディアン\\C[0]"
+                                "\\C[1]Guardian\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "ほぉ、インプが仲間だったか"
+                                "Oh, so the Imp is your ally? Hmmm, very well. I\nwill allow you to pass through here."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 3,
                             "parameters": [
-                                "ふむ、いいだろう。ここを通るのを許可する"
+                                ""
                             ]
                         },
                         {
@@ -7409,21 +7409,21 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "ありがと、\\N[10]！"
+                                "Thank you, \\N[10]! With this, we can proceed."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 3,
                             "parameters": [
-                                "これで進めるわ"
+                                ""
                             ]
                         },
                         {
@@ -7447,7 +7447,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "お安い御用なのだ～"
+                                "It's a cheap job~"
                             ]
                         },
                         {
@@ -7483,28 +7483,28 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\C[1]ガーディアン\\C[0]"
+                                "\\C[1]Guardian\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "なるほど、まんざら嘘ではないようだ…"
+                                "I see, it seems you're not completely lying...\nHowever, you may still refuse to fight me. Let's\nsettle this!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 3,
                             "parameters": [
-                                "だが、我と戦うことを拒むこともあるまい"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 3,
                             "parameters": [
-                                "勝負致せ！"
+                                ""
                             ]
                         },
                         {
@@ -7521,14 +7521,14 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "何よそれ～！"
+                                "What the hell is that~!"
                             ]
                         },
                         {
@@ -7565,21 +7565,21 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\C[1]ガーディアン\\C[0]"
+                                "\\C[1]Guardian\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ふん、貴様嘘をついたな"
+                                "Hmph, you lied. Liars can be seen through in the\nshadows. Prepare yourself!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "嘘つきは影でわかる、観念致せ！"
+                                ""
                             ]
                         },
                         {
@@ -7689,14 +7689,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[1]ガーディアン\\C[0]"
+                                "\\C[1]Guardian\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "必要であれば手合わせいたすぞ"
+                                "If necessary, I will spar with you."
                             ]
                         },
                         {
@@ -7704,8 +7704,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "戦う",
-                                    "戦わない"
+                                    "Fight",
+                                    "I won't fight"
                                 ],
                                 1,
                                 0,
@@ -7750,14 +7750,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\C[1]ガーディアン\\C[0]"
+                                "\\C[1]Guardian\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "素晴らしい力だ……"
+                                "What incredible power..."
                             ]
                         },
                         {
@@ -8071,14 +8071,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\C[1]ガーディアン\\C[0]"
+                                "\\C[1]Guardian\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "どうした…本気を出せ…"
+                                "What's wrong... Show me your true power..."
                             ]
                         },
                         {
@@ -8118,14 +8118,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[1]ガーディアン\\C[0]"
+                                "\\C[1]Guardian\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "いつでもくるがよい…"
+                                "You can come anytime..."
                             ]
                         },
                         {
@@ -8319,14 +8319,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[2]このネストストーンを魔力で制御できるようになった"
+                                "\\C[2]The enemies in the vicinity have become\ndocile after being able to control this Nest Stone\nwith magic\\C[1]!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "\\C[1]付近の敵がおとなしくなった！"
+                                ""
                             ]
                         },
                         {
@@ -8498,14 +8498,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[2]ネストストーンの制御を解除しますか？"
+                                "Do you want to release the control of the Nest\nStone? If you release it, nearby enemies will\nattack."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "\\C[3]解除すると、付近の敵が襲ってきます"
+                                ""
                             ]
                         },
                         {
@@ -8513,8 +8513,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "解除する",
-                                    "解除しない"
+                                    "Release",
+                                    "Don't release it"
                                 ],
                                 -1,
                                 -1,
@@ -8561,7 +8561,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[2]ネストストーンの制御を解除した！"
+                                "Released the control of the Nest Stone!"
                             ]
                         },
                         {
@@ -8726,14 +8726,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[2]このネストストーンを魔力で制御した！"
+                                "\\C[2]I controlled this Nest Stone with magic!\n\\C[1]The nearby enemies became docile!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "\\C[1]付近の敵がおとなしくなった！"
+                                ""
                             ]
                         },
                         {
@@ -9397,14 +9397,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "僕の大事なガントレット！こんなとこに落としてた…"
+                                "My precious gauntlet! I dropped it here... I'm\nglad! Thank you, Konoha-san."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "よかったです！ありがとうございますコノハさん"
+                                ""
                             ]
                         },
                         {

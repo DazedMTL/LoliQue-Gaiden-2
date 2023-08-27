@@ -16,7 +16,7 @@
         "volume": 100
     },
     "disableDashing": false,
-    "displayName": "レイキング雪山「紅き血族の遺跡」",
+    "displayName": "Raging Snow Mountain \"Ruins of the Crimson Bloodline",
     "encounterList": [
         {
             "regionSet": [],
@@ -17671,7 +17671,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[2]【紅き血族の遺跡：北】\\c[0]をポータルに記録しました"
+                                "\\c[2][Crimson Bloodline Ruins: North]\\c[0]North]: North]: North] has been recorded in the\nportal."
                             ]
                         },
                         {
@@ -18927,14 +18927,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[2]このネストストーンを魔力で制御できるようになった"
+                                "\\C[2]The enemies in the vicinity have become\ndocile after being able to control this Nest Stone\nwith magic\\C[1]!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "\\C[1]付近の敵がおとなしくなった！"
+                                ""
                             ]
                         },
                         {
@@ -19106,14 +19106,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[2]ネストストーンの制御を解除しますか？"
+                                "Do you want to release the control of the Nest\nStone? If you release it, nearby enemies will\nattack."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "\\C[3]解除すると、付近の敵が襲ってきます"
+                                ""
                             ]
                         },
                         {
@@ -19121,8 +19121,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "解除する",
-                                    "解除しない"
+                                    "Release",
+                                    "Don't release it"
                                 ],
                                 -1,
                                 -1,
@@ -19169,7 +19169,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[2]ネストストーンの制御を解除した！"
+                                "Released the control of the Nest Stone!"
                             ]
                         },
                         {
@@ -19334,14 +19334,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[2]このネストストーンを魔力で制御した！"
+                                "\\C[2]I controlled this Nest Stone with magic!\n\\C[1]The nearby enemies became docile!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "\\C[1]付近の敵がおとなしくなった！"
+                                ""
                             ]
                         },
                         {
@@ -24649,14 +24649,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[2]何かの石像のようだ"
+                                "It looks like some kind of stone statue, there\ndoesn't seem to be anything particularly unusual\nabout it."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "特に変わったところはない"
+                                ""
                             ]
                         },
                         {
@@ -24759,7 +24759,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[2]祈ってみますか？"
+                                "Shall we pray?"
                             ]
                         },
                         {
@@ -24767,8 +24767,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "祈る",
-                                    "祈らない"
+                                    "Pray",
+                                    "Not praying"
                                 ],
                                 -2,
                                 0,
@@ -24960,14 +24960,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[2]何かの石像のようだ"
+                                "It looks like some kind of stone statue, there\ndoesn't seem to be anything particularly unusual\nabout it."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "特に変わったところはない"
+                                ""
                             ]
                         },
                         {

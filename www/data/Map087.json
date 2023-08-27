@@ -16,7 +16,7 @@
         "volume": 80
     },
     "disableDashing": false,
-    "displayName": "サリアン遺跡",
+    "displayName": "Sarian Ruins",
     "encounterList": [
         {
             "regionSet": [],
@@ -17067,14 +17067,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーンロック\\C[2]「Δデルタ」\\C[0]が掛かっているようだ"
+                                "Rune Lock \\C[2] Delta \\C[0] seems to be in place,\nit can't be opened with picking."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ピッキングでは開けられない"
+                                ""
                             ]
                         },
                         {
@@ -17090,8 +17090,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "ルーンストーンを使って解錠する",
-                                    "何もしない"
+                                    "Unlock using the rune stone",
+                                    "Do nothing"
                                 ],
                                 1,
                                 0,
@@ -17847,14 +17847,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "コノハこいつだ！こいつがあたしを……！！！"
+                                "It's her! She's the one who...!!! Damn it... even\nthinking about it now is embarrassing...!!!\nDammit!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "くそっ…今考えても恥ずかしい……！！！ちきしょー！"
+                                ""
                             ]
                         },
                         {
@@ -18174,21 +18174,21 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "でかしたよコノハ！やっと気が済んだかな！"
+                                "You did great, Konoha! Have you finally satisfied\nyour desires? Maybe now you have gained a little\nconfidence in... intimate matters. Ah... thanks to\nthat, it seems like I can regain my strength too!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "これで少しは自信もついたかな、エッチなことに……"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "あぁ……おかげで強さも取り戻せそうだ！"
+                                ""
                             ]
                         },
                         {
@@ -18342,7 +18342,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "コノハ、早くあたしをバトルメンバーに！"
+                                "Konoha, quickly make me a member of your battle\nparty!"
                             ]
                         },
                         {

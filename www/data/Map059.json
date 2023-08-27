@@ -16,7 +16,7 @@
         "volume": 50
     },
     "disableDashing": false,
-    "displayName": "アルデンテ森林「サリアン遺跡出口」",
+    "displayName": "Aldente Forest \"Salian Ruins Exit",
     "encounterList": [
         {
             "regionSet": [],
@@ -18549,7 +18549,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[2]【サリアン遺跡：出】\\c[0]をポータルに記録しました"
+                                "\\c[2][Salian Ruins: Exit]\\c[0]Exit]: Exit]: Exit] has been recorded in the\nportal."
                             ]
                         },
                         {
@@ -19251,14 +19251,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[2]このネストストーンを魔力で制御できるようになった"
+                                "\\C[2]The enemies in the vicinity have become\ndocile after being able to control this Nest Stone\nwith magic\\C[1]!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "\\C[1]付近の敵がおとなしくなった！"
+                                ""
                             ]
                         },
                         {
@@ -19430,14 +19430,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[2]ネストストーンの制御を解除しますか？"
+                                "Do you want to release the control of the Nest\nStone? If you release it, nearby enemies will\nattack."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "\\C[3]解除すると、付近の敵が襲ってきます"
+                                ""
                             ]
                         },
                         {
@@ -19445,8 +19445,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "解除する",
-                                    "解除しない"
+                                    "Release",
+                                    "Don't release it"
                                 ],
                                 -1,
                                 -1,
@@ -19493,7 +19493,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[2]ネストストーンの制御を解除した！"
+                                "Released the control of the Nest Stone!"
                             ]
                         },
                         {
@@ -19658,14 +19658,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[2]このネストストーンを魔力で制御した！"
+                                "\\C[2]I controlled this Nest Stone with magic!\n\\C[1]The nearby enemies became docile!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "\\C[1]付近の敵がおとなしくなった！"
+                                ""
                             ]
                         },
                         {
@@ -25202,21 +25202,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "うちの魔石！こんなところに落ちてたのだ！"
+                                "My magic stone! It was lying here all along! I'm\nso glad... With this, I can open the treasure\nchests that I couldn't open before!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "よかったのだ……これでまた開けられなかった宝箱も"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "開けられるのだ！"
+                                ""
                             ]
                         },
                         {

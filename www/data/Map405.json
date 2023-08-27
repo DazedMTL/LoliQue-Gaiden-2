@@ -16,7 +16,7 @@
         "volume": 80
     },
     "disableDashing": false,
-    "displayName": "城",
+    "displayName": "Castle",
     "encounterList": [],
     "encounterStep": 30,
     "height": 30,
@@ -5679,14 +5679,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[1]兵士\\c[0]"
+                                "\\c[1]Soldier\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "コノハ殿、奥に進みください"
+                                "Please proceed further, Konoha-sama."
                             ]
                         },
                         {
@@ -5764,21 +5764,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[1]兵士\\c[0]"
+                                "\\c[1]Soldier\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "何かあったみたいですね…"
+                                "It seems like something happened... Would you like\nto go and check the throne?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "玉座の方に行ってみられては？"
+                                ""
                             ]
                         },
                         {
@@ -6212,14 +6212,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[6]コノハ\\c[0]"
+                                "\\c[6]Konoha\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "マレウスはいる？！"
+                                "Is Maleus here?!"
                             ]
                         },
                         {
@@ -6245,21 +6245,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[1]側近\\c[0]"
+                                "\\c[1]Aide\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "コノハ殿！戻られた！"
+                                "Lord Konoha! You've returned! Ah, the king too!!!\nYour appearance has also returned!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "あぁ、国王も！！！姿も戻られている！"
+                                ""
                             ]
                         },
                         {
@@ -6571,21 +6571,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[6]コノハ\\c[0]"
+                                "\\c[6]Konoha\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "マレウスーっ！"
+                                "Maleus! Where are you?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "どこにいるのよ"
+                                ""
                             ]
                         },
                         {
@@ -6753,14 +6753,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[1]雑貨店主\\c[0]"
+                                "\\c[1]General Store Owner\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "なんかいるかい？"
+                                "Is there something you need?"
                             ]
                         },
                         {
@@ -6777,28 +6777,28 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[1]雑貨店主\\c[0]"
+                                "\\c[1]General Store Owner\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "って、今は特に何もいらないか"
+                                "Well, it's great that things are peaceful and we\ndon't really need anything special right now, but\nwe still rely on our business to make a living."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "本当平和ってのはいいもんだけど、うちらは"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "商売あがったりだよ"
+                                ""
                             ]
                         },
                         {
@@ -6997,21 +6997,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[1]ガーディス兵\\c[0]"
+                                "\\c[1]Gardis Soldier\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "黒き悪魔はもう復活しないんですよね…"
+                                "The dark demon won't revive anymore... Phew,\nthat's a relief~"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "いやぁよかったっすわぁ～"
+                                ""
                             ]
                         },
                         {
@@ -7089,21 +7089,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[1]ガーディス兵\\c[0]"
+                                "\\c[1]Gardis Soldier\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "こないだ王様がエッチィな本見てるところを目撃したんですが"
+                                "The other day, I witnessed the king reading a\nnaughty book, but I couldn't bring myself to say\nanything."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "自分何も注意できませんでした"
+                                ""
                             ]
                         },
                         {
@@ -7181,14 +7181,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[1]ガーディス兵\\c[0]"
+                                "\\c[1]Gardis Soldier\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ここは男性用の水浴び場です…"
+                                "This is the men's bathing area..."
                             ]
                         },
                         {
@@ -7205,21 +7205,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[6]コノハ\\c[0]"
+                                "\\c[6]Konoha\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ちょっとくらい、いいじゃない"
+                                "It's not a big deal, it's not like it's going to\ndecrease or anything."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "減るもんじゃないんだし"
+                                ""
                             ]
                         },
                         {
@@ -7236,14 +7236,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[1]ガーディス兵\\c[0]"
+                                "\\c[1]Gardis Soldier\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "え…えっち！"
+                                "E... Ecchi!"
                             ]
                         },
                         {
@@ -7382,14 +7382,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[1]兵士\\c[0]"
+                                "\\c[1]Soldier\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "コノハ殿、奥に進みください"
+                                "Konoha-sama, please proceed further inside."
                             ]
                         },
                         {
@@ -7467,21 +7467,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[1]ガーディス兵\\c[0]"
+                                "\\c[1]Gardis Soldier\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "最近食べすぎて……"
+                                "Lately, I've been eating too much... and it's made\nme sluggish..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "動きが鈍くなってしまいました……"
+                                ""
                             ]
                         },
                         {
@@ -7727,21 +7727,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "兵隊さんたちのご飯の支度はとってもとっても"
+                                "The soldiers' meal preparation is very, very\ndifficult!! Ohohohoho!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "大変なんですよ！！"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "オホホホホホ！"
+                                ""
                             ]
                         },
                         {
@@ -7896,28 +7896,28 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「\\c[2]ルーダー\\c[0]」とは？"
+                                "What does ' \\c[2]Ruder\\c[0]' mean? It mainly\nrefers to a general term for thieves, barbarians,\nand outlaws. Pirates do not belong to this\ncategory as they do not solely steal for personal\ngain."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "・主に盗賊、蛮族、ならず者の総称を指す。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "・海賊は私利私欲だけで物品を奪ったりしないので"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  これに属さない"
+                                ""
                             ]
                         },
                         {
@@ -7995,28 +7995,28 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「\\c[2]ラチェリの塔\\c[0]」とは？"
+                                "What is the Tower of Lachery? It is a tower that\nhas been standing in the Disodart continent for a\nlong time. It is located to the west of the\ncapital city. It is said to have been built to\nseal away ancient demons."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "・ディソダルト大陸に古くから建造されている塔"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "場所は王都から西方。古の悪魔を封印するために"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "建てられたという。"
+                                ""
                             ]
                         },
                         {
@@ -8094,28 +8094,28 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「\\c[2]種族\\c[0]」について"
+                                "Regarding the  \\c[2]races\\c[0], in Disodart, there\nare mainly the Human race, Doggy race, Elf race,\nLewd Demon race, Dark race, and Panda race. The\ncreatures with strong breeding activities are\nreferred to as Lustful Beasts."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "・ディソダルトには主に「人間族」「わんわんお族」"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「エルフ族」「淫魔族」「闇族」「ぱんだ族」が居る"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "魔物は繁殖活動が強い魔物を「淫獣」と呼んでいる"
+                                ""
                             ]
                         },
                         {

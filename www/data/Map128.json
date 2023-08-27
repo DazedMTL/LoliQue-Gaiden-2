@@ -16,7 +16,7 @@
         "volume": 80
     },
     "disableDashing": false,
-    "displayName": "民家",
+    "displayName": "Private House",
     "encounterList": [],
     "encounterStep": 30,
     "height": 25,
@@ -5000,7 +5000,7 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "会話"
+                                    "Conversation"
                                 ],
                                 0,
                                 0,
@@ -5046,14 +5046,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "なんだおめぇ？！"
+                                "What the hell, you?! Is your head... okay???"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "頭…大丈夫か？？？"
+                                ""
                             ]
                         },
                         {
@@ -5212,14 +5212,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "昔はよ、漁をするため海にも出ることあったんだ"
+                                "Back in the day, I used to go out to sea for\nfishing, but now it's filled with demons and\nmonsters. It's nothing like it used to be."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "だけどよ、今ではデーモンやら魔獣やらでそれどこじゃねぇ"
+                                ""
                             ]
                         },
                         {
@@ -5243,14 +5243,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "やっぱ少しずつ勢力を伸ばしてるみてぇなんだよな…"
+                                "It seems like they're gradually expanding their\ninfluence... Well, it looks like we have no choice\nbut to catch fish while we can."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "まぁ釣りでもしながら魚は手に入れるしかねぇみてぇだ"
+                                ""
                             ]
                         },
                         {
@@ -5278,9 +5278,9 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "\\C[22]♥誘惑en(v[261]>=300)",
-                                    "\\C[14]♠窃盗en(v[263]>=20)",
-                                    "\\C[3]☠攻撃en(v[263]>=100)"
+                                    "\\C[22]♥ Temptationen(v[261]>=300)",
+                                    "\\C[14]♠Theften(v[263]>=20)",
+                                    "\\C[3]☠ Attacken(v[263]>=100)"
                                 ],
                                 -2,
                                 -1,
@@ -5460,7 +5460,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ほぎゃー"
+                                "Hogyaa"
                             ]
                         },
                         {
@@ -5841,8 +5841,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "\\C[3]盗むLV1",
-                                    "何もしない"
+                                    "Steal LV1",
+                                    "Doing nothing"
                                 ],
                                 1,
                                 -1,
@@ -5955,14 +5955,14 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\c[6]コノハ\\c[0]"
+                                "\\c[6]Konoha\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "なんかまずい気がするわ"
+                                "I have a bad feeling about this."
                             ]
                         },
                         {
@@ -6001,14 +6001,14 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\c[6]コノハ\\c[0]"
+                                "\\c[6]Konoha\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "ちょっと失敗ね"
+                                "I messed up a little."
                             ]
                         },
                         {

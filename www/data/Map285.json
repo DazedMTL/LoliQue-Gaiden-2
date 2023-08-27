@@ -16,7 +16,7 @@
         "volume": 80
     },
     "disableDashing": false,
-    "displayName": "監視塔-4F",
+    "displayName": "Surveillance Tower - 4F",
     "encounterList": [
         {
             "regionSet": [],
@@ -18597,7 +18597,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[1]罠探知スキルLV3\\C[0]が発動した！"
+                                "\\C[1]Trap Detection Skill Level 3\\C[0]has been activated!"
                             ]
                         },
                         {
@@ -18665,7 +18665,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\C[1]罠探知スキルLV2\\C[0]が発動した！"
+                                "\\C[1]Trap Detection Skill LV2\\C[0]has been activated!"
                             ]
                         },
                         {
@@ -18698,28 +18698,28 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "あぶなっ！"
+                                "Oh no! This is a mimic, isn't it? I wonder what I\nshould do... Should I dare to open it...?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 3,
                             "parameters": [
-                                "これミミックね。どうするべきかしら…"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 3,
                             "parameters": [
-                                "敢えて開ける…？"
+                                ""
                             ]
                         },
                         {
@@ -18746,28 +18746,28 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "おっとー！"
+                                "Oops! I thought it was a nice treasure chest. That\nwas dangerous. Now, what should I do?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 3,
                             "parameters": [
-                                "いい宝箱って思ったら。危なかったわね"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 3,
                             "parameters": [
-                                "さて、どうしようかな"
+                                ""
                             ]
                         },
                         {
@@ -18785,8 +18785,8 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "もちろん開けましょう",
-                                    "やめておいたほうが無難ね"
+                                    "Of course, let's open it",
+                                    "It would be safer to stop"
                                 ],
                                 -1,
                                 -1,
@@ -19218,14 +19218,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[2]ルダリングによっておぞましい力の象徴を感じる……"
+                                "Do you feel the symbol of repulsive power through\n\\C[2] rendering... Will you fight?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "戦いますか？"
+                                ""
                             ]
                         },
                         {
@@ -19233,8 +19233,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "戦う",
-                                    "やめておく"
+                                    "Fight",
+                                    "I'll stop"
                                 ],
                                 -2,
                                 0,
@@ -19279,14 +19279,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "過去には散々やられたが今日はそうはいかんぞ"
+                                "In the past, Konoha has been thoroughly defeated,\nbut not today! This one is strong! Prepare\nyourself and come at me!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "コノハ、こいつは強い！覚悟してかかれ！"
+                                ""
                             ]
                         },
                         {
@@ -19695,14 +19695,14 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "やった……！やったぞコノハ！"
+                                "I did it...! I did it, Konoha! Finally, I've\ndefeated this incomprehensible demon...! Finally,\nI've defeated this incomprehensible demon...!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 3,
                             "parameters": [
-                                "ついに、このわけわからんデーモンを倒したのじゃ…！"
+                                ""
                             ]
                         },
                         {
@@ -19726,21 +19726,21 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "ようやくわしの本来の力が……戻ってきたようじゃ！"
+                                "Finally, it seems my true power has returned!\nKukuku...! It's starting to get interesting. It\nwas definitely a good decision to go on this\nadventure with you."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 3,
                             "parameters": [
-                                "ククク……！面白くなってきたわい。やはりそなたと"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 3,
                             "parameters": [
-                                "冒険してよかったようじゃ"
+                                ""
                             ]
                         },
                         {
@@ -19879,14 +19879,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "コノハよ、わしをバトルメンバーに入れるんじゃ！"
+                                "Konoha, don't you dare put me in your battle\nparty! To think you would be here, you detestable\ndemon!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "こんなところにおるとはの、憎きデーモンめ！"
+                                ""
                             ]
                         },
                         {

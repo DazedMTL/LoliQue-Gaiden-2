@@ -16,7 +16,7 @@
         "volume": 80
     },
     "disableDashing": false,
-    "displayName": "ローディス洞窟",
+    "displayName": "Roudis Cave",
     "encounterList": [
         {
             "regionSet": [],
@@ -18040,14 +18040,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "こんなところに落としていたのですね！"
+                                "Oh, you dropped it in a place like this! I'm glad\nI found it~! Thank you very much."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "よかったですわ～！ありがとうございます"
+                                ""
                             ]
                         },
                         {
@@ -22763,8 +22763,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "ピッキングで解錠する",
-                                    "やめる"
+                                    "Unlocking with lock picking",
+                                    "Stop"
                                 ],
                                 1,
                                 0,
@@ -22859,21 +22859,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[2]ピッキングツール\\C[0]と\\C[2]ヘアピン\\C[0]を持っていれば"
+                                "If you have a \\C[2]lock-picking tool\\C[0] and a\n\\C[2]hairpin\\C[0], you might be able to challenge\nunlocking the door..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "鍵開けに挑戦できるかもしれないわね…"
+                                ""
                             ]
                         },
                         {
@@ -23616,7 +23616,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\C[2]馬鹿力スキルを使えるロリモンが岩を破壊！"
+                                "The loli character with the ability to use Baka\nPower skill destroys a rock!"
                             ]
                         },
                         {
@@ -23651,7 +23651,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\C[2]馬鹿力スキルLV2\\c[0]を使えれば岩を破壊できそうだ"
+                                "It seems like they can destroy the rock if they\ncan use it."
                             ]
                         },
                         {
@@ -24030,14 +24030,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "現れたわね！ザックの言ってたデーモン！"
+                                "They've appeared! The demons that Zack was talking\nabout!"
                             ]
                         },
                         {
@@ -24054,21 +24054,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[10]デーモン\\C[0]"
+                                "\\C[10]I have demons, I have demons... The scent of\nplatinum nuggets is wafting..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "持ってる持ってる……「白金の砂金」の匂いが"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "プンプンする……"
+                                ""
                             ]
                         },
                         {
@@ -24103,21 +24103,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "この砂金を持ってる人間を襲ってるらしいわね"
+                                "It seems like they're attacking people who have\nthis gold dust. But it won't go that way today."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "今日はそうはいかないわよ"
+                                ""
                             ]
                         },
                         {
@@ -24134,21 +24134,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[10]デーモン\\C[0]"
+                                "\\C[10]Demons\\C[0], what I desire is... your hearts\ntainted with desire... I am devouring your\nshameful forms beautifully..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "我が欲しいのは……貴様らの欲にまみれたその心……"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "あさましい姿を我が綺麗に喰ってやってるのだ……"
+                                ""
                             ]
                         },
                         {
@@ -24183,21 +24183,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "なるほどね、別にこの砂金が目当てで襲っていたわけでは"
+                                "I see, so they weren't attacking specifically for\nthis gold dust. Well then, I guess we don't need\nit after all."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ないと。じゃあ、これはいらないってことね"
+                                ""
                             ]
                         },
                         {
@@ -24237,21 +24237,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[10]デーモン\\C[0]"
+                                "\\C[10]Demon\\C[0] Ahh? You... what are you doing..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ああっ？"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "貴様……なんてことを……"
+                                ""
                             ]
                         },
                         {
@@ -24268,7 +24268,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[2]コノハは集めた「白金の砂金」を全部水辺にぶちまけた！"
+                                "Konoha dumped all the platinum nuggets she had\ncollected into the water!"
                             ]
                         },
                         {
@@ -24285,21 +24285,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[10]デーモン\\C[0]"
+                                "\\C[10]I won't forgive you, \\C[0]!!! Magical\ngirl...!!!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "許さぬ……っ！！！"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "魔法少女……！！！！"
+                                ""
                             ]
                         },
                         {
@@ -24346,21 +24346,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "何よ、やっぱりこっちが欲しいんじゃない"
+                                "What? So you're saying you actually want the\nhearts of people tainted with desire, not this\ngold dust? That's laughable."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "欲にまみれた人の心が欲しいですって？笑わせるわ"
+                                ""
                             ]
                         },
                         {
@@ -24395,14 +24395,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "いくわよ！"
+                                "Here I go!"
                             ]
                         },
                         {
@@ -24455,14 +24455,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[10]デーモン\\C[0]"
+                                "\\C[10]Demon\\C[0] Gubyaahhhhh!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "グビャアアアアァァァ！"
+                                ""
                             ]
                         },
                         {
@@ -24497,14 +24497,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "勝ったわ……"
+                                "I won..."
                             ]
                         },
                         {
@@ -24521,21 +24521,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[10]デーモン\\C[0]"
+                                "\\C[10]Demon\\C[0]... Gold... Gold... My... My\ngold... Ahhhhhhhh"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "か……金……金がぁぁぁ"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "我の……金ガアアアァァァァァ"
+                                ""
                             ]
                         },
                         {
@@ -24570,21 +24570,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "あとさっきばら撒いた白金の砂金だけど、あれは嘘よ"
+                                "About the platinum dust I scattered earlier, it\nwas a lie. It was just regular sand. It seems like\nregular sand looked like gold dust."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "ただの砂。ただの砂が砂金に見えたみたいだけど"
+                                ""
                             ]
                         },
                         {
@@ -24601,14 +24601,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "私に騙されるようじゃ、デーモン失格なんじゃない？"
+                                "If you're easily deceived by me, then aren't you\ndisqualified as a demon?"
                             ]
                         },
                         {
@@ -24910,21 +24910,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ふう……なんとか倒したわ"
+                                "Phew... I managed to defeat it. Let's report back\nto Zack."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "ザックに報告しましょう"
+                                ""
                             ]
                         },
                         {
@@ -25013,21 +25013,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "あぎぃっ…！"
+                                "Ahh...! Th-that..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "そ、そんな"
+                                ""
                             ]
                         },
                         {
@@ -25044,14 +25044,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[10]デーモン\\C[0]"
+                                "\\C[10]You foolish demon... You underestimated\nme...\\C[0]"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "馬鹿め……われをあなどったな……"
+                                ""
                             ]
                         },
                         {
@@ -25086,14 +25086,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "くっ……！撤退よ"
+                                "Kuh...! Retreat!"
                             ]
                         },
                         {
@@ -25110,14 +25110,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[10]デーモン\\C[0]"
+                                "I won't let the \\C[10]demon\\C[0] escape...!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "逃がすものか……！"
+                                ""
                             ]
                         },
                         {

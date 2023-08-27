@@ -16735,7 +16735,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[2]「地下カジノ通行証」が無いと入れません"
+                                "\\C[2] You can't enter without an underground\ncasino pass."
                             ]
                         },
                         {
@@ -16825,21 +16825,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[3]「奪われた通行証」のクエストで手に入れた"
+                                "\\C[3] Stolen Pass quest, if you use the obtained\npass here, the quest will fail. Is that okay?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "通行証をここで使用すると、クエストは失敗になりますが"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "よろしいですか？"
+                                ""
                             ]
                         },
                         {
@@ -16847,8 +16847,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -17359,28 +17359,28 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[9]★ジャッカルの楽しい遊技場★"
+                                "\\C[9]★Jackal's Fun Game Zone★\\C[2] The only place\nwhere you can enjoy high-rate, high-return JP! If\nyou want to live a winning life, you'll need\ncourage too! Now, let's have fun!\n\\C[3]※Underground Casino Pass is required."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "\\C[2]高レートでハイリターンなJPが楽しめるのはここだけ！"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "勝ち組人生になりたいなら勇気も必要だ！さぁ楽しもう！"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "\\C[3]※「地下カジノ通行証」が必要です"
+                                ""
                             ]
                         },
                         {
@@ -17463,21 +17463,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[9]★みんなの楽しい遊技場★"
+                                "\\C[9]★Everyone's Fun Game Center★ \\C[2] Enjoy exciting JP at high rates!\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[2]高レートで刺激的なJPを楽しもう！"
+                                "※No Underground Casino Pass required."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "\\C[0]※「地下カジノ通行証」は必要ありません"
+                                ""
                             ]
                         },
                         {
@@ -18002,21 +18002,21 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\C[1]人身売買者\\C[0]"
+                                "\\C[1]Human Trafficker\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ほらほら商売の邪魔するな"
+                                "Hey, hey, don't interfere with my business. You\nmust already have a master, right?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "あんたはもう主がおるだろ！"
+                                ""
                             ]
                         },
                         {
@@ -18043,21 +18043,21 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\C[1]人身売買者\\C[0]"
+                                "\\C[1]Human Trafficker\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ほらほら商売の邪魔しないで！"
+                                "Hey, hey, don't interfere with my business! You\nhaven't been caught, right?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "あんた捕まってないんでしょ！"
+                                ""
                             ]
                         },
                         {
@@ -18094,28 +18094,28 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[1]人身売買者\\C[0]"
+                                "\\C[1]Human Trafficker\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "未刻印の新しい娘入りましたよ～"
+                                "We've got a new unmarked girl here~ She's been\ntrained until she obeys everything. Whether\nthey're pregnant or not, all of them are obedient.\nIt's a great deal~"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "なんでも言うこと聞くまで調教済みです。孕ませている子"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "そうでない子、みんな従順です、お買い得ですよ～"
+                                ""
                             ]
                         },
                         {
@@ -18400,7 +18400,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "うへへ…あんたもたまらんねぇ…"
+                                "Hehe... You can't resist either, huh..."
                             ]
                         },
                         {
@@ -18552,21 +18552,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ここで直接奴隷が買えるらしいんだけど"
+                                "I heard you can buy slaves directly here, but it\nseems like only the rich can afford it... Damn it,\nI wish I could do whatever I want..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "やっぱ金持ちしか無理だな…くっそぉ"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "やりたい放題してーなぁ…"
+                                ""
                             ]
                         },
                         {
@@ -18728,14 +18728,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ほほ…君はいくらかね……"
+                                "Hoho... How much are you worth... Hm? Aren't you a\nslave... What a shame."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "ん？奴隷ではないのか…残念"
+                                ""
                             ]
                         },
                         {
@@ -18762,14 +18762,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "今日はまた一段といろいろと揃っておるようだ"
+                                "Today, it seems like there's an even wider variety\nof things available. That despairing face... Just\nbeing able to gaze at it here is the best."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "あの絶望した顔…ここで眺められるだけでも最高だよ"
+                                ""
                             ]
                         },
                         {
@@ -19035,7 +19035,7 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "会話"
+                                    "Conversation"
                                 ],
                                 -2,
                                 0,
@@ -19074,14 +19074,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "なかなかいい身体だが……君はちょっと細すぎるかな"
+                                "Your body is quite nice... but you might be a bit\ntoo slim. I prefer someone with a plump figure,\nyou know."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "ムッチリ系が好きなんだよワシ"
+                                ""
                             ]
                         },
                         {
@@ -19108,21 +19108,21 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "可哀想になぁ、奴隷刻印を付けられるとほぼ逃げられない"
+                                "It's so pitiful... I heard that once they are\nbranded with a slave mark, they can hardly escape.\nThose girls will live their whole lives as slaves\nonce a buyer is found. If only I had the money..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "らしい。買い手が決まるとあの娘らは奴隷として生涯を"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "生きることになる。私に金さえあればねぇ…"
+                                ""
                             ]
                         },
                         {
@@ -19163,9 +19163,9 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "\\C[22]♥誘惑en(v[261]>=400)",
-                                    "\\C[14]♠窃盗en(v[263]>=20)",
-                                    "\\C[3]☠攻撃en(v[263]>=100)"
+                                    "\\C[22]♥ Temptationen(v[261]>=400)",
+                                    "\\C[14]♠Theften(v[263]>=20)",
+                                    "\\C[3]☠ Attacken(v[263]>=100)"
                                 ],
                                 -2,
                                 -1,
@@ -19345,7 +19345,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ぐぎゃー！"
+                                "Gugyaah!"
                             ]
                         },
                         {
@@ -19579,7 +19579,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "……。"
+                                "......."
                             ]
                         },
                         {
@@ -19606,7 +19606,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "商品に触るんじゃないぞ"
+                                "Don't touch the merchandise."
                             ]
                         },
                         {
@@ -19768,7 +19768,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "……。"
+                                "......."
                             ]
                         },
                         {
@@ -19795,7 +19795,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "商品に触るんじゃないぞ"
+                                "Don't touch the merchandise."
                             ]
                         },
                         {
@@ -20000,8 +20000,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "ピッキングで解錠する",
-                                    "やめる"
+                                    "Unlocking with lock picking",
+                                    "Stop"
                                 ],
                                 1,
                                 0,
@@ -20096,21 +20096,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[2]ピッキングツール\\C[0]と\\C[2]ヘアピン\\C[0]を持っていれば"
+                                "If you have a \\C[2]lock-picking tool\\C[0] and a\n\\C[2]hairpin\\C[0], you might be able to challenge\nunlocking the door..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "鍵開けに挑戦できるかもしれないわね…"
+                                ""
                             ]
                         },
                         {
@@ -20405,14 +20405,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[2]魔法少女の力を失ったコノハはスラムで"
+                                "Konoha, who lost her magical girl powers, ended up\nbeing sold in the slums."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "その身を売られることになった"
+                                ""
                             ]
                         },
                         {
@@ -20429,7 +20429,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[2]誰かがコノハを引き取ってくれるだろうか……"
+                                "I wonder if someone will take Konoha in..."
                             ]
                         },
                         {
@@ -20467,14 +20467,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[2]体験版ではここから先は進行できません！"
+                                "In the trial version, you cannot proceed beyond\nthis point! You will not be sold as a slave, but\nwill be forcibly released."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "人身売買されず、強制的に解放となります"
+                                ""
                             ]
                         },
                         {
@@ -20538,28 +20538,28 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[1]人身売買者\\C[0]"
+                                "\\C[1]Human Trafficker\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "未刻印の新しい娘入りましたよ～"
+                                "We have a new unmarked girl here~ Whether they're\npregnant or not, all of them are obedient. Feel\nfree to train them as you please!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "孕ませている子そうでない子、みんな従順です"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "調教もどうぞご自由に！"
+                                ""
                             ]
                         },
                         {
@@ -20576,21 +20576,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[1]客\\C[0]"
+                                "\\C[1]Customer\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「今日もまた可愛い子がおるなぁ」"
+                                "There's another cute girl today. If only I had the\nmoney."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "「金さえありゃなぁ」"
+                                ""
                             ]
                         },
                         {
@@ -20612,14 +20612,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[2]一人の男がコノハの前に立ち止まり、品定めをするように"
+                                "The man stopped in front of Konoha and carefully\nexamined every inch of her body, as if licking it\nto assess its quality..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "身体の隅々を舐めるように視ていく……"
+                                ""
                             ]
                         },
                         {
@@ -20758,7 +20758,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "ん……君は……とても素晴らしいな……"
+                                "Mmm... You... are truly amazing..."
                             ]
                         },
                         {
@@ -20793,14 +20793,14 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "あなたは……"
+                                "You..."
                             ]
                         },
                         {
@@ -20829,21 +20829,21 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\C[6]なんとコノハは、金持ちの貴族に買われることになった"
+                                "Konoha, surprisingly, ended up being bought by a\nwealthy noble. She was sold for a considerable\nprice, but as a condition, Konoha was required to\nmarry that noble..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 3,
                             "parameters": [
-                                "それなりに高く売られたが、条件としてコノハはその貴族に"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 3,
                             "parameters": [
-                                "嫁ぐことになった……"
+                                ""
                             ]
                         },
                         {
@@ -20905,14 +20905,14 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "ん……君は……コノハちゃん……？"
+                                "Hmmm... You are... Konoha-chan...? No way...!?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 3,
                             "parameters": [
-                                "まさか……！？"
+                                ""
                             ]
                         },
                         {
@@ -20947,14 +20947,14 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "あなたは……\\v[111]さん……"
+                                "You are... Mr./Ms./Mx. \\v[111]..."
                             ]
                         },
                         {
@@ -20983,21 +20983,21 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\C[6]なんとコノハは、アルテアーノでお相手した金持ちの貴族に"
+                                "Konoha ended up being bought by a wealthy noble\nshe had a match with at Alteano. She was sold for\na considerable price, but as a condition, Konoha\nwas required to marry that noble..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 3,
                             "parameters": [
-                                "買われることになった。それなりに高く売られたが"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 3,
                             "parameters": [
-                                "条件としてコノハはその貴族に嫁ぐことになった……"
+                                ""
                             ]
                         },
                         {
@@ -21248,7 +21248,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "ん……君は……とても素晴らしいな……"
+                                "Mmm... You... are truly amazing..."
                             ]
                         },
                         {
@@ -21283,14 +21283,14 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "あなたは……"
+                                "You..."
                             ]
                         },
                         {
@@ -21319,21 +21319,21 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\C[6]なんとコノハは、金持ちの貴族に買われることになった"
+                                "Konoha ended up being bought by a wealthy noble.\nShe was sold for a considerable price, but as a\ncondition, Konoha was required to marry that\nnoble..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 4,
                             "parameters": [
-                                "それなりに高く売られたが、条件としてコノハはその貴族に"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 4,
                             "parameters": [
-                                "嫁ぐことになった……"
+                                ""
                             ]
                         },
                         {
@@ -21395,14 +21395,14 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "ん……君は……コノハちゃん……？"
+                                "Mmm... You... are... Konoha-chan...? No way...!?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 4,
                             "parameters": [
-                                "まさか……！？"
+                                ""
                             ]
                         },
                         {
@@ -21437,14 +21437,14 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "あなたは……\\v[111]さん……"
+                                "You... Mr./Ms./Mx. \\v[111]..."
                             ]
                         },
                         {
@@ -21473,21 +21473,21 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\C[6]なんとコノハは、アルテアーノでお相手した金持ちの貴族に"
+                                "Konoha ended up being bought by a wealthy noble\nshe had a match with at Alteano. She was sold for\na considerable price, but as a condition, Konoha\nwas required to marry that noble..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 4,
                             "parameters": [
-                                "買われることになった。それなりに高く売られたが"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 4,
                             "parameters": [
-                                "条件としてコノハはその貴族に嫁ぐことになった……"
+                                ""
                             ]
                         },
                         {
@@ -21628,14 +21628,14 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\C[1]ジャッカルの手下\\C[0]"
+                                "\\C[1]Jackal's henchman\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "ふーむ……素材は悪くなさそうだ"
+                                "Hmmm... The material doesn't seem bad."
                             ]
                         },
                         {
@@ -21683,14 +21683,14 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\C[1]ジャッカルの手下\\C[0]"
+                                "\\C[1]Jackal's henchman\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "いくらだ？"
+                                "How much is it?"
                             ]
                         },
                         {
@@ -21738,14 +21738,14 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\C[1]人身売買者\\C[0]"
+                                "\\C[1]Human Trafficker\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "その子は飛び切りなんで……ちいとお値段張りますぜ？"
+                                "Since she's top-notch... she'll come at a high\nprice, you know?"
                             ]
                         },
                         {
@@ -21762,14 +21762,14 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\C[1]ジャッカルの手下\\C[0]"
+                                "\\C[1]Jackal's henchman\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "少しなら構わん。それだけ稼げればいいのだからな……"
+                                "If it's just a little, it doesn't matter. As long\nas we can earn that much..."
                             ]
                         },
                         {
@@ -21786,14 +21786,14 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\C[1]人身売買者\\C[0]"
+                                "\\C[1]Human Trafficker\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "じゃあ200000Loでどうでしょ？"
+                                "How about 200,000 Lo?"
                             ]
                         },
                         {
@@ -21810,14 +21810,14 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\C[1]ジャッカルの手下\\C[0]"
+                                "\\C[1]Jackal's henchman\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "いいだろう……"
+                                "Alright..."
                             ]
                         },
                         {
@@ -21865,21 +21865,21 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\C[1]ジャッカルの手下\\C[0]"
+                                "\\C[1]Jackal's henchman\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "さあ、お前は今日からジャッカル様の奴隷となる"
+                                "Well, from today onwards, you will become Jackal-\nsama's slave. Let's make sure you work hard..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 4,
                             "parameters": [
-                                "しっかりと働いてもらおうか……"
+                                ""
                             ]
                         },
                         {
@@ -21908,21 +21908,21 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\C[3]コノハは裏賭博を仕切っているジャッカルに売られた"
+                                "\\C[3] Konoha was sold to Jackal, who runs an\nunderground gambling operation. Jackal branded the\ngirl with a slave mark to ensure she couldn't\nescape, and then set a target amount of money for\nher to earn through relentless work."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 4,
                             "parameters": [
-                                "ジャッカルは少女に奴隷刻印を付与させ、逃げられないように"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 4,
                             "parameters": [
-                                "して、後は目標金額を定めさせてひたすら働かせるのだ"
+                                ""
                             ]
                         },
                         {
@@ -22067,14 +22067,14 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\C[1]バンディット\\C[0]"
+                                "\\C[1]Bandit\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "おいおいおい……なんだよこの上玉はよぉ"
+                                "Hey hey hey... What's with this top-quality one,\nhuh?"
                             ]
                         },
                         {
@@ -22122,14 +22122,14 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\C[1]バンディット\\C[0]"
+                                "\\C[1]Bandit\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "安くしてくれよ、へへ……いますぐ犯してぇんだ"
+                                "Give me a discount, hehe... I want to fuck you\nright now."
                             ]
                         },
                         {
@@ -22177,14 +22177,14 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\C[1]人身売買者\\C[0]"
+                                "\\C[1]Human Trafficker\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "その子は高いよ……値引きも無理"
+                                "That girl is expensive... No discounts are\npossible."
                             ]
                         },
                         {
@@ -22201,21 +22201,21 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\C[1]バンディット\\C[0]"
+                                "\\C[1]Bandit\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "あぁ？おまえ何言ってんだ？！例のことヤーグル様に"
+                                "Huh? What are you saying? Should I spill the beans\nto Mr. Jackal about that thing? I wonder how angry\nMr. Jackal would get, hmm? ???"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 4,
                             "parameters": [
-                                "バラしちまうかなぁ？ヤーグル様どんだけ怒るかなぁ？？？"
+                                ""
                             ]
                         },
                         {
@@ -22232,21 +22232,21 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\C[1]人身売買者\\C[0]"
+                                "\\C[1]Human Trafficker\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "ああ！わかった……わかったから……"
+                                "Ah! I understand... I understand, so... 1000 Lo is\nfine... Please, I'm begging you."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 4,
                             "parameters": [
-                                "1000Loでいいから……たのむよほんとに"
+                                ""
                             ]
                         },
                         {
@@ -22263,21 +22263,21 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\C[1]バンディット\\C[0]"
+                                "\\C[1]Bandit\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "最初からそう言や良いんだ"
+                                "You should have said that from the beginning,\ngyahhahahaha!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 4,
                             "parameters": [
-                                "ギャッハッハッハ！"
+                                ""
                             ]
                         },
                         {
@@ -22306,21 +22306,21 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\C[10]コノハはそこらのバンディットに安く買い叩かれたようだ"
+                                "Konoha seems to have been bought cheaply by some\nrandom bandits. If she had been lucky... she might\nhave been bought in a better way..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 4,
                             "parameters": [
-                                "運がよければ……もっとマシな買われ方をしたかもしれない"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 4,
                             "parameters": [
-                                "というのに……"
+                                ""
                             ]
                         },
                         {

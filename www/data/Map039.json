@@ -16,7 +16,7 @@
         "volume": 80
     },
     "disableDashing": false,
-    "displayName": "メーシィ平原「リインガーネットの街」",
+    "displayName": "Macy Plains \"City of Reingarnet",
     "encounterList": [
         {
             "regionSet": [],
@@ -17676,7 +17676,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[2]【リインガーネットの街】\\c[0]をポータルに記録しました"
+                                "\\c[2][Reingarnet Town]\\c[0][Recorded Reingarnet Town] in the portal."
                             ]
                         },
                         {
@@ -20224,14 +20224,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[2]このネストストーンを魔力で制御できるようになった"
+                                "\\C[2]The enemies in the vicinity became docile\nafter being able to control this Nest Stone with\nmagic\\C[1]!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "\\C[1]付近の敵がおとなしくなった！"
+                                ""
                             ]
                         },
                         {
@@ -20403,14 +20403,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[2]ネストストーンの制御を解除しますか？"
+                                "Do you want to release the control of the Nest\nStone? If you release it, nearby enemies will\nattack."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "\\C[3]解除すると、付近の敵が襲ってきます"
+                                ""
                             ]
                         },
                         {
@@ -20418,8 +20418,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "解除する",
-                                    "解除しない"
+                                    "Release",
+                                    "Don't release it"
                                 ],
                                 -1,
                                 -1,
@@ -20466,7 +20466,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[2]ネストストーンの制御を解除した！"
+                                "Released the control of the Nest Stone!"
                             ]
                         },
                         {
@@ -20631,14 +20631,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[2]このネストストーンを魔力で制御した！"
+                                "\\C[2]I controlled this Nest Stone with magic!\n\\C[1]The nearby enemies became docile!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "\\C[1]付近の敵がおとなしくなった！"
+                                ""
                             ]
                         },
                         {
@@ -25810,21 +25810,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[9]♥魔獣授乳イベント"
+                                "\\C[9]♥Monster Beast Nursing Event Trigger\nCondition: Only if the monster beast is released\nafter giving birth. (This applies only from this\nadditional version.)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "発生条件：魔獣出産後逃がす"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "※この追加VERから逃した場合のみとなります"
+                                ""
                             ]
                         },
                         {
@@ -25938,7 +25938,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "まだ小さな魔獣がコノハの前に現れたが全く敵意がない"
+                                "A small magical beast appeared in front of Konoha,\nbut it showed no signs of hostility."
                             ]
                         },
                         {
@@ -25973,21 +25973,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "まだ小さいし、なぜか敵意がないわね"
+                                "It's still small, and for some reason, it doesn't\nseem to have any hostility... I wonder why..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "なぜ……"
+                                ""
                             ]
                         },
                         {
@@ -26004,7 +26004,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そしてコノハは気づいた"
+                                "And Konoha noticed."
                             ]
                         },
                         {
@@ -26048,14 +26048,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "まさか、私が産んで逃した魔獣なの…？！"
+                                "No way, is this the magical beast I gave birth to\nand let escape...?!"
                             ]
                         },
                         {
@@ -26090,14 +26090,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "その小さな魔獣は愛しそうにコノハに近づく……"
+                                "The small magical beast approached Konoha\nlovingly... Konoha couldn't help but embrace the\nmagical beast in her arms."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "コノハは思わず魔獣を抱きかかえた"
+                                ""
                             ]
                         },
                         {
@@ -26132,21 +26132,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "まだ忘れてなかったのね……魔獣といえども……"
+                                "So you still remember... Even though you're a\nmagical beast... You're my child after all, so of\ncourse you're cute... Just wait a moment."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "自分の子だもの、やっぱり可愛いものよ……ちょっと待ってね"
+                                ""
                             ]
                         },
                         {
@@ -26154,8 +26154,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "\\C[9]♥授乳する",
-                                    "何もしない"
+                                    "\\C[9]♥Breastfeeding",
+                                    "Doing nothing"
                                 ],
                                 -1,
                                 -1,
@@ -26185,7 +26185,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "コノハは、魔獣の赤ちゃんに授乳することにした…"
+                                "Konoha decided to breastfeed the baby magical\nbeast..."
                             ]
                         },
                         {
@@ -26739,21 +26739,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[5]＊　リインガーネットの街　＊"
+                                "\\c[5]* Rein Garnet Town *\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[0]魔法少女を歓迎する。ともにデーモンを撃退しよう"
+                                "Welcome magical girls. Those who have been\nreincarnated to fight off demons, first head to\nthe \\c[2]Magical Girl Guild\\c[0] together."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "転生してきた者はまず\\c[2]魔法少女ギルド\\c[0]へ"
+                                ""
                             ]
                         },
                         {

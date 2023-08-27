@@ -16,7 +16,7 @@
         "volume": 80
     },
     "disableDashing": false,
-    "displayName": "地下",
+    "displayName": "Underground",
     "encounterList": [],
     "encounterStep": 30,
     "height": 30,
@@ -8021,14 +8021,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーンロック\\C[2]「Ωオメガ」\\C[0]が掛かっているようだ"
+                                "Rune Lock \\C[2] Ω Omega \\C[0] seems to be in\nplace, it can't be opened with picking."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ピッキングでは開けられない"
+                                ""
                             ]
                         },
                         {
@@ -8044,8 +8044,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "ルーンストーンを使って解錠する",
-                                    "何もしない"
+                                    "Unlock using the rune stone",
+                                    "Do nothing"
                                 ],
                                 1,
                                 0,
@@ -8581,14 +8581,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[2]フライヤの地下中央には触手蠢く魔獣の姿があった…！"
+                                "In the underground center of Flya, there was a\ncreature with wriggling tentacles...! As soon as\nit spotted Konoha, it attacked!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "コノハを視認するやいなや、それは攻撃してきた！"
+                                ""
                             ]
                         },
                         {
@@ -8623,21 +8623,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あっぶな！フライヤ、とんでもないもの隠してたわね"
+                                "Oh my! Flya was hiding something outrageous. We\nhave to defeat it somehow."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "なんとか討伐しないと"
+                                ""
                             ]
                         },
                         {
@@ -8663,8 +8663,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "戦う",
-                                    "やめておく"
+                                    "Fight",
+                                    "Let's stop"
                                 ],
                                 -2,
                                 0,
@@ -9058,21 +9058,21 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "はぁはぁ……"
+                                "Haa... Haa... That was tough... It was a\nformidable enemy."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "手強い…敵だったわ"
+                                ""
                             ]
                         },
                         {
@@ -9158,14 +9158,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "つ……強すぎる……"
+                                "T-Too strong..."
                             ]
                         },
                         {
@@ -9182,14 +9182,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\C[3]フライヤが残した謎の魔獣……その圧倒的な強さに"
+                                "Konoha, who was defeated by the overwhelmingly\npowerful mysterious beast left behind by Flya, is\nbeing restrained by the beast's tentacles."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "敗北したコノハは魔獣の触手に拘束されていく"
+                                ""
                             ]
                         },
                         {
@@ -9317,21 +9317,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[1]この魔獣は力を失っているようだ……"
+                                "\\C[1]This magical beast seems to have lost its\npower...\\C[9]♥Condition for the occurrence of\ndouble penetration on the magical beast: After\nTrine's victory, corrupted Konoha."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "\\C[9]♥魔獣両穴責め"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "発生条件：トリィーヌ勝利後、悪堕ちコノハ"
+                                ""
                             ]
                         },
                         {
@@ -9358,8 +9358,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "繁殖行為をする",
-                                    "何もしない"
+                                    "Engaging in reproductive behavior",
+                                    "Do nothing"
                                 ],
                                 -1,
                                 -1,
@@ -9574,28 +9574,28 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[9]♥魔獣トリィーヌ敗北BADEND"
+                                "\\C[9]♥ Majuu Tryne Defeat BADEND Trigger\nCondition: Tryne's defeat, normal Konoha ♥ Majuu\nDouble Hole Torture Trigger Condition: After\nTryne's victory, corrupted Konoha."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "発生条件：トリィーヌ敗北、通常コノハ"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "♥魔獣両穴責め"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "発生条件：トリィーヌ勝利後、悪堕ちコノハ"
+                                ""
                             ]
                         },
                         {

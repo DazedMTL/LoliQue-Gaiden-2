@@ -16,7 +16,7 @@
         "volume": 70
     },
     "disableDashing": false,
-    "displayName": "結界の洞窟-B1F",
+    "displayName": "Barrier Cave - B1F",
     "encounterList": [],
     "encounterStep": 30,
     "height": 30,
@@ -9469,14 +9469,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ロリモンの石像がある。しかしとても大きい力を感じる…"
+                                "There is a statue of a loli monster. However, I\nfeel a very strong power... Would you like to\ntouch it?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "触ってみますか？"
+                                ""
                             ]
                         },
                         {
@@ -9484,8 +9484,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "触る",
-                                    "やめておく"
+                                    "Touch",
+                                    "I'll pass"
                                 ],
                                 -2,
                                 -1,
@@ -9544,21 +9544,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[1]ジョロウグモ\\C[0]"
+                                "\\C[1]Jorougumo\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "……ん……"
+                                "......Mmm......Ahhhhhhh~"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "ふわぁぁぁぁ～～～～……"
+                                ""
                             ]
                         },
                         {
@@ -9575,21 +9575,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[1]ジョロウグモ\\C[0]"
+                                "\\C[1]Jorougumo\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "うーん？そなたがわしを起こしたのか……"
+                                "Hmmm? Did you wake me up? Oh... this is quite\nunusual."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "ほぉ……これはまた珍しいことじゃのう"
+                                ""
                             ]
                         },
                         {
@@ -9624,14 +9624,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "凄い魔力……を感じる！"
+                                "I feel an incredible magical power!"
                             ]
                         },
                         {
@@ -9648,21 +9648,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[1]ジョロウグモ\\C[0]"
+                                "\\C[1]Jorougumo\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ふん、無理もないわ。わしはジョロウグモ"
+                                "Hmph, it's not surprising. I am the strongest loli\nmonster in Jorougumo history."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "史上最強のロリモンであるぞ"
+                                ""
                             ]
                         },
                         {
@@ -9697,14 +9697,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "もしかして、伝説のロリモン？！"
+                                "Could it be, the legendary loli monster?!"
                             ]
                         },
                         {
@@ -9721,21 +9721,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[1]ジョロウグモ\\C[0]"
+                                "\\C[1]Jorougumo\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ククク……伝説とな……"
+                                "Hehehe... Becoming a legend... Well, perhaps too\nmuch time has passed... But that's fine too."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "まぁ時が経ちすぎたか……それもよかろう"
+                                ""
                             ]
                         },
                         {
@@ -9752,14 +9752,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[1]ジョロウグモ\\C[0]"
+                                "\\C[1]Jorougumo\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "して、そなたの名は？"
+                                "So, what is your name?"
                             ]
                         },
                         {
@@ -9794,21 +9794,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "私はコノハよ。魔法少女として、デーモン達と"
+                                "I am Konoha. As a magical girl, I fight against\ndemons..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "戦ってるのだけど……"
+                                ""
                             ]
                         },
                         {
@@ -9825,28 +9825,28 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[1]ジョロウグモ\\C[0]"
+                                "\\C[1]Jorougumo\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "なるほどな。まだデーモンは台頭しておるんじゃのう"
+                                "I see. So demons are still emerging, huh? Hmmm...\nIf you were to release this seal, I might just\nlend you a hand."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "ふむ……この封印を解いてくれたらそなたの助けに"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "なってやらんでもない"
+                                ""
                             ]
                         },
                         {
@@ -9881,21 +9881,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "その力を是非借りたいわね！"
+                                "I definitely want to borrow that power! But how do\nwe break the seal...?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "でも封印はどうやって…？"
+                                ""
                             ]
                         },
                         {
@@ -9912,21 +9912,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[1]ジョロウグモ\\C[0]"
+                                "\\C[1]Jorougumo\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "わしが封印されてしまってるのは心臓を取られて"
+                                "The reason I am sealed is because my heart was\ntaken away, causing me to lose my power."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "しまい力が失くなっているからなんじゃ"
+                                ""
                             ]
                         },
                         {
@@ -9943,14 +9943,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[1]ジョロウグモ\\C[0]"
+                                "\\C[1]Jorougumo\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「紫光の心臓」を手に入れてきてはくれんか？"
+                                "Would you bring me the Purple Light Heart?"
                             ]
                         },
                         {
@@ -9985,14 +9985,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "紫光の心臓ね。いいけど……どこにあるのかしら……？"
+                                "The Purple Light Heart, huh. Alright, but... I\nwonder where it is...?"
                             ]
                         },
                         {
@@ -10009,21 +10009,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[1]ジョロウグモ\\C[0]"
+                                "\\C[1]Jorougumo\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "どこかに「破邪の大蜘蛛」という魔獣がおる。あの力を"
+                                "There is a magical beast called the Demonic Spider\nof Destruction somewhere. I can sense its power\neven here. It must be somewhere in this world..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "ここでも感じるからの。この世界のどこかにおるぞ……"
+                                ""
                             ]
                         },
                         {
@@ -10040,14 +10040,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[1]ジョロウグモ\\C[0]"
+                                "\\C[1]Jorougumo\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ただ、どこにおるかまではわからぬ……"
+                                "However, I don't know exactly where it is..."
                             ]
                         },
                         {
@@ -10082,21 +10082,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "手がかりなしかぁ……"
+                                "There doesn't seem to be any clues... I guess I'll\nhave to search diligently."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "地道に探すしかないのかしら"
+                                ""
                             ]
                         },
                         {
@@ -10113,28 +10113,28 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[1]ジョロウグモ\\C[0]"
+                                "\\C[1]Jorougumo\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "そうじゃ、奴との戦闘時に残った血がまだわしの"
+                                "I see, the blood that was left on my costume from\nthe battle with that guy is still there. If you\nhave a \\C[2]member with a keen sense of\nsmell\\C[2], they might be able to track it."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "衣装に残っておるな。そなたの仲間に\\C[2]鼻が利く者\\C[2]がおれば"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "辿れるかもしれんの"
+                                ""
                             ]
                         },
                         {
@@ -10169,21 +10169,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "なるほどね。それじゃあ、なんとか探して"
+                                "I see. In that case, I'll do my best to search and\nbring back the heart. Wait for me, Jorougumo."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "心臓持って帰るわよ。待っててジョロウグモ"
+                                ""
                             ]
                         },
                         {
@@ -10388,7 +10388,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ジョロウグモは反応がない……"
+                                "The Jorō spider doesn't react..."
                             ]
                         },
                         {
@@ -10545,14 +10545,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "紫光の心臓、取り返してきたわよ！"
+                                "I've retrieved the Purple Light Heart!"
                             ]
                         },
                         {
@@ -10702,14 +10702,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[1]ジョロウグモ\\C[0]"
+                                "\\C[1]Jorougumo\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "わし、復ッッッッッッッ活！！！"
+                                "I'm baaaaack!!!"
                             ]
                         },
                         {
@@ -10726,21 +10726,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[1]ジョロウグモ\\C[0]"
+                                "\\C[1]Jorougumo\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "コノハよ、よくやってくれた"
+                                "Konoha, you did well to defeat that giant spider,\nI must say."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "よもやあの大蜘蛛を倒すとはのう"
+                                ""
                             ]
                         },
                         {
@@ -10775,21 +10775,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "けっこう大変だったわよ"
+                                "It was quite tough. Well then, will you become my\ncomrade?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "それじゃあ、私の仲間になってくれるわよね？"
+                                ""
                             ]
                         },
                         {
@@ -10824,21 +10824,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[1]ジョロウグモ\\C[0]"
+                                "\\C[1]Jorougumo\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "いいじゃろう！と言いたいところじゃが"
+                                "I must say, it's tempting! But I can't just\nobediently follow your every command right away."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "まだいますぐにそなたの言いなりになるのは気が済まん"
+                                ""
                             ]
                         },
                         {
@@ -10873,28 +10873,28 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[1]ジョロウグモ\\C[0]"
+                                "\\C[1]Jorougumo\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "数千年ぶりの自由なんじゃ！"
+                                "It's been thousands of years since I've been free!\nI want to have a little fun. Well, you know, you\ncan think about it until we meet again."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ちょっとは遊びたいわい。そうじゃな、次会ったら"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "考えておいてもいいぞ"
+                                ""
                             ]
                         },
                         {
@@ -10929,21 +10929,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[1]ジョロウグモ\\C[0]"
+                                "\\C[1]Jorougumo\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "コノハよ、大儀であったぞ"
+                                "Konoha, you did well. Let's meet again sometime!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "また会おうぞ！"
+                                ""
                             ]
                         },
                         {
@@ -11040,14 +11040,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ちょ……"
+                                "Hey..."
                             ]
                         },
                         {
@@ -11082,21 +11082,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "何がまた会おうぞ！よー！！！"
+                                "Let's meet again soon! Yo!!! Our promise is\nstiiiiill on!!!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "約束がちがーーーーう！！！"
+                                ""
                             ]
                         },
                         {
@@ -11131,14 +11131,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "絶対見つけるわよ……！！！"
+                                "I will definitely find it...!!!"
                             ]
                         },
                         {
@@ -11378,14 +11378,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーンロック\\C[2]「Ωオメガ」\\C[0]が掛かっているようだ"
+                                "Rune Lock \\C[2] Ω Omega \\C[0] seems to be in\nplace, it can't be opened with picking."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ピッキングでは開けられない"
+                                ""
                             ]
                         },
                         {
@@ -11401,8 +11401,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "ルーンストーンを使って解錠する",
-                                    "何もしない"
+                                    "Unlock using the rune stone",
+                                    "Do nothing"
                                 ],
                                 1,
                                 0,
@@ -12166,14 +12166,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[2]ルダリングによっておぞましい力の象徴を感じる……"
+                                "Do you feel the symbol of repulsive power through\n\\C[2] rendering... Will you fight?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "戦いますか？"
+                                ""
                             ]
                         },
                         {
@@ -12181,8 +12181,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "戦う",
-                                    "やめておく"
+                                    "Fight",
+                                    "I'll stop"
                                 ],
                                 -2,
                                 0,

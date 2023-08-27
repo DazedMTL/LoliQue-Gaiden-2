@@ -7462,7 +7462,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[1]罠探知スキルLV3\\C[0]が発動した！"
+                                "\\C[1]Trap Detection Skill Level 3\\C[0]Trap Detection Skill Level 3 has been activated!"
                             ]
                         },
                         {
@@ -7530,7 +7530,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\C[1]罠探知スキルLV2\\C[0]が発動した！"
+                                "\\C[1]Trap Detection Skill LV2\\C[0]Trap Detection Skill LV2 has been activated!"
                             ]
                         },
                         {
@@ -7563,28 +7563,28 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "あぶなっ！"
+                                "Oh no! This is a mimic, isn't it? I wonder what I\nshould do... Should I dare to open it...?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 3,
                             "parameters": [
-                                "これミミックね。どうするべきかしら…"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 3,
                             "parameters": [
-                                "敢えて開ける…？"
+                                ""
                             ]
                         },
                         {
@@ -7611,28 +7611,28 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "おっとー！"
+                                "Oops! I thought it was a nice treasure chest. That\nwas dangerous. Now, what should I do?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 3,
                             "parameters": [
-                                "いい宝箱って思ったら。危なかったわね"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 3,
                             "parameters": [
-                                "さて、どうしようかな"
+                                ""
                             ]
                         },
                         {
@@ -7650,8 +7650,8 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "もちろん開けましょう",
-                                    "やめておいたほうが無難ね"
+                                    "Of course, let's open it",
+                                    "It would be safer to stop"
                                 ],
                                 -1,
                                 -1,

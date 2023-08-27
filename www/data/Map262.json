@@ -16,7 +16,7 @@
         "volume": 80
     },
     "disableDashing": false,
-    "displayName": "廃屋",
+    "displayName": "Abandoned house",
     "encounterList": [
         {
             "regionSet": [],
@@ -5749,7 +5749,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\C[1]隠し階段\\C[0]を見つけた！"
+                                "\\C[1]Hidden Staircase\\C[0]Found the Hidden Staircase!"
                             ]
                         },
                         {
@@ -5794,21 +5794,21 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "うーん…誰かが\\C[1]調査スキルLV1\\C[0]を習得してれば"
+                                "Hmm... If someone had learned \\C[1]Investigation\nSkill Level 1\\C[0], they might be able to figure\nsomething out..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 4,
                             "parameters": [
-                                "何かがわかりそうね…"
+                                ""
                             ]
                         },
                         {
@@ -5835,14 +5835,14 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\C[1]調査スキルLV1\\C[0]誰か持ってないのかしら？"
+                                "I wonder if someone has \\C[1]Investigation Skill\nLevel 1\\C[0]..."
                             ]
                         },
                         {

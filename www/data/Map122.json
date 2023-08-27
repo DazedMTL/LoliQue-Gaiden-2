@@ -16,7 +16,7 @@
         "volume": 80
     },
     "disableDashing": false,
-    "displayName": "宿屋：ホーリーライト",
+    "displayName": "Inn: Holy Light",
     "encounterList": [],
     "encounterStep": 30,
     "height": 30,
@@ -9756,14 +9756,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "そういうのは部屋だけでやってくれませんか"
+                                "Please do that kind of thing only in your room.\nOther customers might be surprised."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "他のお客様がびっくりされるので"
+                                ""
                             ]
                         },
                         {
@@ -9799,7 +9799,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "空いてるお部屋のお好きなところをお使いください"
+                                "Please feel free to use any available room."
                             ]
                         },
                         {
@@ -9826,21 +9826,21 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "いらっしゃいませ。\\c[1]宿屋ホーリーライト\\c[0]にようこそ"
+                                "Welcome. Would you like to stay at the Holy Light\nInn for 1500 Lo per night?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "一晩1500Loになります"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "ご利用になられますか？"
+                                ""
                             ]
                         },
                         {
@@ -9848,8 +9848,8 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -9906,21 +9906,21 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "ありがとうございます"
+                                "Thank you very much. Please feel free to use any\navailable room and take your time..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 4,
                             "parameters": [
-                                "空いているお部屋をご自由にお使いください"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 4,
                             "parameters": [
-                                "ごゆっくりと…"
+                                ""
                             ]
                         },
                         {
@@ -9947,7 +9947,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "所持金が足らないようですじゃ…"
+                                "It seems like you don't have enough money..."
                             ]
                         },
                         {
@@ -10272,14 +10272,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "うわぁ！"
+                                "Wow! A naked girl entered the room!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "裸の女の子が部屋に入ってきた！"
+                                ""
                             ]
                         },
                         {
@@ -10306,14 +10306,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "外は魔獣にバンディット、ダンジョンに入ればデーモンもいる"
+                                "You can't go on a proper adventure outside with\nmonsters and bandits, and even in the dungeon\nthere are demons."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "まともに冒険なんてできないよ"
+                                ""
                             ]
                         },
                         {
@@ -10475,14 +10475,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ちょっとちょっと、部屋間違ってるわよ！"
+                                "Wait, wait, you're in the wrong room! Take off\nyour clothes in your own room, okay?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "自分の部屋で脱いでよね"
+                                ""
                             ]
                         },
                         {
@@ -10509,21 +10509,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "魔法少女なんて対デーモンに使われるだけのただの兵器…"
+                                "Calling magical girls mere weapons used by\ndemons... Well, it's a bit harsh to say that, but\nit's true that they can't resist them with any\nother power."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "って言うと言い方悪いけど、それくらい他の力ではやつらに"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "対抗できないのよね"
+                                ""
                             ]
                         },
                         {
@@ -10540,21 +10540,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "この世界が辛すぎてドロップアウトする魔法少女も多いみたい"
+                                "It seems that there are many magical girls in this\nworld who find it too difficult and end up\ndropping out. Well, it's not surprising, they have\nto continue fighting those terrifying demons."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "まぁ無理もないわね、あの恐ろしいデーモンと戦い続けなくちゃ"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "いけないんですもの"
+                                ""
                             ]
                         },
                         {

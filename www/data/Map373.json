@@ -2895,12 +2895,12 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "【雑魚一掃作戦】if(!s[1041])",
-                                    "【洞窟を安全に】if(v[841]>=1)",
-                                    "【海岸をパトロール】if(v[841]>=2)",
-                                    "【牛喰い蛇】if(v[841]>=3)",
-                                    "【エッチなスライム】if(v[841]>=4)",
-                                    "【雑魚一掃作戦（もう一回）】if(v[841]>=5)"
+                                    "[Operation Annihilate the Small Fry]if(!s[1041])",
+                                    "[Safely in the cave]if(v[841]>=1)",
+                                    "[Patrolling the coast]if(v[841]>=2)",
+                                    "【Ushikuihebi】if(v[841]>=3)",
+                                    "【Naughty Slime】if(v[841]>=4)",
+                                    "[Trash Sweeping Operation (One More Time)]if(v[841]>=5)"
                                 ],
                                 -2,
                                 0,
@@ -3186,8 +3186,8 @@
                             "indent": 3,
                             "parameters": [
                                 [
-                                    "受注する",
-                                    "しない"
+                                    "Accept the order",
+                                    "Don't do it"
                                 ],
                                 1,
                                 0,
@@ -3512,8 +3512,8 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "受注する",
-                                    "しない"
+                                    "Accept the order",
+                                    "Don't do it"
                                 ],
                                 1,
                                 0,
@@ -3835,8 +3835,8 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "受注する",
-                                    "しない"
+                                    "Accept the order",
+                                    "Don't do it"
                                 ],
                                 1,
                                 0,
@@ -4151,8 +4151,8 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "受注する",
-                                    "しない"
+                                    "Accept the order",
+                                    "Don't do it"
                                 ],
                                 1,
                                 0,
@@ -4445,8 +4445,8 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "受注する",
-                                    "しない"
+                                    "Accept the order",
+                                    "Don't do it"
                                 ],
                                 1,
                                 0,
@@ -4732,8 +4732,8 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "受注する",
-                                    "しない"
+                                    "Accept the order",
+                                    "Don't do it"
                                 ],
                                 1,
                                 0,
@@ -5087,11 +5087,11 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "【食虫植物の駆除】",
-                                    "【石化系魔獣】if(v[844]>=1)",
-                                    "【魚釣りどころじゃない】if(v[844]>=2)",
-                                    "【ミミックですらない】if(v[844]>=3)",
-                                    "【祠のお掃除】if(v[844]>=4)"
+                                    "[Extermination of Carnivorous Plants]",
+                                    "[Petrification-type Magical Beast]if(v[844]>=1)",
+                                    "Not the time for fishingif(v[844]>=2)",
+                                    "【Not even a mimic】if(v[844]>=3)",
+                                    "[Shrine Cleaning]if(v[844]>=4)"
                                 ],
                                 -2,
                                 0,
@@ -5278,8 +5278,8 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "受注する",
-                                    "しない"
+                                    "Accept the order",
+                                    "Don't do it"
                                 ],
                                 1,
                                 0,
@@ -5615,8 +5615,8 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "受注する",
-                                    "しない"
+                                    "Accept the order",
+                                    "Don't do it"
                                 ],
                                 1,
                                 0,
@@ -5959,8 +5959,8 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "受注する",
-                                    "しない"
+                                    "Accept the order",
+                                    "Don't do it"
                                 ],
                                 1,
                                 0,
@@ -6303,8 +6303,8 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "受注する",
-                                    "しない"
+                                    "Accept the order",
+                                    "Don't do it"
                                 ],
                                 1,
                                 0,
@@ -6647,8 +6647,8 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "受注する",
-                                    "しない"
+                                    "Accept the order",
+                                    "Don't do it"
                                 ],
                                 1,
                                 0,
@@ -6821,11 +6821,11 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "【定期的な魔獣討伐】if(v[844]>=5)",
-                                    "【タイタンを倒せ】if(v[844]>=6)",
-                                    "【遺跡に潜む黒い影】if(v[844]>=7)",
-                                    "【安全な墓参りの為に】if(v[844]>=8)",
-                                    "【猫の魔獣と骸骨戦士】if(v[844]>=9)"
+                                    "Regular Monster Huntingif(v[844]>=5)",
+                                    "Defeat the Titanif(v[844]>=6)",
+                                    "[Dark Shadows Lurking in the Ruins]if(v[844]>=7)",
+                                    "【For a Safe Grave Visit】if(v[844]>=8)",
+                                    "[Cat Beast and Skeleton Warrior]if(v[844]>=9)"
                                 ],
                                 -2,
                                 -1,
@@ -7019,8 +7019,8 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "受注する",
-                                    "しない"
+                                    "Accept the order",
+                                    "Don't do it"
                                 ],
                                 1,
                                 0,
@@ -7349,8 +7349,8 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "受注する",
-                                    "しない"
+                                    "Accept the order",
+                                    "Don't do it"
                                 ],
                                 1,
                                 0,
@@ -7664,8 +7664,8 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "受注する",
-                                    "しない"
+                                    "Accept the order",
+                                    "Don't do it"
                                 ],
                                 1,
                                 0,
@@ -8008,8 +8008,8 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "受注する",
-                                    "しない"
+                                    "Accept the order",
+                                    "Don't do it"
                                 ],
                                 1,
                                 0,
@@ -8345,8 +8345,8 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "受注する",
-                                    "しない"
+                                    "Accept the order",
+                                    "Don't do it"
                                 ],
                                 1,
                                 0,
@@ -8700,11 +8700,11 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "【歪んだ紅き血族達】",
-                                    "【歪んだ紅き血族達２】if(v[847]>=1)",
-                                    "【頭のおかしいやべぇやつ】if(v[847]>=2)",
-                                    "【井戸をキレイに】if(v[847]>=3)",
-                                    "【ヤリ過ぎ注意】if(v[847]>=4)"
+                                    "【Distorted Crimson Bloodline】",
+                                    "Distorted Crimson Bloodline 2if(v[847]>=1)",
+                                    "【Crazy pervert】if(v[847]>=2)",
+                                    "[Cleaning the Well]if(v[847]>=3)",
+                                    "[Caution: Excessive Sexual Content]if(v[847]>=4)"
                                 ],
                                 -2,
                                 0,
@@ -8898,8 +8898,8 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "受注する",
-                                    "しない"
+                                    "Accept the order",
+                                    "Don't do it"
                                 ],
                                 1,
                                 0,
@@ -9235,8 +9235,8 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "受注する",
-                                    "しない"
+                                    "Accept the order",
+                                    "Don't do it"
                                 ],
                                 1,
                                 0,
@@ -9572,8 +9572,8 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "受注する",
-                                    "しない"
+                                    "Accept the order",
+                                    "Don't do it"
                                 ],
                                 1,
                                 0,
@@ -9895,8 +9895,8 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "受注する",
-                                    "しない"
+                                    "Accept the order",
+                                    "Don't do it"
                                 ],
                                 1,
                                 0,
@@ -10203,8 +10203,8 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "受注する",
-                                    "しない"
+                                    "Accept the order",
+                                    "Don't do it"
                                 ],
                                 1,
                                 0,
@@ -10494,8 +10494,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "現在のクエストを破棄する",
-                                    "何もしない"
+                                    "Abandon the current quest",
+                                    "Doing nothing"
                                 ],
                                 -2,
                                 -1,
@@ -10834,11 +10834,11 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "【野盗どもを追い払え】",
-                                    "【ならず者を成敗せよ】if(v[842]>=1)",
-                                    "【あらくれ者を倒せ】if(v[842]>=2)",
-                                    "【遺跡を荒らす者】if(v[842]>=3)",
-                                    "【妖精村に屯する輩】if(v[842]>=4)"
+                                    "[Drive Away the Bandits]",
+                                    "Punish the Outlawsif(v[842]>=1)",
+                                    "Defeat the Troublemakerif(v[842]>=2)",
+                                    "[The One Who Desecrates Ruins]if(v[842]>=3)",
+                                    "[Those Who Dwell in the Fairy Village]if(v[842]>=4)"
                                 ],
                                 -2,
                                 0,
@@ -11011,8 +11011,8 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "受注する",
-                                    "しない"
+                                    "Accept the order",
+                                    "Don't do it"
                                 ],
                                 1,
                                 0,
@@ -11327,8 +11327,8 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "受注する",
-                                    "しない"
+                                    "Accept the order",
+                                    "Don't do it"
                                 ],
                                 1,
                                 0,
@@ -11650,8 +11650,8 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "受注する",
-                                    "しない"
+                                    "Accept the order",
+                                    "Don't do it"
                                 ],
                                 1,
                                 0,
@@ -11980,8 +11980,8 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "受注する",
-                                    "しない"
+                                    "Accept the order",
+                                    "Don't do it"
                                 ],
                                 1,
                                 0,
@@ -12310,8 +12310,8 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "受注する",
-                                    "しない"
+                                    "Accept the order",
+                                    "Don't do it"
                                 ],
                                 1,
                                 0,
@@ -12665,11 +12665,11 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "【変態死すべし】",
-                                    "【ぽこちん切断だね】if(v[845]>=1)",
-                                    "【湖畔に屯する輩】if(v[845]>=2)",
-                                    "【喧嘩上等】if(v[845]>=3)",
-                                    "【アジトの敵を減らす作戦】if(v[845]>=4)"
+                                    "Perish, you perverted scum",
+                                    "Pussy cock disconnection, huh?if(v[845]>=1)",
+                                    "【Those Who Gather by the Lakeside】if(v[845]>=2)",
+                                    "【All-Out Brawl】if(v[845]>=3)",
+                                    "Operation to Reduce Enemies in the Hideoutif(v[845]>=4)"
                                 ],
                                 -2,
                                 0,
@@ -12863,8 +12863,8 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "受注する",
-                                    "しない"
+                                    "Accept the order",
+                                    "Don't do it"
                                 ],
                                 1,
                                 0,
@@ -13200,8 +13200,8 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "受注する",
-                                    "しない"
+                                    "Accept the order",
+                                    "Don't do it"
                                 ],
                                 1,
                                 0,
@@ -13537,8 +13537,8 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "受注する",
-                                    "しない"
+                                    "Accept the order",
+                                    "Don't do it"
                                 ],
                                 1,
                                 0,
@@ -13867,8 +13867,8 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "受注する",
-                                    "しない"
+                                    "Accept the order",
+                                    "Don't do it"
                                 ],
                                 1,
                                 0,
@@ -14175,8 +14175,8 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "受注する",
-                                    "しない"
+                                    "Accept the order",
+                                    "Don't do it"
                                 ],
                                 1,
                                 0,
@@ -14349,11 +14349,11 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "【包帯を返せ】if(v[845]>=5)",
-                                    "【巨根すぎる男】if(v[845]>=6)",
-                                    "【レイプ被害撲滅運動】if(v[845]>=7)",
-                                    "【魔獣か？バンディットか？】if(v[845]>=8)",
-                                    "【墓荒らしの討伐】if(v[845]>=9)"
+                                    "Give back the bandagesif(v[845]>=5)",
+                                    "[Well-Endowed Man]if(v[845]>=6)",
+                                    "Anti-Rape Campaignif(v[845]>=7)",
+                                    "[A magical beast? Or a bandit?]if(v[845]>=8)",
+                                    "[Tomb Raider Extermination]if(v[845]>=9)"
                                 ],
                                 -2,
                                 -1,
@@ -14554,8 +14554,8 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "受注する",
-                                    "しない"
+                                    "Accept the order",
+                                    "Don't do it"
                                 ],
                                 1,
                                 0,
@@ -14905,8 +14905,8 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "受注する",
-                                    "しない"
+                                    "Accept the order",
+                                    "Don't do it"
                                 ],
                                 1,
                                 0,
@@ -15249,8 +15249,8 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "受注する",
-                                    "しない"
+                                    "Accept the order",
+                                    "Don't do it"
                                 ],
                                 1,
                                 0,
@@ -15579,8 +15579,8 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "受注する",
-                                    "しない"
+                                    "Accept the order",
+                                    "Don't do it"
                                 ],
                                 1,
                                 0,
@@ -15894,8 +15894,8 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "受注する",
-                                    "しない"
+                                    "Accept the order",
+                                    "Don't do it"
                                 ],
                                 1,
                                 0,
@@ -16249,11 +16249,11 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "【最強の砦の敵を減らす作戦】",
-                                    "【最強の砦の敵を減らす作戦２】if(v[848]>=1)",
-                                    "【雪山に潜む闇】if(v[848]>=2)",
-                                    "【弱者を捕食する者】if(v[848]>=3)",
-                                    "【デーモンを減らして】if(v[848]>=4)"
+                                    "[Strategy to Reduce Enemies of the Strongest Fortress]",
+                                    "[Strategy to Reduce Enemies in the Strongest Fortress 2]if(v[848]>=1)",
+                                    "Darkness Lurking in the Snowy Mountainsif(v[848]>=2)",
+                                    "[Predator of the Weak]if(v[848]>=3)",
+                                    "[Reducing the Demons]if(v[848]>=4)"
                                 ],
                                 -2,
                                 0,
@@ -16447,8 +16447,8 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "受注する",
-                                    "しない"
+                                    "Accept the order",
+                                    "Don't do it"
                                 ],
                                 1,
                                 0,
@@ -16777,8 +16777,8 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "受注する",
-                                    "しない"
+                                    "Accept the order",
+                                    "Don't do it"
                                 ],
                                 1,
                                 0,
@@ -17121,8 +17121,8 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "受注する",
-                                    "しない"
+                                    "Accept the order",
+                                    "Don't do it"
                                 ],
                                 1,
                                 0,
@@ -17458,8 +17458,8 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "受注する",
-                                    "しない"
+                                    "Accept the order",
+                                    "Don't do it"
                                 ],
                                 1,
                                 0,
@@ -17795,8 +17795,8 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "受注する",
-                                    "しない"
+                                    "Accept the order",
+                                    "Don't do it"
                                 ],
                                 1,
                                 0,
@@ -18086,8 +18086,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "現在のクエストを破棄する",
-                                    "何もしない"
+                                    "Abandon the current quest",
+                                    "Doing nothing"
                                 ],
                                 -2,
                                 -1,
@@ -18409,11 +18409,11 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "【結界を狙う者達】",
-                                    "【結界を狙う者達2】if(v[843]>=1)",
-                                    "【遺跡に巣食う闇】if(v[843]>=2)",
-                                    "【聖なる宮殿の危機】if(v[843]>=3)",
-                                    "【危険因子】if(v[843]>=4)"
+                                    "Those Who Aim for the Barrier",
+                                    "[Those Who Aim for the Barrier 2]if(v[843]>=1)",
+                                    "Darkness Nesting in the Ruinsif(v[843]>=2)",
+                                    "Crisis of the Sacred Palaceif(v[843]>=3)",
+                                    "【Danger Factor】if(v[843]>=4)"
                                 ],
                                 -2,
                                 0,
@@ -18593,8 +18593,8 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "受注する",
-                                    "しない"
+                                    "Accept the order",
+                                    "Don't do it"
                                 ],
                                 1,
                                 0,
@@ -18916,8 +18916,8 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "受注する",
-                                    "しない"
+                                    "Accept the order",
+                                    "Don't do it"
                                 ],
                                 1,
                                 0,
@@ -19239,8 +19239,8 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "受注する",
-                                    "しない"
+                                    "Accept the order",
+                                    "Don't do it"
                                 ],
                                 1,
                                 0,
@@ -19562,8 +19562,8 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "受注する",
-                                    "しない"
+                                    "Accept the order",
+                                    "Don't do it"
                                 ],
                                 1,
                                 0,
@@ -19878,8 +19878,8 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "受注する",
-                                    "しない"
+                                    "Accept the order",
+                                    "Don't do it"
                                 ],
                                 1,
                                 0,
@@ -20211,11 +20211,11 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "【遺跡を徘徊する闇】",
-                                    "【遺跡を徘徊する闇２】if(v[846]>=1)",
-                                    "【洞窟の安全の為に】if(v[846]>=2)",
-                                    "【やられたらやり返す】if(v[846]>=3)",
-                                    "【居場所を返して】if(v[846]>=4)"
+                                    "Darkness Roaming the Ruins",
+                                    "[Darkness Roaming the Ruins 2]if(v[846]>=1)",
+                                    "【For the safety of the cave】if(v[846]>=2)",
+                                    "Tit for Tatif(v[846]>=3)",
+                                    "Give me back my placeif(v[846]>=4)"
                                 ],
                                 -2,
                                 0,
@@ -20409,8 +20409,8 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "受注する",
-                                    "しない"
+                                    "Accept the order",
+                                    "Don't do it"
                                 ],
                                 1,
                                 0,
@@ -20732,8 +20732,8 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "受注する",
-                                    "しない"
+                                    "Accept the order",
+                                    "Don't do it"
                                 ],
                                 1,
                                 0,
@@ -21040,8 +21040,8 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "受注する",
-                                    "しない"
+                                    "Accept the order",
+                                    "Don't do it"
                                 ],
                                 1,
                                 0,
@@ -21377,8 +21377,8 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "受注する",
-                                    "しない"
+                                    "Accept the order",
+                                    "Don't do it"
                                 ],
                                 1,
                                 0,
@@ -21714,8 +21714,8 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "受注する",
-                                    "しない"
+                                    "Accept the order",
+                                    "Don't do it"
                                 ],
                                 1,
                                 0,
@@ -21888,11 +21888,11 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "【洞窟に忍び寄る闇】if(v[846]>=5)",
-                                    "【墓に潜む者】if(v[846]>=6)",
-                                    "【もっと頑張ろう】if(v[846]>=7)",
-                                    "【怖すぎるデーモン達】if(v[846]>=8)",
-                                    "【遺跡の闇を祓え】if(v[846]>=9)"
+                                    "Darkness Creeping in the Caveif(v[846]>=5)",
+                                    "【The One Lurking in the Grave】if(v[846]>=6)",
+                                    "Let's work harderif(v[846]>=7)",
+                                    "【Terrifying Demons】if(v[846]>=8)",
+                                    "[Purify the Darkness of the Ruins]if(v[846]>=9)"
                                 ],
                                 -2,
                                 -1,
@@ -22086,8 +22086,8 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "受注する",
-                                    "しない"
+                                    "Accept the order",
+                                    "Don't do it"
                                 ],
                                 1,
                                 0,
@@ -22423,8 +22423,8 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "受注する",
-                                    "しない"
+                                    "Accept the order",
+                                    "Don't do it"
                                 ],
                                 1,
                                 0,
@@ -22767,8 +22767,8 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "受注する",
-                                    "しない"
+                                    "Accept the order",
+                                    "Don't do it"
                                 ],
                                 1,
                                 0,
@@ -23111,8 +23111,8 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "受注する",
-                                    "しない"
+                                    "Accept the order",
+                                    "Don't do it"
                                 ],
                                 1,
                                 0,
@@ -23448,8 +23448,8 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "受注する",
-                                    "しない"
+                                    "Accept the order",
+                                    "Don't do it"
                                 ],
                                 1,
                                 0,
@@ -23781,11 +23781,11 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "【強敵デーモン討伐】",
-                                    "【強敵デーモン討伐２】if(v[849]>=1)",
-                                    "【祠を踏みにじる者】if(v[849]>=2)",
-                                    "【穢された紅き血族】if(v[849]>=3)",
-                                    "【祠の平和を守る】if(v[849]>=4)"
+                                    "[Defeating a Strong Demon]",
+                                    "[Defeating Strong Demon 2]if(v[849]>=1)",
+                                    "[Desecrator of the Shrine]if(v[849]>=2)",
+                                    "【Tainted Crimson Bloodline】if(v[849]>=3)",
+                                    "[Protecting the Shrine's Peace]if(v[849]>=4)"
                                 ],
                                 -2,
                                 0,
@@ -23979,8 +23979,8 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "受注する",
-                                    "しない"
+                                    "Accept the order",
+                                    "Don't do it"
                                 ],
                                 1,
                                 0,
@@ -24323,8 +24323,8 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "受注する",
-                                    "しない"
+                                    "Accept the order",
+                                    "Don't do it"
                                 ],
                                 1,
                                 0,
@@ -24660,8 +24660,8 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "受注する",
-                                    "しない"
+                                    "Accept the order",
+                                    "Don't do it"
                                 ],
                                 1,
                                 0,
@@ -25011,8 +25011,8 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "受注する",
-                                    "しない"
+                                    "Accept the order",
+                                    "Don't do it"
                                 ],
                                 1,
                                 0,
@@ -25355,8 +25355,8 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "受注する",
-                                    "しない"
+                                    "Accept the order",
+                                    "Don't do it"
                                 ],
                                 1,
                                 0,
@@ -25624,8 +25624,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "現在のクエストを破棄する",
-                                    "何もしない"
+                                    "Abandon the current quest",
+                                    "Doing nothing"
                                 ],
                                 -2,
                                 -1,
@@ -25948,10 +25948,10 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "バレッタいつものif(v[1504]===10)",
-                                    "謎のデーモンを倒せif(v[1508]===10)",
-                                    "醜悪！ダートルを倒せif(v[1511]>=10)",
-                                    "やめる"
+                                    "Baretta as usualif(v[1504]===10)",
+                                    "Defeat the mysterious demonif(v[1508]===10)",
+                                    "Disgusting! Defeat Dartleif(v[1511]>=10)",
+                                    "Stop"
                                 ],
                                 -2,
                                 -1,
@@ -26089,8 +26089,8 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "受注する",
-                                    "しない"
+                                    "Accept the order",
+                                    "Don't do it"
                                 ],
                                 1,
                                 0,
@@ -26215,7 +26215,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "\\C[2]現在受注中です"
+                                "\\C[2] is currently accepting orders."
                             ]
                         },
                         {
@@ -26223,8 +26223,8 @@
                             "indent": 5,
                             "parameters": [
                                 [
-                                    "現在のクエストを破棄する",
-                                    "何もしない"
+                                    "Abandon the current quest",
+                                    "Doing nothing"
                                 ],
                                 -2,
                                 -1,
@@ -26530,8 +26530,8 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "受注する",
-                                    "しない"
+                                    "Accepting orders",
+                                    "Not doing it"
                                 ],
                                 1,
                                 0,
@@ -26572,7 +26572,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\C[2]現在受注中です"
+                                "\\C[2] is currently accepting orders."
                             ]
                         },
                         {
@@ -26580,8 +26580,8 @@
                             "indent": 4,
                             "parameters": [
                                 [
-                                    "現在のクエストを破棄する",
-                                    "何もしない"
+                                    "Discard the current quest",
+                                    "Do nothing"
                                 ],
                                 -2,
                                 -1,
@@ -26939,7 +26939,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\C[2]このクエストは完了しました"
+                                "This quest has been completed."
                             ]
                         },
                         {
@@ -27068,7 +27068,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "\\C[2]現在受注中です"
+                                "\\C[2] is currently accepting orders."
                             ]
                         },
                         {
@@ -27076,8 +27076,8 @@
                             "indent": 5,
                             "parameters": [
                                 [
-                                    "現在のクエストを破棄する",
-                                    "何もしない"
+                                    "Abandon the current quest",
+                                    "Do nothing"
                                 ],
                                 -2,
                                 -1,
@@ -27180,8 +27180,8 @@
                             "indent": 5,
                             "parameters": [
                                 [
-                                    "受注する",
-                                    "しない"
+                                    "Accepting orders",
+                                    "Don't do it"
                                 ],
                                 1,
                                 0,
@@ -27565,10 +27565,10 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "バレッタ救出２if(v[1507]===10)",
-                                    "謎のデーモンを倒せ３if(v[1509]===10)",
-                                    "最凶！恐怖のヤーグルif(v[1513]>=10)",
-                                    "やめる"
+                                    "Baretta Rescue 2if(v[1507]===10)",
+                                    "Defeat the Mysterious Demon 3if(v[1509]===10)",
+                                    "Most Evil! Terrifying Yaguruif(v[1513]>=10)",
+                                    "Stop"
                                 ],
                                 -2,
                                 -1,
@@ -27699,8 +27699,8 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "受注する",
-                                    "しない"
+                                    "Accept the order",
+                                    "Don't do it"
                                 ],
                                 1,
                                 0,
@@ -27909,7 +27909,7 @@
                             "code": 401,
                             "indent": 6,
                             "parameters": [
-                                "\\C[2]現在受注中です"
+                                "\\C[2] is currently accepting orders."
                             ]
                         },
                         {
@@ -27917,8 +27917,8 @@
                             "indent": 6,
                             "parameters": [
                                 [
-                                    "現在のクエストを破棄する",
-                                    "何もしない"
+                                    "Abandon the current quest",
+                                    "Doing nothing"
                                 ],
                                 -2,
                                 -1,
@@ -28234,8 +28234,8 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "受注する",
-                                    "しない"
+                                    "Accepting orders",
+                                    "Not doing it"
                                 ],
                                 1,
                                 0,
@@ -28276,7 +28276,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\C[2]現在受注中です"
+                                "\\C[2] is currently accepting orders."
                             ]
                         },
                         {
@@ -28284,8 +28284,8 @@
                             "indent": 4,
                             "parameters": [
                                 [
-                                    "現在のクエストを破棄する",
-                                    "何もしない"
+                                    "Abandon the current quest",
+                                    "Do nothing"
                                 ],
                                 -2,
                                 -1,
@@ -28643,7 +28643,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\C[2]このクエストは完了しました"
+                                "This quest has been completed."
                             ]
                         },
                         {
@@ -28734,7 +28734,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "\\C[2]現在受注中です"
+                                "\\C[2] is currently accepting orders."
                             ]
                         },
                         {
@@ -28742,8 +28742,8 @@
                             "indent": 5,
                             "parameters": [
                                 [
-                                    "現在のクエストを破棄する",
-                                    "何もしない"
+                                    "Abandon the current quest",
+                                    "Do nothing"
                                 ],
                                 -2,
                                 -1,
@@ -28849,8 +28849,8 @@
                             "indent": 4,
                             "parameters": [
                                 [
-                                    "受注する",
-                                    "しない"
+                                    "Accepting orders",
+                                    "Don't do it"
                                 ],
                                 1,
                                 0,
@@ -29224,11 +29224,11 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "メラーサを助けようif(v[1505]===10)",
-                                    "囚われのエイミif(v[1506]===10)",
-                                    "謎のデーモンを倒せ２if(v[1509]===10)",
-                                    "卑怯！ドングー戦if(v[1512]>=10)",
-                                    "やめる"
+                                    "Let's help Melarsaif(v[1505]===10)",
+                                    "Captive Amyif(v[1506]===10)",
+                                    "Defeat the Mysterious Demon 2if(v[1509]===10)",
+                                    "Cowardly! Dongu Battleif(v[1512]>=10)",
+                                    "Stop"
                                 ],
                                 -2,
                                 -1,
@@ -29359,8 +29359,8 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "受注する",
-                                    "しない"
+                                    "Accept the order",
+                                    "Don't do it"
                                 ],
                                 1,
                                 0,
@@ -29525,7 +29525,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "\\C[2]現在受注中です"
+                                "\\C[2] is currently accepting orders."
                             ]
                         },
                         {
@@ -29533,8 +29533,8 @@
                             "indent": 5,
                             "parameters": [
                                 [
-                                    "現在のクエストを破棄する",
-                                    "何もしない"
+                                    "Abandon the current quest",
+                                    "Doing nothing"
                                 ],
                                 -2,
                                 -1,
@@ -29725,8 +29725,8 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "囚われのエイミif(v[1506]===10)",
-                                    "やめる"
+                                    "Captive Amyif(v[1506]===10)",
+                                    "Stop"
                                 ],
                                 -2,
                                 -1,
@@ -29857,8 +29857,8 @@
                             "indent": 3,
                             "parameters": [
                                 [
-                                    "受注する",
-                                    "しない"
+                                    "Accepting orders",
+                                    "Not doing it"
                                 ],
                                 1,
                                 0,
@@ -30011,7 +30011,7 @@
                             "code": 401,
                             "indent": 6,
                             "parameters": [
-                                "\\C[2]現在受注中です"
+                                "\\C[2] is currently accepting orders."
                             ]
                         },
                         {
@@ -30019,8 +30019,8 @@
                             "indent": 6,
                             "parameters": [
                                 [
-                                    "現在のクエストを破棄する",
-                                    "何もしない"
+                                    "Abandon the current quest",
+                                    "Do nothing"
                                 ],
                                 -2,
                                 -1,
@@ -30362,8 +30362,8 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "受注する",
-                                    "しない"
+                                    "Accepting orders",
+                                    "Don't do it"
                                 ],
                                 1,
                                 0,
@@ -30404,7 +30404,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\C[2]現在受注中です"
+                                "\\C[2] is currently accepting orders."
                             ]
                         },
                         {
@@ -30412,8 +30412,8 @@
                             "indent": 4,
                             "parameters": [
                                 [
-                                    "現在のクエストを破棄する",
-                                    "何もしない"
+                                    "Discard the current quest",
+                                    "Do nothing"
                                 ],
                                 -2,
                                 -1,
@@ -30771,7 +30771,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\C[2]このクエストは完了しました"
+                                "This quest has been completed."
                             ]
                         },
                         {
@@ -30862,7 +30862,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "\\C[2]現在受注中です"
+                                "\\C[2] is currently accepting orders."
                             ]
                         },
                         {
@@ -30870,8 +30870,8 @@
                             "indent": 5,
                             "parameters": [
                                 [
-                                    "現在のクエストを破棄する",
-                                    "何もしない"
+                                    "Abandon the current quest",
+                                    "Do nothing"
                                 ],
                                 -2,
                                 -1,
@@ -30977,8 +30977,8 @@
                             "indent": 4,
                             "parameters": [
                                 [
-                                    "受注する",
-                                    "しない"
+                                    "Accepting orders",
+                                    "Don't do it"
                                 ],
                                 1,
                                 0,
@@ -31250,21 +31250,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>\\C[2]討伐クエストのランクを切り替えます。"
+                                "I will switch the rank of the extermination quest.\nThere are ranks 1 to 3, and by clearing all the\nquests of that rank, you can switch to the next\nrank."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "\\>ランク１～３まであり、そのランクの全てのクエストを"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "\\>クリアすると次のランクに切り替えることができます"
+                                ""
                             ]
                         },
                         {
@@ -31500,10 +31500,10 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "ランク１にする",
-                                    "ランク２にするen(s[822])",
-                                    "ランク３にするen(s[821])",
-                                    "切り替えない"
+                                    "Set to Rank 1",
+                                    "Switch to Rank 2en(s[822])",
+                                    "Set it to Rank 3en(s[821])",
+                                    "Not switching"
                                 ],
                                 -2,
                                 -1,
@@ -31563,7 +31563,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[2]討伐クエストをランク１にしました"
+                                "Changed the extermination quest to Rank 1."
                             ]
                         },
                         {
@@ -31623,7 +31623,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[2]討伐クエストをランク２にしました"
+                                "Changed the extermination quest to Rank 2."
                             ]
                         },
                         {
@@ -31683,7 +31683,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[2]討伐クエストをランク３にしました"
+                                "Changed the extermination quest to Rank 3."
                             ]
                         },
                         {

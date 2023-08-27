@@ -16,7 +16,7 @@
         "volume": 100
     },
     "disableDashing": false,
-    "displayName": "パエリス湖「アロングの家」",
+    "displayName": "Paelis Lake \"Along's House",
     "encounterList": [
         {
             "regionSet": [],
@@ -18331,7 +18331,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[2]【アロングの家】\\c[0]をポータルに記録しました"
+                                "\\c[2][Along's House]\\c[0]Recorded in the portal."
                             ]
                         },
                         {
@@ -18684,21 +18684,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ポムリンが言ってた滝ってここのことよね"
+                                "The waterfall that Pomurin was talking about, is\nit this one? Ah... there's a path behind the\nwaterfall!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "あぁ…滝裏に道が！"
+                                ""
                             ]
                         },
                         {
@@ -18746,14 +18746,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "何か怪しいわね…？"
+                                "Something seems suspicious...?"
                             ]
                         },
                         {
@@ -18835,7 +18835,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\C[1]調査スキル\\C[0]で新しい道を発見した！"
+                                "\\C[1]Investigation Skill\\C[0]I discovered a new path!"
                             ]
                         },
                         {
@@ -18883,14 +18883,14 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "うーん…誰かが\\C[1]調査スキルLV1\\C[0]を覚えていれば…"
+                                "Hmm... If only someone had learned\n\\C[1]Investigation Skill LV1\\C[0]..."
                             ]
                         },
                         {
@@ -19366,14 +19366,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[2]このネストストーンを魔力で制御できるようになった"
+                                "\\C[2]The enemies in the vicinity became docile\nafter being able to control this Nest Stone with\nmagic\\C[1]!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "\\C[1]付近の敵がおとなしくなった！"
+                                ""
                             ]
                         },
                         {
@@ -19545,14 +19545,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[2]ネストストーンの制御を解除しますか？"
+                                "Do you want to release the control of the Nest\nStone? If you release it, nearby enemies will\nattack."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "\\C[3]解除すると、付近の敵が襲ってきます"
+                                ""
                             ]
                         },
                         {
@@ -19560,8 +19560,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "解除する",
-                                    "解除しない"
+                                    "Release",
+                                    "Don't release it"
                                 ],
                                 -1,
                                 -1,
@@ -19608,7 +19608,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[2]ネストストーンの制御を解除した！"
+                                "Released the control of the Nest Stone!"
                             ]
                         },
                         {
@@ -19773,14 +19773,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[2]このネストストーンを魔力で制御した！"
+                                "\\C[2]I controlled this Nest Stone with magic!\n\\C[1]The nearby enemies became docile!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "\\C[1]付近の敵がおとなしくなった！"
+                                ""
                             ]
                         },
                         {

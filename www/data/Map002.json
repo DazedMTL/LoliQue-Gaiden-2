@@ -2204,14 +2204,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[2]「魔法少女コノハ-LOLIQUE2GAIDEN-」体験版をDLして"
+                                "Thank you for downloading the trial version of\nMagical Girl Konoha -LOLIQUE2GAIDEN-."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "いただき、ありがとうございます。"
+                                ""
                             ]
                         },
                         {
@@ -2228,28 +2228,28 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[2]こちらの体験版ではゲーム序盤を楽しんでいただける"
+                                "In this trial version, we have edited it so that\nyou can enjoy the early stages of the game. Please\nnote that there is no specific announcement in the\ngame saying The trial version ends here."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ように編集しております。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ゲーム内で「体験版はここで終わりです」というアナウンスは"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "特にありませんのでご注意ください。"
+                                ""
                             ]
                         },
                         {
@@ -2257,8 +2257,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "オープニングを見る",
-                                    "見ない"
+                                    "Watch the opening",
+                                    "Don't look"
                                 ],
                                 -1,
                                 -1,
@@ -3252,8 +3252,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "オープニングを見る",
-                                    "見ない"
+                                    "Watch the opening",
+                                    "Don't look"
                                 ],
                                 -1,
                                 -1,

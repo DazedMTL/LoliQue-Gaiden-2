@@ -16,7 +16,7 @@
         "volume": 80
     },
     "disableDashing": false,
-    "displayName": "メーシィ平原「転生の塔」",
+    "displayName": "Maisy Plains \"Tower of Reincarnation",
     "encounterList": [
         {
             "regionSet": [],
@@ -17589,7 +17589,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[2]【転生の塔】\\c[0]をポータルに記録しました"
+                                "\\c[2]Tower of Reincarnation\\c[0]Recorded in the portal."
                             ]
                         },
                         {
@@ -19238,14 +19238,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[2]このネストストーンを魔力で制御できるようになった"
+                                "\\C[2]The enemies in the vicinity have become\ndocile after being able to control this Nest Stone\nwith magic\\C[1]!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "\\C[1]付近の敵がおとなしくなった！"
+                                ""
                             ]
                         },
                         {
@@ -19417,14 +19417,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[2]ネストストーンの制御を解除しますか？"
+                                "Do you want to release the control of the Nest\nStone? If you release it, nearby enemies will\nattack."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "\\C[3]解除すると、付近の敵が襲ってきます"
+                                ""
                             ]
                         },
                         {
@@ -19432,8 +19432,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "解除する",
-                                    "解除しない"
+                                    "Release",
+                                    "Don't release it"
                                 ],
                                 -1,
                                 -1,
@@ -19480,7 +19480,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[2]ネストストーンの制御を解除した！"
+                                "Released the control of the Nest Stone!"
                             ]
                         },
                         {
@@ -19645,14 +19645,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[2]このネストストーンを魔力で制御した！"
+                                "\\C[2]I controlled this Nest Stone with magic!\n\\C[1]The nearby enemies became docile!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "\\C[1]付近の敵がおとなしくなった！"
+                                ""
                             ]
                         },
                         {
@@ -28108,28 +28108,28 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[2]↑リインガーネットの町"
+                                "\\C[2]↑Reingarnet Town←Big Salt Desert→Aldente\nForest↓Tower of Reincarnation"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "←ビッグソルト砂漠"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "→アルデンテ森林"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "↓転生の塔"
+                                ""
                             ]
                         },
                         {
@@ -28537,21 +28537,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[1]レア\\C[0]"
+                                "\\C[1]Rhea\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "恐らくこの辺ですわ、コノハさん"
+                                "This is probably the area, Konoha-san. Do you\nthink any demons will appear?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "デーモンなんて出るんですかね？"
+                                ""
                             ]
                         },
                         {
@@ -28586,21 +28586,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "さあ、出るんじゃないの？"
+                                "Well, aren't you the one who accepted the quest? I\ndon't know the details, so I can't say for sure if\nany demons will appear or not."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "クエスト受けたのはあなただから、詳細は知らないわよ？"
+                                ""
                             ]
                         },
                         {
@@ -28617,21 +28617,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[1]レア\\C[0]"
+                                "\\C[1]Rhea\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ですよね。大丈夫、きっとここですわ"
+                                "That's right. Don't worry, it's definitely here...\nDemons..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "さぁ……デーモン……"
+                                ""
                             ]
                         },
                         {
@@ -28706,21 +28706,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ん…？"
+                                "Huh...? What's that..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "あれ……"
+                                ""
                             ]
                         },
                         {
@@ -28825,14 +28825,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[1]レア\\C[0]"
+                                "\\C[1]Rhea\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ぎゃー！出ましたわーーーー！"
+                                "Gyaah! They appeared!"
                             ]
                         },
                         {
@@ -28999,21 +28999,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ちょっと、何やってるのレア？"
+                                "Hey, what are you doing, Rhea? I guess there's no\nchoice, I'll take care of them!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "しょうがないわね、やっつけるわ！"
+                                ""
                             ]
                         },
                         {
@@ -29063,14 +29063,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[10]デーモン\\c[0]"
+                                "\\c[10]Demon\\c[0] Guooo..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "グオォォ……"
+                                ""
                             ]
                         },
                         {
@@ -29087,14 +29087,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[1]レア\\C[0]"
+                                "\\C[1]Rhea\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "まだ生きてますわ！"
+                                "I'm still alive!"
                             ]
                         },
                         {
@@ -29461,14 +29461,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "え…？"
+                                "Eh...?"
                             ]
                         },
                         {
@@ -29516,21 +29516,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[1]レア\\C[0]"
+                                "\\C[1]Rhea\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "あはははは！やりましたわコノハさん！"
+                                "Ahahahaha! We did it, Konoha-san! I delivered the\nfinal blow, you know!!!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "わたくしがトドメを刺しましたのよ！！！"
+                                ""
                             ]
                         },
                         {
@@ -29547,14 +29547,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "………"
+                                "........."
                             ]
                         },
                         {
@@ -29571,21 +29571,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[1]レア\\C[0]"
+                                "\\C[1]Rhea\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "さぁ、凱旋ですわね！"
+                                "Well, it's a triumphant return! Let's go home~~~"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "帰りますわよ～～～"
+                                ""
                             ]
                         },
                         {
@@ -29669,21 +29669,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "うーん…？"
+                                "Hmm...? Maybe I was just made to work..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "もしかして、働かされただけかしら……"
+                                ""
                             ]
                         },
                         {
@@ -29778,14 +29778,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "うう……負けちゃった……"
+                                "Ugh... I lost..."
                             ]
                         },
                         {
@@ -29802,14 +29802,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[1]レア\\C[0]"
+                                "\\C[1]Rhea\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "きゃああああ！！！！逃げろ～～～～～！！！"
+                                "Kyaaaaa!!!! Run away~~~~~!!!!"
                             ]
                         },
                         {

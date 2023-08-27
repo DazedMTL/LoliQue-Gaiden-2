@@ -33616,7 +33616,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[1]罠探知スキルLV3\\C[0]が発動した！"
+                                "\\C[1]Trap Detection Skill Level 3\\C[0]has been activated!"
                             ]
                         },
                         {
@@ -33684,7 +33684,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\C[1]罠探知スキルLV2\\C[0]が発動した！"
+                                "\\C[1]Trap Detection Skill LV2\\C[0]has been activated!"
                             ]
                         },
                         {
@@ -33717,28 +33717,28 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "あぶなっ！"
+                                "Oh no! This is a mimic, isn't it? I wonder what I\nshould do... Should I dare to open it...?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 3,
                             "parameters": [
-                                "これミミックね。どうするべきかしら…"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 3,
                             "parameters": [
-                                "敢えて開ける…？"
+                                ""
                             ]
                         },
                         {
@@ -33765,28 +33765,28 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "おっとー！"
+                                "Oops! I thought it was a nice treasure chest. That\nwas dangerous. Now, what should I do?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 3,
                             "parameters": [
-                                "いい宝箱って思ったら。危なかったわね"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 3,
                             "parameters": [
-                                "さて、どうしようかな"
+                                ""
                             ]
                         },
                         {
@@ -33804,8 +33804,8 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "もちろん開けましょう",
-                                    "やめておいたほうが無難ね"
+                                    "Of course, let's open it",
+                                    "It would be safer to stop"
                                 ],
                                 -1,
                                 -1,
@@ -34371,14 +34371,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "やるやないけ、わちの大事な猫の手じゃ～"
+                                "Oh my, it's quite naughty, isn't it? With my\nprecious pussy's paw~ With a pussy's paw, anything\nis possible."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "猫の手があれば、なんでもできるっちゃ"
+                                ""
                             ]
                         },
                         {
@@ -34587,14 +34587,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "いやぁぁあたいの苦手なやつうぅ！でも、倒さないと"
+                                "Ughhh, it's something I'm not good at! But I have\nto defeat it!!!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "ダメなのよん！！！"
+                                ""
                             ]
                         },
                         {
@@ -34914,14 +34914,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ふぁぁぁ……やっとこさ倒したのよん……コノハの"
+                                " \\N[21]: Phew... I finally defeated it... Thanks\nto Konoha! With this, the power that was lost will\nalso return!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "おかげなのよん！これで消えてた力も戻ってくるのよん！"
+                                ""
                             ]
                         },
                         {
@@ -35075,7 +35075,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "コノハ、早くあたいをバトルメンバーに入れるのよん！"
+                                " \\N[21]: Konoha, quickly add me to the battle\nparty!"
                             ]
                         },
                         {
@@ -35314,14 +35314,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーンロック\\C[2]「Δデルタ」\\C[0]が掛かっているようだ"
+                                "Rune Lock \\C[2] Delta \\C[0] seems to be in place,\nit can't be picked open."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ピッキングでは開けられない"
+                                ""
                             ]
                         },
                         {
@@ -35337,8 +35337,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "ルーンストーンを使って解錠する",
-                                    "何もしない"
+                                    "Unlock using the runestone",
+                                    "Do nothing"
                                 ],
                                 1,
                                 0,
@@ -35920,7 +35920,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[2]炎スキルを使えるロリモンが蔓を焼き払った！"
+                                "The loli character who can use fire skills burned\naway the vines!"
                             ]
                         },
                         {
@@ -35955,14 +35955,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "宝箱に\\C[2]蔓\\C[0]が巻き付いてしまっている"
+                                "If there is someone in the party who can use the\nlevel 3 fire skill, they might be able to burn\naway the vines that have wrapped around the\ntreasure chest."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "\\C[3]炎スキルLV3\\C[0]を使える者がパーティに居れば焼き払えそうだ"
+                                ""
                             ]
                         },
                         {

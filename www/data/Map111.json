@@ -16,7 +16,7 @@
         "volume": 80
     },
     "disableDashing": false,
-    "displayName": "アスタロト迷宮-エントランス",
+    "displayName": "Astalot Labyrinth - Entrance",
     "encounterList": [
         {
             "regionSet": [],
@@ -6092,28 +6092,28 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[1]アスタロト受付け\\c[0]"
+                                "\\c[1]Astalot Receptionist\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ようこそいらっしゃいました、魔法少女様……"
+                                "Welcome, magical girl-sama... You are the first\nmagical girl-sama to visit us, but... (How on\nearth...)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "訪問された魔法少女様はあなたが初でございますが…"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "（一体どうやって…）"
+                                ""
                             ]
                         },
                         {
@@ -6148,21 +6148,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[6]コノハ\\c[0]"
+                                "\\c[6]Konoha\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ここって、もしかしてデーモンの本拠地？"
+                                "Is this place perhaps the demon's stronghold? It's\nunbelievable that they've set up in such a\nlocation."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "とんでもないとこに構えてるのね"
+                                ""
                             ]
                         },
                         {
@@ -6197,14 +6197,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[1]アスタロト受付け\\c[0]"
+                                "\\c[1]Astalot Receptionist\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "はぁ、そうですが……何も知らずにここに来たのですか？"
+                                "Haa, is that so... Did you come here without\nknowing anything?"
                             ]
                         },
                         {
@@ -6221,21 +6221,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[6]コノハ\\c[0]"
+                                "\\c[6]Konoha\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そうね。よくわからないけど……"
+                                "I see. I'm not quite sure, but... Your boss is\nhere, right?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "あんた達のボスはここにいるんでしょ？"
+                                ""
                             ]
                         },
                         {
@@ -6252,14 +6252,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[1]アスタロト受付け\\c[0]"
+                                "\\c[1]Astalot Receptionist\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "デヴィル様ですか？それはもちろんおられますが…"
+                                "Is it Devil-sama you're referring to? Of course,\nthey are here..."
                             ]
                         },
                         {
@@ -6294,14 +6294,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[6]コノハ\\c[0]"
+                                "\\c[6]Konoha\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "デヴィルって言うの？そいつを倒せば全てOKな気がするわ"
+                                "Devil, you say? I have a feeling that everything\nwill be okay if we defeat that person."
                             ]
                         },
                         {
@@ -6327,21 +6327,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[1]アスタロト受付け\\c[0]"
+                                "\\c[1]Astalot Receptionist\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（これは危険な魔法少女だ……全てのデーモンに伝えて"
+                                "(This is a dangerous magical girl... I have a\nfeeling that we need to inform all the demons and\ndeal with her on every floor...!)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　全フロアにて対処しないとまずい気がする…！）"
+                                ""
                             ]
                         },
                         {
@@ -6358,28 +6358,28 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[1]アスタロト受付け\\c[0]"
+                                "\\c[1]Astalot Receptionist\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "えーと、それではあちらの階段からどうぞ"
+                                "Um, then please go through that staircase over\nthere. It's a bit intricate, but please enjoy the\nAstalot Labyrinth..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ちょっと入り組んでおりますが、ぜひアスタロト迷宮を"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "お楽しみください……"
+                                ""
                             ]
                         },
                         {
@@ -6462,21 +6462,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[6]コノハ\\c[0]"
+                                "\\c[6]Konoha\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あ、ちょっと！"
+                                "Ah, wait! She disappeared."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "消えちゃったわ"
+                                ""
                             ]
                         },
                         {
@@ -6636,21 +6636,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[1]アスタロト受付け\\c[0]"
+                                "\\c[1]Astalot Receptionist\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "そちらのポータルよりデヴィル様の元へ"
+                                "You can go directly to Lord Devil's place from\nthat portal."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "直接行くことができますよ"
+                                ""
                             ]
                         },
                         {
@@ -6695,21 +6695,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[1]アスタロト受付け\\c[0]"
+                                "\\c[1]Astalot Receptionist\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ようこそいらっしゃいました、魔法少女様"
+                                "Welcome, magical girl-sama. You are the first\nmagical girl-sama to visit."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "訪問された魔法少女様はあなたが初でございます"
+                                ""
                             ]
                         },
                         {
@@ -6744,21 +6744,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[6]コノハ\\c[0]"
+                                "\\c[6]Konoha\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "デーモンにしては丁寧ね"
+                                "He's surprisingly polite for a demon. Why isn't he\nattacking us?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "なぜ襲ってこないの？"
+                                ""
                             ]
                         },
                         {
@@ -6775,28 +6775,28 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[1]アスタロト受付け\\c[0]"
+                                "\\c[1]Astalot Receptionist\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "襲う？ここは、デーモンの拠点でございます"
+                                "Attack? This is the demon's stronghold, so if we\nwanted to attack, we could do it anytime...\nHowever, you have been referred to as a guest by\nLord Belzevia, so"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "襲おうと思えばいくらでもできますが……ベルゼヴィア様から"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "あなたは客人と言われておりますゆえ"
+                                ""
                             ]
                         },
                         {
@@ -6831,14 +6831,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[6]コノハ\\c[0]"
+                                "\\c[6]Konoha\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "なるほど（あいつ、以外と紳士な対応するのね……）"
+                                "I see... (He's surprisingly gentlemanly in his\nresponse...)"
                             ]
                         },
                         {
@@ -6855,21 +6855,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[1]アスタロト受付け\\c[0]"
+                                "\\c[1]Astalot Receptionist\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "では、魔法少女様……"
+                                "Well then, magical girl-sama... What brings you\nhere today?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "今日はどういったご用件でございますでしょうか"
+                                ""
                             ]
                         },
                         {
@@ -6877,10 +6877,10 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "デヴィルとの対話を希望",
-                                    "ここを潰しに来た",
-                                    "デーモンの仲間になりたい",
-                                    "用はない"
+                                    "I hope to have a conversation with the devil",
+                                    "I came here to crush this place",
+                                    "I want to become a member of the demons",
+                                    "No particular reason"
                                 ],
                                 -2,
                                 -1,
@@ -6928,21 +6928,21 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[6]コノハ\\c[0]"
+                                "\\c[6]Konoha\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "あんた達のボス、デヴィルと話しをさせなさい"
+                                "Let me talk to your boss, Devil. We need to put an\nend to this long battle."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "この長い戦いに終止符を打たないといけないわ"
+                                ""
                             ]
                         },
                         {
@@ -6959,21 +6959,21 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[1]アスタロト受付け\\c[0]"
+                                "\\c[1]Astalot Receptionist\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "かしこまりました。それでは、そちらのポータルより"
+                                "Understood. Then, I will personally escort you\ndirectly to Lord Devil's place through that\nportal."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "デヴィル様の元へ直接送り届けさせてもらいます"
+                                ""
                             ]
                         },
                         {
@@ -7008,14 +7008,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[6]コノハ\\c[0]"
+                                "\\c[6]Konoha\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "話が早くて助かるわね"
+                                "It's helpful that you get straight to the point."
                             ]
                         },
                         {
@@ -7118,21 +7118,21 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[6]コノハ\\c[0]"
+                                "\\c[6]Konoha\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "悪いけど、あなた達デーモンを許すわけにはいかないの"
+                                "Sorry, but I can't forgive all of you demons. I've\ncome here to crush every single one of you."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "ここにいる全てのデーモン全部、潰しにきたのよ"
+                                ""
                             ]
                         },
                         {
@@ -7158,21 +7158,21 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[1]アスタロト受付け\\c[0]"
+                                "\\c[1]Astalot Receptionist\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "なんと恐ろしきヒトでしょう。わかりました……"
+                                "How terrifying you are. I understand... Well then,\nI'll run away first."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "じゃあ、私はお先に逃げまーす"
+                                ""
                             ]
                         },
                         {
@@ -7255,21 +7255,21 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[6]コノハ\\c[0]"
+                                "\\c[6]Konoha\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "あっ！こら！"
+                                "Ah! Hey! What fast legs you have..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "なんて逃げ足の早い……"
+                                ""
                             ]
                         },
                         {
@@ -7304,21 +7304,21 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[6]コノハ\\c[0]"
+                                "\\c[6]Konoha\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "よし、仕方ないわね。ここの迷宮を突破して"
+                                "Alright, I guess there's no other choice. Let's\nbreak through this labyrinth and head to Devil's\nplace."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "デヴィルの元へ行きましょう"
+                                ""
                             ]
                         },
                         {
@@ -7438,21 +7438,21 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\c[6]コノハ\\c[0]"
+                                "\\c[6]Konoha\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "信じられないかもしれないけど、実はあなた達の仲間に"
+                                "You might not believe it, but I actually wanted to\nbecome your ally."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 3,
                             "parameters": [
-                                "なりたいって思ってたのよね"
+                                ""
                             ]
                         },
                         {
@@ -7479,21 +7479,21 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\c[6]コノハ\\c[0]"
+                                "\\c[6]Konoha\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "信じられないかもしれないけど、実はあなた達の仲間に"
+                                "You might not believe it, but actually, I've been\nwanting to become your ally."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 3,
                             "parameters": [
-                                "なりたいって思ってたのよね"
+                                ""
                             ]
                         },
                         {
@@ -7520,21 +7520,21 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[1]アスタロト受付け\\c[0]"
+                                "\\c[1]Astalot Receptionist\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "私達の仲間に？"
+                                "To become our ally? Hmm... Please wait a moment..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "うーん…ちょっとお待ちを……"
+                                ""
                             ]
                         },
                         {
@@ -7562,28 +7562,28 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\c[1]アスタロト受付け\\c[0]"
+                                "\\c[1]Astalot Receptionist\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "むむ！こりゃ、けっこうな極悪人ですなぁ…！"
+                                "Hmm! This is quite the wicked person...! You have\ngreat potential... It would be good for you to\nform a contract with Lord Devil. I will guide you."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 3,
                             "parameters": [
-                                "素質ありありです……デヴィル様との契を交わされると"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 3,
                             "parameters": [
-                                "いいでしょう。ご案内します"
+                                ""
                             ]
                         },
                         {
@@ -7627,14 +7627,14 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\c[6]コノハ\\c[0]"
+                                "\\c[6]Konoha\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "うふふ。楽しみね"
+                                "Hehehe. I'm looking forward to it."
                             ]
                         },
                         {
@@ -7661,14 +7661,14 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\c[6]コノハ\\c[0]"
+                                "\\c[6]Konoha\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "うふふ。楽しみね"
+                                "Hehehe. I'm looking forward to it."
                             ]
                         },
                         {
@@ -7781,28 +7781,28 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\c[1]アスタロト受付け\\c[0]"
+                                "\\c[1]Astalot Receptionist\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "あはは、あなたのような善人には無理ですね"
+                                "Ahaha, it's impossible for someone like you who is\na good person. If you really want to become one,\nyou need to accumulate evil deeds and make enemies\nout of humans and loli-monsters."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 3,
                             "parameters": [
-                                "もし本当になりたいのなら、悪行を積んでヒトやロリモン族を"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 3,
                             "parameters": [
-                                "敵に回す必要があります"
+                                ""
                             ]
                         },
                         {
@@ -7819,21 +7819,21 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\c[1]アスタロト受付け\\c[0]"
+                                "\\c[1]Astalot Receptionist\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "ここでいう悪行とは【カルマ】ではないので要注意……"
+                                "When we talk about evil deeds here, it's not\nreferring to karma, so be careful... Accumulating\nsmall mischiefs won't cut it..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 3,
                             "parameters": [
-                                "小さな悪さの積み重ねではダメです……"
+                                ""
                             ]
                         },
                         {
@@ -7859,14 +7859,14 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\c[6]コノハ\\c[0]"
+                                "\\c[6]Konoha\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "ちえー"
+                                "Chie-"
                             ]
                         },
                         {
@@ -7893,14 +7893,14 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\c[6]コノハ\\c[0]"
+                                "\\c[6]Konoha\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "ちえー"
+                                "Chie-"
                             ]
                         },
                         {
@@ -8142,28 +8142,28 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[1]アスタロト受付け\\c[0]"
+                                "\\c[1]Astalot Receptionist\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "お戻りになられたようで。これからよろしくお願いしますね"
+                                "It seems you have returned. From now on, please\ntake care of us, Konoha-san. Well then, since you\nhave become one of us, we will need a new base."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "コノハさん。さて、我らの仲間となったわけですから"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "新しい拠点が必要でしょう"
+                                ""
                             ]
                         },
                         {
@@ -8180,21 +8180,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[1]アスタロト受付け\\c[0]"
+                                "\\c[1]Astalot Receptionist\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "お休みになられる時はデーモンガーデンへ"
+                                "When you take a break, you will be transported to\nthe Demon Garden. If you are defeated by enemies,\nyou will also be portaled there."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "敵にやられた場合もそこにポータルされます"
+                                ""
                             ]
                         },
                         {
@@ -8211,21 +8211,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[1]アスタロト受付け\\c[0]"
+                                "\\c[1]Astalot Receptionist\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "我らデーモンの仲間になったからといって、徘徊している"
+                                "Just because you have become one of us demons, it\ndoesn't mean that the wandering demons won't\nattack you anymore, so please be careful."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "デーモンが襲ってこなくなるということはないのでご注意を"
+                                ""
                             ]
                         },
                         {
@@ -8242,21 +8242,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[1]アスタロト受付け\\c[0]"
+                                "\\c[1]Astalot Receptionist\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "隙あらば、仲間の力も取り込む。それがデーモンです"
+                                "Whenever you have the chance, make sure to absorb\nthe power of your comrades. That's what being a\ndemon is all about, so please never forget that..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "努々それだけはお忘れなきよう……"
+                                ""
                             ]
                         },
                         {
@@ -8372,14 +8372,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[1]アスタロト受付け\\c[0]"
+                                "\\c[1]Astalot Receptionist\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "調子はどうですか？"
+                                "How are you feeling?"
                             ]
                         },
                         {

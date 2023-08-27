@@ -16,7 +16,7 @@
         "volume": 80
     },
     "disableDashing": false,
-    "displayName": "ドロノフの鍛冶屋",
+    "displayName": "Doronofu's Blacksmith",
     "encounterList": [],
     "encounterStep": 30,
     "height": 28,
@@ -5505,7 +5505,7 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "会話"
+                                    "Conversation"
                                 ],
                                 -2,
                                 0,
@@ -5544,28 +5544,28 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\C[1]ドロノフ\\C[0]"
+                                "\\C[1]Doronofu\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "おほー？！ちょっ…！おま…！"
+                                "Ohh?! Wait...! You...! I'm... not like that! To\nsomeone as small as you! Ugh, I can't believe I'm\nwearing this outfit!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "ワシは…違うっっ！おまえみたいな小さいのにっっ！"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "ええいっ服を着てこんかっ！"
+                                ""
                             ]
                         },
                         {
@@ -5717,14 +5717,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\C[1]ドロノフ\\C[0]"
+                                "\\C[1]Doronofu\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "宝珠か？作りてーのか？"
+                                "A jewel? Do you want me to make one?"
                             ]
                         },
                         {
@@ -5732,9 +5732,9 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "宝珠の錬成",
-                                    "説明をして",
-                                    "やめる"
+                                    "Alchemy of the Jewel",
+                                    "Please explain",
+                                    "Stop"
                                 ],
                                 2,
                                 0,
@@ -5764,21 +5764,21 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\C[1]ドロノフ\\C[0]"
+                                "\\C[1]Doronofu\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "よっしゃ、右上の3つの怪しい宝箱に触れてみい！"
+                                "Alright, touch the three suspicious treasure\nchests in the upper right! You can synthesize\ndifferent types of jewel orbs from each one."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 3,
                             "parameters": [
-                                "それぞれの種類の宝珠を錬成できるぞい"
+                                ""
                             ]
                         },
                         {
@@ -5862,9 +5862,9 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "\\C[22]♥誘惑en(v[261]>=300)",
-                                    "\\C[14]♠窃盗en(v[263]>=20)",
-                                    "\\C[3]☠攻撃en(v[263]>=100)"
+                                    "\\C[22]♥ Temptationen(v[261]>=300)",
+                                    "\\C[14]♠Theften(v[263]>=20)",
+                                    "\\C[3]☠ Attacken(v[263]>=100)"
                                 ],
                                 -2,
                                 -1,
@@ -6045,14 +6045,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "な、なにをする…んじゃ…"
+                                "W-What are you doing...? Ugh..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "げほぉ…"
+                                ""
                             ]
                         },
                         {
@@ -6284,8 +6284,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "会話",
-                                    "クエスト"
+                                    "Conversation",
+                                    "Quest"
                                 ],
                                 -2,
                                 0,
@@ -6324,28 +6324,28 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\C[1]ドロノフ\\C[0]"
+                                "\\C[1]Doronofu\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "おほー？！ちょっ…！おま…！"
+                                "Ohh?! Wait...! You...! I'm... not like that! To\nsomeone as small as you! Ugh, why would I wear\nclothes like this?!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "ワシは…違うっっ！おまえみたいな小さいのにっっ！"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "ええいっ服を着てこんかっ！"
+                                ""
                             ]
                         },
                         {
@@ -6497,14 +6497,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\C[1]ドロノフ\\C[0]"
+                                "\\C[1]Doronofu\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "宝珠か？作りてーのか？"
+                                "A jewel? Do you want me to make one?"
                             ]
                         },
                         {
@@ -6512,9 +6512,9 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "宝珠の錬成",
-                                    "説明をして",
-                                    "やめる"
+                                    "Alchemy of the Jewel",
+                                    "Please explain",
+                                    "Stop"
                                 ],
                                 2,
                                 0,
@@ -6544,21 +6544,21 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\C[1]ドロノフ\\C[0]"
+                                "\\C[1]Doronofu\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "よっしゃ、右上の3つの怪しい宝箱に触れてみい！"
+                                "Alright, touch the three suspicious treasure\nchests in the upper right! You can synthesize\ndifferent types of jewel orbs from each one."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 3,
                             "parameters": [
-                                "それぞれの種類の宝珠を錬成できるぞい"
+                                ""
                             ]
                         },
                         {
@@ -6641,28 +6641,28 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[1]ドロノフ\\C[0]"
+                                "\\C[1]Doronofu\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ちょうどいいところに来てくれたの！"
+                                "You came at just the right time! One of the\nforging boxes for jewel orb synthesis is acting\nup. I need to repair it."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "宝珠錬成用の鍛冶BOXの一つが調子悪くての。一つ修理"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "せんといかん"
+                                ""
                             ]
                         },
                         {
@@ -6679,28 +6679,28 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[1]ドロノフ\\C[0]"
+                                "\\C[1]Doronofu\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "修理用の素材を手に入れるのはなかなかに危険での"
+                                "Obtaining repair materials can be quite dangerous,\nso I have no choice but to rely on you magical\ngirls. How about it? Can you go and find the\nmaterials for me?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "あんたら魔法少女に頼むしかないんじゃが、どうじゃ？"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "素材を探してきてはくれんか？"
+                                ""
                             ]
                         },
                         {
@@ -6708,8 +6708,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "いいわよ",
-                                    "今忙しくて…"
+                                    "Sure, why not?",
+                                    "I'm busy right now"
                                 ],
                                 -2,
                                 0,
@@ -6782,21 +6782,21 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "素材ね。いいわよ"
+                                "Materials, huh? It would be troublesome if we\ncouldn't synthesize jewel orbs."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "宝珠錬成できないのも困るものね"
+                                ""
                             ]
                         },
                         {
@@ -6813,14 +6813,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\C[1]ドロノフ\\C[0]"
+                                "\\C[1]Doronofu\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "頼むぞ！「鉄鉱石」「赤粘土」「ゴブリンの角」じゃ"
+                                "I'm counting on you! Iron Ore, Red Clay, and\nGoblin Horns should do it."
                             ]
                         },
                         {
@@ -6927,14 +6927,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "今ちょっと無理ね…"
+                                "I can't do it right now..."
                             ]
                         },
                         {
@@ -6988,9 +6988,9 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "\\C[22]♥誘惑en(v[261]>=300)",
-                                    "\\C[14]♠窃盗en(v[263]>=20)",
-                                    "\\C[3]☠攻撃en(v[263]>=100)"
+                                    "\\C[22]♥ Temptationen(v[261]>=300)",
+                                    "\\C[14]♠Theften(v[263]>=20)",
+                                    "\\C[3]☠ Attacken(v[263]>=100)"
                                 ],
                                 -2,
                                 -1,
@@ -7171,14 +7171,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "な、なにをする…んじゃ…"
+                                "W-What are you doing...? N-No...geh..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "げほぉ…"
+                                ""
                             ]
                         },
                         {
@@ -7410,8 +7410,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "会話",
-                                    "クエスト"
+                                    "Conversation",
+                                    "Quest"
                                 ],
                                 -2,
                                 0,
@@ -7450,28 +7450,28 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\C[1]ドロノフ\\C[0]"
+                                "\\C[1]Doronofu\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "おほー？！ちょっ…！おま…！"
+                                "Ohh?! Wait...! You...! I'm... not like that! To\nsomeone as small as you! Ugh, why would I wear\nclothes like this?!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "ワシは…違うっっ！おまえみたいな小さいのにっっ！"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "ええいっ服を着てこんかっ！"
+                                ""
                             ]
                         },
                         {
@@ -7623,14 +7623,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\C[1]ドロノフ\\C[0]"
+                                "\\C[1]Doronofu\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "宝珠か？作りてーのか？"
+                                "A jewel? Do you want me to make one?"
                             ]
                         },
                         {
@@ -7638,9 +7638,9 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "宝珠の錬成",
-                                    "説明をして",
-                                    "やめる"
+                                    "Alchemy of the Jewel",
+                                    "Please explain",
+                                    "Stop"
                                 ],
                                 2,
                                 0,
@@ -7670,21 +7670,21 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\C[1]ドロノフ\\C[0]"
+                                "\\C[1]Doronofu\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "よっしゃ、右上の3つの怪しい宝箱に触れてみい！"
+                                "Alright, touch the three suspicious treasure\nchests in the upper right! You can synthesize\ndifferent types of jewel orbs from each one."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 3,
                             "parameters": [
-                                "それぞれの種類の宝珠を錬成できるぞい"
+                                ""
                             ]
                         },
                         {
@@ -7767,14 +7767,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[1]ドロノフ\\C[0]"
+                                "\\C[1]Doronofu\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "頼むぞ！「鉄鉱石」「赤粘土」「ゴブリンの角」じゃ"
+                                "Please! With iron ore, red clay, and goblin horns,"
                             ]
                         },
                         {
@@ -7805,9 +7805,9 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "\\C[22]♥誘惑en(v[261]>=300)",
-                                    "\\C[14]♠窃盗en(v[263]>=20)",
-                                    "\\C[3]☠攻撃en(v[263]>=100)"
+                                    "\\C[22]♥ Temptationen(v[261]>=300)",
+                                    "\\C[14]♠Theften(v[263]>=20)",
+                                    "\\C[3]☠ Attacken(v[263]>=100)"
                                 ],
                                 -2,
                                 -1,
@@ -7988,14 +7988,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "な、なにをする…んじゃ…"
+                                "W-What are you doing...? Ugh..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "げほぉ…"
+                                ""
                             ]
                         },
                         {
@@ -8227,8 +8227,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "会話",
-                                    "クエスト"
+                                    "Conversation",
+                                    "Quest"
                                 ],
                                 -2,
                                 0,
@@ -8267,28 +8267,28 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\C[1]ドロノフ\\C[0]"
+                                "\\C[1]Doronofu\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "おほー？！ちょっ…！おま…！"
+                                "Ohh?! Wait...! You...! I'm... not like that! To\nsomeone as small as you! Ugh, why would I wear\nclothes like this?!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "ワシは…違うっっ！おまえみたいな小さいのにっっ！"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "ええいっ服を着てこんかっ！"
+                                ""
                             ]
                         },
                         {
@@ -8440,14 +8440,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\C[1]ドロノフ\\C[0]"
+                                "\\C[1]Doronofu\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "宝珠か？作りてーのか？"
+                                "A jewel? Do you want me to make one?"
                             ]
                         },
                         {
@@ -8455,9 +8455,9 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "宝珠の錬成",
-                                    "説明をして",
-                                    "やめる"
+                                    "Alchemy of the Jewel",
+                                    "Please explain",
+                                    "Stop"
                                 ],
                                 2,
                                 0,
@@ -8487,21 +8487,21 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\C[1]ドロノフ\\C[0]"
+                                "\\C[1]Doronofu\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "よっしゃ、右上の3つの怪しい宝箱に触れてみい！"
+                                "Alright, touch the three suspicious treasure\nchests in the upper right! You can synthesize\ndifferent types of jewel orbs from each one."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 3,
                             "parameters": [
-                                "それぞれの種類の宝珠を錬成できるぞい"
+                                ""
                             ]
                         },
                         {
@@ -8627,14 +8627,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ドロノフ、素材集めてきたわ"
+                                "Doronofu, I've gathered the materials."
                             ]
                         },
                         {
@@ -8651,21 +8651,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[1]ドロノフ\\C[0]"
+                                "\\C[1]Doronofu\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "おお！でかしたぞい！"
+                                "Ohh! You did great! Hold on a sec!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "ちょっと待っとるんじゃ！"
+                                ""
                             ]
                         },
                         {
@@ -8742,21 +8742,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[1]ドロノフ\\C[0]"
+                                "\\C[1]Doronofu\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "修理完了じゃ！"
+                                "Repairs complete! Phew, I'm glad. If you need\nanything else, feel free to ask!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "いやぁ助かったわい。またなんかの時は頼むぞ！"
+                                ""
                             ]
                         },
                         {
@@ -8851,9 +8851,9 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "\\C[22]♥誘惑en(v[261]>=300)",
-                                    "\\C[14]♠窃盗en(v[263]>=20)",
-                                    "\\C[3]☠攻撃en(v[263]>=100)"
+                                    "\\C[22]♥ Temptationen(v[261]>=300)",
+                                    "\\C[14]♠Theften(v[263]>=20)",
+                                    "\\C[3]☠ Attacken(v[263]>=100)"
                                 ],
                                 -2,
                                 -1,
@@ -9034,14 +9034,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "な、なにをする…んじゃ…"
+                                "W-What are you doing...? N-No...geh..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "げほぉ…"
+                                ""
                             ]
                         },
                         {
@@ -9259,7 +9259,7 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "会話"
+                                    "Conversation"
                                 ],
                                 -2,
                                 0,
@@ -9298,28 +9298,28 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\C[1]ドロノフ\\C[0]"
+                                "\\C[1]Doronofu\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "おほー？！ちょっ…！おま…！"
+                                "Ohh?! Wait...! You...! I'm... not like that! To\nsomeone as small as you! Ugh, why would I wear\nclothes like this?!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "ワシは…違うっっ！おまえみたいな小さいのにっっ！"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "ええいっ服を着てこんかっ！"
+                                ""
                             ]
                         },
                         {
@@ -9471,14 +9471,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\C[1]ドロノフ\\C[0]"
+                                "\\C[1]Doronofu\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "宝珠か？作りてーのか？"
+                                "A jewel? Do you want me to make one?"
                             ]
                         },
                         {
@@ -9486,9 +9486,9 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "宝珠の錬成",
-                                    "説明をして",
-                                    "やめる"
+                                    "Alchemy of the Jewel",
+                                    "Please explain",
+                                    "Stop"
                                 ],
                                 2,
                                 0,
@@ -9518,21 +9518,21 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\C[1]ドロノフ\\C[0]"
+                                "\\C[1]Doronofu\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "よっしゃ、右上の3つの怪しい宝箱に触れてみい！"
+                                "Alright, touch the three suspicious treasure\nchests in the upper right! You can synthesize\ndifferent types of jewel orbs from each one."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 3,
                             "parameters": [
-                                "それぞれの種類の宝珠を錬成できるぞい"
+                                ""
                             ]
                         },
                         {
@@ -9616,9 +9616,9 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "\\C[22]♥誘惑en(v[261]>=300)",
-                                    "\\C[14]♠窃盗en(v[263]>=20)",
-                                    "\\C[3]☠攻撃en(v[263]>=100)"
+                                    "\\C[22]♥ Temptationen(v[261]>=300)",
+                                    "\\C[14]♠Theften(v[263]>=20)",
+                                    "\\C[3]☠ Attacken(v[263]>=100)"
                                 ],
                                 -2,
                                 -1,
@@ -9799,14 +9799,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "な、なにをする…んじゃ…"
+                                "W-What are you doing...? N-No...geh..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "げほぉ…"
+                                ""
                             ]
                         },
                         {
@@ -10038,8 +10038,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "会話",
-                                    "クエスト"
+                                    "Conversation",
+                                    "Quest"
                                 ],
                                 -2,
                                 0,
@@ -10078,28 +10078,28 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\C[1]ドロノフ\\C[0]"
+                                "\\C[1]Doronofu\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "おほー？！ちょっ…！おま…！"
+                                "Ohh?! Wait...! You...! I'm... not like that! To\nsomeone as small as you! Ugh, why would I wear\nclothes like this?!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "ワシは…違うっっ！おまえみたいな小さいのにっっ！"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "ええいっ服を着てこんかっ！"
+                                ""
                             ]
                         },
                         {
@@ -10251,14 +10251,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\C[1]ドロノフ\\C[0]"
+                                "\\C[1]Doronofu\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "宝珠か？作りてーのか？"
+                                "A jewel? Do you want me to make one?"
                             ]
                         },
                         {
@@ -10266,9 +10266,9 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "宝珠の錬成",
-                                    "説明をして",
-                                    "やめる"
+                                    "Alchemy of the Jewel",
+                                    "Please explain",
+                                    "Stop"
                                 ],
                                 2,
                                 0,
@@ -10298,21 +10298,21 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\C[1]ドロノフ\\C[0]"
+                                "\\C[1]Doronofu\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "よっしゃ、右上の3つの怪しい宝箱に触れてみい！"
+                                "Alright, touch the three suspicious treasure\nchests in the upper right! You can synthesize\ndifferent types of jewel orbs from each one."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 3,
                             "parameters": [
-                                "それぞれの種類の宝珠を錬成できるぞい"
+                                ""
                             ]
                         },
                         {
@@ -10395,28 +10395,28 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[1]ドロノフ\\C[0]"
+                                "\\C[1]Doronofu\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "おお、おまえさんか。また頼みたいんじゃが、いいかの？"
+                                "Oh, it's you again. Do you mind if I ask for your\nhelp? I need someone to guard the cave while I\nrepair the barrier pillars inside the barrier\ncave."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "結界の洞窟内の結界柱の修理をしないといかんのじゃが"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "その間の護衛を頼みたいんじゃ"
+                                ""
                             ]
                         },
                         {
@@ -10433,21 +10433,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[1]ドロノフ\\C[0]"
+                                "\\C[1]Doronofu\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "早めに修理せんと、いつまた襲撃されるかわからんからの…"
+                                "I need to repair it as soon as possible, otherwise\nI don't know when we'll be attacked again... What\ndo you think? Can you do it?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "どうじゃ？いけるか？"
+                                ""
                             ]
                         },
                         {
@@ -10455,8 +10455,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "もちろん大丈夫よ",
-                                    "今ちょっと忙しくて…"
+                                    "Of course, I can handle it",
+                                    "I'm a bit busy right now"
                                 ],
                                 -2,
                                 0,
@@ -10529,21 +10529,21 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "確かに、それは早いほうがいいわね"
+                                "Indeed, it's better to do it quickly. Alright, I\nunderstand. I'll try the guard duty."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "わかったわ、護衛任務やってみる"
+                                ""
                             ]
                         },
                         {
@@ -10560,14 +10560,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\C[1]ドロノフ\\C[0]"
+                                "\\C[1]Doronofu\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "よしきた！それじゃ、結界の洞窟で待ってるぞ！"
+                                "Alright, I'm ready! Then, I'll be waiting at the\nbarrier cave!"
                             ]
                         },
                         {
@@ -10674,14 +10674,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "悪いけど、ちょっと忙しいから……"
+                                "Sorry, but I'm a little busy right now..."
                             ]
                         },
                         {
@@ -10735,9 +10735,9 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "\\C[22]♥誘惑en(v[261]>=300)",
-                                    "\\C[14]♠窃盗en(v[263]>=20)",
-                                    "\\C[3]☠攻撃en(v[263]>=100)"
+                                    "\\C[22]♥ Temptationen(v[261]>=300)",
+                                    "\\C[14]♠Theften(v[263]>=20)",
+                                    "\\C[3]☠ Attacken(v[263]>=100)"
                                 ],
                                 -2,
                                 -1,
@@ -10918,14 +10918,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "な、なにをする…んじゃ…"
+                                "W-What are you doing...? Ugh..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "げほぉ…"
+                                ""
                             ]
                         },
                         {
@@ -11194,7 +11194,7 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "会話"
+                                    "Conversation"
                                 ],
                                 -2,
                                 0,
@@ -11233,28 +11233,28 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\C[1]ドロノフ\\C[0]"
+                                "\\C[1]Doronofu\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "おほー？！ちょっ…！おま…！"
+                                "Ohh?! Wait...! You...! I'm... not like that! To\nsomeone as small as you! Ugh, why would I wear\nclothes like this?!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "ワシは…違うっっ！おまえみたいな小さいのにっっ！"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "ええいっ服を着てこんかっ！"
+                                ""
                             ]
                         },
                         {
@@ -11406,14 +11406,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\C[1]ドロノフ\\C[0]"
+                                "\\C[1]Doronofu\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "宝珠か？作りてーのか？"
+                                "A jewel? Do you want me to make one?"
                             ]
                         },
                         {
@@ -11421,9 +11421,9 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "宝珠の錬成",
-                                    "説明をして",
-                                    "やめる"
+                                    "Alchemy of the Jewel",
+                                    "Please explain",
+                                    "Stop"
                                 ],
                                 2,
                                 0,
@@ -11453,21 +11453,21 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\C[1]ドロノフ\\C[0]"
+                                "\\C[1]Doronofu\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "よっしゃ、右上の3つの怪しい宝箱に触れてみい！"
+                                "Alright, touch the three suspicious treasure\nchests in the upper right! You can synthesize\ndifferent types of jewel orbs from each one."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 3,
                             "parameters": [
-                                "それぞれの種類の宝珠を錬成できるぞい"
+                                ""
                             ]
                         },
                         {
@@ -11551,9 +11551,9 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "\\C[22]♥誘惑en(v[261]>=300)",
-                                    "\\C[14]♠窃盗en(v[263]>=20)",
-                                    "\\C[3]☠攻撃en(v[263]>=100)"
+                                    "\\C[22]♥ Temptationen(v[261]>=300)",
+                                    "\\C[14]♠Theften(v[263]>=20)",
+                                    "\\C[3]☠ Attacken(v[263]>=100)"
                                 ],
                                 -2,
                                 -1,
@@ -11734,14 +11734,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "な、なにをする…んじゃ…"
+                                "W-What are you doing...? N-No...geh..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "げほぉ…"
+                                ""
                             ]
                         },
                         {
@@ -12008,14 +12008,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ちょっと、そんな格好でうろうろしちゃ駄目よ！"
+                                " Hey, you can't wander around dressed like that!\nSomeone might see you! Hurry up and go home and\nput some clothes on."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "うちのに見られちゃうわよ！早く帰って服着ておいで"
+                                ""
                             ]
                         },
                         {
@@ -12042,14 +12042,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "いらっしゃい"
+                                "Welcome, I have prepared various jewels for you."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "いろんな宝珠を用意しているわよ"
+                                ""
                             ]
                         },
                         {
@@ -12064,10 +12064,10 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "武器宝珠",
-                                    "サブ宝珠",
-                                    "防具宝珠",
-                                    "やめる"
+                                    "Weapon Treasure Beads",
+                                    "Sub Jewels",
+                                    "Armor Jewels",
+                                    "Stop"
                                 ],
                                 3,
                                 0,
@@ -12485,14 +12485,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ひーーーっ！"
+                                "Hiiii! It's a massacre!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ひとごろしー"
+                                ""
                             ]
                         },
                         {
@@ -13143,7 +13143,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[2]※故障中※"
+                                "\\C[2] *Out of Order*"
                             ]
                         },
                         {
@@ -13689,14 +13689,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "うわっ！なんで何も着てないの？！"
+                                "Wow! Why aren't you wearing anything?! Did the\nenemy get to you??"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "敵にやられちゃた？？"
+                                ""
                             ]
                         },
                         {
@@ -13723,21 +13723,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "錬成でも運がよければパラメータにボーナスが"
+                                "It seems that if you're lucky during synthesis,\nyou can get a bonus to your parameters. However,\nit seems impossible to get a good bonus like when\nyou drop items."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "付くみたいね。ただし、ドロップ時のような良いボーナスは"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "さすがに無理みたい"
+                                ""
                             ]
                         },
                         {
@@ -13820,7 +13820,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "てめぇ、なにやってんだ？！"
+                                "What the hell are you doing?!"
                             ]
                         },
                         {
@@ -13916,14 +13916,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "牢屋に突き出してやる！"
+                                "I'll throw you into the cell! Come here, you\ncriminal!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "来い！犯罪者め！"
+                                ""
                             ]
                         },
                         {
@@ -14960,8 +14960,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "\\C[3]盗むLV1",
-                                    "何もしない"
+                                    "Steal LV1",
+                                    "Doing nothing"
                                 ],
                                 1,
                                 -1,
@@ -15169,14 +15169,14 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\c[6]コノハ\\c[0]"
+                                "\\c[6]Konoha\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "なんかまずい気がするわ"
+                                "I have a bad feeling about this."
                             ]
                         },
                         {
@@ -15215,14 +15215,14 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\c[6]コノハ\\c[0]"
+                                "\\c[6]Konoha\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "ちょっと失敗ね"
+                                "I messed up a little."
                             ]
                         },
                         {
@@ -15496,8 +15496,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "\\C[3]盗むLV1",
-                                    "何もしない"
+                                    "Steal LV1",
+                                    "Doing nothing"
                                 ],
                                 1,
                                 -1,
@@ -15735,14 +15735,14 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\c[6]コノハ\\c[0]"
+                                "\\c[6]Konoha\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "なんかまずい気がするわ"
+                                "I have a bad feeling about this."
                             ]
                         },
                         {
@@ -15781,14 +15781,14 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\c[6]コノハ\\c[0]"
+                                "\\c[6]Konoha\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "ちょっと失敗ね"
+                                "I messed up a little."
                             ]
                         },
                         {
@@ -16062,8 +16062,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "\\C[3]盗むLV1",
-                                    "何もしない"
+                                    "Steal LV1",
+                                    "Doing nothing"
                                 ],
                                 1,
                                 -1,
@@ -16241,14 +16241,14 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\c[6]コノハ\\c[0]"
+                                "\\c[6]Konoha\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "なんかまずい気がするわ"
+                                "I have a bad feeling about this."
                             ]
                         },
                         {
@@ -16287,14 +16287,14 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\c[6]コノハ\\c[0]"
+                                "\\c[6]Konoha\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "ちょっと失敗ね"
+                                "I messed up a little."
                             ]
                         },
                         {

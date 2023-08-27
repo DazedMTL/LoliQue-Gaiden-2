@@ -16,7 +16,7 @@
         "volume": 80
     },
     "disableDashing": false,
-    "displayName": "アスタロト迷宮-B1F",
+    "displayName": "Astaroth Labyrinth - B1F",
     "encounterList": [
         {
             "regionSet": [],
@@ -49001,14 +49001,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[2]扉は固く閉ざされている……"
+                                "The door is tightly closed... There might be some\nmechanism to open it..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "何か開けるための仕掛けがあるかもしれない…"
+                                ""
                             ]
                         },
                         {

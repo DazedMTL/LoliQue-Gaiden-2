@@ -16,7 +16,7 @@
         "volume": 80
     },
     "disableDashing": false,
-    "displayName": "ギルドハウス：２階",
+    "displayName": "Guild House: 2nd Floor",
     "encounterList": [],
     "encounterStep": 30,
     "height": 50,
@@ -23459,9 +23459,9 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "会話",
-                                    "ロリモン代理出産",
-                                    "if(v[1123]===10) ロリモン出産をパルに覗かせる"
+                                    "Conversation",
+                                    "Lolimon surrogate childbirth",
+                                    "if(v[1123]===10) Let Paru peek at the LoliMon giving birth"
                                 ],
                                 -2,
                                 0,
@@ -23500,14 +23500,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\C[1]メラーサ\\C[0]"
+                                "\\C[1]Melarsa\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "自分の部屋でやってくれる？"
+                                "Will you do it in my room?"
                             ]
                         },
                         {
@@ -23545,21 +23545,21 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\C[1]メラーサ\\C[0]"
+                                "\\C[1]Melarsa\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "あなたには助けられたわね。それに関しては礼を言うわ"
+                                "You really helped me out. I have to thank you for\nwhat you did for Amy too, so thank you."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 3,
                             "parameters": [
-                                "エイミの事もあるし、ありがとう"
+                                ""
                             ]
                         },
                         {
@@ -23576,21 +23576,21 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\C[1]メラーサ\\C[0]"
+                                "\\C[1]Melarsa\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "でも、それだけよ。ちょっと強いからって"
+                                "But that's it. Don't get too carried away just\nbecause you're a little strong, okay?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 3,
                             "parameters": [
-                                "あまり調子に乗らないでよね"
+                                ""
                             ]
                         },
                         {
@@ -23617,14 +23617,14 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\C[1]メラーサ\\C[0]"
+                                "\\C[1]Melarsa\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "もう近づかないで"
+                                "Don't come any closer."
                             ]
                         },
                         {
@@ -23692,7 +23692,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[2]コノハがロリモンを受胎している場合は代理が頼めません"
+                                "If Konoha is pregnant with Loli-mon, we cannot ask\nfor a substitute."
                             ]
                         },
                         {
@@ -23719,14 +23719,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\C[1]メラーサ\\C[0]"
+                                "\\C[1]Melarsa\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "自分のロリモンくらい自分で産みなさいよね！"
+                                "Just give birth to your own Loli-mon, won't you?!"
                             ]
                         },
                         {
@@ -23754,21 +23754,21 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\C[1]メラーサ\\C[0]"
+                                "\\C[1]Melarsa\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "でもあんたには借りがあるわ……"
+                                "But I owe you a favor... Fine, just this once..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 3,
                             "parameters": [
-                                "いいわ、今回だけよ……"
+                                ""
                             ]
                         },
                         {
@@ -23821,14 +23821,14 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "（パルを呼んで覗かせてやりましょう……）"
+                                "(Let's call Paru and let them take a peek...)"
                             ]
                         },
                         {
@@ -23883,21 +23883,21 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\C[1]メラーサ\\C[0]"
+                                "\\C[1]Melarsa\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "言っとくけど、産まなくてもアルヴァーン亭で食事させて"
+                                "Just so you know, even if you don't give birth, I\ncan still strengthen you by feeding you at the\nAlvaan Inn."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 3,
                             "parameters": [
-                                "強くすることもできるんだからね"
+                                ""
                             ]
                         },
                         {
@@ -23965,14 +23965,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "（パルを呼んで覗かせてやりましょう……）"
+                                "(Let's call Paru and let them take a peek...)"
                             ]
                         },
                         {
@@ -24021,9 +24021,9 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "\\C[22]♥誘惑en(v[261]>=50)",
-                                    "\\C[14]♠窃盗en(v[263]>=20)",
-                                    "\\C[3]☠攻撃en(v[263]>=100)"
+                                    "\\C[22]♥ Temptationen(v[261]>=50)",
+                                    "\\C[14]♠Theften(v[263]>=20)",
+                                    "\\C[3]☠ Attacken(v[263]>=100)"
                                 ],
                                 -2,
                                 -1,
@@ -24053,14 +24053,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[1]メラーサ\\C[0]"
+                                "\\C[1]Melarsa\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "何やってんの？"
+                                "What are you doing?"
                             ]
                         },
                         {
@@ -24208,14 +24208,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\C[1]メラーサ\\C[0]"
+                                "\\C[1]Melarsa\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "裏切り者……"
+                                "Traitor..."
                             ]
                         },
                         {
@@ -24290,14 +24290,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\C[1]メラーサ\\C[0]"
+                                "\\C[1]Melarsa\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "生意気な奴…！"
+                                "Cocky bastard...!"
                             ]
                         },
                         {
@@ -24754,14 +24754,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[1]メラーサ\\C[0]"
+                                "\\C[1]Melarsa\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "裏切り者……"
+                                "Traitor..."
                             ]
                         },
                         {
@@ -24836,14 +24836,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[1]メラーサ\\C[0]"
+                                "\\C[1]Melarsa\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "生意気な奴…！"
+                                "Cocky bastard...!"
                             ]
                         },
                         {
@@ -25401,7 +25401,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[2]メラーサはどうなったのだろうか……"
+                                "I wonder what happened to Melasa..."
                             ]
                         },
                         {
@@ -25427,7 +25427,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[2]※体験版では閲覧できません！"
+                                "\\C[2]※Cannot be viewed in the trial version!"
                             ]
                         },
                         {
@@ -25623,7 +25623,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[2]メラーサの様子は……"
+                                "\\C[2]'s appearance is..."
                             ]
                         },
                         {
@@ -25889,9 +25889,9 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "会話",
-                                    "ロリモン代理出産",
-                                    "if(v[1123]===10) ロリモン出産をパルに覗かせる"
+                                    "Conversation",
+                                    "Lolimon surrogate childbirth",
+                                    "if(v[1123]===10) Let Paru peek at the LoliMon giving birth"
                                 ],
                                 -2,
                                 0,
@@ -25930,21 +25930,21 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\C[1]バレッタ\\C[0]"
+                                "\\C[1]Baretta\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "あんたっていつもそうなの？"
+                                "Are you always like this? Quite the idiot, aren't\nyou..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "なかなかの……アホね"
+                                ""
                             ]
                         },
                         {
@@ -25982,21 +25982,21 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\C[1]バレッタ\\C[0]"
+                                "\\C[1]Baretta\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "ふーん？全然強そうには見えないけど……"
+                                "Hmmm? You don't look strong at all... Well, go\nahead and get carried away, if you want."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 3,
                             "parameters": [
-                                "まぁ、せいぜい調子に乗ってちょうだいよ"
+                                ""
                             ]
                         },
                         {
@@ -26023,14 +26023,14 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\C[1]バレッタ\\C[0]"
+                                "\\C[1]Baretta\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "なんかよう？うちもそんな暇じゃないんだわ"
+                                "What's up? I don't have time for that."
                             ]
                         },
                         {
@@ -26098,7 +26098,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[2]コノハがロリモンを受胎している場合は代理が頼めません"
+                                "If Konoha is pregnant with Loli-mon, we can't ask\nfor a substitute."
                             ]
                         },
                         {
@@ -26125,21 +26125,21 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\C[1]バレッタ\\C[0]"
+                                "\\C[1]Baretta\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "はぁ？なんであんたのロリモンをうちが"
+                                "Huh? Why do we have to give birth to your Loli-\nmon?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "産まないといけないのよ"
+                                ""
                             ]
                         },
                         {
@@ -26167,21 +26167,21 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\C[1]バレッタ\\C[0]"
+                                "\\C[1]Baretta\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "うぐ……でもまぁ……ちょっとは世話になってるし"
+                                "Ugh... Well, I guess... I have relied on you a\nbit, so I suppose it can't be helped this once."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 3,
                             "parameters": [
-                                "一回くらいは仕方ないわね"
+                                ""
                             ]
                         },
                         {
@@ -26234,14 +26234,14 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "（パルを呼んで覗かせてやりましょう……）"
+                                "(Let's call Paru and let them take a peek...)"
                             ]
                         },
                         {
@@ -26296,21 +26296,21 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\C[1]バレッタ\\C[0]"
+                                "\\C[1]Baretta\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "自分のお腹を痛めてこそ、真の魔法少女ってもんよ"
+                                "Only by hurting your own belly can you become a\ntrue magical girl. Get yourself together!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 3,
                             "parameters": [
-                                "出直しなさい！"
+                                ""
                             ]
                         },
                         {
@@ -26378,14 +26378,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "（パルを呼んで覗かせてやりましょう……）"
+                                "(Let's call Paru and let them take a peek...)"
                             ]
                         },
                         {
@@ -26434,9 +26434,9 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "\\C[22]♥誘惑en(v[261]>=50)",
-                                    "\\C[14]♠窃盗en(v[263]>=20)",
-                                    "\\C[3]☠攻撃en(v[263]>=100)"
+                                    "\\C[22]♥ Temptationen(v[261]>=50)",
+                                    "\\C[14]♠Theften(v[263]>=20)",
+                                    "\\C[3]☠ Attacken(v[263]>=100)"
                                 ],
                                 -2,
                                 -1,
@@ -26466,14 +26466,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[1]バレッタ\\C[0]"
+                                "\\C[1]Baretta\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ざんねーん、うちは男のちんぽしか興味ないんだわ"
+                                "Too bad, I'm only interested in men's cocks."
                             ]
                         },
                         {
@@ -26621,14 +26621,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\C[1]バレッタ\\C[0]"
+                                "\\C[1]Baretta\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ぐぇ……なんでそんなに強いのよ……"
+                                "Ugh... Why are you so strong..."
                             ]
                         },
                         {
@@ -26703,14 +26703,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\C[1]バレッタ\\C[0]"
+                                "\\C[1]Baretta\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "この卑怯者…！"
+                                "This coward...!"
                             ]
                         },
                         {
@@ -27167,14 +27167,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[1]バレッタ\\C[0]"
+                                "\\C[1]Baretta\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ぐぇ……なんでそんなに強いのよ……"
+                                "Guh... Why are you so strong..."
                             ]
                         },
                         {
@@ -27249,14 +27249,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[1]バレッタ\\C[0]"
+                                "\\C[1]Baretta\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "この卑怯者…！"
+                                "This coward...!"
                             ]
                         },
                         {
@@ -27872,7 +27872,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[2]バレッタはどうしてるんだろう…"
+                                "I wonder how Baretta is doing..."
                             ]
                         },
                         {
@@ -27898,7 +27898,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[2]※体験版では閲覧できません！"
+                                "\\C[2]※Cannot be viewed in the trial version!"
                             ]
                         },
                         {
@@ -28094,7 +28094,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[2]バレッタは今…"
+                                "Baretta is now..."
                             ]
                         },
                         {
@@ -28120,7 +28120,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[2]※体験版では閲覧できません！"
+                                "\\C[2]※Cannot be viewed in the trial version!"
                             ]
                         },
                         {
@@ -28154,7 +28154,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[2]バレッタは自力で脱獄した！"
+                                "Baretta escaped from prison on her own!"
                             ]
                         },
                         {
@@ -28380,7 +28380,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[2]バレッタはどうやら今から出産するらしい……"
+                                "Baretta seems to be about to give birth now..."
                             ]
                         },
                         {
@@ -28417,7 +28417,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[2]※体験版では閲覧できません！"
+                                "\\C[2]※Cannot be viewed in the trial version!"
                             ]
                         },
                         {
@@ -28704,9 +28704,9 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "会話",
-                                    "ロリモン代理出産",
-                                    "if(v[1123]===10) ロリモン出産をパルに覗かせる"
+                                    "Conversation",
+                                    "Lolimon surrogate childbirth",
+                                    "if(v[1123]===10) Let Paru peek at the LoliMon giving birth"
                                 ],
                                 -2,
                                 0,
@@ -28745,21 +28745,21 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\C[1]エイミ\\C[0]"
+                                "\\C[1]Amy\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "うわわわ！コノハさん！"
+                                "Uwawawa! Konoha-san! Th-this is no good!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "だ、だめですよお！"
+                                ""
                             ]
                         },
                         {
@@ -28797,21 +28797,21 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\C[1]エイミ\\C[0]"
+                                "\\C[1]Amy\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "あの時助けてもらってなかったら……って思うと"
+                                "When I think about how if you hadn't saved me back\nthen... it's so scary, so scary that I can't bear\nit."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 3,
                             "parameters": [
-                                "怖くて怖くてたまらないです"
+                                ""
                             ]
                         },
                         {
@@ -28828,21 +28828,21 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\C[1]エイミ\\C[0]"
+                                "\\C[1]Amy\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "でも、私たちは戦わないといけないんですよね"
+                                "But, we have to fight, right? I'll do my best!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 3,
                             "parameters": [
-                                "頑張ります！"
+                                ""
                             ]
                         },
                         {
@@ -28869,14 +28869,14 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\C[1]エイミ\\C[0]"
+                                "\\C[1]Amy\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "こんにちは、コノハさん"
+                                "Hello, Konoha-san."
                             ]
                         },
                         {
@@ -28944,7 +28944,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[2]コノハがロリモンを受胎している場合は代理が頼めません"
+                                "If Konoha is pregnant with Loli-mon, we can't ask\nfor a substitute."
                             ]
                         },
                         {
@@ -28971,14 +28971,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\C[1]エイミ\\C[0]"
+                                "\\C[1]Amy\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "えっ！私がコノハさんのロリモンをですか！？"
+                                "Eh! Are you saying that I'm Konoha-san's Loli-\nmon!?"
                             ]
                         },
                         {
@@ -29006,21 +29006,21 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\C[1]エイミ\\C[0]"
+                                "\\C[1]Amy\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "いえ、それくらいやります！やらせてください…！"
+                                "No, I'll do it! Please let me...! I'll give birth\nto a healthy Loli-mon!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 3,
                             "parameters": [
-                                "元気なロリモン、私産みます！"
+                                ""
                             ]
                         },
                         {
@@ -29073,14 +29073,14 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "（パルを呼んで覗かせてやりましょう……）"
+                                "(Let's call Paru and let her take a peek...)"
                             ]
                         },
                         {
@@ -29135,21 +29135,21 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\C[1]エイミ\\C[0]"
+                                "\\C[1]Amy\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "今体調があまりよくなくて……"
+                                "I'm not feeling well right now... I'm sorry..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 3,
                             "parameters": [
-                                "ごめんなさい…"
+                                ""
                             ]
                         },
                         {
@@ -29217,14 +29217,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "（パルを呼んで覗かせてやりましょう……）"
+                                "(Let's call Paru and let her take a peek...)"
                             ]
                         },
                         {
@@ -29273,9 +29273,9 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "\\C[22]♥誘惑en(v[261]>=50)",
-                                    "\\C[14]♠窃盗en(v[263]>=20)",
-                                    "\\C[3]☠攻撃en(v[263]>=100)"
+                                    "\\C[22]♥ Temptationen(v[261]>=50)",
+                                    "\\C[14]♠Theften(v[263]>=20)",
+                                    "\\C[3]☠ Attacken(v[263]>=100)"
                                 ],
                                 -2,
                                 -1,
@@ -29305,21 +29305,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[1]エイミ\\C[0]"
+                                "\\C[1]Amy\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "あ、あの私は……その！"
+                                "Ah, um... That's right! I'm only interested in\nhealthy boys... I'm sorry..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "健全な男子だけしか…興味なくて…その…ごめんなさい…"
+                                ""
                             ]
                         },
                         {
@@ -29467,14 +29467,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\C[1]エイミ\\C[0]"
+                                "\\C[1]Amy\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "あぐ……ど…どうして……"
+                                "Ahh... w-why..."
                             ]
                         },
                         {
@@ -29549,14 +29549,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\C[1]エイミ\\C[0]"
+                                "\\C[1]Amy\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "コノハさん、ひどいです！"
+                                "Konoha-san, that's terrible!"
                             ]
                         },
                         {
@@ -30013,14 +30013,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[1]エイミ\\C[0]"
+                                "\\C[1]Amy\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "あぐ……ど…どうして……"
+                                "Ahh... why..."
                             ]
                         },
                         {
@@ -30095,14 +30095,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[1]エイミ\\C[0]"
+                                "\\C[1]Amy\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "コノハさん、ひどいです！"
+                                "Konoha-san, that's terrible!"
                             ]
                         },
                         {
@@ -30660,7 +30660,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[2]エイミはどうなったのだろうか……"
+                                "I wonder what happened to \\C[2] Amy..."
                             ]
                         },
                         {
@@ -30686,7 +30686,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[2]※体験版では閲覧できません！"
+                                "\\C[2]※Cannot be viewed in the trial version!"
                             ]
                         },
                         {
@@ -30882,7 +30882,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[2]エイミの様子は……"
+                                "\\C[2]Amy's condition is..."
                             ]
                         },
                         {
@@ -30908,7 +30908,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[2]※体験版では閲覧できません！"
+                                "\\C[2]※Cannot be viewed in the trial version!"
                             ]
                         },
                         {
@@ -31190,14 +31190,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "何か落ちてるわ……紙に何か書いてある"
+                                "Something's fallen... There's something written on\nthe paper."
                             ]
                         },
                         {
@@ -31214,14 +31214,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[2]ツギノ……ウチアワセ"
+                                "\\C[2]Tsugi no... Uchiawase kekkai no dōku tsu"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　　　　　　　　　　ケッカイノドウクツ"
+                                ""
                             ]
                         },
                         {
@@ -31256,21 +31256,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "打ち合わせ……？"
+                                "A meeting...? In the cave of the barrier... I\nwonder what kind of meeting it is, going through\nall this trouble..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "結界の洞窟で……わざわざ一体何の打ち合わせかしら……"
+                                ""
                             ]
                         },
                         {

@@ -14936,45 +14936,28 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クエスト【掃除屋】"
+                                "Quest [Cleaner] \\C[2] Time limit: 1 minute. The\ngoal is to clean up 5 white sticky stains within\nthe time limit! \\C[1] Press the mash key!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "\\C[2]制限時間　１分 目標掃除数「５」"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "時間内に白いネバネバの汚れを掃除しろ！"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "\\C[1]決定キー「連打」！"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "face_du",
-                                0,
-                                1,
-                                1
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\C[2]よーい……"
+                                ""
                             ]
                         },
                         {
@@ -14991,7 +14974,24 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[2]スタート！"
+                                "Ready..."
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "face_du",
+                                0,
+                                1,
+                                1
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\C[2]Start!"
                             ]
                         },
                         {
@@ -16678,8 +16678,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "トイレを使う",
-                                    "使わない"
+                                    "Using the toilet",
+                                    "Not used"
                                 ],
                                 1,
                                 0,
@@ -17192,14 +17192,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[1]フレッド\\c[0]"
+                                "\\c[1]Fred\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "頑張れよ！"
+                                "Do your best!"
                             ]
                         },
                         {
@@ -17367,14 +17367,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "うひょー！いいじゃんか！"
+                                "Woohoo! That's great! Damn, if only I wasn't\nworking right now!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "ちきしょう仕事中じゃなかったらなー！"
+                                ""
                             ]
                         },
                         {
@@ -17401,14 +17401,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "新参くせーのにこんなとこ来れるなんて"
+                                "Impressive courage for a newbie like you to be\nable to come to a place like this."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "なかなかの度胸だな"
+                                ""
                             ]
                         },
                         {
@@ -18984,7 +18984,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "お仕事取らないでくださいっ！"
+                                "Please don't take my job away!"
                             ]
                         },
                         {
@@ -19011,14 +19011,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "頑張って踊らないと……っ"
+                                "I have to dance my best... because of... my\ndebt... ugh"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "借金が……うぅ"
+                                ""
                             ]
                         },
                         {
@@ -20080,14 +20080,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "気合い入ってんな！"
+                                "Are you putting in some effort? Do you want to\nrise up in the brothel? Or are you just a slut?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "娼館で成り上がりてぇのか？それともただの痴女か？"
+                                ""
                             ]
                         },
                         {
@@ -20114,14 +20114,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "地下街は一種の無法地帯だからよぉ"
+                                "The underground city is a kind of lawless zone, so\nbe careful not to get deceived, okay?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "騙されねぇように気をつけるこったな？"
+                                ""
                             ]
                         },
                         {
@@ -20312,7 +20312,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "へへ！魔法少女は小せえけど最高だな！"
+                                "Hehe! Magical girls may be small, but they're the\nbest!"
                             ]
                         },
                         {
@@ -20538,14 +20538,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "あなたも頑張ってるのね"
+                                "You're working hard too. Let's both do our best,\nokay?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "お互い頑張りましょうね！"
+                                ""
                             ]
                         },
                         {
@@ -20572,21 +20572,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "まだここで働かせてもらえるだけでありがたいわ"
+                                "I'm just grateful to be able to work here. When I\nsee them, who can no longer work outside, I feel\nlike I have to work even harder."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "外にいる仕事もできなくなった彼女達を見たらもっと"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "頑張らなきゃって思うの"
+                                ""
                             ]
                         },
                         {
@@ -20777,7 +20777,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "なかなかいい尻じゃ！"
+                                "Nice ass you've got there!"
                             ]
                         },
                         {
@@ -21011,14 +21011,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "奴隷堕ちする魔法少女も多いのよね"
+                                "There are many magical girls who fall into\nslavery, maybe you too...?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "もしかしてあなたも…？"
+                                ""
                             ]
                         },
                         {
@@ -21045,21 +21045,21 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "奴隷堕ちする魔法少女も多いのよね"
+                                "There are many magical girls who fall into\nslavery, maybe you too...? Oh, it seems like I was\nmistaken."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "もしかしてあなたも…？"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "って違うみたいね"
+                                ""
                             ]
                         },
                         {
@@ -21096,14 +21096,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ここはへますると普通じゃいられなくなるけど"
+                                "This place is where you can't stay normal if you\nwant to make money."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "稼ぐにはもってこいの場所よ"
+                                ""
                             ]
                         },
                         {
@@ -21222,14 +21222,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "なんだ奴隷か"
+                                "What, are you a slave? Earn your keep properly."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "しっかり稼げよ？"
+                                ""
                             ]
                         },
                         {
@@ -21256,14 +21256,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "あぁん？奴隷刻印はねーみたいだが、好きでそんな"
+                                "Huh? It doesn't look like she has a slave mark,\nbut is she willingly dressing like that? She's a\nstrange woman."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "格好してんのかぁ？変な女だぜ"
+                                ""
                             ]
                         },
                         {
@@ -21300,7 +21300,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "見ねぇ顔だな。でもなかなかの上物だ"
+                                "You have an expressionless face. But you're quite\na fine specimen."
                             ]
                         },
                         {
@@ -21411,7 +21411,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ちょっと！私の客取らないでよ！"
+                                "Hey! Don't steal my customers!"
                             ]
                         },
                         {
@@ -21438,14 +21438,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "頑張って早く\\c[3]奴隷刻印\\c[0]を解除してもらわないと…"
+                                "I need to work hard and quickly get \\c[3]slave\nmark\\c[0] removed... I want to get out of this\nplace as soon as possible."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "こんなところ早く出ていきたいわ"
+                                ""
                             ]
                         },
                         {
@@ -21678,7 +21678,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "いいねいいね～！もっと揉ましてくれよぉ"
+                                "That feels good~! Please keep squeezing me more~"
                             ]
                         },
                         {
@@ -22026,21 +22026,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "おぉ？"
+                                "Oh? What is this erotic pussy...? Is it already\nwet?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "なんだこのエロいまんこは…？"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "もう濡れてるんじゃねぇか？"
+                                ""
                             ]
                         },
                         {
@@ -22379,21 +22379,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "こっちの「JP」は上のとは刺激がちげーからよ"
+                                "This 'JP' is more stimulating than the one above,\nso you can't play without having money because the\nminimum bet is high."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "まず最低掛け金がちげーから"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "金持ってねーとまず遊べねーぞ"
+                                ""
                             ]
                         },
                         {
@@ -22494,14 +22494,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "へへっ！いい尻してんなぁ！"
+                                "Hehe! You've got a nice ass! It's small and\namazing."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ちっちゃくて最高だぜ"
+                                ""
                             ]
                         },
                         {
@@ -22736,14 +22736,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "あんたも可愛いねぇ～～！"
+                                "You're cute too~! Shall I make you my spouse?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "わしの嫁にしてやろうか？"
+                                ""
                             ]
                         },
                         {
@@ -22770,14 +22770,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "実は初めてここに来たんじゃが、いやはや噂通りというか"
+                                "Actually, this is my first time coming here, but\nmy goodness, it's just as the rumors say, or\nrather, I can't believe such a place exists, I'm\nsurprised!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "まさかこんな場所があるなんての、びっくりじゃ！"
+                                ""
                             ]
                         },
                         {
@@ -22888,14 +22888,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "何？もしかして魔法少女？"
+                                "What? Are you a magical girl by any chance? You're\nso sloppy, so..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "だらしないんだからもう"
+                                ""
                             ]
                         },
                         {
@@ -22922,21 +22922,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[3]奴隷刻印\\c[0]をされたら最期よ。みんな解除されると"
+                                "\\c[3]Slave Branding\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "思って必死に働いてるけれどそんなことあるわけないわ"
+                                "If you get branded as a slave, it's the end.\nEveryone works desperately, thinking that they\nwill be released, but that's not going to happen.\nThey will just be used as tools for making money\nand their lives will end."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "金儲けの道具にされるだけで一生を終えることになるの"
+                                ""
                             ]
                         },
                         {
@@ -23062,14 +23062,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "あちゃー…"
+                                "Oh no..."
                             ]
                         },
                         {
@@ -23183,14 +23183,14 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "よし！完了ね！"
+                                "Alright! It's done!"
                             ]
                         },
                         {
@@ -23612,14 +23612,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ここで働きたいの？"
+                                "Do you want to work here? Please don't, I'll lose\nmy job."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "やめてよね、私の仕事が無くなっちゃうわ"
+                                ""
                             ]
                         },
                         {
@@ -23646,21 +23646,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "一応私も昔は魔法少女だったわ"
+                                "Well, I used to be a magical girl too, but I lost\nmy powers after giving birth to a baby once. Since\nthen, it's been like this all the time."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "でも一回ヒトの赤ちゃん産んじゃって力を失ったの"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "それからはもうずっとこんな感じ"
+                                ""
                             ]
                         },
                         {
@@ -24363,7 +24363,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "なんだぁ？おめぇも混ざりたいの？"
+                                "What's this? Do you want to join too?"
                             ]
                         },
                         {
@@ -24390,14 +24390,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "もうこいつガバガバだな～～"
+                                "This person is so loose~ Well, I've earned enough,\nso it might be a good time."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "まぁ十分稼いだし頃合いかもな～"
+                                ""
                             ]
                         },
                         {
@@ -24518,21 +24518,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "はっはっは！あんたも好きそうだなぁ？"
+                                "Hahaha! You seem to like it too, huh? But you\nstill have the power of a magical girl, don't you?\nI won't be fooled, hehe~"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "でもあんたまだ魔法少女の力を持ってるだろぉ？"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "騙されないぜぇ～へへ～"
+                                ""
                             ]
                         },
                         {
@@ -24559,14 +24559,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "力を無くしちまった魔法少女なんてこうなるのがオチさ"
+                                "This is what happens to a magical girl who has\nlost her powers. Be careful, you might end up like\nthis too!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "あんたもせいぜい気をつけるこったな！"
+                                ""
                             ]
                         },
                         {

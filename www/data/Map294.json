@@ -10930,14 +10930,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "部屋はどこでもいいよー"
+                                "Anywhere is fine for the room, as long as it's\navailable."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "空いてるとこならー"
+                                ""
                             ]
                         },
                         {
@@ -10973,14 +10973,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "裸でもなんでも大丈夫"
+                                "It's fine even if we're naked, it's 2000 Lo for\none night."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "一晩2000Loだよ"
+                                ""
                             ]
                         },
                         {
@@ -11007,14 +11007,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "いらっさーせー「HOTEL-CHU-LIP」にようこそ！"
+                                "Welcome to HOTEL-CHU-LIP! It's 2000 Lo for one\nnight."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "一晩2000Loだよ"
+                                ""
                             ]
                         },
                         {
@@ -11032,8 +11032,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "泊まる",
-                                    "泊まらない"
+                                    "Stay",
+                                    "Not staying"
                                 ],
                                 1,
                                 0,
@@ -11090,21 +11090,21 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "どうも～"
+                                "Hello~ Any room is fine, as long as it's\navailable."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 3,
                             "parameters": [
-                                "部屋はどこでもいいよー"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 3,
                             "parameters": [
-                                "空いてるとこならー"
+                                ""
                             ]
                         },
                         {
@@ -11131,7 +11131,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "お金足りないよ！"
+                                "I don't have enough money!"
                             ]
                         },
                         {
@@ -11255,7 +11255,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ちょっと！ここはあなたの部屋じゃないわよ"
+                                "Hey! This isn't your room, you know."
                             ]
                         },
                         {
@@ -11282,14 +11282,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ヴァンパイアって吸血鬼って言うんでしょ？"
+                                "Vampires are supposed to be bloodsuckers, right?\nDespite that, I've never seen them actually\nsucking blood."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "その割には、血を吸ってるところを見たことないわね"
+                                ""
                             ]
                         },
                         {

@@ -4411,7 +4411,7 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "会話"
+                                    "Conversation"
                                 ],
                                 -1,
                                 0,
@@ -4450,21 +4450,21 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[1]守衛\\c[0]"
+                                "\\c[1]Guard\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "いい身体してるな"
+                                "You have a nice body. I need to work harder too..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "私も頑張らないと…"
+                                ""
                             ]
                         },
                         {
@@ -4491,21 +4491,21 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[1]守衛\\c[0]"
+                                "\\c[1]Guard\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "この村のリーダーは「ルイーザ」様だ"
+                                "The leader of this village is Lady Louisa. I ask\nyou to be on your best behavior, magical girl."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "粗相のないようにたのむぞ魔法少女"
+                                ""
                             ]
                         },
                         {
@@ -4533,9 +4533,9 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "\\C[22]×♥誘惑en(v[261]>=300)",
-                                    "\\C[14]♠窃盗en(v[263]>=20)",
-                                    "\\C[3]☠攻撃en(v[263]>=100)"
+                                    "\\C[22]×♥ Temptationen(v[261]>=300)",
+                                    "\\C[14]♠Theften(v[263]>=20)",
+                                    "\\C[3]☠ Attacken(v[263]>=100)"
                                 ],
                                 -2,
                                 -1,
@@ -4565,21 +4565,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[1]守衛\\c[0]"
+                                "\\c[1]Guard\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "うちらに誘惑してどうするの？"
+                                "What's the point of tempting us? We're only\ninterested in cum."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "精子しか興味ないよ"
+                                ""
                             ]
                         },
                         {
@@ -4715,14 +4715,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[1]守衛\\c[0]"
+                                "\\c[1]Guard\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "なにするんだ！"
+                                "What are you doing!"
                             ]
                         },
                         {
@@ -4772,14 +4772,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[1]守衛\\c[0]"
+                                "\\c[1]Guard\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ちきしょー"
+                                "Damn it!"
                             ]
                         },
                         {
@@ -4842,14 +4842,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[1]守衛\\c[0]"
+                                "\\c[1]Guard\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "なんだおまえ、裏切り者め"
+                                "What are you doing, you traitor?"
                             ]
                         },
                         {
@@ -5824,21 +5824,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[1]守衛\\c[0]"
+                                "\\c[1]Guard\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "こらっ！おまえ！"
+                                "Hey! You there! Your crimes have been revealed!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "罪状がでてるぞ！"
+                                ""
                             ]
                         },
                         {
@@ -5846,9 +5846,9 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "わかったわよ",
-                                    "\\C[22]×♥お願いここは許して…en(v[261]>=300)",
-                                    "\\C[3]☠私に勝てるとでも思ってる？en(v[263]>=100)"
+                                    "Got it",
+                                    "Please, forgive me hereen(v[261]>=300)",
+                                    "Do you think you can defeat me?en(v[263]>=100)"
                                 ],
                                 -1,
                                 -1,
@@ -5898,14 +5898,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[1]守衛\\c[0]"
+                                "\\c[1]Guard\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "無理"
+                                "Impossible."
                             ]
                         },
                         {
@@ -5951,21 +5951,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[1]守衛\\c[0]"
+                                "\\c[1]Guard\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "うわっ！"
+                                "Whoa! You did it, huh?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "やりやがったな"
+                                ""
                             ]
                         },
                         {
@@ -6022,14 +6022,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[1]守衛\\c[0]"
+                                "\\c[1]Guard\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "やられ…た"
+                                "I've been... defeated."
                             ]
                         },
                         {
@@ -6092,14 +6092,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[1]守衛\\c[0]"
+                                "\\c[1]Guard\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "手こずらせやがってぇ"
+                                "You're giving me a hard time, damn it."
                             ]
                         },
                         {

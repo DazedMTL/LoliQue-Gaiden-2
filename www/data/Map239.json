@@ -17886,14 +17886,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[2]このネストストーンを魔力で制御できるようになった"
+                                "\\C[2]The enemies in the vicinity became docile\nafter being able to control this Nest Stone with\nmagic\\C[1]!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "\\C[1]付近の敵がおとなしくなった！"
+                                ""
                             ]
                         },
                         {
@@ -18065,14 +18065,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[2]ネストストーンの制御を解除しますか？"
+                                "Do you want to release the control of the Nest\nStone? If you release it, nearby enemies will\nattack."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "\\C[3]解除すると、付近の敵が襲ってきます"
+                                ""
                             ]
                         },
                         {
@@ -18080,8 +18080,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "解除する",
-                                    "解除しない"
+                                    "Release",
+                                    "Don't release it"
                                 ],
                                 -1,
                                 -1,
@@ -18128,7 +18128,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[2]ネストストーンの制御を解除した！"
+                                "Released the control of the Nest Stone!"
                             ]
                         },
                         {
@@ -18293,14 +18293,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[2]このネストストーンを魔力で制御した！"
+                                "\\C[2]I controlled this Nest Stone with magic!\n\\C[1]The nearby enemies became docile!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "\\C[1]付近の敵がおとなしくなった！"
+                                ""
                             ]
                         },
                         {
@@ -21347,8 +21347,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "ピッキングで解錠する",
-                                    "やめる"
+                                    "Unlocking with lock picking",
+                                    "Stop"
                                 ],
                                 1,
                                 0,
@@ -21443,21 +21443,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[2]ピッキングツール\\C[0]と\\C[2]ヘアピン\\C[0]を持っていれば"
+                                "If you have a \\C[2]lock-picking tool\\C[0] and a\n\\C[2]hairpin\\C[0], you might be able to challenge\nunlocking the door..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "鍵開けに挑戦できるかもしれないわね…"
+                                ""
                             ]
                         },
                         {
@@ -21891,7 +21891,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[2]炎スキルを使えるロリモンが蔓を焼き払った！"
+                                "The loli character who can use fire skills burned\naway the vines!"
                             ]
                         },
                         {
@@ -21943,7 +21943,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\C[2]炎スキルを使えるロリモンが蔓を焼き払った！"
+                                "The loli character who can use fire skills burned\naway the vines!"
                             ]
                         },
                         {
@@ -21978,14 +21978,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "宝箱に\\C[2]蔓\\C[0]が巻き付いてしまっている"
+                                "If there is someone in the party who can use the\nlevel 2 fire skill, they might be able to burn\naway the vines that have wrapped around the\ntreasure chest."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "\\C[3]炎スキルLV2\\C[0]を使える者がパーティに居れば焼き払えそうだ"
+                                ""
                             ]
                         },
                         {
@@ -22373,14 +22373,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "あらーとても綺麗な花ね。素敵"
+                                "Oh, what a beautiful flower. It's lovely."
                             ]
                         },
                         {
@@ -22407,14 +22407,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "とっても嫌な感じのする花ねー"
+                                "This flower gives off a really unpleasant vibe,\nhuh."
                             ]
                         },
                         {
@@ -22544,14 +22544,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "「聖なる白花」はもういらないでしょう"
+                                "Sacred White Flower is no longer needed, right?"
                             ]
                         },
                         {
@@ -22578,14 +22578,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "「聖なる白花」これ以上は無用ね"
+                                "Sacred White Flower is no longer necessary, right?"
                             ]
                         },
                         {
@@ -22631,14 +22631,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "これがきっと「聖なる白花」ね"
+                                "This must be the Sacred White Flower, right?"
                             ]
                         },
                         {
@@ -22665,14 +22665,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "「聖なる白花」……持って帰りますか"
+                                "Are you taking the Sacred White Flower back with\nyou?"
                             ]
                         },
                         {
@@ -22786,14 +22786,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「聖なる白花」はもういらないでしょう"
+                                "Sacred White Flower is no longer needed, right?"
                             ]
                         },
                         {
@@ -22820,14 +22820,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「聖なる白花」これ以上は無用ね"
+                                "Sacred White Flower is no longer necessary, right?"
                             ]
                         },
                         {
@@ -22921,14 +22921,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「聖なる白花」ね"
+                                "Sacred White Flower, huh."
                             ]
                         },
                         {
@@ -22955,14 +22955,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "相変わらず嫌な感じのする花ねー"
+                                "This flower still gives off a unpleasant vibe,\nhuh."
                             ]
                         },
                         {
@@ -23070,7 +23070,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[2]数字を揃えるような仕掛けがある…"
+                                "There is a mechanism to align \\C[2] numbers..."
                             ]
                         },
                         {
@@ -23151,7 +23151,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[2]何も起こらなかった"
+                                "Nothing happened."
                             ]
                         },
                         {
@@ -23317,7 +23317,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[2]数字を揃えるような仕掛けがある…"
+                                "There is a mechanism to align the numbers..."
                             ]
                         },
                         {
@@ -23398,7 +23398,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[2]何も起こらなかった"
+                                "\\C[2] Nothing happened."
                             ]
                         },
                         {
@@ -23564,7 +23564,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[2]右　　こ　ろ　し　な"
+                                "Right Kill"
                             ]
                         },
                         {
@@ -23589,7 +23589,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[1]観察スキル\\C[0]が発動！"
+                                "\\C[1]Observation Skill\\C[0]Activated!"
                             ]
                         },
                         {
@@ -23606,7 +23606,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[2]右　　５　６　４　７"
+                                "\\C[2]Right 5647"
                             ]
                         },
                         {
@@ -23705,7 +23705,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[2]右　　こ　ろ　し　な"
+                                "Right Kill"
                             ]
                         },
                         {

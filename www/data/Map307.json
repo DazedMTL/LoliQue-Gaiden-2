@@ -9756,8 +9756,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "迷宮B3Fへ戻る",
-                                    "エントランスへ戻る"
+                                    "Return to the B3F labyrinth",
+                                    "Return to the entrance"
                                 ],
                                 -2,
                                 -1,
@@ -10326,14 +10326,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[3]ここから先に進むと戻ることができません"
+                                "You cannot go back if you proceed from here. Will\nyou continue?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "進みますか？"
+                                ""
                             ]
                         },
                         {
@@ -10341,8 +10341,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "進む",
-                                    "進まない"
+                                    "Proceed",
+                                    "Don't proceed"
                                 ],
                                 -1,
                                 -1,
@@ -10721,14 +10721,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "バレッタ……！"
+                                "Baretta...!"
                             ]
                         },
                         {
@@ -10745,14 +10745,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[1]バレッタ\\C[0]"
+                                "\\C[1]Baretta\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "来たね、コノハ"
+                                "You're here, Konoha."
                             ]
                         },
                         {
@@ -10769,21 +10769,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[1]バレッタ\\C[0]"
+                                "\\C[1]Baretta\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "見てよこれ……凄いでしょ…"
+                                "Look at this... It's amazing, isn't it? It seems\nlike I've completely awakened. With the power of\nthe demon..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "完全に目覚めちゃったみたい。デーモンの力にね……"
+                                ""
                             ]
                         },
                         {
@@ -10843,14 +10843,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そんな……あんたそれじゃもう…"
+                                "No way... If you do that, then..."
                             ]
                         },
                         {
@@ -10867,21 +10867,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[1]バレッタ\\C[0]"
+                                "\\C[1]Baretta\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "魔法少女なんて、か弱い存在"
+                                "Magical girls... they're such weak beings, they're\nnot needed."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "必要ないもの"
+                                ""
                             ]
                         },
                         {
@@ -10898,21 +10898,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[1]バレッタ\\C[0]"
+                                "\\C[1]Baretta\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そう、デーモンが支配してこの世界を統べるのよ"
+                                "Yes, it's the best to have demons ruling and\ndominating this world, isn't it?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "最高でしょ？"
+                                ""
                             ]
                         },
                         {
@@ -10947,14 +10947,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "何を言ってるの……目を覚ますのよ……"
+                                "What are you saying... Wake up..."
                             ]
                         },
                         {
@@ -10983,21 +10983,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[1]バレッタ\\C[0]"
+                                "\\C[1]Baretta\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "コノハこそ、デーモンの声を聞いてごらんよ"
+                                "Konoha, listen to the voice of the demon... It's\namazing, you know... Hehe."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "素晴らしいよ……ふふっ"
+                                ""
                             ]
                         },
                         {
@@ -11032,21 +11032,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "どうやらもう、ダメみたいね……"
+                                "It seems like it's no use anymore... Baretta... I\nwill defeat you this time, for sure."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "バレッタ……あなたを…今度こそ倒す"
+                                ""
                             ]
                         },
                         {
@@ -11063,14 +11063,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[1]バレッタ\\C[0]"
+                                "\\C[1]Baretta\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あっはっは！やれるもんなら……やってみなさいよ！"
+                                "Ahahaha! If you think you can do it... then go\nahead and try!"
                             ]
                         },
                         {
@@ -11105,21 +11105,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "フライヤのためにも……！"
+                                "For Freya's sake...! Baretta, I will save you!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "バレッタ、あなたを救う！"
+                                ""
                             ]
                         },
                         {
@@ -11216,21 +11216,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[1]バレッタ\\C[0]"
+                                "\\C[1]Baretta\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "あぎゃああああああああ！！！"
+                                "Ahhhhhhh!!! That's... so stupid... ahhhhhhh..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "そんな…ばかな…ぁぁあああああ……"
+                                ""
                             ]
                         },
                         {
@@ -11247,14 +11247,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "バレッタ……これで終わりよ……"
+                                "Baretta... This is the end..."
                             ]
                         },
                         {
@@ -11271,21 +11271,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[1]バレッタ\\C[0]"
+                                "\\C[1]Baretta\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "……うちは……強いはず……なのにぃ……"
+                                "......Uchiha...... I should be strong...... but...\nahhhhh...... my body...... is burningggggg"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "あぁぁぁぁ……身体が……燃えるうううぅ"
+                                ""
                             ]
                         },
                         {
@@ -11587,21 +11587,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "フライヤの願い、これでなんとか叶えたわね……"
+                                "I somehow managed to fulfill Freya's wish... Well,\nmaybe I can't exactly say I fulfilled it."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "いや、叶えたとは言えないかもだけど"
+                                ""
                             ]
                         },
                         {
@@ -11618,14 +11618,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "少なくとも、今のままよりかは……"
+                                "At least, it's better than the way things are\nnow..."
                             ]
                         },
                         {
@@ -11687,21 +11687,21 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\C[3]貴様も同じだ……コノハ……"
+                                "\\C[3]You're the same... Konoha... Do you seek\npower... If destruction, slaughter, cannot be\nrestrained..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "汝、力を求むか……"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "破壊、殺戮、抑えられぬのであれば……"
+                                ""
                             ]
                         },
                         {
@@ -11736,21 +11736,21 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "うるさいっ……！"
+                                "Shut up...! I am who I am..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "私は私よ……"
+                                ""
                             ]
                         },
                         {
@@ -11946,21 +11946,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ぐあっ……！"
+                                "Guah...! Ugh... What kind of power is this..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "くう…なんて力なの……"
+                                ""
                             ]
                         },
                         {
@@ -11977,21 +11977,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[1]バレッタ\\C[0]"
+                                "\\C[1]Baretta\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "やはり、そんなものだったか、コノハ……"
+                                "As I thought, that's how it turned out, Konoha...\nIt's a shame..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "残念だったよ……"
+                                ""
                             ]
                         },
                         {
@@ -12008,21 +12008,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[1]バレッタ\\C[0]"
+                                "\\C[1]Baretta\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "でも大丈夫"
+                                "But it's okay, if it's Lord Devil... I'm sure he\nwill guide you."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "デヴィル様なら……きっとあなたを導いてくださるわ"
+                                ""
                             ]
                         },
                         {
@@ -12082,14 +12082,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "あぁっ…！やめ…て！"
+                                "Ahh...! Stop... it!"
                             ]
                         },
                         {
@@ -12106,21 +12106,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[1]バレッタ\\C[0]"
+                                "\\C[1]Baretta\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "敗者に選択権はないわよねぇ"
+                                "Losers don't have the right to choose, right? Now,\nlet's destroy this world together."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "さぁ、一緒に滅ぼしましょう、この世界を"
+                                ""
                             ]
                         },
                         {
@@ -12137,14 +12137,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[1]バレッタ\\C[0]"
+                                "\\C[1]Baretta\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "デーモンの世界として、創り変えるのよ……！"
+                                "I will transform it into a world of demons...!"
                             ]
                         },
                         {
@@ -12204,14 +12204,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "いやああああああぁぁぁぁぁぁぁ！！！！！"
+                                "Noooooooo!!!!!!"
                             ]
                         },
                         {
@@ -12247,14 +12247,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[14]イビルルートへ突入しました"
+                                "\\C[14]I entered the Evil Route\\C[3] and resigned\nfrom the Magical Girl Guild."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "\\C[3]魔法少女ギルドから脱退しました"
+                                ""
                             ]
                         },
                         {
@@ -12819,21 +12819,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[10]絶王ベルゼヴィア\\c[0]"
+                                "\\c[10]Zetsuou Beruzevia\\c[0] Oh...? A magical girl\ncoming this far alone..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ほぉ……？"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "魔法少女が単独でここまで……"
+                                ""
                             ]
                         },
                         {
@@ -12850,21 +12850,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[10]絶王ベルゼヴィア\\c[0]"
+                                "\\c[10]Zetsuou Beruzevia\\c[0] Without even breaking\nthrough the Gate of Ten Thousand Demons, you've\nentered the Flame Zone...? This is quite...\nperplexing..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "万魔の門を突破もせずに魔炎地帯を……？"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "これはまた……どういうことか……"
+                                ""
                             ]
                         },
                         {
@@ -12899,21 +12899,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ここに、デヴィルとかいうやつがいるのね"
+                                "So there's a person called Devil here, let me\nthrough."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "通しなさい"
+                                ""
                             ]
                         },
                         {
@@ -12942,52 +12942,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[10]絶王ベルゼヴィア\\c[0]"
+                                "\\c[10]Zetsuou Beruzevia\\c[0] is saying interesting\nthings... However, their strength seems to be\ngenuine."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "面白い事を言う……"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "だが、強さは本物のようです"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "A_face05",
-                                4,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\c[10]絶王ベルゼヴィア\\c[0]"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "裏付けられた強さの確信……そういうものを感じます"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "これはまた末恐ろしい魔法少女が転生したものだ"
+                                ""
                             ]
                         },
                         {
@@ -13004,21 +12973,52 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[10]絶王ベルゼヴィア\\c[0]"
+                                "\\c[10]Zetsuou Beruzevia\\c[0] I feel a conviction\nin their proven strength... This is another\nterrifying reincarnation of a magical girl."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "A_face05",
+                                4,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "だが、そう簡単にここを通すわけにはいきません……"
+                                "\\c[10]Zetsuou Beruzevia\\c[0], but I can't let you\npass so easily... Let me show you what true\ndespair looks like...!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "見せてあげよう、本当の絶望というものを…！"
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -13104,21 +13104,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[10]絶王ベルゼヴィア\\c[0]"
+                                "\\c[10]Zetsuou Beruzevia\\c[0]... Ah... This much...\nIs it..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "……かはっ……"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "………これほど…か…"
+                                ""
                             ]
                         },
                         {
@@ -13135,14 +13135,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[10]絶王ベルゼヴィア\\c[0]"
+                                "\\c[10]Zetsuou Beruzevia\\c[0] Could it be... a true\nmagical girl...? Is that what you are...?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "まさか…真の魔法少女……なのか…君は…"
+                                ""
                             ]
                         },
                         {
@@ -13177,21 +13177,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[6]コノハ\\c[0]"
+                                "\\c[6]Konoha\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "真の魔法少女なんかではないわよ"
+                                "I'm not some true magical girl, I am me."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "私は、私よ"
+                                ""
                             ]
                         },
                         {
@@ -13208,21 +13208,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[10]絶王ベルゼヴィア\\c[0]"
+                                "\\c[10]Zetsuou Beruzevia\\c[0] Hehe... I see... Well\nthen... Go ahead... I have lost..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "ふふ……そう…か"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "さぁ…行きたまえ……私は負けた……"
+                                ""
                             ]
                         },
                         {
@@ -13239,21 +13239,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[10]絶王ベルゼヴィア\\c[0]"
+                                "\\c[10]Zetsuou Beruzevia\\c[0] It would be good for\nyou to meet Lord Devil... You have the right to..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "デヴィル様に……会うといい……"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "君にはその権利があ……る"
+                                ""
                             ]
                         },
                         {
@@ -13537,14 +13537,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[6]コノハ\\c[0]"
+                                "\\c[6]Konoha\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "………。"
+                                ".........."
                             ]
                         },
                         {
@@ -13579,14 +13579,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[6]コノハ\\c[0]"
+                                "\\c[6]Konoha\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "デヴィルを倒して全てを終わらせる……"
+                                "Defeat Devil and bring everything to an end..."
                             ]
                         },
                         {
@@ -13712,14 +13712,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[10]絶王ベルゼヴィア\\c[0]"
+                                "Zetsuou Beruzevia, it's a shame. So, this is the\nextent of it..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "残念です。やはり、この程度でしたか……"
+                                ""
                             ]
                         },
                         {
@@ -13736,14 +13736,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[6]コノハ\\c[0]"
+                                "\\c[6]Konoha\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "あぅ……つ、強すぎる……"
+                                "Ahh... t-too strong..."
                             ]
                         },
                         {
@@ -13760,21 +13760,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[10]絶王ベルゼヴィア\\c[0]"
+                                "\\c[10]I thought it might be Zetsuou\nBeruzevia\\c[0]... but it seems I was mistaken."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "もしや……と思いましたが……"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "私の勘違いだったようです"
+                                ""
                             ]
                         },
                         {
@@ -13791,21 +13791,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[10]絶王ベルゼヴィア\\c[0]"
+                                "Zetsuou Beruzevia: Now, in the midst of despair,\ncontinue to give birth to our children... Kukuku."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "さぁ、絶望の中、永久に産み続けなさい"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "我々の子を……ククク"
+                                ""
                             ]
                         },
                         {
@@ -13847,21 +13847,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[6]コノハ\\c[0]"
+                                "\\c[6]Konoha\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ひぃ……嫌……！"
+                                "Hii... I hate this...! Ahhhhh! Ahhhhhh!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "あぁぁぁぁぁ！"
+                                ""
                             ]
                         },
                         {
@@ -14096,14 +14096,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[10]絶王ベルゼヴィア\\c[0]"
+                                "\\c[10]Zetsuou Beruzevia\\c[0] Now, there will be no\nmercy this time."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "さぁ、今度は手加減とはいきません"
+                                ""
                             ]
                         },
                         {
@@ -14120,28 +14120,28 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[10]絶王ベルゼヴィア\\c[0]"
+                                "\\c[10]Zetsuou Beruzevia\\c[0] I am the last\nfortress protecting Lord Devil. If you cannot\nsurpass me, then you cannot lay eyes on Lord\nDevil."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "デヴィル様を守る最後の砦、それが私です"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "私を超えられぬのならば、デヴィル様にお目通しするわけには"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "いきません"
+                                ""
                             ]
                         },
                         {
@@ -14176,21 +14176,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[6]コノハ\\c[0]"
+                                "\\c[6]Konoha\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "わかったわ。あなたを倒して、デヴィルの元へ行く"
+                                "I understand. I will defeat you and go to Lord\nDevil, that's all."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ただそれだけよ"
+                                ""
                             ]
                         },
                         {
@@ -14219,52 +14219,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[10]絶王ベルゼヴィア\\c[0]"
+                                "\\c[10]Zetsuou Beruzevia\\c[0] Beautiful... It's not\njust a bluff..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "美しい……"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ただの強がりではない…"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "A_face05",
-                                4,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\c[10]絶王ベルゼヴィア\\c[0]"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "まして、死を覚悟したわけでもなく、ただ己を信じいてる"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そういう顔です"
+                                ""
                             ]
                         },
                         {
@@ -14281,21 +14250,52 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[10]絶王ベルゼヴィア\\c[0]"
+                                "\\c[10]Zetsuou Beruzevia\\c[0], it's not that I have\nresigned myself to death, but rather, I have a\nface that believes in myself."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "A_face05",
+                                4,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "いいでしょう。お見せしましょう"
+                                "\\c[10]Zetsuou Beruzevia\\c[0] Very well. Allow me\nto show you the true meaning of despair...!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "本当の絶望というものを…！"
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -14381,21 +14381,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[10]絶王ベルゼヴィア\\c[0]"
+                                "\\c[10]Zetsuou Beruzevia\\c[0]... Ahh... Is this...\nit..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "……かはっ……"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "………これほど…か…"
+                                ""
                             ]
                         },
                         {
@@ -14412,14 +14412,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[10]絶王ベルゼヴィア\\c[0]"
+                                "\\c[10]Zetsuou Beruzevia\\c[0] So... you truly are a\nmagical girl..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "やはり…真の魔法少女……なのか…君は…"
+                                ""
                             ]
                         },
                         {
@@ -14454,21 +14454,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[6]コノハ\\c[0]"
+                                "\\c[6]Konoha\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "真の魔法少女なんかではないわよ"
+                                "I'm not just any ordinary magical girl, I am me."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "私は、私よ"
+                                ""
                             ]
                         },
                         {
@@ -14485,21 +14485,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[10]絶王ベルゼヴィア\\c[0]"
+                                "\\c[10]Zetsuou Beruzevia\\c[0] Hehe... I see... Well\nthen... Go ahead... I have lost..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "ふふ……そう…か"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "さぁ…行きたまえ……私は負けた……"
+                                ""
                             ]
                         },
                         {
@@ -14513,24 +14513,24 @@
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "\\c[10]絶王ベルゼヴィア\\c[0]"
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "デヴィル様に……会うといい……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "君にはその権利があ……る"
+                                "You have the right..."
                             ]
                         },
                         {
@@ -14832,14 +14832,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[6]コノハ\\c[0]"
+                                "\\c[6]Konoha\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "（ベルゼヴィア……）"
+                                "(Beruzevia...)"
                             ]
                         },
                         {
@@ -14874,14 +14874,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[6]コノハ\\c[0]"
+                                "\\c[6]Konoha\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "全てを終わらせましょう……"
+                                "Let's put an end to everything..."
                             ]
                         },
                         {
@@ -15007,14 +15007,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[10]絶王ベルゼヴィア\\c[0]"
+                                "\\c[10]Zetsuou Beruzevia\\c[0] I'm disappointed. So,\nthis is the extent of it..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "残念です。やはり、この程度でしたか……"
+                                ""
                             ]
                         },
                         {
@@ -15056,14 +15056,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[6]コノハ\\c[0]"
+                                "\\c[6]Konoha\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "あぅ……つ、強すぎる……"
+                                "Ahh... t-too strong..."
                             ]
                         },
                         {
@@ -15080,21 +15080,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[10]絶王ベルゼヴィア\\c[0]"
+                                "\\c[10]Zetsuou Beruzevia\\c[0] I thought...\nperhaps... but it seems I was mistaken."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "もしや……と思いましたが……"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "私の勘違いだったようです"
+                                ""
                             ]
                         },
                         {
@@ -15111,21 +15111,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[10]絶王ベルゼヴィア\\c[0]"
+                                "\\c[10]Zetsuou Beruzevia\\c[0] Now, in the midst of\ndespair, continue to give birth to our children\nforever... Kukuku."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "さぁ、絶望の中、永久に産み続けなさい"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "我々の子を……ククク"
+                                ""
                             ]
                         },
                         {
@@ -15167,21 +15167,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[6]コノハ\\c[0]"
+                                "\\c[6]Konoha\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ひぃ……嫌……！"
+                                "Hii... I hate it...! Ahhhhh!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "あぁぁぁぁぁ！"
+                                ""
                             ]
                         },
                         {
@@ -15426,14 +15426,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あれは……！？"
+                                "What is that...!?"
                             ]
                         },
                         {
@@ -15450,14 +15450,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[1]バレッタ\\C[0]"
+                                "\\C[1]Baretta\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "絶対許さないっ！ベルゼヴィアアアア！"
+                                "I won't forgive you! Belzeviaaaa!"
                             ]
                         },
                         {
@@ -15571,21 +15571,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[10]絶王ベルゼヴィア\\C[0]"
+                                "Belzevia, the Supreme King\\C[0] Fuhahahaha!\nExcellent, Baretta. Hatred is the essence of\npower. It seems you understand it well."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "フハハハハハハ！いいぞ、バレッタ"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "憎悪こそが、力の本質。よくわかっているようだ"
+                                ""
                             ]
                         },
                         {
@@ -15620,14 +15620,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "バレッタ！フライヤは……"
+                                "Baretta! Frya..."
                             ]
                         },
                         {
@@ -15684,28 +15684,28 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[1]バレッタ\\C[0]"
+                                "\\C[1]Baretta\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "コノハ、来てくれたんだね。そうよ、こいつがフライヤを"
+                                "Konoha, you came. Yes, this person killed Frya. I\nhappened to witness it and chased after them."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "殺したのよ。ちょうど目撃して、逃げたこいつを追いかけて"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "きたってわけ"
+                                ""
                             ]
                         },
                         {
@@ -15753,28 +15753,28 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[10]絶王ベルゼヴィア\\C[0]"
+                                "Did you chase after \\C[10]Supreme King\nBelzevia\\C[0]? What are you saying? I specially\ninvited you here. I must turn you back into a\nDevil Witch again, you know."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "追いかけてきた？何を言う、特別にここまで誘って"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "あげただけのこと。あなたを再びデビルウイッチにしないと"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "いけませんからねぇ"
+                                ""
                             ]
                         },
                         {
@@ -15809,14 +15809,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（よかった……バレッタが犯人じゃなかった！）"
+                                "(Thank goodness... Baretta wasn't the culprit!)"
                             ]
                         },
                         {
@@ -15937,21 +15937,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[1]バレッタ\\C[0]"
+                                "\\C[1]Baretta\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "コノハ、手伝ってくれるわよね"
+                                "Konoha, you'll help me, right? This one is tough."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "手強いわよこいつ"
+                                ""
                             ]
                         },
                         {
@@ -16023,14 +16023,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "もちろんよ、倒しましょう！"
+                                "Of course, let's defeat them!"
                             ]
                         },
                         {
@@ -16047,28 +16047,28 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[10]絶王ベルゼヴィア\\C[0]"
+                                "Belzevia, the Supreme King... Fufu, how clever of\nyou. Well, it's fine. I can create clones, so I'll\ntake care of each of you personally."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ふふ、小賢しいですね。まぁいいでしょう"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "私は分身することもできますから、それぞれお相手して"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "あげないとね"
+                                ""
                             ]
                         },
                         {
@@ -16085,21 +16085,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[1]バレッタ\\C[0]"
+                                "\\C[1]Baretta\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "こいつっ！本当、ふざけてる……！"
+                                "This person... Seriously, they're messing\naround...! Konoha, let's go!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "コノハ、いくわよ！"
+                                ""
                             ]
                         },
                         {
@@ -16134,14 +16134,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ええ！フライヤの仇、取りましょう！"
+                                "Yes! Let's avenge Frya!"
                             ]
                         },
                         {
@@ -16245,45 +16245,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[10]絶王ベルゼヴィア\\C[0]"
+                                "Belzevia, the Supreme King... haah...!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "がはぁっ……！"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 1,
-                            "parameters": [
-                                "A_face05",
-                                4,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\C[10]絶王ベルゼヴィア\\C[0]"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "まさか……この私が……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "……ぐほぉ……ぉぉお……"
+                                ""
                             ]
                         },
                         {
@@ -16300,21 +16269,52 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[10]絶王ベルゼヴィア\\C[0]"
+                                "\\C[10]Supreme King Belzevia\\C[0] No way... me...\nguh... ohhh..."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "A_face05",
+                                4,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "デヴィル様……何卒……お力を…"
+                                "\\C[10]Supreme King Belzevia\\C[0], Devil-sama...\nPlease... lend me your power... Devil-sama...!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "……デヴィル様……！"
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -16331,14 +16331,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[1]バレッタ\\C[0]"
+                                "\\C[1]Baretta\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "そうはいかないわ"
+                                "It won't go that way."
                             ]
                         },
                         {
@@ -16373,14 +16373,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "バレッタ、早くとどめを！"
+                                "Baretta, finish them off quickly!"
                             ]
                         },
                         {
@@ -16406,14 +16406,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[10]絶王ベルゼヴィア\\C[0]"
+                                "Supreme King Belzevia...\nHiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii!?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "……ひぎゃああああ！？"
+                                ""
                             ]
                         },
                         {
@@ -16697,7 +16697,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[1]バレッタ\\C[0]"
+                                "\\C[1]Baretta\\C[0]"
                             ]
                         },
                         {
@@ -16739,14 +16739,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "消滅……した？"
+                                "Disappeared...?"
                             ]
                         },
                         {
@@ -16763,21 +16763,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[1]バレッタ\\C[0]"
+                                "\\C[1]Baretta\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ふう……倒せたみたいね"
+                                "Phew... Looks like we managed to defeat them.\nThank you, Konoha. We wouldn't have been able to\ndo it without you."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "コノハありがとう、あんたいなかったら無理だったわ"
+                                ""
                             ]
                         },
                         {
@@ -16812,14 +16812,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "バレッタも無事で良かったわ"
+                                "I'm glad Baretta is safe."
                             ]
                         },
                         {
@@ -16836,21 +16836,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[1]バレッタ\\C[0]"
+                                "\\C[1]Baretta\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "さっき言ってたデヴィルってのが……デーモンの親玉…？"
+                                "So, the Devil you mentioned earlier... is the boss\nof the demons? They're waiting ahead, huh?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "この先にそいつがいるのね"
+                                ""
                             ]
                         },
                         {
@@ -16885,14 +16885,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "きっとそうね。バレッタはどうする？"
+                                "I'm sure that's the case. What about Baretta?"
                             ]
                         },
                         {
@@ -16909,21 +16909,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[1]バレッタ\\C[0]"
+                                "\\C[1]Baretta\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "そうね、このまま行くのもいいけどうちは一度フライヤの元へ"
+                                "Yeah, it's fine to continue like this, but I want\nto report to Frya once. There's also the matter of\nthe corpses."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "報告したい。亡骸のこともあるし"
+                                ""
                             ]
                         },
                         {
@@ -16958,21 +16958,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "わかったわ。フライヤの方は任せるわね"
+                                "Alright, I understand. I'll leave it to Frya. I'll\ngo and see the Devil myself."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "私は、デヴィルの元へ行ってみる"
+                                ""
                             ]
                         },
                         {
@@ -16989,14 +16989,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[1]バレッタ\\C[0]"
+                                "\\C[1]Baretta\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "きっと敵は強大だぞ……一人で大丈夫？"
+                                "The enemy is surely formidable... Are you okay by\nyourself?"
                             ]
                         },
                         {
@@ -17031,21 +17031,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "はっきりわからないんだけど、そのデヴィルってのは……"
+                                "I'm not exactly sure, but for some reason, I feel\nlike I know that Devil"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "なぜか知ってる気がするのよね"
+                                ""
                             ]
                         },
                         {
@@ -17062,21 +17062,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[1]バレッタ\\C[0]"
+                                "\\C[1]Baretta\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "そうか……あんたはきっと…この戦いのキーとなる存在"
+                                "I see... You must have been special since the time\nof reincarnation, destined to be the key to this\nbattle. I'll leave the rest to you from here on."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "転生の時から普通じゃなかった。ここから先は任せるよ"
+                                ""
                             ]
                         },
                         {
@@ -17136,14 +17136,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ええ、任せて……”終焉”という予言、必ず変えてみせるわ"
+                                "Yes, leave it to me... I will definitely change\nthe prophecy of destruction."
                             ]
                         },
                         {
@@ -17367,14 +17367,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "あぐぁっ…！なんていう……強さなの…"
+                                "Ahh...! What kind of... strength is this..."
                             ]
                         },
                         {
@@ -17391,14 +17391,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[1]バレッタ\\C[0]"
+                                "\\C[1]Baretta\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "くっそ……強すぎる…"
+                                "Dammit... Too strong..."
                             ]
                         },
                         {
@@ -17415,59 +17415,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[10]絶王ベルゼヴィア\\C[0]"
+                                "\\C[10]The Demon King Belzevia\\C[0] was still a\nfleeting existence, a magical girl..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "まだまだ儚い存在であったな"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "魔法少女……"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 1,
-                            "parameters": [
-                                "A_face05",
-                                4,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\C[10]絶王ベルゼヴィア\\C[0]"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "バレッタは再教育を施し、戒めの炎を引き剥がす"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "コノハは……必要ないですね。むしろ余計な事をしても"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "後々面倒になるでしょう"
+                                ""
                             ]
                         },
                         {
@@ -17484,14 +17446,52 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[10]絶王ベルゼヴィア\\C[0]"
+                                "\\C[10]The Demon King Belzevia\\C[0], Baretta, has\nundergone reeducation, while Konoha, who has shed\nthe flames of admonition... It's not necessary. In\nfact, it would only cause trouble later on."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "A_face05",
+                                4,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "永久の牢獄へ……"
+                                "Belzevia, the Supreme King, to the eternal\nprison..."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -17739,14 +17739,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "バレッタ……！"
+                                "Baretta...!"
                             ]
                         },
                         {
@@ -17763,14 +17763,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[1]バレッタ\\C[0]"
+                                "\\C[1]Baretta\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "来たね、コノハ"
+                                "You're here, Konoha."
                             ]
                         },
                         {
@@ -17787,21 +17787,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[1]バレッタ\\C[0]"
+                                "\\C[1]Baretta\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "見てよこれ……凄いでしょ…"
+                                "Look at this... It's amazing, isn't it? It seems\nlike I've completely awakened. With the power of\nthe demon..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "完全に目覚めちゃったみたい。デーモンの力にね……"
+                                ""
                             ]
                         },
                         {
@@ -17861,14 +17861,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そんな……あんたそれじゃもう…"
+                                "No... If you do that, then..."
                             ]
                         },
                         {
@@ -17885,21 +17885,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[1]バレッタ\\C[0]"
+                                "\\C[1]Baretta\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "魔法少女なんて、か弱い存在"
+                                "We don't need weak beings like magical girls."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "必要ないもの"
+                                ""
                             ]
                         },
                         {
@@ -17916,21 +17916,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[1]バレッタ\\C[0]"
+                                "\\C[1]Baretta\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そう、デーモンが支配してこの世界を統べるのよ"
+                                "Yes, it's the best to have demons ruling and\ndominating this world, isn't it?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "最高でしょ？"
+                                ""
                             ]
                         },
                         {
@@ -17965,14 +17965,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "何を言ってるの……目を覚ますのよ……"
+                                "What are you saying... Wake up..."
                             ]
                         },
                         {
@@ -18001,21 +18001,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[1]バレッタ\\C[0]"
+                                "\\C[1]Baretta\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "コノハこそ、デーモンの声を聞いてごらんよ"
+                                "Konoha, listen to the voice of the demon... It's\namazing, hehe."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "素晴らしいよ……ふふっ"
+                                ""
                             ]
                         },
                         {
@@ -18050,21 +18050,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "どうやらもう、ダメみたいね……"
+                                "It seems like it's no use anymore... Baretta... I\nwill defeat you this time for sure."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "バレッタ……あなたを…今度こそ倒す"
+                                ""
                             ]
                         },
                         {
@@ -18081,14 +18081,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[1]バレッタ\\C[0]"
+                                "\\C[1]Baretta\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あっはっは！やれるもんなら……やってみなさいよ！"
+                                "Ahahaha! If you think you can do it... then go\nahead and try!"
                             ]
                         },
                         {
@@ -18123,21 +18123,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "フライヤのためにも……！"
+                                "For Freya's sake...! Baretta, I will save you!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "バレッタ、あなたを救う！"
+                                ""
                             ]
                         },
                         {
@@ -18241,21 +18241,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[1]バレッタ\\C[0]"
+                                "\\C[1]Baretta\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "あぎゃああああああああ！！！"
+                                "Ahhhhhhh!!! That's... so stupid... ahhhhhhh..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "そんな…ばかな…ぁぁあああああ……"
+                                ""
                             ]
                         },
                         {
@@ -18272,14 +18272,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "バレッタ……これで終わりよ……"
+                                "Baretta... This is the end..."
                             ]
                         },
                         {
@@ -18296,21 +18296,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[1]バレッタ\\C[0]"
+                                "\\C[1]Baretta\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "……うちは……強いはず……なのにぃ……"
+                                "......Uchiha......I should be\nstrong......but......ahhhhhh......my body......is\nburningggggg"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "あぁぁぁぁ……身体が……燃えるうううぅ"
+                                ""
                             ]
                         },
                         {
@@ -18612,21 +18612,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "フライヤの願い、これでなんとか叶えたわね……"
+                                "I managed to fulfill Freya's wish... well, maybe I\ncan't exactly say I fulfilled it."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "いや、叶えたとは言えないかもだけど"
+                                ""
                             ]
                         },
                         {
@@ -18643,14 +18643,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "少なくとも、今のままよりかは……"
+                                "At least, it's better than the way things are\nnow..."
                             ]
                         },
                         {
@@ -18712,21 +18712,21 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\C[3]貴様も同じだ……コノハ……"
+                                "\\C[3]You're the same... Konoha... Do you seek\npower... If destruction, slaughter, cannot be\nrestrained..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "汝、力を求むか……"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "破壊、殺戮、抑えられぬのであれば……"
+                                ""
                             ]
                         },
                         {
@@ -18761,21 +18761,21 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "うるさいっ……！"
+                                "Shut up...! I am me..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "私は私よ……"
+                                ""
                             ]
                         },
                         {
@@ -18980,21 +18980,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ぐあっ……！"
+                                "Guah...! Ugh... What kind of power is this..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "くう…なんて力なの……"
+                                ""
                             ]
                         },
                         {
@@ -19011,21 +19011,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[1]バレッタ\\C[0]"
+                                "\\C[1]Baretta\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "やはり、そんなものだったか、コノハ……"
+                                "As I thought, that's how it turned out, Konoha...\nIt's a shame..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "残念だったよ……"
+                                ""
                             ]
                         },
                         {
@@ -19042,21 +19042,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[1]バレッタ\\C[0]"
+                                "\\C[1]Baretta\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "でも大丈夫"
+                                "But it's okay, if it's Lord Devil... I'm sure he\nwill guide you."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "デヴィル様なら……きっとあなたを導いてくださるわ"
+                                ""
                             ]
                         },
                         {
@@ -19116,14 +19116,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "あぁっ…！やめ…て！"
+                                "Ahh...! Stop...!"
                             ]
                         },
                         {
@@ -19140,21 +19140,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[1]バレッタ\\C[0]"
+                                "\\C[1]Baretta\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "敗者に選択権はないわよねぇ"
+                                "Losers don't have the right to choose, right? Now,\nlet's destroy this world together."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "さぁ、一緒に滅ぼしましょう、この世界を"
+                                ""
                             ]
                         },
                         {
@@ -19171,14 +19171,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[1]バレッタ\\C[0]"
+                                "\\C[1]Baretta\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "デーモンの世界として、創り変えるのよ……！"
+                                "I will transform it into a world of demons...!"
                             ]
                         },
                         {
@@ -19238,14 +19238,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "いやああああああぁぁぁぁぁぁぁ！！！！！"
+                                "Noooooooo!!!!!!"
                             ]
                         },
                         {
@@ -19281,14 +19281,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[14]イビルルートへ突入しました"
+                                "\\C[14]I entered the Evil Route\\C[3] and resigned\nfrom the Magical Girl Guild."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "\\C[3]魔法少女ギルドから脱退しました"
+                                ""
                             ]
                         },
                         {
@@ -19729,14 +19729,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……！"
+                                "......！"
                             ]
                         },
                         {
@@ -19753,14 +19753,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[10]絶王ベルゼヴィア\\c[0]"
+                                "Welcome, \\c[10]Supreme King Belzevia\\c[0]. You've\ndone well to make it this far."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ようこそ。よくここまでたどり着きましたね"
+                                ""
                             ]
                         },
                         {
@@ -19820,14 +19820,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あんたは…！"
+                                "You...!"
                             ]
                         },
                         {
@@ -19844,14 +19844,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[1]バレッタ\\C[0]"
+                                "\\C[1]Baretta\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "うちもいるよん"
+                                "I'm here too, you know."
                             ]
                         },
                         {
@@ -19886,14 +19886,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "バレッタ！？"
+                                "Baretta!?"
                             ]
                         },
                         {
@@ -19931,21 +19931,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[10]絶王ベルゼヴィア\\c[0]"
+                                "As I said before, \\c[10]Supreme King\nBelzevia\\c[0], Konoha-san will not show any mercy\nwhen we meet again. This is where it ends for you."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "前に言ったように、次会う時は容赦しないと言いました"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "コノハさん、あなたにはここで終わってもらいますよ"
+                                ""
                             ]
                         },
                         {
@@ -19980,21 +19980,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ここまで来てそうは行かないわ……"
+                                "We've come this far, I won't let you go...\nBaretta... Your appearance..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "バレッタ…あんたその姿…"
+                                ""
                             ]
                         },
                         {
@@ -20011,21 +20011,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[1]バレッタ\\C[0]"
+                                "\\C[1]Baretta\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "そうよ、これがデビルウイッチの真の姿……"
+                                "That's right, this is the true form of the Devil\nWitch... Isn't it lovely? The greatest power is\noverflowing..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "素敵でしょう？最高の力が漲ってくるわ……"
+                                ""
                             ]
                         },
                         {
@@ -20060,21 +20060,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "バレッタ、必ず救ってあげるわ…"
+                                "Baretta, I will definitely save you... I will\ndefinitely grant Frya's wish...!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "フライヤの願い必ず叶える……！"
+                                ""
                             ]
                         },
                         {
@@ -20091,21 +20091,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[1]バレッタ\\C[0]"
+                                "\\C[1]Baretta\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "心配しないで、うちはもう救われたの……"
+                                "Don't worry, I have already been saved... thanks\nto Lord Devil... you know."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "デヴィル様のおかげで…ね"
+                                ""
                             ]
                         },
                         {
@@ -20122,21 +20122,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[10]絶王ベルゼヴィア\\c[0]"
+                                "\\c[10]Supreme King Belzevia\\c[0], can you\nwithstand our combined attack? Hehehe... Now,\nKonoha... come at me!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "我々二人の攻撃、耐えられますかな？"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "ふふふ……さぁ、コノハ……かかってくるがいい！"
+                                ""
                             ]
                         },
                         {
@@ -20196,14 +20196,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "絶対に勝つ……！"
+                                "I will definitely win...!"
                             ]
                         },
                         {
@@ -20230,28 +20230,28 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[10]絶王ベルゼヴィア\\c[0]"
+                                "\\c[10]Supreme King Belzevia\\c[0] I am the Supreme\nKing Belzevia, who oversees the Four Heavenly\nKings... So you are the magical girl called\nKonoha. I see, you truly live up to your title as\nthe savior..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "私は四天王を統括する絶王ベルゼヴィア……"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "あなたがコノハという魔法少女ですね"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "なるほど、救世主と呼ばれるだけはある……"
+                                ""
                             ]
                         },
                         {
@@ -20286,14 +20286,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "あんたがバレッタをそそのかして、ここに引き連れたのね"
+                                "So you're the one who instigated Baretta and\nbrought her here."
                             ]
                         },
                         {
@@ -20310,21 +20310,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[10]絶王ベルゼヴィア\\c[0]"
+                                "\\c[10]Supreme King Belzevia\\c[0] No, it's not like\nthat. She is the embodiment of her own will. It\nseems that the power of a weak magical girl is not\nneeded."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "違いますよ、彼女の意思そのものです"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "弱い魔法少女の力は要らないようです"
+                                ""
                             ]
                         },
                         {
@@ -20341,21 +20341,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[1]バレッタ\\C[0]"
+                                "\\C[1]Baretta\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "コノハ、あんた負けたんだからさっさとデーモンにつきなさいよ"
+                                "Konoha, you lost, so hurry up and join the demons.\nDo you really think you can win in this state?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "もしかしてこの状態で勝てると思ってる？"
+                                ""
                             ]
                         },
                         {
@@ -20390,21 +20390,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "当たり前じゃない。そのためにここまで来たんだから"
+                                "It's only natural. That's why I've come this far,\nBaretta. I will definitely save you..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "バレッタ、あんたを必ず救ってあげる……"
+                                ""
                             ]
                         },
                         {
@@ -20421,21 +20421,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[1]バレッタ\\C[0]"
+                                "\\C[1]Baretta\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "心配しないで、うちはもう救われたの……"
+                                "Don't worry, I have already been saved... thanks\nto Lord Devil... you know."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "デヴィル様のおかげで…ね"
+                                ""
                             ]
                         },
                         {
@@ -20452,21 +20452,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[10]絶王ベルゼヴィア\\c[0]"
+                                "\\c[10]Supreme King Belzevia\\c[0], can you\nwithstand our combined attack? Hehehe... Now,\nKonoha... come at me!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "我々二人の攻撃、耐えられますかな？"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "ふふふ……さぁ、コノハ……かかってくるがいい！"
+                                ""
                             ]
                         },
                         {
@@ -20526,14 +20526,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "絶対に勝つ……！"
+                                "I will definitely win...!"
                             ]
                         },
                         {
@@ -20647,21 +20647,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[10]絶王ベルゼヴィア\\c[0]"
+                                "\\c[10]Supreme King Belzevia\\c[0]... What...\nincredible... power... to have come this far..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "な……なんと……"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "ここまで……の力……とは"
+                                ""
                             ]
                         },
                         {
@@ -20678,21 +20678,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[1]バレッタ\\C[0]"
+                                "\\C[1]Baretta\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "…ああ……身体が……滅ぶ……嫌……"
+                                "...Ah... My body... is... falling apart... I don't\nwant this... Please... help me... Lord Belzevia..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "助けて…ベルゼヴィア…様"
+                                ""
                             ]
                         },
                         {
@@ -20727,21 +20727,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "油断したのかしら？"
+                                "Did you let your guard down? It seems like you\ndon't have the same vigor as before."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "さっきの威勢はないみたいね"
+                                ""
                             ]
                         },
                         {
@@ -20758,21 +20758,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[10]絶王ベルゼヴィア\\c[0]"
+                                "\\c[10]Supreme King Belzevia\\c[0]... Hehe...\nWhether you defeat me or not... in the end... Lord\nDevil will be there... In the depths of despair,\nyou will meet your final moments... Konoha..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "……ふふ…私を倒そうが……最後は…デヴィル様が"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "おられる…。絶望の中、最期を迎えるだろう…コノハ……"
+                                ""
                             ]
                         },
                         {
@@ -20789,14 +20789,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[1]バレッタ\\C[0]"
+                                "\\C[1]Baretta\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "あ……ぁ……コノハ……たす…け…て"
+                                "Ah... ah... Konoha... help... me..."
                             ]
                         },
                         {
@@ -20831,14 +20831,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "さよなら、バレッタ……"
+                                "Goodbye, Baretta..."
                             ]
                         },
                         {
@@ -20855,14 +20855,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[1]バレッタ\\C[0]"
+                                "\\C[1]Baretta\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ぎいやあああああああ！！！！"
+                                "Giiyaaaaaaaahhhhhhh!!!!!!"
                             ]
                         },
                         {
@@ -21431,21 +21431,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "フライヤ……バレッタは救ったわ……これで良かったとは"
+                                "Freya... I saved Baretta... though I can't say it\nwas for the best..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "言えないかもしれないけど……"
+                                ""
                             ]
                         },
                         {
@@ -21480,21 +21480,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "さらに最下層に行けば……"
+                                "If we go further down to the lowest level...\neverything will come to an end, won't it..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "全てが終わるのね……"
+                                ""
                             ]
                         },
                         {
@@ -21718,14 +21718,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "あぐぁっ…！なんていう……強さなの…"
+                                "Ahh...! What kind of... strength is this..."
                             ]
                         },
                         {
@@ -21742,14 +21742,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[1]バレッタ\\C[0]"
+                                "\\C[1]Baretta\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "アハハハ…！無様ねぇコノハ……"
+                                "Ahahaha...! How pathetic, Konoha..."
                             ]
                         },
                         {
@@ -21766,21 +21766,52 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[10]絶王ベルゼヴィア\\c[0]"
+                                "\\c[10]Supreme King Belzevia\\c[0], you were still\nsuch a fleeting existence, magical girl..."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "A_face05",
+                                4,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "まだまだ儚い存在であったな"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "魔法少女……"
+                                "Konoha, weak individuals like you are unnecessary."
                             ]
                         },
                         {
@@ -21797,45 +21828,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[10]絶王ベルゼヴィア\\c[0]"
+                                "\\c[10]Supreme King Belzevia\\c[0], to the eternal\nprison..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "デビルウイッチはバレッタだけで十分……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "コノハよ、君のような弱い者は不要だ"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 1,
-                            "parameters": [
-                                "A_face05",
-                                4,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\c[10]絶王ベルゼヴィア\\c[0]"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "永久の牢獄へ……"
+                                ""
                             ]
                         },
                         {
@@ -22354,14 +22354,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "バレッタ……！"
+                                "Baretta...!"
                             ]
                         },
                         {
@@ -22378,14 +22378,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[1]バレッタ\\C[0]"
+                                "\\C[1]Baretta\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "来たね、コノハ"
+                                "You're here, Konoha."
                             ]
                         },
                         {
@@ -22402,21 +22402,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[1]バレッタ\\C[0]"
+                                "\\C[1]Baretta\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "見てよこれ……凄いでしょ…"
+                                "Look at this... It's amazing, isn't it? It seems\nlike I've completely awakened. With the power of\nthe demon..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "完全に目覚めちゃったみたい。デーモンの力にね……"
+                                ""
                             ]
                         },
                         {
@@ -22476,14 +22476,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そんな……あんたそれじゃもう…"
+                                "No way... If you do that, then..."
                             ]
                         },
                         {
@@ -22500,21 +22500,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[1]バレッタ\\C[0]"
+                                "\\C[1]Baretta\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "魔法少女なんて、か弱い存在"
+                                "Magical girls... they're such weak beings, they're\nnot needed."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "必要ないもの"
+                                ""
                             ]
                         },
                         {
@@ -22531,21 +22531,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[1]バレッタ\\C[0]"
+                                "\\C[1]Baretta\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そう、デーモンが支配してこの世界を統べるのよ"
+                                "Yes, it's the best to have demons ruling and\ndominating this world, isn't it?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "最高でしょ？"
+                                ""
                             ]
                         },
                         {
@@ -22580,14 +22580,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "何を言ってるの……目を覚ますのよ……"
+                                "What are you saying... Wake up..."
                             ]
                         },
                         {
@@ -22616,21 +22616,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[1]バレッタ\\C[0]"
+                                "\\C[1]Baretta\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "コノハこそ、デーモンの声を聞いてごらんよ"
+                                "Konoha, listen to the voice of the demon... It's\namazing, you know... Hehe."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "素晴らしいよ……ふふっ"
+                                ""
                             ]
                         },
                         {
@@ -22665,21 +22665,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "どうやらもう、ダメみたいね……"
+                                "It seems like it's no use anymore... Baretta... I\nwill defeat you this time for sure."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "バレッタ……あなたを…今度こそ倒す"
+                                ""
                             ]
                         },
                         {
@@ -22696,14 +22696,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[1]バレッタ\\C[0]"
+                                "\\C[1]Baretta\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あっはっは！やれるもんなら……やってみなさいよ！"
+                                "Ahahaha! If you think you can do it... then go\nahead and try!"
                             ]
                         },
                         {
@@ -22738,21 +22738,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "フライヤのためにも……！"
+                                "For Freya's sake...! Baretta, I will save you!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "バレッタ、あなたを救う！"
+                                ""
                             ]
                         },
                         {
@@ -22849,21 +22849,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[1]バレッタ\\C[0]"
+                                "\\C[1]Baretta\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "あぎゃああああああああ！！！"
+                                "Ahhhhhhh!!! That's... so stupid... Ahhhhhh..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "そんな…ばかな…ぁぁあああああ……"
+                                ""
                             ]
                         },
                         {
@@ -22880,14 +22880,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "バレッタ……これで終わりよ……"
+                                "Baretta... This is the end..."
                             ]
                         },
                         {
@@ -22904,21 +22904,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[1]バレッタ\\C[0]"
+                                "\\C[1]Baretta\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "……うちは……強いはず……なのにぃ……"
+                                "......Uchiha...... I should be strong...... but...\nahhhhh...... my body...... is burningggg"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "あぁぁぁぁ……身体が……燃えるうううぅ"
+                                ""
                             ]
                         },
                         {
@@ -23220,21 +23220,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "フライヤの願い、これでなんとか叶えたわね……"
+                                "I somehow managed to fulfill Freya's wish... Well,\nmaybe I can't exactly say I fulfilled it."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "いや、叶えたとは言えないかもだけど"
+                                ""
                             ]
                         },
                         {
@@ -23251,14 +23251,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "少なくとも、今のままよりかは……"
+                                "At least, it's better than the way things are\nnow..."
                             ]
                         },
                         {
@@ -23320,21 +23320,21 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\C[3]貴様も同じだ……コノハ……"
+                                "\\C[3]You're the same... Konoha... Do you seek\npower... If destruction, slaughter, cannot be\nrestrained..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "汝、力を求むか……"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "破壊、殺戮、抑えられぬのであれば……"
+                                ""
                             ]
                         },
                         {
@@ -23369,21 +23369,21 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "うるさいっ……！"
+                                "Shut up...! I am me..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "私は私よ……"
+                                ""
                             ]
                         },
                         {
@@ -23579,21 +23579,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ぐあっ……！"
+                                "Guah...! Ugh... What kind of power is this..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "くう…なんて力なの……"
+                                ""
                             ]
                         },
                         {
@@ -23610,21 +23610,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[1]バレッタ\\C[0]"
+                                "\\C[1]Baretta\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "やはり、そんなものだったか、コノハ……"
+                                "As I thought, that's how it turned out, Konoha...\nIt's a shame..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "残念だったよ……"
+                                ""
                             ]
                         },
                         {
@@ -23641,21 +23641,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[1]バレッタ\\C[0]"
+                                "\\C[1]Baretta\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "でも大丈夫"
+                                "But it's okay, if it's Lord Devil... I'm sure he\nwill guide you."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "デヴィル様なら……きっとあなたを導いてくださるわ"
+                                ""
                             ]
                         },
                         {
@@ -23715,14 +23715,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "あぁっ…！やめ…て！"
+                                "Ahh...! Stop...!"
                             ]
                         },
                         {
@@ -23739,21 +23739,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[1]バレッタ\\C[0]"
+                                "\\C[1]Baretta\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "敗者に選択権はないわよねぇ"
+                                "Losers don't have the right to choose, right? Now,\nlet's destroy this world together."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "さぁ、一緒に滅ぼしましょう、この世界を"
+                                ""
                             ]
                         },
                         {
@@ -23770,14 +23770,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[1]バレッタ\\C[0]"
+                                "\\C[1]Baretta\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "デーモンの世界として、創り変えるのよ……！"
+                                "I will transform it into a world of demons...!"
                             ]
                         },
                         {
@@ -23837,14 +23837,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "いやああああああぁぁぁぁぁぁぁ！！！！！"
+                                "Noooooooo!!!!!!"
                             ]
                         },
                         {
@@ -23880,14 +23880,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[14]イビルルートへ突入しました"
+                                "Entered the Evil Route\\C[14] and resigned from the\nMagical Girl Guild\\C[3]."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "\\C[3]魔法少女ギルドから脱退しました"
+                                ""
                             ]
                         },
                         {
@@ -24412,14 +24412,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "バレッタ！フライヤは……"
+                                "Baretta! Fryer is..."
                             ]
                         },
                         {
@@ -24436,21 +24436,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[1]バレッタ\\C[0]"
+                                "\\C[1]Baretta\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "コノハ！フライヤは見たことのないデーモンに……"
+                                "Konoha! Fryer was... killed by a demon I've never\nseen before... right in front of my eyes..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "殺されてしまった……私の目の前で……"
+                                ""
                             ]
                         },
                         {
@@ -24485,14 +24485,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "じゃあ……バレッタはフライヤを守るために……"
+                                "Well then... Baretta, in order to protect Fryer..."
                             ]
                         },
                         {
@@ -24509,21 +24509,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[1]バレッタ\\C[0]"
+                                "\\C[1]Baretta\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "惜しくも逃がしてしまってここまで追いかけてきたんだけど"
+                                "I chased after them all the way here, but\nunfortunately, I don't have the courage to go any\nfurther from here..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ここから先は……行く勇気がない"
+                                ""
                             ]
                         },
                         {
@@ -24558,14 +24558,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "大丈夫、ここからは私が行く"
+                                "Don't worry, I'll go from here."
                             ]
                         },
                         {
@@ -24582,14 +24582,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[1]バレッタ\\C[0]"
+                                "\\C[1]Baretta\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "コノハ……"
+                                "Konoha..."
                             ]
                         },
                         {
@@ -24624,21 +24624,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "どうなるかわからないけど、きっとここで全てに片がつくわ"
+                                "I'm not sure what will happen, but I'm sure\neverything will be resolved here. Baretta, you\nshould go back. It's dangerous."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "バレッタはもう、戻っておいて。危険だから"
+                                ""
                             ]
                         },
                         {
@@ -24655,21 +24655,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[1]バレッタ\\C[0]"
+                                "\\C[1]Baretta\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "わかった。うちじゃきっと足手まといだ……"
+                                "I understand. I'll probably just be a burden at\nhome... I'll leave the rest to you."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "後は頼んだよ"
+                                ""
                             ]
                         },
                         {
@@ -24753,14 +24753,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "さぁいきましょう"
+                                "Now, let's go."
                             ]
                         },
                         {

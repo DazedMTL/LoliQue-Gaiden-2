@@ -16,7 +16,7 @@
         "volume": 80
     },
     "disableDashing": false,
-    "displayName": "宿屋２階",
+    "displayName": "Inn 2nd floor",
     "encounterList": [],
     "encounterStep": 30,
     "height": 30,
@@ -9295,14 +9295,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "誰だ！！！"
+                                "Who is it!!! Oh my god! Wait! Naked!!!!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "うわうわ！ちょっと！裸！！！！"
+                                ""
                             ]
                         },
                         {
@@ -9329,14 +9329,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ちょっと邪魔しないでもらえるかな？"
+                                "Could you please not disturb me? I'm about to get\nto a good part."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "これからいいところなんだ"
+                                ""
                             ]
                         },
                         {
@@ -9610,14 +9610,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "あなた部屋違うわよ！"
+                                "Are you in a different room? Are you okay?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "大丈夫？"
+                                ""
                             ]
                         },
                         {
@@ -9644,14 +9644,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "最初の魔法少女って古代時代に突然現れたんですって"
+                                "I heard that the first magical girl suddenly\nappeared in ancient times, and she had a strange\nname, I think."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "なんだか変な名前だった気がするわね"
+                                ""
                             ]
                         },
                         {
@@ -9668,21 +9668,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "それ以来転生してくる魔法少女は力こそ持っていても"
+                                "Since then, it seems that many magical girls who\nreincarnate lack knowledge of how to fight, even\nthough they possess power. It seems like they also\nhave no memories, so it must be tough for you too,\nbut do your best."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "戦うことを知らない子が多いみたいね。記憶も無いらしいし"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "あなたも大変でしょうけど、頑張ることね"
+                                ""
                             ]
                         },
                         {

@@ -16,7 +16,7 @@
         "volume": 80
     },
     "disableDashing": false,
-    "displayName": "魔導部屋",
+    "displayName": "Magic Room",
     "encounterList": [],
     "encounterStep": 30,
     "height": 30,
@@ -5849,21 +5849,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[1]側近\\C[0]"
+                                "\\C[1]Aide\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "コノハ殿、来てもらってすみません…"
+                                "Konoha-sama, I apologize for asking you to come...\nWe have an emergency situation."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "緊急事態が発生しております"
+                                ""
                             ]
                         },
                         {
@@ -5880,21 +5880,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "緊急事態？何事なの？"
+                                "An emergency situation? What happened? It seems\nlike the king is not here, but..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "国王がいないみたいだけど"
+                                ""
                             ]
                         },
                         {
@@ -5911,14 +5911,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[1]側近\\C[0]"
+                                "\\C[1]Aide\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "はい…まさにそのことで…"
+                                "Yes... It's exactly about that..."
                             ]
                         },
                         {
@@ -5935,21 +5935,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[1]側近\\C[0]"
+                                "\\C[1]Aide\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "コノハ殿、国王の見た目は普通に見ればただの「子ども」に"
+                                "Konoha-sama, if you look at the king's appearance\nnormally, he just looks like a child...  Note: The\ntranslation assumes that the king's appearance is\ndeceiving and makes him look younger than his\nactual age."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "見えるかと思います……"
+                                ""
                             ]
                         },
                         {
@@ -5966,28 +5966,28 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "え？"
+                                "Eh? Is that so...? What is it...?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "そう……よね？"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "それが何か…"
+                                ""
                             ]
                         },
                         {
@@ -6004,21 +6004,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[1]側近\\C[0]"
+                                "\\C[1]Aide\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "これはあまり知られていないのですが、国王のあの姿は実は"
+                                "This is not widely known, but the king's\nappearance is actually different. That..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "違うのです。あれは……"
+                                ""
                             ]
                         },
                         {
@@ -6035,14 +6035,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[1]側近\\C[0]"
+                                "\\C[1]Aide\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "一種の呪いの姿なのです"
+                                "It's a form of curse."
                             ]
                         },
                         {
@@ -6180,21 +6180,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "また……少しだけ思い出した……"
+                                "I... I remember a little... Something important...\nentrusted to me here..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "ここで何か重要なことを……託されて……"
+                                ""
                             ]
                         },
                         {
@@ -6211,21 +6211,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "もう少しで……思い出せそうなのに……"
+                                "Just a little more... I feel like I'm about to\nremember... Ugh..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "うう……"
+                                ""
                             ]
                         },
                         {
@@ -6252,21 +6252,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "また……少しだけ思い出した……"
+                                "I... I remember a little... Something important...\nentrusted to me here..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "ここで何か重要なことを……託されて……"
+                                ""
                             ]
                         },
                         {
@@ -6283,21 +6283,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "もう少しで……思い出せそうなのに……"
+                                "Just a little more... I feel like I'm about to\nremember... Ugh..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "うう……"
+                                ""
                             ]
                         },
                         {
@@ -6535,21 +6535,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "呪い？！"
+                                "A curse?! What does that mean!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "どういうこと！"
+                                ""
                             ]
                         },
                         {
@@ -6578,21 +6578,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[1]側近\\C[0]"
+                                "\\C[1]Aide\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "はい。説明いたします"
+                                "Yes. I will explain, Maleus, that is..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "マレウス、あれを"
+                                ""
                             ]
                         },
                         {
@@ -6618,14 +6618,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[1]宮廷魔道士マレウス\\C[0]"
+                                "\\C[1]Court Mage Maleus\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "はっ…"
+                                "Huh..."
                             ]
                         },
                         {
@@ -6890,14 +6890,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[1]宮廷魔道士マレウス\\C[0]"
+                                "\\C[1]Court Mage Maleus\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "コノハ殿、これを…"
+                                "Konoha, this..."
                             ]
                         },
                         {
@@ -6914,21 +6914,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "これは…？"
+                                "What is this...? An old... book..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "古い…書物ね……"
+                                ""
                             ]
                         },
                         {
@@ -6945,21 +6945,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[1]側近\\C[0]"
+                                "\\C[1]Aide\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "開いてはなりません……"
+                                "You must not open it... This book is called a\nmagic book \\C[3]grimoire\\C[0]."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "この本は魔導書\\C[3]グリモア\\C[0]と呼ばれるものです"
+                                ""
                             ]
                         },
                         {
@@ -7011,21 +7011,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "魔導書……"
+                                "A magic book... Does this have something to do\nwith the king's curse?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "これが国王の呪いと関係あるのね"
+                                ""
                             ]
                         },
                         {
@@ -7042,21 +7042,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[1]側近\\C[0]"
+                                "\\C[1]Aide\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "はい。数年前ですが、世界に散らばるというこの魔導書を"
+                                "Yes. Several years ago, luckily the king was able\nto find this magic book that is said to be\nscattered throughout the world. Without knowing\nthe horror of this book..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "運良く国王は見つけられました。この本の恐ろしさも知らず…"
+                                ""
                             ]
                         },
                         {
@@ -7073,21 +7073,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[1]側近\\C[0]"
+                                "\\C[1]Aide\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "このグリモアという魔導書は、どこかにいるという"
+                                "This magic book called the grimoire is said to be\nwritten by a transdimensional mage somewhere, and\nit has become a single story."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "超次元魔道士が執筆した、一つの物語となっております"
+                                ""
                             ]
                         },
                         {
@@ -7104,21 +7104,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "物語……"
+                                "Story... So it's a novel. Is there a problem with\nthat?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "小説ってことよね。それが何か問題でも？"
+                                ""
                             ]
                         },
                         {
@@ -7144,14 +7144,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[1]宮廷魔道士マレウス\\C[0]"
+                                "\\C[1]Court Mage Maleus\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "これは……ただの小説ではございませぬ……"
+                                "This... is not just a novel..."
                             ]
                         },
                         {
@@ -7203,21 +7203,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[1]宮廷魔道士マレウス\\C[0]"
+                                "\\C[1]Court Mage Maleus\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "この中身はただの白紙になっており、読んだ者本人が物語の"
+                                "The contents of this book are just blank pages,\nbut the person who reads it becomes the\nprotagonist of the story. It's a terrifying book."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "主人公となってしまうという、恐るべき本なのです"
+                                ""
                             ]
                         },
                         {
@@ -7234,21 +7234,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "物語の主人公……？！"
+                                "The protagonist of the story...?! What does that\nmean??"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "どういうこと？？"
+                                ""
                             ]
                         },
                         {
@@ -7265,21 +7265,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[1]宮廷魔道士マレウス\\C[0]"
+                                "\\C[1]Court Mage Maleus\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "この本の中には別次元の世界が構築されており、その中に"
+                                "Within this book, a different dimensional world is\nconstructed, and those who enter it are forcibly\nplaced inside. And once inside..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "強制的に入れられます。そして、入った者は…"
+                                ""
                             ]
                         },
                         {
@@ -7296,28 +7296,28 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[1]宮廷魔道士マレウス\\C[0]"
+                                "\\C[1]Court Mage Maleus\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "その世界でまず子どもの姿になってしまうのです。そして"
+                                "In that world, you first become a child. And until\nyou finish the story, you cannot break the curse\nor return..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "物語を終わらせるまでは呪いが解けることも、帰ってくる"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "こともできないのです……"
+                                ""
                             ]
                         },
                         {
@@ -7334,21 +7334,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "えぇ？！ということは、国王が本の中に"
+                                "Eh?! Does that mean the king got trapped inside\nthe book?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "入っちゃったってこと？"
+                                ""
                             ]
                         },
                         {
@@ -7365,28 +7365,28 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[1]側近\\C[0]"
+                                "\\C[1]Aide\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "はい。というのも、それは今日この本を開いたわけではなく"
+                                "Yes. Actually, several years ago, the king once\nended up inside the book, not by opening it today."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "その、数年前に実は一度国王は本の中に入ってしまっている"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "のです"
+                                ""
                             ]
                         },
                         {
@@ -7438,28 +7438,28 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[1]側近\\C[0]"
+                                "\\C[1]Aide\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "我々は慌てました。そして、宮廷魔道士や他の高名な魔術師を"
+                                "We were in a panic. And we called upon the court\nmage and other renowned sorcerers to use their\nmagic to bring the king back from inside the book\nto this world."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "呼んで、魔力を持って本の中からこちらの世界に呼び戻して"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "いたのです"
+                                ""
                             ]
                         },
                         {
@@ -7476,21 +7476,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "呼び戻した時に、国王は姿があんな子どもみたいになったまま"
+                                "So when he was brought back, the king remained\nlooking like a child?!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "だったってこと？！"
+                                ""
                             ]
                         },
                         {
@@ -7507,28 +7507,28 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[1]側近\\C[0]"
+                                "\\C[1]Aide\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "はい、そういうことです……"
+                                "Yes, that's right... However, it seems that the\nmagic that forcibly brought him back from inside\nthe book has run out here..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "しかし、ここにきて無理やり本の中から戻していた魔力が"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "切れてしまったのか…"
+                                ""
                             ]
                         },
                         {
@@ -7545,14 +7545,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[1]側近\\C[0]"
+                                "\\C[1]Aide\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "国王は数時間前、突然本の中に取り込まれてしまいました…"
+                                "The king was suddenly swallowed up inside the book\na few hours ago..."
                             ]
                         },
                         {
@@ -7569,21 +7569,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "なんてこと……"
+                                "What the... We have to do something, we need to\nrescue him!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "なんとかして、救出しないと！"
+                                ""
                             ]
                         },
                         {
@@ -7600,28 +7600,28 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[1]側近\\C[0]"
+                                "\\C[1]Aide\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "前にこちらに呼び戻した時のように魔力を集めれば"
+                                "If we gather magic power like we did when we\nbrought him back before, there shouldn't be a\nproblem for the time being. However, if we do\nthat, he will eventually be swallowed up by the\nbook again."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "一旦は問題ないでしょうが、それではまたいずれ本に"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "取り込まれてしまうでしょう"
+                                ""
                             ]
                         },
                         {
@@ -7638,21 +7638,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[1]側近\\C[0]"
+                                "\\C[1]Aide\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "このグリモアの呪いを解く方法を、なんとか探してもらいたい"
+                                "I want you to somehow search the ends of the world\nto find a way to break the curse of this\ngrimoire... even if it means traveling around!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "世界の果てを回ってでも…！"
+                                ""
                             ]
                         },
                         {
@@ -7669,14 +7669,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "呪いを……解く……方法……"
+                                "A way to... break... the curse..."
                             ]
                         },
                         {
@@ -7693,21 +7693,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[1]宮廷魔道士マレウス\\C[0]"
+                                "\\C[1]Court Mage Maleus\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "もちろん、コノハ殿一人で、とは言いません"
+                                "Of course, I don't mean to say that Lady Konoha\nwill be alone. We, including the mages, will\naccompany you on your journey."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "我々魔道士含め、旅にお供いたします"
+                                ""
                             ]
                         },
                         {
@@ -7747,14 +7747,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "待って。そうじゃないわ"
+                                "Wait. That's not it."
                             ]
                         },
                         {
@@ -7771,14 +7771,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[1]側近\\C[0]"
+                                "\\C[1]Aide\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "は？"
+                                "Huh?"
                             ]
                         },
                         {
@@ -7795,21 +7795,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "呪いを解く方法はもうわかってるじゃない"
+                                "We already know how to break the curse, didn't I\njust say until we finish the story?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "さっき言った「物語を終わらせるまで」って"
+                                ""
                             ]
                         },
                         {
@@ -7826,21 +7826,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "物語さえ終わらせることができれば、呪いも解けてここへ"
+                                "If we can just finish the story, then the curse\nwill be lifted and we'll be able to come back\nhere... That's what it means, right?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "帰ってくることができる……ってことなんでしょう？"
+                                ""
                             ]
                         },
                         {
@@ -7910,21 +7910,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "物語を終わらせる、というのが実際のところ何を指すのか"
+                                "Although it's unclear what exactly finishing the\nstory entails..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "あやふやではあるけれど…"
+                                ""
                             ]
                         },
                         {
@@ -7941,21 +7941,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "わかっている方法があるならそれを目指すのが"
+                                "If there is a known method, aiming for that would\nbe the quickest way."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "一番の近道じゃない"
+                                ""
                             ]
                         },
                         {
@@ -7972,28 +7972,28 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[1]宮廷魔道士マレウス\\C[0]"
+                                "\\C[1]Court Mage Maleus\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "で、ですが本の中に入った国王にそのことを告げる術が"
+                                "H-However, there is no way to inform the king who\nentered inside the book! The king remains unaware\nof everything, what on earth has happened..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ないのです！国王は何もわからないまま、一体どうなって"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "いるのか…"
+                                ""
                             ]
                         },
                         {
@@ -8010,21 +8010,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そうね……もしかしたらいい方法があるかもしれないわ"
+                                "I see... Maybe there's a good method after all.\nShow me that grimoire for a moment."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ちょっとその魔導書を見せて"
+                                ""
                             ]
                         },
                         {
@@ -8041,14 +8041,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[1]宮廷魔道士マレウス\\C[0]"
+                                "\\C[1]Court Mage Maleus\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "開かないように気をつけてください……"
+                                "Please be careful not to open it..."
                             ]
                         },
                         {
@@ -8177,14 +8177,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[1]側近\\C[0]"
+                                "\\C[1]Aide\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "コノハ殿！！！？？？"
+                                "Lady Konoha!!!???"
                             ]
                         },
                         {
@@ -8201,14 +8201,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[1]宮廷魔道士マレウス\\C[0]"
+                                "\\C[1]Court Mage Maleus\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ああああああああ！！！！！"
+                                "Aaaaaahhhhhhh!!!!!!"
                             ]
                         },
                         {
@@ -8260,21 +8260,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "私が入って、国王を連れ戻して来るわ"
+                                "I will go in and bring back the king, of course, I\nwill also finish that story."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "もちろん、その物語を終わらせてね"
+                                ""
                             ]
                         },
                         {
@@ -8291,21 +8291,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "呪いも解けて、本の中から戻って来れる"
+                                "If the curse is lifted and we can come back from\ninside the book, that would be fine, right?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "それでいいんでしょう？"
+                                ""
                             ]
                         },
                         {
@@ -8322,28 +8322,28 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[1]側近\\C[0]"
+                                "\\C[1]Aide\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "いや、しかし……！それはあまりにも無謀というもの…！"
+                                "No, but...! That is too reckless...! If Lady\nKonoha can't come back, what should I say to Lady\nLisa?!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "コノハ殿まで帰ってこれなくなったらリーサ殿に"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "なんて言えばいいのか！"
+                                ""
                             ]
                         },
                         {
@@ -8395,21 +8395,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "大丈夫よ、私が誰かわかってるでしょ？"
+                                "Don't worry, I know who I am. I am the daughter of\nthe hero Muramasa. I will definitely bring back\nthe king."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "英雄ムラマサの娘よ。必ず国王を連れて戻るわ"
+                                ""
                             ]
                         },
                         {
@@ -8541,21 +8541,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あの人には借りもあるしね…"
+                                "I also owe a debt to that person... King Leon came\nto my aid in that final battle..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "国王レオンはあの最後の戦いで私を助けに来てくれた…"
+                                ""
                             ]
                         },
                         {
@@ -8572,14 +8572,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "今度は私の番よ"
+                                "Now it's my turn."
                             ]
                         },
                         {
@@ -8596,14 +8596,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[1]側近\\C[0]"
+                                "\\C[1]Aide\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……っ！"
+                                "......!"
                             ]
                         },
                         {
@@ -8620,21 +8620,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "それじゃ、母上にはすぐ戻るって行っておいて"
+                                "Well then, I'll tell Mother that I'll be back soon\nand go for a little while."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ちょっと行ってくるわね"
+                                ""
                             ]
                         },
                         {
@@ -8824,21 +8824,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[1]側近\\C[0]"
+                                "\\C[1]Aide\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "うぅ……"
+                                "Ugh... Maleus... It has become even more\noutrageous..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "マレウスよ……さらにとんでもないことになってしまった…"
+                                ""
                             ]
                         },
                         {
@@ -8855,14 +8855,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[1]宮廷魔道士マレウス\\C[0]"
+                                "\\C[1]Court Mage Maleus\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "………。"
+                                ".........."
                             ]
                         },
                         {
@@ -9000,14 +9000,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "そう……私は…助けるために……来たのよ"
+                                "Yes... I came here... to save him."
                             ]
                         },
                         {
@@ -9024,21 +9024,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "つまり、ここは……本の中で、その本に…"
+                                "In other words, here... inside the book, that\nimportant person... has been captured..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "大事な人が…取り込まれて……"
+                                ""
                             ]
                         },
                         {
@@ -9055,21 +9055,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "国王……レオン……"
+                                "King... Leon... the king of my country... I came\nto... rescue him..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "私の国……の王を……助けに……"
+                                ""
                             ]
                         },
                         {
@@ -9096,14 +9096,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "そう……私は…助けるために……来たのよ"
+                                "Yes... I came here... to save him."
                             ]
                         },
                         {
@@ -9120,21 +9120,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "つまり、ここは……本の中で、その本に…"
+                                "In other words, here... inside the book, that\nimportant person... has been captured..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "大事な人が…取り込まれて……"
+                                ""
                             ]
                         },
                         {
@@ -9151,21 +9151,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "国王……レオン……"
+                                "King... Leon... the king of my country... I came\nto... rescue him..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "私の国……の王を……助けに……"
+                                ""
                             ]
                         },
                         {
@@ -9384,14 +9384,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[1]宮廷魔道士\\C[0]"
+                                "\\C[1]Court Mage\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……。"
+                                "......."
                             ]
                         },
                         {
@@ -9469,14 +9469,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[1]宮廷魔道士マレウス\\C[0]"
+                                "\\C[1]Court Mage Maleus\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……。"
+                                "......."
                             ]
                         },
                         {

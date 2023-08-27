@@ -16,7 +16,7 @@
         "volume": 80
     },
     "disableDashing": false,
-    "displayName": "万魔の門",
+    "displayName": "Gate of Ten Thousand Demons",
     "encounterList": [
         {
             "regionSet": [],
@@ -25945,7 +25945,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[2]門は開きそうにもない"
+                                "The \\C[2] gate doesn't seem like it will open."
                             ]
                         },
                         {
@@ -26280,14 +26280,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[2]閉ざされた万魔の門を開き、くぐった為"
+                                "The path to the Astalotro Maze has been opened by\nopening the sealed gate of the Tenma and passing\nthrough it...!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "アスタロト迷宮への道が開かれた……！"
+                                ""
                             ]
                         },
                         {
@@ -26533,14 +26533,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[2]閉ざされた万魔の門を開き、くぐった為"
+                                "The path to the Astalotro Maze has been opened by\nopening the sealed gate of the Tenma and passing\nthrough it...!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "アスタロト迷宮への道が開かれた……！"
+                                ""
                             ]
                         },
                         {
@@ -26796,7 +26796,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[2]門は開きそうにもない"
+                                "The \\C[2] gate doesn't seem like it will open."
                             ]
                         },
                         {
@@ -28222,14 +28222,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[2]このネストストーンを魔力で制御できるようになった"
+                                "\\C[2]The enemies in the vicinity became docile\nafter being able to control this Nest Stone with\nmagic\\C[1]!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "\\C[1]付近の敵がおとなしくなった！"
+                                ""
                             ]
                         },
                         {
@@ -28401,14 +28401,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[2]ネストストーンの制御を解除しますか？"
+                                "Do you want to release the control of the Nest\nStone? If you release it, nearby enemies will\nattack."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "\\C[3]解除すると、付近の敵が襲ってきます"
+                                ""
                             ]
                         },
                         {
@@ -28416,8 +28416,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "解除する",
-                                    "解除しない"
+                                    "Release",
+                                    "Don't release it"
                                 ],
                                 -1,
                                 -1,
@@ -28464,7 +28464,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[2]ネストストーンの制御を解除した！"
+                                "Released the control of the Nest Stone!"
                             ]
                         },
                         {
@@ -28629,14 +28629,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[2]このネストストーンを魔力で制御した！"
+                                "\\C[2]I controlled this Nest Stone with magic!\n\\C[1]The nearby enemies became docile!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "\\C[1]付近の敵がおとなしくなった！"
+                                ""
                             ]
                         },
                         {
@@ -29887,7 +29887,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[3]抗うことなく降伏することができます"
+                                "I can surrender without resisting."
                             ]
                         },
                         {
@@ -29895,8 +29895,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "降伏する",
-                                    "しない"
+                                    "Surrender",
+                                    "Not doing it"
                                 ],
                                 -1,
                                 -1,
@@ -32451,7 +32451,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[2]炎スキルを使えるロリモンが蔓を焼き払った！"
+                                "The loli character who can use fire skills burned\naway the vines!"
                             ]
                         },
                         {
@@ -32486,14 +32486,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "宝箱に\\C[2]蔓\\C[0]が巻き付いてしまっている"
+                                "If there is someone in the party who can use the\nlevel 3 fire skill, they might be able to burn\naway the vines that have wrapped around the\ntreasure chest."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "\\C[3]炎スキルLV3\\C[0]を使える者がパーティに居れば焼き払えそうだ"
+                                ""
                             ]
                         },
                         {
@@ -32920,7 +32920,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[2]炎スキルを使えるロリモンが蔓を焼き払った！"
+                                "The loli character who can use fire skills burned\naway the vines!"
                             ]
                         },
                         {
@@ -32955,14 +32955,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "宝箱に\\C[2]蔓\\C[0]が巻き付いてしまっている"
+                                "If there is someone in the party who can use the\nlevel 3 fire skill, they might be able to burn\naway the vines that have wrapped around the\ntreasure chest."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "\\C[3]炎スキルLV3\\C[0]を使える者がパーティに居れば焼き払えそうだ"
+                                ""
                             ]
                         },
                         {
@@ -33402,8 +33402,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "ピッキングで解錠する",
-                                    "やめる"
+                                    "Unlocking with lock picking",
+                                    "Stop"
                                 ],
                                 1,
                                 0,
@@ -33498,21 +33498,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[2]ピッキングツール\\C[0]と\\C[2]ヘアピン\\C[0]を持っていれば"
+                                "If you have a \\C[2]lock-picking tool\\C[0] and a\n\\C[2]hairpin\\C[0], you might be able to challenge\nunlocking the door..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "鍵開けに挑戦できるかもしれないわね…"
+                                ""
                             ]
                         },
                         {
@@ -33959,8 +33959,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "ピッキングで解錠する",
-                                    "やめる"
+                                    "Unlocking with lock picking",
+                                    "Stop"
                                 ],
                                 1,
                                 0,
@@ -34055,21 +34055,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[2]ピッキングツール\\C[0]と\\C[2]ヘアピン\\C[0]を持っていれば"
+                                "If you have a \\C[2]lock-picking tool\\C[0] and a\n\\C[2]hairpin\\C[0], you might be able to challenge\nunlocking the door..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "鍵開けに挑戦できるかもしれないわね…"
+                                ""
                             ]
                         },
                         {
@@ -34579,7 +34579,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[2]メアの紋章のマークがある台座だ"
+                                "It's a pedestal with \\C[2] Mea's crest mark."
                             ]
                         },
                         {
@@ -34604,7 +34604,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[2]メアの紋章を置きますか？"
+                                "Do you want to place Mea's crest mark?"
                             ]
                         },
                         {
@@ -34612,8 +34612,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -34852,7 +34852,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[3]……どこへ行く"
+                                "\\C[3]... Where are you going?"
                             ]
                         },
                         {
@@ -35093,7 +35093,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[2]ハーディスの紋章のマークがある台座だ"
+                                "It's a pedestal with the emblem of \\C[2] Hardis."
                             ]
                         },
                         {
@@ -35118,7 +35118,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[2]ハーディスの紋章を置きますか？"
+                                "Do you want to place the emblem of Hardis?"
                             ]
                         },
                         {
@@ -35126,8 +35126,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -35387,7 +35387,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[2]アフリオズの紋章のマークがある台座だ"
+                                "It's a pedestal with the emblem of \\C[2] Afurioz."
                             ]
                         },
                         {
@@ -35412,7 +35412,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[2]アフリオズの紋章を置きますか？"
+                                "Do you want to place the emblem of Afurioz?"
                             ]
                         },
                         {
@@ -35420,8 +35420,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -35681,7 +35681,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[2]サータの紋章のマークがある台座だ"
+                                "It's a pedestal with the emblem of Sata's crest."
                             ]
                         },
                         {
@@ -35706,7 +35706,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[2]サータの紋章を置きますか？"
+                                "Do you want to place Sata's crest?"
                             ]
                         },
                         {
@@ -35714,8 +35714,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -36378,28 +36378,28 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[1]天才鍛冶屋さん\\C[0]"
+                                "\\C[1]Genius Blacksmith\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "お？客が来たみてえだな"
+                                "Oh? Looks like we have a customer. If you want to\nbecome strong and defeat demons... you'll need our\nprecious jewel..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ゴリゴリに強くなって、デーモン倒したいなら……"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "うちの宝珠しかねぇな……"
+                                ""
                             ]
                         },
                         {
@@ -37113,21 +37113,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[1]天才鍛冶屋さん\\C[0]"
+                                "\\C[1]Genius Blacksmith\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "うちの宝珠は貴重なものが多い……"
+                                "We have many precious jewels here... If you have\nany high rarity jewels, I won't make more than two\nof them..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "レア度の高い宝珠は持ってる場合は二個は作らねぇからな…"
+                                ""
                             ]
                         },
                         {
@@ -37204,7 +37204,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[3]……どこへ行く"
+                                "\\C[3]... Where are you going?"
                             ]
                         },
                         {
@@ -37363,7 +37363,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[3]……どこへ行く"
+                                "\\C[3]... Where are you going?"
                             ]
                         },
                         {
@@ -37702,28 +37702,28 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[10]滅王メア\\c[0]"
+                                "\\c[10]Metsuou Mea\\c[0] Hmmm, to come here without\nhesitation... Don't think you can pass through the\ngate without defeating the Four Heavenly Kings...\nMagical Girl!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "ふーむ、迷いなくここに来るとは……"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "四天王倒さずして、門をくぐれると思うな……"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "魔法少女！"
+                                ""
                             ]
                         },
                         {
@@ -37769,21 +37769,21 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[10]滅王メア\\c[0]"
+                                "\\c[10]Metsuou Mea\\c[0] Gugigi...! S-Strong...!?\nWho on earth are you...?!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "グギギ……！つ、強い……！？"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "一体何者だ……！"
+                                ""
                             ]
                         },
                         {
@@ -37807,14 +37807,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "メア、貴様の負けだ。紋章を渡し、去れ"
+                                "Mea, you have lost. Hand over the emblem and\nleave. Prepare to face the punishment from Lord\nDevil."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "デヴィル様からの罰を待つがよい"
+                                ""
                             ]
                         },
                         {
@@ -37831,21 +37831,21 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[10]滅王メア\\c[0]"
+                                "\\c[10]Metsuou Mea\\c[0] S-So, that's not fair! I\ncan still fight... with my true power, for sure!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "そ、そんな！まだ戦えます……"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "我の本当の力できっと！"
+                                ""
                             ]
                         },
                         {
@@ -38172,21 +38172,21 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[10]滅王メア\\c[0]"
+                                "\\c[10]Metsuou Mea\\c[0] Kukuku...! Weak, weak...\nNow, how shall I cook you up..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "ククク…！"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "弱い弱い……さぁ、どう料理してくれようか……"
+                                ""
                             ]
                         },
                         {
@@ -38496,21 +38496,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[10]冥王ハーディス\\c[0]"
+                                "\\c[10]Lord Hades\\c[0] Please don't get carried\naway just because you defeated Mea... You insolent\nfool..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "メアを倒したからといって調子に乗らないでいただきたい…"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "この不届き者め……"
+                                ""
                             ]
                         },
                         {
@@ -38556,28 +38556,28 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[10]冥王ハーディス\\c[0]"
+                                "\\c[10]Lord Hades\\c[0] Gearrrr!!! You...! What kind\nof... strength... hehe, but... my soul is two\nhalves as one... as long as the other half does\nnot perish, I am immortal!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "ゲアアァ！！！おのれ……！なんという……強さ　"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "ふふ、だが……我の魂は二つで一つ……もう一つが滅ばぬ限り"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "不滅なのだ！"
+                                ""
                             ]
                         },
                         {
@@ -38601,14 +38601,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ハーディス、貴様の負けだ。紋章を渡し、去れ"
+                                "Hades, you have lost. Hand over the emblem and\nleave. Prepare to face the punishment from Lord\nDevil."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "デヴィル様からの罰を待つがよい"
+                                ""
                             ]
                         },
                         {
@@ -38625,21 +38625,21 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[10]冥王ハーディス\\c[0]"
+                                "\\c[10]Lord Hades\\c[0], huh! It's not over yet! I\nam not dead... not from something like this!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "な！まだこれからだ！我はまだ死んではいない……"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "これくらいのことで！"
+                                ""
                             ]
                         },
                         {
@@ -38966,21 +38966,21 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[10]冥王ハーディス\\c[0]"
+                                "\\c[10]Lord Hades\\c[0] Kuhaha! I must humiliate\nthis pathetic magical girl until her appearance\nchanges..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "クハハ！無様な魔法少女め"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "姿形が変わるまでなぶり犯してやらねば……"
+                                ""
                             ]
                         },
                         {
@@ -39290,21 +39290,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[10]死王アフリオズ\\c[0]"
+                                "\\c[10]Shiou Afuriozu\\c[0] Who the hell are you...?\nTo take on Mea and Hades... Hmph... Interesting...\nI shall slaughter you, scum..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "何奴じゃ……？メアとハーディスをやるとは……"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "ふん……面白い……我が貴様を屠ってやろう……"
+                                ""
                             ]
                         },
                         {
@@ -39350,21 +39350,21 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[10]死王アフリオズ\\c[0]"
+                                "\\c[10]Shiou Afuriozu\\c[0] Nuga...! Did I\nunderestimate... such a powerful magical girl...!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "ヌガァァ…！見誤ったか……これほどの魔法少女は…"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "初めてだ…！"
+                                ""
                             ]
                         },
                         {
@@ -39388,14 +39388,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "アフリオズ、貴様の負けだ。紋章を渡し、去れ"
+                                "Afuriozu, you have lost. Hand over the emblem and\nleave. Prepare to face the punishment from Lord\nDevil."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "デヴィル様からの罰を待つがよい"
+                                ""
                             ]
                         },
                         {
@@ -39412,21 +39412,21 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[10]死王アフリオズ\\c[0]"
+                                "\\c[10]Shiou Afuriozu\\c[0] Kuh...! You... in a\nplace like this...! I will definitely seek revenge\nand show you..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "くっ……！おのれ……"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "こんなとこで……！必ずや復讐してみせよう……"
+                                ""
                             ]
                         },
                         {
@@ -39753,21 +39753,21 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[10]死王アフリオズ\\c[0]"
+                                "\\c[10]Shiou Afuriozu\\c[0], I thought you would\nentertain me a little longer... Well, fine. I'll\nlet you play with the pig."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "もう少し楽しませてくれるかと思ったが……"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "まぁいい、貴様は豚と戯れさせてやろう"
+                                ""
                             ]
                         },
                         {
@@ -40077,28 +40077,28 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[10]魔王サータ\\c[0]"
+                                "\\c[10]Oh, Lord Sata\\c[0], you're amazing... You're\nso strong, aren't you? Let's have a match, Lord\nSata... But I hope you won't regret it..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "いいねいいね～……強いですねあなた"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "いいでしょう、魔王サータが相手しましょう……"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "ですが、後悔しないといいですねぇ…"
+                                ""
                             ]
                         },
                         {
@@ -40144,21 +40144,21 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[10]魔王サータ\\c[0]"
+                                "\\c[10]Lord Sata\\c[0] Gieee...! What is this...!?\nYou..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "ギエエェェ…！"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "これは一体……！？貴様は……"
+                                ""
                             ]
                         },
                         {
@@ -40182,14 +40182,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "サータ、貴様の負けだ。紋章を渡し、去れ"
+                                " ??? (Unknown): Sata, you have lost. Hand over the\nemblem and leave. Prepare to face the punishment\nfrom Lord Devil."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "デヴィル様からの罰を待つがよい"
+                                ""
                             ]
                         },
                         {
@@ -40206,21 +40206,21 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[10]魔王サータ\\c[0]"
+                                "\\c[10]Lord Sata\\c[0] O-oh, please wait, Lord\nBelzevia...! It's not over yet... My true power is\nyet to come..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "お、お待ちをベルゼヴィア様…！"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "まだこれからです……私の本気はこれから…"
+                                ""
                             ]
                         },
                         {
@@ -40547,21 +40547,21 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[10]魔王サータ\\c[0]"
+                                "\\c[10]Lord Sata\\c[0], you were close, weren't you?\nWell, I suppose this is fate... Well then..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "惜しかったですねぇ"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "まぁこれも運命でしょう……それでは……"
+                                ""
                             ]
                         },
                         {
@@ -40885,14 +40885,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ほぉ……？"
+                                "Oh...? To defeat all Four Heavenly Kings with that\npower..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "その力で、全四天王を撃破……とは"
+                                ""
                             ]
                         },
                         {
@@ -40909,14 +40909,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[6]コノハ\\c[0]"
+                                "\\c[6]Konoha\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "誰……？"
+                                "Who...?"
                             ]
                         },
                         {
@@ -40944,21 +40944,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[10]絶王ベルゼヴィア\\c[0]"
+                                "\\c[10]Supreme King Belzevia\\c[0] I am the leader\nof the Four Heavenly Kings, Belzevia. You... could\nit be"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "私は四天王統括ベルゼヴィア"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "君は……まさか"
+                                ""
                             ]
                         },
                         {
@@ -40993,21 +40993,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[6]コノハ\\c[0]"
+                                "\\c[6]Konoha\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "私はコノハよ。四天王だかなんだかしんないけど"
+                                "I am Konoha. I don't know if I'm one of the Four\nHeavenly Kings or something, but... I feel like\nI've seen you somewhere before..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "あれ……あなたどこかで……"
+                                ""
                             ]
                         },
                         {
@@ -41024,21 +41024,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[10]絶王ベルゼヴィア\\c[0]"
+                                "\\c[10]Supreme King Belzevia\\c[0], why have you\ncome here without even greeting the lord? Could it\nbe that you have noticed..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "なぜ、領主にも挨拶せずにここへ？"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "まさか気づいたのか……"
+                                ""
                             ]
                         },
                         {
@@ -41073,28 +41073,28 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[6]コノハ\\c[0]"
+                                "\\c[6]Konoha\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "領主？"
+                                "Lord? Well, you see... I came here to search for\nthe reason why I was reincarnated in this world.\nAnd that's how I ended up here. That's all."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "さてね。私はこの世界に転生してきた理由を探しに来たの"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "そしたら、ここにたどり着いた。それだけよ"
+                                ""
                             ]
                         },
                         {
@@ -41141,21 +41141,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[10]絶王ベルゼヴィア\\c[0]"
+                                "\\c[10]Supreme King Belzevia\\c[0] Interesting...\nThen, let me test your power."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "面白い……"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "ならば、試させてもらおうか、君の力を"
+                                ""
                             ]
                         },
                         {
@@ -41172,21 +41172,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[10]絶王ベルゼヴィア\\c[0]"
+                                " \\c[10]Supreme King Belzevia\\c[0] Show me your\ntrue power, if you truly possess the power of a\nmagical girl, you may have the privilege of\nmeeting our king, Lord Devil."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "本気できたまえ、君が本当の魔法少女の力を持つ者であれば"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "私達の王「魔神デヴィル」様にお会いできる権利もある"
+                                ""
                             ]
                         },
                         {
@@ -41221,21 +41221,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[6]コノハ\\c[0]"
+                                "\\c[6]Konoha\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "アイテムくれた優しさは何の意味があったのかしらね"
+                                "I wonder what was the meaning of the kindness you\nshowed by giving us those items. Could it be that\nyou were monitoring us magical girls?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "もしかして、私達魔法少女を監視してたのかしら？"
+                                ""
                             ]
                         },
                         {
@@ -41252,14 +41252,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[10]絶王ベルゼヴィア\\c[0]"
+                                "Supreme King Belzevia, that's right."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "その通りさ"
+                                ""
                             ]
                         },
                         {
@@ -41286,21 +41286,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[10]絶王ベルゼヴィア\\c[0]"
+                                "\\c[10]Supreme King Belzevia\\c[0] I am the leader\nof the Four Heavenly Kings, Belzevia. Who exactly\nare you?... Hm... You are..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "私は四天王統括ベルゼヴィア"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "君こそ、一体誰だ？……む……君は…"
+                                ""
                             ]
                         },
                         {
@@ -41335,21 +41335,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[6]コノハ\\c[0]"
+                                "\\c[6]Konoha\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "私はコノハよ。四天王だかなんだかしんないけど"
+                                "I am Konoha. I don't know if I'm one of the Four\nHeavenly Kings or something, but it seems like\nthis place ahead is the Demon's stronghold. It\nseems like this place ahead is the Demon's\nstronghold."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "この先がデーモンの拠点でしょ"
+                                ""
                             ]
                         },
                         {
@@ -41366,21 +41366,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[10]絶王ベルゼヴィア\\c[0]"
+                                "\\c[10]Supreme King Belzevia\\c[0] Why have you come\nhere without even greeting the lord? Could it be\nthat you have noticed..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "なぜ、領主にも挨拶せずにここへ？"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "まさか気づいたのか……"
+                                ""
                             ]
                         },
                         {
@@ -41415,28 +41415,28 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[6]コノハ\\c[0]"
+                                "\\c[6]Konoha\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "領主？"
+                                "Lord? Well, you see... I came here to search for\nthe reason why I was reincarnated in this world.\nAnd that's how I ended up here. That's all."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "さてね。私はこの世界に転生してきた理由を探しに来たの"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "そしたら、ここにたどり着いた。それだけよ"
+                                ""
                             ]
                         },
                         {
@@ -41483,21 +41483,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[10]絶王ベルゼヴィア\\c[0]"
+                                "\\c[10]Supreme King Belzevia\\c[0] Interesting...\nThen, let me test your power."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "面白い……"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "ならば、試させてもらおうか、君の力を"
+                                ""
                             ]
                         },
                         {
@@ -41514,21 +41514,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[10]絶王ベルゼヴィア\\c[0]"
+                                " Supreme King Belzevia: Show me your true power,\nif you truly possess the power of a magical girl,\nyou may have the privilege of meeting our king,\nLord Devil."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "本気できたまえ、君が本当の魔法少女の力を持つ者であれば"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "私達の王「魔神デヴィル」様にお会いできる権利もある"
+                                ""
                             ]
                         },
                         {
@@ -41563,14 +41563,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[6]コノハ\\c[0]"
+                                "\\c[6]Konoha\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ごちゃごちゃ言ってないで、かかってきなさい"
+                                "Stop babbling and come at me."
                             ]
                         },
                         {
@@ -41633,21 +41633,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[10]絶王ベルゼヴィア\\c[0]"
+                                "\\c[10]Supreme King Belzevia\\c[0] Amazing... To\nthink that you possess such power without the help\nof Lolimon Leader."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "素晴らしい……"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "ロリモンリーダーの力も無しにこれほどとは"
+                                ""
                             ]
                         },
                         {
@@ -41682,21 +41682,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[6]コノハ\\c[0]"
+                                "\\c[6]Konoha\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "……！"
+                                "......! What... strength... It's incomparable to\nany enemy I've faced before..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "なんて…強さ……今までの敵とは比較にならない…"
+                                ""
                             ]
                         },
                         {
@@ -41713,21 +41713,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[10]絶王ベルゼヴィア\\c[0]"
+                                "\\c[10]Supreme King Belzevia\\c[0] Very well, I\nshall deem you worthy. Raise the four emblems you\ntook from the Four Heavenly Kings on the altar in\nfront of the gate."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "よろしい、君には資格ありとみなします"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "四天王から奪ったその４つの紋章を、門の前の祭壇で掲げるのだ"
+                                ""
                             ]
                         },
                         {
@@ -41744,14 +41744,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[10]絶王ベルゼヴィア\\c[0]"
+                                "The gates of the Supreme King Belzevia will open,\nand at that time, the path to the Astalot\nLabyrinth will be revealed."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "門は開き、その時アスタロト迷宮への道は開かれるでしょう"
+                                ""
                             ]
                         },
                         {
@@ -41786,21 +41786,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[10]絶王ベルゼヴィア\\c[0]"
+                                "\\c[10]I am Supreme King Belzevia\\c[0], but if I\nwere to confront you next, I will not hold back..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "ですが、次に君と対峙することになった場合"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "手加減はしません……"
+                                ""
                             ]
                         },
                         {
@@ -41817,21 +41817,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[10]絶王ベルゼヴィア\\c[0]"
+                                "Supreme King Belzevia, I look forward to a serious\nbattle with you. Well then, until we meet again..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "君との本気の戦いを楽しみにしておきます"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "それでは、また……"
+                                ""
                             ]
                         },
                         {
@@ -41848,14 +41848,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[6]コノハ\\c[0]"
+                                "\\c[6]Konoha\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "進むしかないわね"
+                                "There's no choice but to move forward."
                             ]
                         },
                         {
@@ -42018,14 +42018,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[10]絶王ベルゼヴィア\\c[0]"
+                                "\\c[10]Supreme King Belzevia\\c[0] It's a shame. So,\nthis is all you're capable of..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "残念です。やはり、この程度でしたか……"
+                                ""
                             ]
                         },
                         {
@@ -42042,14 +42042,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[6]コノハ\\c[0]"
+                                "\\c[6]Konoha\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "あぅ……つ、強すぎる……"
+                                "Ahh... t-too strong..."
                             ]
                         },
                         {
@@ -42066,21 +42066,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[10]絶王ベルゼヴィア\\c[0]"
+                                "\\c[10]Supreme King Belzevia\\c[0], was the power\nyou obtained when you were reincarnated just a\nwhim...? Hehe, well, it doesn't matter. Either\nway, you're finished."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "転生してきた時の力は気まぐれでしたかね……"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "ふふ、ま、いいでしょう。どちらにせよ、君はもう終わりです"
+                                ""
                             ]
                         },
                         {
@@ -42097,21 +42097,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[10]絶王ベルゼヴィア\\c[0]"
+                                "\\c[10]Supreme King Belzevia\\c[0] A magical girl\nwho cannot pass through this gate will never be\nable to return..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "この門をくぐれなかった魔法少女は、永久に帰ることは"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "できません……"
+                                ""
                             ]
                         },
                         {
@@ -42137,21 +42137,21 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[6]コノハ\\c[0]"
+                                "\\c[6]Konoha\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ひぃ……嫌……！"
+                                "Hii... I hate it...! Ahhhhh!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "あぁぁぁぁぁ！"
+                                ""
                             ]
                         },
                         {
@@ -42206,21 +42206,21 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[10]絶王ベルゼヴィア\\c[0]"
+                                " \\c[10]I am Supreme King Belzevia\\c[0], but you\nare a Devil Witch... It would be better for you to\ncome back after gaining more power."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "ですが、あなたはデビルウイッチ……"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "今一度、力をつけてから来るといいでしょう"
+                                ""
                             ]
                         },
                         {
@@ -42503,28 +42503,28 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[10]滅王メア\\c[0]"
+                                "\\c[10]Metsuou Mea\\c[0] Hmmm, to come here without\nhesitation... Don't think you can pass through the\ngate without defeating the Four Heavenly Kings...\nMagical Girl!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "ふーむ、迷いなくここに来るとは……"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "四天王倒さずして、門をくぐれると思うな……"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "魔法少女！"
+                                ""
                             ]
                         },
                         {
@@ -42570,21 +42570,21 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[10]滅王メア\\c[0]"
+                                "\\c[10]Metsuou Mea\\c[0] Gugigi...! Th-this is\nstrong...! Who on earth are you...?!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "グギギ……！つ、強い……！？"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "一体何者だ……！"
+                                ""
                             ]
                         },
                         {
@@ -42608,14 +42608,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "メア、貴様の負けだ。紋章を渡し、去れ"
+                                "Mea, you have lost. Hand over the emblem and\nleave. Prepare yourself for the punishment from\nLord Devil."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "デヴィル様からの罰を待つがよい"
+                                ""
                             ]
                         },
                         {
@@ -42632,21 +42632,21 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[10]滅王メア\\c[0]"
+                                "\\c[10]Metsuou Mea\\c[0] No, no way! I can still\nfight... with my true power, for sure!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "そ、そんな！まだ戦えます……"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "我の本当の力できっと！"
+                                ""
                             ]
                         },
                         {
@@ -42973,21 +42973,21 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[10]滅王メア\\c[0]"
+                                "\\c[10]Metsuou Mea\\c[0] Kukuku...! Weak, weak...\nNow, how shall I cook you up..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "ククク…！"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "弱い弱い……さぁ、どう料理してくれようか……"
+                                ""
                             ]
                         },
                         {
@@ -43297,21 +43297,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[10]冥王ハーディス\\c[0]"
+                                "\\c[10]Lord Hades\\c[0], don't get carried away just\nbecause you defeated Mea... You insolent fool..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "メアを倒したからといって調子に乗らないでいただきたい…"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "この不届き者め……"
+                                ""
                             ]
                         },
                         {
@@ -43357,28 +43357,28 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[10]冥王ハーディス\\c[0]"
+                                "\\c[10]Lord Hades\\c[0] Gearrr!!! You...! What kind\nof... strength... hehe, but... my soul is two\nhalves as one... as long as the other half\nremains, I am immortal!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "ゲアアァ！！！おのれ……！なんという……強さ　"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "ふふ、だが……我の魂は二つで一つ……もう一つが滅ばぬ限り"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "不滅なのだ！"
+                                ""
                             ]
                         },
                         {
@@ -43402,14 +43402,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ハーディス、貴様の負けだ。紋章を渡し、去れ"
+                                "Hades, you have lost. Hand over the emblem and\nleave. Prepare yourself for the punishment from\nLord Devil."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "デヴィル様からの罰を待つがよい"
+                                ""
                             ]
                         },
                         {
@@ -43426,21 +43426,21 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[10]冥王ハーディス\\c[0]"
+                                "\\c[10]Lord Hades\\c[0], huh! It's not over yet! I\nam not dead... not from something like this!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "な！まだこれからだ！我はまだ死んではいない……"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "これくらいのことで！"
+                                ""
                             ]
                         },
                         {
@@ -43767,21 +43767,21 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[10]冥王ハーディス\\c[0]"
+                                "\\c[10]Lord Hades\\c[0] Kuhaha! You pitiful magical\ngirl, I won't stop tormenting you until your\nappearance changes..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "クハハ！無様な魔法少女め"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "姿形が変わるまでなぶり犯してやらねば……"
+                                ""
                             ]
                         },
                         {
@@ -44091,21 +44091,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[10]死王アフリオズ\\c[0]"
+                                "\\c[10]Shiou Afuriozu\\c[0] Who the hell are you...?\nTo take on Mea and Hades... Hmph... Interesting...\nI shall slaughter you, you insolent fool..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "何奴じゃ……？メアとハーディスをやるとは……"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "ふん……面白い……我が貴様を屠ってやろう……"
+                                ""
                             ]
                         },
                         {
@@ -44151,21 +44151,21 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[10]死王アフリオズ\\c[0]"
+                                "\\c[10]Shiou Afuriozu\\c[0] Nuga...! Did I\nunderestimate... such a powerful magical girl...\nThis is the first time...!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "ヌガァァ…！見誤ったか……これほどの魔法少女は…"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "初めてだ…！"
+                                ""
                             ]
                         },
                         {
@@ -44189,14 +44189,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "アフリオズ、貴様の負けだ。紋章を渡し、去れ"
+                                "Afuriozu, you have lost. Hand over the emblem and\nleave. Prepare yourself for the punishment from\nLord Devil."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "デヴィル様からの罰を待つがよい"
+                                ""
                             ]
                         },
                         {
@@ -44213,21 +44213,21 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[10]死王アフリオズ\\c[0]"
+                                "\\c[10]Shiou Afuriozu\\c[0] Kuh...! You... in a\nplace like this...! I will definitely seek revenge\nand show you..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "くっ……！おのれ……"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "こんなとこで……！必ずや復讐してみせよう……"
+                                ""
                             ]
                         },
                         {
@@ -44554,21 +44554,21 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[10]死王アフリオズ\\c[0]"
+                                "\\c[10]Shiou Afuriozu\\c[0], I thought you would\nentertain me a little longer... Well, fine. I'll\nlet you play with the pig."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "もう少し楽しませてくれるかと思ったが……"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "まぁいい、貴様は豚と戯れさせてやろう"
+                                ""
                             ]
                         },
                         {
@@ -44878,28 +44878,28 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[10]魔王サータ\\c[0]"
+                                "\\c[10]Oh, Demon Lord Sata\\c[0], you're\nimpressive... You're strong, aren't you? Let's\nhave a match, Demon Lord Sata... But I hope you\nwon't regret it..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "いいねいいね～……強いですねあなた"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "いいでしょう、魔王サータが相手しましょう……"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "ですが、後悔しないといいですねぇ…"
+                                ""
                             ]
                         },
                         {
@@ -44945,21 +44945,21 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[10]魔王サータ\\c[0]"
+                                "\\c[10]Demon Lord Sata\\c[0] Gieee...! What is\nthis...!? You..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "ギエエェェ…！"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "これは一体……！？貴様は……"
+                                ""
                             ]
                         },
                         {
@@ -44983,14 +44983,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "サータ、貴様の負けだ。紋章を渡し、去れ"
+                                "Sata, you have lost. Hand over the emblem and\nleave. Prepare yourself for the punishment from\nLord Devil."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "デヴィル様からの罰を待つがよい"
+                                ""
                             ]
                         },
                         {
@@ -45007,21 +45007,21 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[10]魔王サータ\\c[0]"
+                                "\\c[10]Demon Lord Sata\\c[0] O-oh, please wait, Lord\nBelzevia...! It's not over yet... My true power is\nyet to come..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "お、お待ちをベルゼヴィア様…！"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "まだこれからです……私の本気はこれから…"
+                                ""
                             ]
                         },
                         {
@@ -45348,21 +45348,21 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[10]魔王サータ\\c[0]"
+                                "\\c[10]Demon Lord Sata\\c[0], you were close,\nweren't you? Well, I suppose this is also fate...\nWell then..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "惜しかったですねぇ"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "まぁこれも運命でしょう……それでは……"
+                                ""
                             ]
                         },
                         {
@@ -45679,7 +45679,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ふむ……四天王を撃破…したか"
+                                "Hmmm... You defeated the Four Heavenly Kings, huh?"
                             ]
                         },
                         {
@@ -45696,14 +45696,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[6]コノハ\\c[0]"
+                                "\\c[6]Konoha\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "誰……？"
+                                "Who...?"
                             ]
                         },
                         {
@@ -45731,21 +45731,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[10]絶王ベルゼヴィア\\c[0]"
+                                "\\c[10]Supreme King Belzevia\\c[0], hey. I am the\nleader of the Four Heavenly Kings, Belzevia. We\nmight have met somewhere before, Konoha."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "やぁ。私は四天王統括ベルゼヴィア"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "もしかすると、どこかで会ったことあるかもしれないね、コノハ"
+                                ""
                             ]
                         },
                         {
@@ -45780,21 +45780,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[6]コノハ\\c[0]"
+                                "\\c[6]Konoha\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "あなたどこかで……"
+                                "Somewhere... But more importantly, beyond this\npoint is the demon's stronghold."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "そんなことより、この先がデーモンの拠点でしょ"
+                                ""
                             ]
                         },
                         {
@@ -45821,21 +45821,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[10]絶王ベルゼヴィア\\c[0]"
+                                "\\c[10]Supreme King Belzevia\\c[0], I am the leader\nof the Four Heavenly Kings, Belzevia. So, you\nare... Konoha..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "私は四天王統括ベルゼヴィア"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "そうか君が……コノハか……"
+                                ""
                             ]
                         },
                         {
@@ -45870,14 +45870,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[6]コノハ\\c[0]"
+                                "\\c[6]Konoha\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "あら、私の名前がこんなとこまで届いてるのね"
+                                "Oh, my name has reached even this place, huh?"
                             ]
                         },
                         {
@@ -45904,21 +45904,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[10]絶王ベルゼヴィア\\c[0]"
+                                "\\c[10]Supreme King Belzevia\\c[0], I never expected\nyou to come all the way here in person. You seem\nto be quite impatient."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "まさか直接ここまで来るとは"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "せっかちな方のようだ"
+                                ""
                             ]
                         },
                         {
@@ -45953,21 +45953,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[6]コノハ\\c[0]"
+                                "\\c[6]Konoha\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "この門を突破してデーモンの拠点に行くのがてっとり早いって"
+                                "I thought it would be quickest to break through\nthis gate and go straight to the demon's\nstronghold. Will you let me pass?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "思ってね。通してくれる？"
+                                ""
                             ]
                         },
                         {
@@ -45996,21 +45996,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[10]絶王ベルゼヴィア\\c[0]"
+                                "\\c[10]Supreme King Belzevia\\c[0] Interesting...\nThen, let me test your power."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "面白い……"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ならば、試させてもらおうか、君の力を"
+                                ""
                             ]
                         },
                         {
@@ -46027,21 +46027,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[10]絶王ベルゼヴィア\\c[0]"
+                                "\\c[10]Supreme King Belzevia\\c[0] Show me your true\npower, if you truly possess the power of a magical\ngirl, you may have the privilege of meeting our\nking, Lord Demon God Devil."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "本気できたまえ、君が本当の魔法少女の力を持つ者であれば"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "私達の王「魔神デヴィル」様にお会いできる権利もある"
+                                ""
                             ]
                         },
                         {
@@ -46076,14 +46076,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[6]コノハ\\c[0]"
+                                "\\c[6]Konoha\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ごちゃごちゃ言ってないで、かかってきなさい"
+                                "Stop babbling and come at me."
                             ]
                         },
                         {
@@ -46154,14 +46154,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[10]絶王ベルゼヴィア\\c[0]"
+                                "\\c[10]Supreme King Belzevia\\c[0] Wonderful..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "素晴らしい……"
+                                ""
                             ]
                         },
                         {
@@ -46178,21 +46178,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[6]コノハ\\c[0]"
+                                "\\c[6]Konoha\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "……！"
+                                "......! What... strength... It's incomparable to\nany enemy I've faced before..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "なんて…強さ……今までの敵とは比較にならない…"
+                                ""
                             ]
                         },
                         {
@@ -46209,21 +46209,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[10]絶王ベルゼヴィア\\c[0]"
+                                "Supreme King Belzevia: Very well, I shall deem you\nworthy. Raise the four emblems you took from the\nFour Heavenly Kings on the altar in front of the\ngate."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "よろしい、君には資格ありとみなします"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "四天王から奪ったその４つの紋章を、門の前の祭壇で掲げるのだ"
+                                ""
                             ]
                         },
                         {
@@ -46240,14 +46240,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[10]絶王ベルゼヴィア\\c[0]"
+                                "The gate of the Supreme King Belzevia will open,\nand at that time, the path to the Astalot\nLabyrinth will be revealed."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "門は開き、その時アスタロト迷宮への道は開かれるでしょう"
+                                ""
                             ]
                         },
                         {
@@ -46282,21 +46282,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[10]絶王ベルゼヴィア\\c[0]"
+                                "I am the Supreme King Belzevia, and if I were to\nconfront you next, I will not hold back..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "ですが、次に君と対峙することになった場合"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "手加減はしません……"
+                                ""
                             ]
                         },
                         {
@@ -46313,21 +46313,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[10]絶王ベルゼヴィア\\c[0]"
+                                "I will look forward to a serious battle with\n\\c[10]Supreme King Belzevia\\c[0]. Well then, until\nwe meet again..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "君との本気の戦いを楽しみにしておきます"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "それでは、また……"
+                                ""
                             ]
                         },
                         {
@@ -46344,14 +46344,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[6]コノハ\\c[0]"
+                                "\\c[6]Konoha\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "進むしかないわね"
+                                "There's no choice but to move forward."
                             ]
                         },
                         {
@@ -46514,14 +46514,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[10]絶王ベルゼヴィア\\c[0]"
+                                "\\c[10]Supreme King Belzevia\\c[0] It's a shame. So,\nthis is all you're capable of..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "残念です。やはり、この程度でしたか……"
+                                ""
                             ]
                         },
                         {
@@ -46538,14 +46538,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[6]コノハ\\c[0]"
+                                "\\c[6]Konoha\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "あぅ……つ、強すぎる……"
+                                "Ahh... t-too strong..."
                             ]
                         },
                         {
@@ -46562,21 +46562,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[10]絶王ベルゼヴィア\\c[0]"
+                                "\\c[10]Supreme King Belzevia\\c[0], was the power\nyou gained when you were reincarnated just a\nwhim...? Hehe, well, it doesn't matter. Either\nway, you're finished."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "転生してきた時の力は気まぐれでしたかね……"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "ふふ、ま、いいでしょう。どちらにせよ、君はもう終わりです"
+                                ""
                             ]
                         },
                         {
@@ -46593,21 +46593,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[10]絶王ベルゼヴィア\\c[0]"
+                                "\\c[10]Supreme King Belzevia\\c[0] A magical girl\nwho cannot pass through this gate will never be\nable to return..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "この門をくぐれなかった魔法少女は、永久に帰ることは"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "できません……"
+                                ""
                             ]
                         },
                         {
@@ -46633,21 +46633,21 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[6]コノハ\\c[0]"
+                                "\\c[6]Konoha\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ひぃ……嫌……！"
+                                "Hii... I hate it...! Ahhhhhh!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "あぁぁぁぁぁ！"
+                                ""
                             ]
                         },
                         {
@@ -46702,21 +46702,21 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[10]絶王ベルゼヴィア\\c[0]"
+                                "I am the Supreme King Belzevia, but you are a\nDevil Witch... It would be better for you to come\nback after gaining more power."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "ですが、あなたはデビルウイッチ……"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "今一度、力をつけてから来るといいでしょう"
+                                ""
                             ]
                         },
                         {
@@ -46983,21 +46983,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[10]絶王ベルゼヴィア\\c[0]"
+                                "As expected, I have arrived just as \\c[10]the\nSupreme King Belzevia\\c[0] commanded."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "言われた通り来ましたね"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "予想通りです"
+                                ""
                             ]
                         },
                         {
@@ -47014,21 +47014,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[6]コノハ\\c[0]"
+                                "\\c[6]Konoha\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "で、対話の用意というのは？"
+                                "So, what about the preparations for the dialogue?\nWill you tell me how to cross the Astalot\nLabyrinth?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "アスタロト迷宮に渡る方法は教えてもらえるのかしら"
+                                ""
                             ]
                         },
                         {
@@ -47057,21 +47057,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[10]絶王ベルゼヴィア\\c[0]"
+                                "\\c[10]Supreme King Belzevia\\c[0] Hehe, there's no\nneed to rush. First, I want to see your power."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ふふ、そう焦ることもない"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "まずは、君の力を見てみたい"
+                                ""
                             ]
                         },
                         {
@@ -47106,21 +47106,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[6]コノハ\\c[0]"
+                                "\\c[6]Konoha\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "はぁ、やっぱりこういう事なのね"
+                                "Sigh, so this is how it is. I wonder why we have\nto fight like this."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "どうしてこうも戦わないといけないのかしら"
+                                ""
                             ]
                         },
                         {
@@ -47137,21 +47137,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[10]絶王ベルゼヴィア\\c[0]"
+                                "\\c[10]Supreme King Belzevia\\c[0], what heartless\nwords. I can see through your true nature. Your\ninherent instinct for battle, your ruthless and\nmerciless heart is laid bare."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "何を心にも無いことを。私には君の本性がわかります"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "根っからの闘争本能、殺伐とした心がむき出しですよ"
+                                ""
                             ]
                         },
                         {
@@ -47186,21 +47186,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[6]コノハ\\c[0]"
+                                "\\c[6]Konoha\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そうね、あんたみたいな奴がいる限り"
+                                "That's right, as long as there are people like\nyou, there's no choice but to fight."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "戦うしかないわよねっ"
+                                ""
                             ]
                         },
                         {
@@ -47271,21 +47271,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[10]絶王ベルゼヴィア\\c[0]"
+                                "\\c[10]Supreme King Belzevia\\c[0], magnificent...\nYour power exceeds my imagination. You might be\nthe reincarnation of a legendary magical girl."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "素晴らしい……"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "想像以上の力です。伝説の魔法少女の再来かもしれません"
+                                ""
                             ]
                         },
                         {
@@ -47302,21 +47302,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[6]コノハ\\c[0]"
+                                "\\c[6]Konoha\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "……！"
+                                "......! What... strength... It's incomparable to\nany enemy I've faced before..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "なんて…強さ……今までの敵とは比較にならない…"
+                                ""
                             ]
                         },
                         {
@@ -47333,21 +47333,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[10]絶王ベルゼヴィア\\c[0]"
+                                "\\c[10]Supreme King Belzevia\\c[0]: Very well, I\ndeem you worthy. Raise the four emblems you took\nfrom the Four Heavenly Kings on the altar in front\nof the gate."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "よろしい、君には資格ありとみなします"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "四天王から奪ったその４つの紋章を、門の前の祭壇で掲げるのだ"
+                                ""
                             ]
                         },
                         {
@@ -47364,14 +47364,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[10]絶王ベルゼヴィア\\c[0]"
+                                "The gate of the Supreme King Belzevia will open,\nand at that time, the path to the Astalot\nLabyrinth will be revealed."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "門は開き、その時アスタロト迷宮への道は開かれるでしょう"
+                                ""
                             ]
                         },
                         {
@@ -47406,21 +47406,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[10]絶王ベルゼヴィア\\c[0]"
+                                "\\c[10]I am the Supreme King Belzevia\\c[0], but if\nI were to face you next, I will not hold back..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "ですが、次に君と対峙することになった場合"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "手加減はしません……"
+                                ""
                             ]
                         },
                         {
@@ -47437,21 +47437,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[10]絶王ベルゼヴィア\\c[0]"
+                                "Supreme King Belzevia: I look forward to a serious\nbattle with you, \\c[10]. Well then, until we meet\nagain..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "君との本気の戦いを楽しみにしておきます"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "それでは、また……"
+                                ""
                             ]
                         },
                         {
@@ -47468,21 +47468,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[6]コノハ\\c[0]"
+                                "\\c[6]Konoha\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "これで、魔神デヴィルの元へ行けるのね"
+                                "With this, we can finally go to the Demon God\nDevill's place. The decisive battle is near..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "決戦は近い……"
+                                ""
                             ]
                         },
                         {
@@ -47645,14 +47645,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[10]絶王ベルゼヴィア\\c[0]"
+                                "Supreme King Belzevia: It's a shame. So, this is\nthe extent of it..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "残念です。やはり、この程度でしたか……"
+                                ""
                             ]
                         },
                         {
@@ -47669,14 +47669,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[6]コノハ\\c[0]"
+                                "\\c[6]Konoha\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "あぅ……つ、強すぎる……"
+                                "Ahh... t-too strong..."
                             ]
                         },
                         {
@@ -47693,21 +47693,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[10]絶王ベルゼヴィア\\c[0]"
+                                "\\c[10]Supreme King Belzevia\\c[0], was the power\nyou obtained when you were reincarnated just a\nwhim...? Well, well, it doesn't matter. Either\nway, you're finished."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "転生してきた時の力は気まぐれでしたかね……"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "ふふ、ま、いいでしょう。どちらにせよ、君はもう終わりです"
+                                ""
                             ]
                         },
                         {
@@ -47724,21 +47724,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[10]絶王ベルゼヴィア\\c[0]"
+                                "\\c[10]Supreme King Belzevia\\c[0], a magical girl\nwho cannot pass through this gate will never be\nable to return..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "この門をくぐれなかった魔法少女は、永久に帰ることは"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "できません……"
+                                ""
                             ]
                         },
                         {
@@ -47764,21 +47764,21 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[6]コノハ\\c[0]"
+                                "\\c[6]Konoha\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ひぃ……嫌……！"
+                                "Hii... I hate it...! Ahhhhhh!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "あぁぁぁぁぁ！"
+                                ""
                             ]
                         },
                         {
@@ -47882,21 +47882,21 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[10]絶王ベルゼヴィア\\c[0]"
+                                "\\c[10]I am the Supreme King Belzevia\\c[0], but you\nare a Devil Witch... It would be better for you to\ncome back after gaining more power."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "ですが、あなたはデビルウイッチ……"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "今一度、力をつけてから来るといいでしょう"
+                                ""
                             ]
                         },
                         {

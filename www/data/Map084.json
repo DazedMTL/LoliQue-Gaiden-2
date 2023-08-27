@@ -16,7 +16,7 @@
         "volume": 80
     },
     "disableDashing": false,
-    "displayName": "ダルクの家",
+    "displayName": "Dark's House",
     "encounterList": [],
     "encounterStep": 30,
     "height": 25,
@@ -7342,21 +7342,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[1]ダルク\\C[0]"
+                                "\\C[1]Dark\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "何度もは言わないぞ、そういうのは、もう、充分"
+                                "I won't say it again, we've already had enough of\nthat!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "間に合ってるからな！"
+                                ""
                             ]
                         },
                         {
@@ -7392,21 +7392,21 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\C[1]ダルク\\C[0]"
+                                "\\C[1]Dark\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "隠し道はここから南西にあるぞ"
+                                "The hidden path is located southwest from here, so\nbe careful because there are many enemies."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "敵も多いから気をつけろよ"
+                                ""
                             ]
                         },
                         {
@@ -7433,21 +7433,21 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\C[1]ダルク\\C[0]"
+                                "\\C[1]Dark\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "何しに来た？淫魔め。何度も忠告したはずだ"
+                                "What are you doing here? You demon of lust. I've\nalready warned you multiple times, I sent a letter\nsaying that I won't produce any more semen..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "精液はもう出ないって手紙出したはずなんだが…"
+                                ""
                             ]
                         },
                         {
@@ -7464,14 +7464,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\C[1]ダルク\\C[0]"
+                                "\\C[1]Dark\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "わかったならとっとと帰れ、俺は忙しいんだ"
+                                "If you understand, then hurry up and leave. I'm\nbusy."
                             ]
                         },
                         {
@@ -7497,14 +7497,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\C[1]アルド\\C[0]"
+                                "\\C[1]Aldo\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ダルク、どう見ても彼女は淫魔じゃないだろう"
+                                "Dark, she doesn't look like a succubus at all."
                             ]
                         },
                         {
@@ -7521,14 +7521,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\C[1]ダルク\\C[0]"
+                                "\\C[1]Dark\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "どうかな？あいつらヒトへの変身くらい造作もないぞ"
+                                "I wonder? Transforming into humans is a piece of\ncake for them."
                             ]
                         },
                         {
@@ -7554,8 +7554,8 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "ちょっと落ち着いてよ",
-                                    "そうね帰るわ"
+                                    "Calm down a bit",
+                                    "I guess I'll go home"
                                 ],
                                 -1,
                                 -1,
@@ -7610,21 +7610,21 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "誰と勘違いしてるのかしら？"
+                                "Who do you think I am mistaking for? I have no\nidea what you're talking about. I'm just a regular\nmagical girl."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 3,
                             "parameters": [
-                                "なんのことかわからないわよ。私、ただの魔法少女よ"
+                                ""
                             ]
                         },
                         {
@@ -7641,28 +7641,28 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\C[1]ダルク\\C[0]"
+                                "\\C[1]Dark\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "あ？魔法少女だ？嘘をつくんじゃあない"
+                                "Huh? A magical girl? Don't lie. You just boldly\nentered my place and started aiming for my crotch\non your own."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 3,
                             "parameters": [
-                                "そうやってずけずけとうちに入ってきては勝手に俺の股間を"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 3,
                             "parameters": [
-                                "狙ってきやがって"
+                                ""
                             ]
                         },
                         {
@@ -7679,21 +7679,21 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\C[1]ダルク\\C[0]"
+                                "\\C[1]Dark\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "淫魔の村の者なんだろう？俺は全部わかってんだから"
+                                "Are you someone from the village of lust demons? I\nknow everything, so don't think you can fool me!\nHaha"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 3,
                             "parameters": [
-                                "なんてたって鼻が利くからな！ははっ"
+                                ""
                             ]
                         },
                         {
@@ -7719,14 +7719,14 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\C[1]アルド\\C[0]"
+                                "\\C[1]Aldo\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "君は鼻で淫魔かどうかを見極めてるのかい…"
+                                "Are you trying to determine if someone is a lust\ndemon based on their nose..."
                             ]
                         },
                         {
@@ -7761,21 +7761,21 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "違うって言ってるのに、信じてもらえないようね"
+                                "Even though I'm saying it's not true, it seems\nlike no one believes me. I wonder what I should do\nto make them believe that I'm just a regular\nmagical girl."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 3,
                             "parameters": [
-                                "どうすれば私が普通の魔法少女って信じてもらえるのかしら"
+                                ""
                             ]
                         },
                         {
@@ -7792,21 +7792,21 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\C[1]ダルク\\C[0]"
+                                "\\C[1]Dark\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "どうやってって…"
+                                "How should I... Ahh..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 3,
                             "parameters": [
-                                "あーー……"
+                                ""
                             ]
                         },
                         {
@@ -7823,21 +7823,21 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\C[1]ダルク\\C[0]"
+                                "\\C[1]Dark\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "もしかして、本当に…？"
+                                "Could it be...? Are you really just a regular\nmagical girl?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 3,
                             "parameters": [
-                                "ただの魔法少女…なのか？"
+                                ""
                             ]
                         },
                         {
@@ -7872,21 +7872,21 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "そうよ、私がロリモンに見えるの？"
+                                "Is that so? Do I look like a loli monster to you?\nTake a good look..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 3,
                             "parameters": [
-                                "よく見なさいよ…"
+                                ""
                             ]
                         },
                         {
@@ -7912,14 +7912,14 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\C[1]ダルク\\C[0]"
+                                "\\C[1]Dark\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "………。"
+                                ".........."
                             ]
                         },
                         {
@@ -7943,21 +7943,21 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\C[1]ダルク\\C[0]"
+                                "\\C[1]Dark\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "マジか……それはすまないな"
+                                "Seriously... I'm sorry about that... Understand,\nit's been really rough lately."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 3,
                             "parameters": [
-                                "あーーー…わかってくれ、最近ほんとに酷いんだよ"
+                                ""
                             ]
                         },
                         {
@@ -7974,28 +7974,28 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\C[1]ダルク\\C[0]"
+                                "\\C[1]Dark\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "ルイーザには散々手紙も出してるのに、"
+                                "I've been sending countless letters to Rudia, but\nshe doesn't understand at all. Thanks to that, I'm\nin a state of impotence... So, what about you?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 3,
                             "parameters": [
-                                "全然わかってもらえねぇ。おかげでこっちは不能状態さ…"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 3,
                             "parameters": [
-                                "で…あんたは？"
+                                ""
                             ]
                         },
                         {
@@ -8055,21 +8055,21 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "コノハよ、リインガーネットから来たわ"
+                                "I'm Konoha, nice to meet you. I came from\nReingarnet, so please treat me well."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 3,
                             "parameters": [
-                                "よろしくね"
+                                ""
                             ]
                         },
                         {
@@ -8086,21 +8086,21 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\C[1]ダルク\\C[0]"
+                                "\\C[1]Dark\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "俺はダルクだ、一応傭兵みたいなものだ"
+                                "I'm Dark, sort of like a mercenary. Right now, I'm\nmonitoring the movements of the demons in this\nhouse."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 3,
                             "parameters": [
-                                "この家でデーモン達の動きを今は監視している"
+                                ""
                             ]
                         },
                         {
@@ -8135,14 +8135,14 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "こんなところに一軒家って危なくないの？"
+                                "Isn't it dangerous to have a single house in a\nplace like this?"
                             ]
                         },
                         {
@@ -8159,28 +8159,28 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\C[1]ダルク\\C[0]"
+                                "\\C[1]Dark\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "もちろん、危ないぞ。ま、俺以外だったらな"
+                                "Of course, it's dangerous. Well, if it's anyone\nother than me, I have some confidence in fighting.\nThis house is also properly protected by a\nbarrier."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 3,
                             "parameters": [
-                                "戦いについてはそれなりの自信はあるつもりだ"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 3,
                             "parameters": [
-                                "この家もしっかりと結界は張ってある"
+                                ""
                             ]
                         },
                         {
@@ -8197,14 +8197,14 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\C[1]アルド\\C[0]"
+                                "\\C[1]Aldo\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "結界張ったのは僕だけどね"
+                                "I'm the one who set up the barrier, though."
                             ]
                         },
                         {
@@ -8239,21 +8239,21 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "そうなのね、でもこんなところに住めるなんて…"
+                                "Is that so? But being able to live in a place like\nthis... (Maybe this person is a bit strange.)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 3,
                             "parameters": [
-                                "（ちょっと変な人なのかもしれないわね）"
+                                ""
                             ]
                         },
                         {
@@ -8288,21 +8288,21 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "ところでやけに淫魔のことを言ってたようだけど"
+                                "By the way, you were talking about succubi quite a\nbit. Is there something going on?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 3,
                             "parameters": [
-                                "何かあるの？"
+                                ""
                             ]
                         },
                         {
@@ -8319,28 +8319,28 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\C[1]ダルク\\C[0]"
+                                "\\C[1]Dark\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "何かあるどころじゃないんだよ、今淫魔の村は精液の供給が"
+                                "It's not just something, the succubus village is\ncurrently facing a shortage of semen supply. It\nseems that even the semen sent from Reingarnet has\nstopped."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 3,
                             "parameters": [
-                                "不足しているんだと。リインから送られていた精液も"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 3,
                             "parameters": [
-                                "ストップしているらしい"
+                                ""
                             ]
                         },
                         {
@@ -8357,21 +8357,21 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\C[1]ダルク\\C[0]"
+                                "\\C[1]Dark\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "なもんで、近場にいる男から精液をすーぐ盗もうとするのさ"
+                                "That's why it's troublesome that they immediately\ntry to steal semen from nearby men."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 3,
                             "parameters": [
-                                "困ったもんだよ"
+                                ""
                             ]
                         },
                         {
@@ -8406,14 +8406,14 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "精液精液って……んもう"
+                                "Semen, semen... Ugh, seriously..."
                             ]
                         },
                         {
@@ -8430,21 +8430,21 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\C[1]ダルク\\C[0]"
+                                "\\C[1]Dark\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "ま、一番の原因は淫魔の村のリーダーの\\C[2]ルイーザ\\C[0]さ"
+                                "Well, the main reason is that the leader of the\nsuccubus village, \\C[2]Louisa\\C[0], had her\nprecious treasure stolen, so their power has\ndiminished."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 3,
                             "parameters": [
-                                "あいつが大事な秘宝を奪われてしまって力が無くなってるんだ"
+                                ""
                             ]
                         },
                         {
@@ -8479,14 +8479,14 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "秘宝…？"
+                                "Precious treasure...?"
                             ]
                         },
                         {
@@ -8503,28 +8503,28 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\C[1]ダルク\\C[0]"
+                                "\\C[1]Dark\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "誰に盗られたかもよくわかってないらしい"
+                                "It seems that they have asked the guild's magical\ngirl, who doesn't seem to know who stole it, to\nfind the culprit, but so far they haven't found\nanyone."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 3,
                             "parameters": [
-                                "ギルドの魔法少女にも犯人見つけるのを頼んでいるらしいが"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 3,
                             "parameters": [
-                                "今のところ見つかってないみたいだな"
+                                ""
                             ]
                         },
                         {
@@ -8559,21 +8559,21 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "なるほど……一度そのルイーザに会ってみないといけないわね"
+                                "I see... I should meet this Louisa once and hear\nher story. If there's anything I can do to help,\nI'm willing to lend a hand."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 3,
                             "parameters": [
-                                "話しを聞いて私に何かできれば手伝ってもいいし"
+                                ""
                             ]
                         },
                         {
@@ -8590,28 +8590,28 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\C[1]ダルク\\C[0]"
+                                "\\C[1]Dark\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "淫魔の村に行くには迷いの森を抜けないといけないんだが"
+                                "To get to the succubus village, you have to go\nthrough the Forest of Hesitation, but I also made\na hidden path, so you can use that. It's located\nto the southwest from here."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 3,
                             "parameters": [
-                                "俺が作った隠し道もあるから、そこを使ってもいいぞ"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 3,
                             "parameters": [
-                                "ここから南西に位置するところにある"
+                                ""
                             ]
                         },
                         {
@@ -8628,28 +8628,28 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\C[1]ダルク\\C[0]"
+                                "\\C[1]Dark\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "途中で壁を作って行けないようにしているんだが"
+                                "I've set up a mechanism to prevent you from making\na wall in the middle, but I've also added a little\ntrick. There's a switch in the corner of the wall,\nso if you press it, you should be able to proceed."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 3,
                             "parameters": [
-                                "ちょいと仕掛けをしてあってな。壁の隅の方にスイッチが"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 3,
                             "parameters": [
-                                "あるからそれ押せば進めるはずだ"
+                                ""
                             ]
                         },
                         {
@@ -8684,14 +8684,14 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "なるほどね、敵がそこを使って侵入しても困るものね"
+                                "I see, it would be troublesome if the enemy used\nthat to infiltrate."
                             ]
                         },
                         {
@@ -8708,21 +8708,21 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\C[1]ダルク\\C[0]"
+                                "\\C[1]Dark\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "あぁそういうことだ。まぁ迷いの森の方も淫魔のロリモンに"
+                                "Ah, I see. Well, as long as you're recognized by\nthe succubus loli-monsters in the Forest of\nHesitation, it shouldn't be a problem. Do as you\nplease."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 3,
                             "parameters": [
-                                "認められていれば問題ないけどな。好きなようにしな"
+                                ""
                             ]
                         },
                         {
@@ -8739,14 +8739,14 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\C[1]アルド\\C[0]"
+                                "\\C[1]Aldo\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "隠し道の洞窟は敵も多いから気をつけてね"
+                                "Be careful because there are many enemies in the\nhidden path cave."
                             ]
                         },
                         {
@@ -8806,21 +8806,21 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "いろいろ助かるわ"
+                                "Thank you for everything, Dark and Aldo."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 3,
                             "parameters": [
-                                "ありがとうダルク、アルド"
+                                ""
                             ]
                         },
                         {
@@ -8837,21 +8837,21 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\C[1]ダルク\\C[0]"
+                                "\\C[1]Dark\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "あんたら魔法少女はこの世界じゃ命がけだ、そして何よりも"
+                                "You magical girls are risking your lives in this\nworld, and above all, you are the hope... hehe,\nI'm counting on you."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 3,
                             "parameters": [
-                                "希望だからな……ふふ頼んだぜ"
+                                ""
                             ]
                         },
                         {
@@ -8895,14 +8895,14 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "（淫魔呼ばわりしてなかったっけ…）"
+                                "(Wasn't I called an incubus before...)"
                             ]
                         },
                         {
@@ -8937,14 +8937,14 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\C[1]アルド\\C[0]"
+                                "\\C[1]Aldo\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "そうだ、僕もそろそろ出ないと"
+                                "That's right, I should also go out soon."
                             ]
                         },
                         {
@@ -8961,21 +8961,21 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\C[1]ダルク\\C[0]"
+                                "\\C[1]Dark\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "ああそうだったな。問題はないだろうが"
+                                "Ah, that's right. There shouldn't be any problems,\nbut don't let your guard down on the way, Aldo."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 3,
                             "parameters": [
-                                "道中油断するなよアルド"
+                                ""
                             ]
                         },
                         {
@@ -8992,14 +8992,14 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\C[1]アルド\\C[0]"
+                                "\\C[1]Aldo\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "もちろん、ダルクもあまり調子に乗らないようにね"
+                                "Of course, Dark, don't get too carried away."
                             ]
                         },
                         {
@@ -9016,14 +9016,14 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\C[1]アルド\\C[0]"
+                                "\\C[1]Aldo\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "それじゃコノハさん、僕は先に失礼するね"
+                                "Well then, Konoha-san, I'll excuse myself first."
                             ]
                         },
                         {
@@ -9083,14 +9083,14 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "ええ、気をつけて"
+                                "Yes, be careful."
                             ]
                         },
                         {
@@ -9230,14 +9230,14 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "お邪魔したわね…"
+                                "I'm sorry for intruding..."
                             ]
                         },
                         {
@@ -9398,21 +9398,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[1]ダルク\\C[0]"
+                                "\\C[1]Dark\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "何度もは言わないぞ、そういうのは、もう、充分"
+                                "I won't say it again, we've already had enough of\nthat!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "間に合ってるからな！"
+                                ""
                             ]
                         },
                         {
@@ -9448,28 +9448,28 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\C[1]ダルク\\C[0]"
+                                "\\C[1]Dark\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "妖精村跡に地下部屋があって、そこがアジトになっている"
+                                "I heard that there is an underground room in the\nruins of the Fairy Village, which serves as a\nhideout. It might be worth investigating there."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "と聞いたことがあるから、そこを調べてみると"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "いいかもしれないぜ"
+                                ""
                             ]
                         },
                         {
@@ -9496,21 +9496,21 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\C[1]ダルク\\C[0]"
+                                "\\C[1]Dark\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "何しに来た？淫魔め。何度も忠告したはずだ"
+                                "What are you here for? You demon of lust. I've\nwarned you multiple times, haven't I? I sent a\nletter saying that there won't be any more\nsemen..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "精液はもう出ないって手紙出したはずなんだが…"
+                                ""
                             ]
                         },
                         {
@@ -9527,14 +9527,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\C[1]ダルク\\C[0]"
+                                "\\C[1]Dark\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "わかったならとっとと帰れ、俺は忙しいんだ"
+                                "If you understand, then hurry up and leave. I'm\nbusy."
                             ]
                         },
                         {
@@ -9560,14 +9560,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\C[1]アルド\\C[0]"
+                                "\\C[1]Aldo\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ダルク、どう見ても彼女は淫魔じゃないだろう"
+                                "Dark, she doesn't look like a succubus at all."
                             ]
                         },
                         {
@@ -9584,14 +9584,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\C[1]ダルク\\C[0]"
+                                "\\C[1]Dark\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "どうかな？あいつらヒトへの変身くらい造作もないぞ"
+                                "I wonder? Transforming into humans is a piece of\ncake for them."
                             ]
                         },
                         {
@@ -9617,8 +9617,8 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "ちょっと落ち着いてよ",
-                                    "そうね帰るわ"
+                                    "Calm down a bit",
+                                    "I guess I'll go home"
                                 ],
                                 -1,
                                 -1,
@@ -9673,21 +9673,21 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "誰と勘違いしてるのかしら？"
+                                "Who do you think I am mistaking for? I have no\nidea what you're talking about. I'm just a regular\nmagical girl."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 3,
                             "parameters": [
-                                "なんのことかわからないわよ。私、ただの魔法少女よ"
+                                ""
                             ]
                         },
                         {
@@ -9704,28 +9704,28 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\C[1]ダルク\\C[0]"
+                                "\\C[1]Dark\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "あ？魔法少女だ？嘘をつくんじゃあない"
+                                "Huh? A magical girl? Don't lie. You just boldly\nentered my place and started aiming for my crotch\non your own."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 3,
                             "parameters": [
-                                "そうやってずけずけとうちに入ってきては勝手に俺の股間を"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 3,
                             "parameters": [
-                                "狙ってきやがって"
+                                ""
                             ]
                         },
                         {
@@ -9742,21 +9742,21 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\C[1]ダルク\\C[0]"
+                                "\\C[1]Dark\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "淫魔の村の者なんだろう？俺は全部わかってんだから"
+                                "Are you someone from the village of lust demons? I\nknow everything, so don't think you can fool me!\nHahaha."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 3,
                             "parameters": [
-                                "なんてたって鼻が利くからな！ははっ"
+                                ""
                             ]
                         },
                         {
@@ -9782,14 +9782,14 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\C[1]アルド\\C[0]"
+                                "\\C[1]Aldo\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "君は鼻で淫魔かどうかを見極めてるのかい…"
+                                "Are you trying to determine if someone is a lust\ndemon based on their nose..."
                             ]
                         },
                         {
@@ -9824,21 +9824,21 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "違うって言ってるのに、信じてもらえないようね"
+                                "Even though I'm saying it's not true, it seems\nlike no one believes me. I wonder what I should do\nto make them believe that I'm just a regular\nmagical girl."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 3,
                             "parameters": [
-                                "どうすれば私が普通の魔法少女って信じてもらえるのかしら"
+                                ""
                             ]
                         },
                         {
@@ -9855,21 +9855,21 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\C[1]ダルク\\C[0]"
+                                "\\C[1]Dark\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "どうやってって…"
+                                "How should I... Ahh..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 3,
                             "parameters": [
-                                "あーー……"
+                                ""
                             ]
                         },
                         {
@@ -9886,21 +9886,21 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\C[1]ダルク\\C[0]"
+                                "\\C[1]Dark\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "もしかして、本当に…？"
+                                "Could it be...? Are you really just a regular\nmagical girl?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 3,
                             "parameters": [
-                                "ただの魔法少女…なのか？"
+                                ""
                             ]
                         },
                         {
@@ -9935,21 +9935,21 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "そうよ、私がロリモンに見えるの？"
+                                "Is that so? Do I look like a loli monster to you?\nTake a good look..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 3,
                             "parameters": [
-                                "よく見なさいよ…"
+                                ""
                             ]
                         },
                         {
@@ -9975,14 +9975,14 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\C[1]ダルク\\C[0]"
+                                "\\C[1]Dark\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "………。"
+                                ".........."
                             ]
                         },
                         {
@@ -10006,21 +10006,21 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\C[1]ダルク\\C[0]"
+                                "\\C[1]Dark\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "マジか……それはすまないな"
+                                "Seriously... I'm sorry about that... Understand,\nit's been really rough lately."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 3,
                             "parameters": [
-                                "あーーー…わかってくれ、最近ほんとに酷いんだよ"
+                                ""
                             ]
                         },
                         {
@@ -10037,28 +10037,28 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\C[1]ダルク\\C[0]"
+                                "\\C[1]Dark\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "ルイーザには散々手紙も出してるのに、"
+                                "I've sent countless letters to Rudia, but she\ndoesn't understand at all. Thanks to that, I'm in\na state of impotence... So, what about you?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 3,
                             "parameters": [
-                                "全然わかってもらえねぇ。おかげでこっちは不能状態さ…"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 3,
                             "parameters": [
-                                "で…あんたは？"
+                                ""
                             ]
                         },
                         {
@@ -10118,21 +10118,21 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "コノハよ、リインガーネットから来たわ"
+                                "I'm Konoha, nice to meet you. I came from\nReingarnet."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 3,
                             "parameters": [
-                                "よろしくね"
+                                ""
                             ]
                         },
                         {
@@ -10149,21 +10149,21 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\C[1]ダルク\\C[0]"
+                                "\\C[1]Dark\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "俺はダルクだ、一応傭兵みたいなものだ"
+                                "I'm Dark, sort of like a mercenary. Right now, I'm\nmonitoring the movements of the demons in this\nhouse."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 3,
                             "parameters": [
-                                "この家でデーモン達の動きを今は監視している"
+                                ""
                             ]
                         },
                         {
@@ -10198,14 +10198,14 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "こんなところに一軒家って危なくないの？"
+                                "Isn't it dangerous to have a standalone house in a\nplace like this?"
                             ]
                         },
                         {
@@ -10222,28 +10222,28 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\C[1]ダルク\\C[0]"
+                                "\\C[1]Dark\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "もちろん、危ないぞ。ま、俺以外だったらな"
+                                "Of course, it's dangerous. Well, if it's anyone\nother than me, I have some confidence in fighting.\nThis house is also properly protected by a\nbarrier."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 3,
                             "parameters": [
-                                "戦いについてはそれなりの自信はあるつもりだ"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 3,
                             "parameters": [
-                                "この家もしっかりと結界は張ってある"
+                                ""
                             ]
                         },
                         {
@@ -10260,14 +10260,14 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\C[1]アルド\\C[0]"
+                                "\\C[1]Aldo\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "結界張ったのは僕だけどね"
+                                "I'm the one who set up the barrier, though."
                             ]
                         },
                         {
@@ -10302,21 +10302,21 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "そうなのね、でもこんなところに住めるなんて…"
+                                "I see, but being able to live in a place like\nthis... (They might be a bit strange, I suppose.)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 3,
                             "parameters": [
-                                "（ちょっと変な人なのかもしれないわね）"
+                                ""
                             ]
                         },
                         {
@@ -10351,21 +10351,21 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "ところでさっきルイーザって言ってなかった？"
+                                "By the way, didn't you mention something about\nLouise earlier? I came here because Louise told me\nto come."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 3,
                             "parameters": [
-                                "ルイーザに言われてここを訪ねてきたんだけど"
+                                ""
                             ]
                         },
                         {
@@ -10382,21 +10382,21 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\C[1]ダルク\\C[0]"
+                                "\\C[1]Dark\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "代わりに精液を奪いに来たのか！"
+                                "Did you come here to steal my semen instead? I\nknew it!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 3,
                             "parameters": [
-                                "やっぱりな！"
+                                ""
                             ]
                         },
                         {
@@ -10431,21 +10431,21 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "違うわよ！"
+                                "No, that's not it! Semen, semen... ugh!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 3,
                             "parameters": [
-                                "精液精液って……んもう"
+                                ""
                             ]
                         },
                         {
@@ -10480,28 +10480,28 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "何やら「淫魔の秘宝」というものが盗まれちゃったみたい"
+                                "It seems that something called the Inma no Hihou\n(Treasure of the Lewd Demons) has been stolen, and\nthe bandits are suspicious. They say that Dark\nmight know something about it."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 3,
                             "parameters": [
-                                "バンディットが怪しいって睨んでるらしんだけど"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 3,
                             "parameters": [
-                                "ダルクなら何か知ってるかもしれないって"
+                                ""
                             ]
                         },
                         {
@@ -10518,21 +10518,21 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\C[1]ダルク\\C[0]"
+                                "\\C[1]Dark\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "あーそのことか。一応話は聞いてるが、そのおかげで"
+                                "Ah, so that's what it's about. I've heard the\nstory, but it seems that because of that, my power\nhas weakened quite a bit."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 3,
                             "parameters": [
-                                "だいぶ力が弱まっているらしいな"
+                                ""
                             ]
                         },
                         {
@@ -10567,21 +10567,21 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "うん。んで、その秘宝探しを私も頼まれたんだけど"
+                                "Yeah. So, I was also asked to search for that\ntreasure. Can you tell me any information about\nthe bandits around here?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 3,
                             "parameters": [
-                                "この辺のバンディットの情報教えてもらえるかしら"
+                                ""
                             ]
                         },
                         {
@@ -10598,21 +10598,21 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\C[1]ダルク\\C[0]"
+                                "\\C[1]Dark\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "このアルデンテ森林内だとバンディットの拠点のような"
+                                "I don't see any hideouts that look like bandit\nbases in this Aldente Forest..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 3,
                             "parameters": [
-                                "アジトは見かけないんだが……"
+                                ""
                             ]
                         },
                         {
@@ -10629,21 +10629,21 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\C[1]ダルク\\C[0]"
+                                "\\C[1]Dark\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "どっかの村跡に地下部屋があって、そこがアジトになっている"
+                                "I've heard that there is an underground room in\nthe ruins of a certain village, and that it has\nbecome a hideout."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 3,
                             "parameters": [
-                                "と聞いたことがある"
+                                ""
                             ]
                         },
                         {
@@ -10660,21 +10660,21 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\c[1]アルド\\c[0]"
+                                "\\c[1]Aldo\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "確か、妖精村じゃなかったかな？元々は妖精のシェルターって"
+                                "I think it was the Fairy Village, right?\nOriginally, I heard it was a shelter for fairies,\nbut it's ironic that it's being used by the enemy\ninstead."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 3,
                             "parameters": [
-                                "聞いてたけど、逆に敵に使われてしまうなんて皮肉だよ"
+                                ""
                             ]
                         },
                         {
@@ -10709,14 +10709,14 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\c[6]コノハ\\c[0]"
+                                "\\c[6]Konoha\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "わかった、調査してみるわね"
+                                "Alright, I'll go investigate."
                             ]
                         },
                         {
@@ -10733,21 +10733,21 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\C[1]ダルク\\C[0]"
+                                "\\C[1]Dark\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "恐らく簡単に入ることはできないかもしれないから"
+                                "It might not be easy to enter, so it might be a\ngood idea to eliminate the surrounding enemies\nwhen the time comes."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 3,
                             "parameters": [
-                                "その時はあたりの敵を一掃したりするといいかもな"
+                                ""
                             ]
                         },
                         {
@@ -10764,21 +10764,21 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\C[1]ダルク\\C[0]"
+                                "\\C[1]Dark\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "まぁ何にせよ、気をつけることだ。バンディット達も"
+                                "Well, in any case, be careful. The bandits are\ndetermined to trap you all, so watch out."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 3,
                             "parameters": [
-                                "あんた達を陥れることにやっきだからな"
+                                ""
                             ]
                         },
                         {
@@ -10838,21 +10838,21 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\c[6]コノハ\\c[0]"
+                                "\\c[6]Konoha\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "なるほど、わかったわ"
+                                "I see, I understand. Thank you for the various\ninformation. Well then, I'll be going."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 3,
                             "parameters": [
-                                "いろいろ情報ありがとう、それじゃ行くわね"
+                                ""
                             ]
                         },
                         {
@@ -10869,14 +10869,14 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\C[1]アルド\\C[0]"
+                                "\\C[1]Aldo\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "そうだ、僕もそろそろ出ないと"
+                                "That's right, I should also head out soon."
                             ]
                         },
                         {
@@ -10893,21 +10893,21 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\C[1]ダルク\\C[0]"
+                                "\\C[1]Dark\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "ああそうだったな。問題はないだろうが"
+                                "Ah, that's right. There shouldn't be any problems,\nbut don't let your guard down on the way, Aldo."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 3,
                             "parameters": [
-                                "道中油断するなよアルド"
+                                ""
                             ]
                         },
                         {
@@ -10924,14 +10924,14 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\C[1]アルド\\C[0]"
+                                "\\C[1]Aldo\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "もちろん、ダルクもあまり調子に乗らないようにね"
+                                "Of course, Dark, make sure not to get too carried\naway."
                             ]
                         },
                         {
@@ -10948,14 +10948,14 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\C[1]アルド\\C[0]"
+                                "\\C[1]Aldo\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "それじゃコノハさん、僕は先に失礼するね"
+                                "Well then, Konoha-san, I'll excuse myself first."
                             ]
                         },
                         {
@@ -11015,14 +11015,14 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "ええ、気をつけて"
+                                "Yes, be careful."
                             ]
                         },
                         {
@@ -11158,14 +11158,14 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "お邪魔したわね…"
+                                "I'm sorry for intruding..."
                             ]
                         },
                         {
@@ -11326,21 +11326,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[1]ダルク\\C[0]"
+                                "\\C[1]Dark\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "何度もは言わないぞ、そういうのは、もう、充分"
+                                "I won't say it again, we've already had enough of\nthat!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "間に合ってるからな！"
+                                ""
                             ]
                         },
                         {
@@ -11376,28 +11376,28 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\C[1]ダルク\\C[0]"
+                                "\\C[1]Dark\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "妖精村跡に地下部屋があって、そこがアジトになっている"
+                                "I heard that there is an underground room in the\nruins of the Fairy Village, which serves as a\nhideout. It might be worth investigating there."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "と聞いたことがあるから、そこを調べてみると"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "いいかもしれないぜ"
+                                ""
                             ]
                         },
                         {
@@ -11467,14 +11467,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ルイーザに会ってきたわ"
+                                "I went to meet Louisa."
                             ]
                         },
                         {
@@ -11491,21 +11491,21 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\C[1]ダルク\\C[0]"
+                                "\\C[1]Dark\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "おおコノハか。どうだった？"
+                                "Oh, Konoha. How was it? Has the treasure not\nreturned yet?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "まだ秘宝は戻ってなかったか"
+                                ""
                             ]
                         },
                         {
@@ -11540,28 +11540,28 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ええ。探してほしいって頼まれたわ"
+                                "Yeah. I was asked to look for it. The bandits seem\nsuspicious and Dark might know something about it."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "バンディットが怪しいって睨んでるらしんだけど"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "ダルクなら何か知ってるかもしれないって"
+                                ""
                             ]
                         },
                         {
@@ -11578,21 +11578,21 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\C[1]ダルク\\C[0]"
+                                "\\C[1]Dark\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "やはりバンディットが怪しいか……"
+                                "It seems the bandits are indeed suspicious... We\nhave to do something before they fall into the\nhands of the demons."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "デーモンに渡る前になんとかしないといけないしな"
+                                ""
                             ]
                         },
                         {
@@ -11627,14 +11627,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "この辺のバンディットの情報教えてもらえるかしら"
+                                "I wonder if you could tell me about the bandits\naround here."
                             ]
                         },
                         {
@@ -11651,21 +11651,21 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\C[1]ダルク\\C[0]"
+                                "\\C[1]Dark\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "このアルデンテ森林内だとバンディットの拠点のような"
+                                "I don't see any hideouts that could be the\nbandits' base in this Aldente Forest..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "アジトは見かけないんだが……"
+                                ""
                             ]
                         },
                         {
@@ -11682,21 +11682,21 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\C[1]ダルク\\C[0]"
+                                "\\C[1]Dark\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "妖精村跡に地下部屋があって、そこがアジトになっている"
+                                "I've heard that there is an underground room in\nthe ruins of the Fairy Village, which serves as a\nhideout."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "と聞いたことがある"
+                                ""
                             ]
                         },
                         {
@@ -11713,21 +11713,21 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\C[1]ダルク\\C[0]"
+                                "\\C[1]Dark\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "このアルデンテ森林内に留まっている可能性は高い"
+                                "It's highly likely that whatever is staying within\nthis Aldente Forest cannot be easily moved."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "物がモノだけにそう簡単には動かせないはずだ"
+                                ""
                             ]
                         },
                         {
@@ -11762,21 +11762,21 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[6]コノハ\\c[0]"
+                                "\\c[6]Konoha\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "妖精村跡の地下部屋…"
+                                "The underground room in the ruins of the Fairy\nVillage... Alright, I understand. I'll find it and\ninvestigate."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "わかった、見つけて調査してみるわね"
+                                ""
                             ]
                         },
                         {
@@ -11793,21 +11793,21 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\C[1]ダルク\\C[0]"
+                                "\\C[1]Dark\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "恐らく簡単に入ることはできないかもしれないから"
+                                "Since it might not be easy to enter, it might be a\ngood idea to eliminate the surrounding enemies\nwhen the time comes."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "その時はあたりの敵を一掃したりするといいかもな"
+                                ""
                             ]
                         },
                         {
@@ -11824,21 +11824,21 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\C[1]ダルク\\C[0]"
+                                "\\C[1]Dark\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "まぁ何にせよ、気をつけることだ。バンディット達も"
+                                "Well, in any case, be careful. The bandits are\ndetermined to trap you all, so be on your guard."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "あんた達を陥れることにやっきだからな"
+                                ""
                             ]
                         },
                         {
@@ -11898,21 +11898,21 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[6]コノハ\\c[0]"
+                                "\\c[6]Konoha\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "なるほど、わかったわ"
+                                "I see, I understand. Thank you for the various\ninformation. Well then, I'll be going."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "いろいろ情報ありがとう、それじゃ行くわね"
+                                ""
                             ]
                         },
                         {
@@ -12083,21 +12083,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[1]ダルク\\C[0]"
+                                "\\C[1]Dark\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "何度もは言わないぞ、そういうのは、もう、充分"
+                                "I won't say it again, we've already had enough of\nthat!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "間に合ってるからな！"
+                                ""
                             ]
                         },
                         {
@@ -12124,28 +12124,28 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[1]ダルク\\C[0]"
+                                "\\C[1]Dark\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "妖精村跡に地下部屋があって、そこがアジトになっている"
+                                "I heard that there is an underground room in the\nruins of the Fairy Village, which serves as a\nhideout. It might be worth investigating there."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "と聞いたことがあるから、そこを調べてみると"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "いいかもしれないぜ"
+                                ""
                             ]
                         },
                         {
@@ -12504,14 +12504,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[1]アルド\\C[0]"
+                                "\\C[1]Aldo\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "うわわ…！裸はまずいですよ～！"
+                                "Oh my...! Being naked is not good~!"
                             ]
                         },
                         {
@@ -12538,21 +12538,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[1]アルド\\C[0]"
+                                "\\C[1]Aldo\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "やぁ、君は魔法少女だね"
+                                "Hey, you're a magical girl, right? I'm Aldo. Nice\nto meet you."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "僕はアルド。よろしく"
+                                ""
                             ]
                         },
                         {
@@ -12569,14 +12569,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "よろしくアルド。コノハよ"
+                                "Nice to meet you, Aldo. I'm Konoha."
                             ]
                         },
                         {

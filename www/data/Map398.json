@@ -16,7 +16,7 @@
         "volume": 50
     },
     "disableDashing": false,
-    "displayName": "メモリールーム",
+    "displayName": "Memory Room",
     "encounterList": [],
     "encounterStep": 30,
     "height": 40,
@@ -9752,8 +9752,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "タイトルに戻る",
-                                    "戻らない"
+                                    "Return to title",
+                                    "Won't return"
                                 ],
                                 -2,
                                 0,
@@ -9783,14 +9783,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[2]タイトルに戻る場合は[F5]キーで再起動してください"
+                                "To return to the title, please restart by pressing\nthe [F5] key. (There may be a mysterious glitch\nthat causes parameter errors)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "※謎の不具合が起こるため（パラメータがおかしくなる）"
+                                ""
                             ]
                         },
                         {
@@ -10964,12 +10964,12 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "エイミオープニングエロ en(s[1119])",
-                                    "エイミ強姦（背後位）en(s[1124])",
-                                    "エイミ出産en(s[1127])",
-                                    "エイミ奴隷en(s[1126])",
-                                    "エイミ買収en(s[1125])",
-                                    "やめる"
+                                    "Amy's opening erotic scene en(s[1119])",
+                                    "Amy raped (from behind)en(s[1124])",
+                                    "Amy gives birthen(s[1127])",
+                                    "Amy's Slaveen(s[1126])",
+                                    "Amy's acquisitionen(s[1125])",
+                                    "Stop"
                                 ],
                                 -2,
                                 0,
@@ -11126,8 +11126,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "ロリモン",
-                                    "赤ちゃん"
+                                    "Lolimon",
+                                    "Baby"
                                 ],
                                 -2,
                                 -1,
@@ -11333,8 +11333,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "妊娠していない",
-                                    "妊娠している"
+                                    "Not pregnant",
+                                    "Pregnant"
                                 ],
                                 -1,
                                 -1,
@@ -11616,8 +11616,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "シーン全開放する",
-                                    "何もしない"
+                                    "Fully uncensored scene",
+                                    "Doing nothing"
                                 ],
                                 -1,
                                 -1,
@@ -11647,21 +11647,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[2]全開放すると元に戻すことはできません"
+                                "Once \\C[2] is fully unlocked, it cannot be\nreverted back. Is it okay to fully unlock \\C[2]?\n*All character illustrations and animations are\nalready unlocked."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "全開放してもいいですか？"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "※立ち絵アニメは全て開放されています"
+                                ""
                             ]
                         },
                         {
@@ -11669,8 +11669,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 -1,
                                 -1,
@@ -11721,7 +11721,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\C[22]エッチシーンを全開放しました"
+                                "All the sex scenes have been fully unlocked."
                             ]
                         },
                         {
@@ -11902,11 +11902,11 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "メラーサ強姦en(s[1120])",
-                                    "メラーサ出産en(s[1123])",
-                                    "メラーサ奴隷en(s[1122])",
-                                    "メラーサ買収en(s[1121])",
-                                    "やめる"
+                                    "Melarsa Rapeen(s[1120])",
+                                    "Melasa's Birthen(s[1123])",
+                                    "Melarsa Slaveen(s[1122])",
+                                    "Merasa Acquisitionen(s[1121])",
+                                    "Stop"
                                 ],
                                 -2,
                                 0,
@@ -11995,8 +11995,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "ロリモン",
-                                    "赤ちゃん"
+                                    "Lolimon",
+                                    "Baby"
                                 ],
                                 -2,
                                 -1,
@@ -12202,8 +12202,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "妊娠していない",
-                                    "妊娠している"
+                                    "Not pregnant",
+                                    "Pregnant"
                                 ],
                                 -1,
                                 -1,
@@ -12531,11 +12531,11 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "バレッタアナルen(s[1128])",
-                                    "バレッタ出産en(s[1131])",
-                                    "バレッタフェラen(s[1130])",
-                                    "バレッタ逆レイプen(s[1129])",
-                                    "やめる"
+                                    "Baretta Analen(s[1128])",
+                                    "Baretta gives birthen(s[1131])",
+                                    "Baretta Blowjoben(s[1130])",
+                                    "Baretta Reverse Rapeen(s[1129])",
+                                    "Stop"
                                 ],
                                 -2,
                                 0,
@@ -12624,8 +12624,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "ロリモン",
-                                    "赤ちゃん"
+                                    "Lolimon",
+                                    "Baby"
                                 ],
                                 -2,
                                 -1,
@@ -12910,8 +12910,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "妊娠していない",
-                                    "妊娠している"
+                                    "Not pregnant",
+                                    "Pregnant"
                                 ],
                                 -1,
                                 -1,
@@ -13160,8 +13160,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "ルイーザ敗北en(s[1132])",
-                                    "やめる"
+                                    "Louisa's defeaten(s[1132])",
+                                    "Stop"
                                 ],
                                 -2,
                                 0,
@@ -13393,8 +13393,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "マリマリ敗北en(s[1135])",
-                                    "やめる"
+                                    "Mari Mari Defeaten(s[1135])",
+                                    "Stop"
                                 ],
                                 -2,
                                 0,
@@ -13626,8 +13626,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "ファリス敗北en(s[1134])",
-                                    "やめる"
+                                    "Faris defeateden(s[1134])",
+                                    "Stop"
                                 ],
                                 -2,
                                 0,
@@ -13859,8 +13859,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "ドロテア敗北en(s[1133])",
-                                    "やめる"
+                                    "Dorothea's defeaten(s[1133])",
+                                    "Stop"
                                 ],
                                 -2,
                                 0,
@@ -14053,9 +14053,9 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "名前「バンディット」",
-                                    "名前「\\v[618]」",
-                                    "やめる"
+                                    "Name Bandit",
+                                    "Name \\v[618]",
+                                    "Stop"
                                 ],
                                 -2,
                                 -1,
@@ -14150,8 +14150,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "パターン1",
-                                    "パターン2"
+                                    "Pattern 1",
+                                    "Pattern 2"
                                 ],
                                 -1,
                                 0,
@@ -14311,8 +14311,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "パターン1",
-                                    "パターン2"
+                                    "Pattern 1",
+                                    "Pattern 2"
                                 ],
                                 -1,
                                 0,
@@ -14493,9 +14493,9 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "名前「バンディット」",
-                                    "名前「\\v[618]」",
-                                    "やめる"
+                                    "Name Bandit",
+                                    "Name \\v[618]",
+                                    "Stop"
                                 ],
                                 -2,
                                 -1,
@@ -14590,8 +14590,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "パターン1",
-                                    "パターン2"
+                                    "Pattern 1",
+                                    "Pattern 2"
                                 ],
                                 -1,
                                 0,
@@ -14751,8 +14751,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "パターン1",
-                                    "パターン2"
+                                    "Pattern 1",
+                                    "Pattern 2"
                                 ],
                                 -1,
                                 0,
@@ -14942,9 +14942,9 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "名前「触手魔獣」",
-                                    "名前「\\v[618]」",
-                                    "やめる"
+                                    "Name Tentacle Beast",
+                                    "Name \\v[618]",
+                                    "Stop"
                                 ],
                                 -2,
                                 -1,
@@ -15270,9 +15270,9 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "名前「触手魔獣」",
-                                    "名前「\\v[618]」",
-                                    "やめる"
+                                    "Name Tentacle Beast",
+                                    "Name \\v[618]",
+                                    "Stop"
                                 ],
                                 -2,
                                 -1,
@@ -15607,9 +15607,9 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "名前「バンディット」",
-                                    "名前「\\v[618]」",
-                                    "やめる"
+                                    "Name Bandit",
+                                    "Name \\v[618]",
+                                    "Stop"
                                 ],
                                 -2,
                                 -1,
@@ -15935,9 +15935,9 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "名前「バンディット」",
-                                    "名前「\\v[618]」",
-                                    "やめる"
+                                    "Name Bandit",
+                                    "Name \\v[618]",
+                                    "Stop"
                                 ],
                                 -2,
                                 -1,
@@ -16452,9 +16452,9 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "名前「触手魔獣」",
-                                    "名前「\\v[618]」",
-                                    "やめる"
+                                    "Name Tentacle Beast",
+                                    "Name \\v[618]",
+                                    "Stop"
                                 ],
                                 -2,
                                 -1,
@@ -16780,9 +16780,9 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "名前「触手魔獣」",
-                                    "名前「\\v[618]」",
-                                    "やめる"
+                                    "Name Tentacle Beast",
+                                    "Name \\v[618]",
+                                    "Stop"
                                 ],
                                 -2,
                                 -1,
@@ -17117,9 +17117,9 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "名前「スライム」",
-                                    "名前「\\v[618]」",
-                                    "やめる"
+                                    "Name Slime",
+                                    "Name \\v[618]",
+                                    "Stop"
                                 ],
                                 -2,
                                 -1,
@@ -17445,9 +17445,9 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "名前「スライム」",
-                                    "名前「\\v[618]」",
-                                    "やめる"
+                                    "Name Slime",
+                                    "Name \\v[618]",
+                                    "Stop"
                                 ],
                                 -2,
                                 -1,
@@ -17782,9 +17782,9 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "名前「タイタン」",
-                                    "名前「\\v[618]」",
-                                    "やめる"
+                                    "Name Titan",
+                                    "Name \\v[618]",
+                                    "Stop"
                                 ],
                                 -2,
                                 -1,
@@ -18110,9 +18110,9 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "名前「タイタン」",
-                                    "名前「\\v[618]」",
-                                    "やめる"
+                                    "Name Titan",
+                                    "Name \\v[618]",
+                                    "Stop"
                                 ],
                                 -2,
                                 -1,
@@ -18447,9 +18447,9 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "名前「バンディット」",
-                                    "名前「\\v[618]」",
-                                    "やめる"
+                                    "Name Bandit",
+                                    "Name \\v[618]",
+                                    "Stop"
                                 ],
                                 -2,
                                 -1,
@@ -18544,8 +18544,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "パターン1",
-                                    "パターン2"
+                                    "Pattern 1",
+                                    "Pattern 2"
                                 ],
                                 -1,
                                 0,
@@ -18705,8 +18705,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "パターン1",
-                                    "パターン2"
+                                    "Pattern 1",
+                                    "Pattern 2"
                                 ],
                                 -1,
                                 0,
@@ -18887,9 +18887,9 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "名前「バンディット」",
-                                    "名前「\\v[618]」",
-                                    "やめる"
+                                    "Name Bandit",
+                                    "Name \\v[618]",
+                                    "Stop"
                                 ],
                                 -2,
                                 -1,
@@ -18984,8 +18984,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "パターン1",
-                                    "パターン2"
+                                    "Pattern 1",
+                                    "Pattern 2"
                                 ],
                                 -1,
                                 0,
@@ -19145,8 +19145,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "パターン1",
-                                    "パターン2"
+                                    "Pattern 1",
+                                    "Pattern 2"
                                 ],
                                 -1,
                                 0,
@@ -19336,9 +19336,9 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "名前「触手魔獣」",
-                                    "名前「\\v[618]」",
-                                    "やめる"
+                                    "Name Tentacle Beast",
+                                    "Name \\v[618]",
+                                    "Stop"
                                 ],
                                 -2,
                                 -1,
@@ -19664,9 +19664,9 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "名前「触手魔獣」",
-                                    "名前「\\v[618]」",
-                                    "やめる"
+                                    "Name Tentacle Beast",
+                                    "Name \\v[618]",
+                                    "Stop"
                                 ],
                                 -2,
                                 -1,
@@ -20001,9 +20001,9 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "名前「バンディット」",
-                                    "名前「\\v[618]」",
-                                    "やめる"
+                                    "Name Bandit",
+                                    "Name \\v[618]",
+                                    "Stop"
                                 ],
                                 -2,
                                 -1,
@@ -20098,8 +20098,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "パターン1",
-                                    "パターン2"
+                                    "Pattern 1",
+                                    "Pattern 2"
                                 ],
                                 -1,
                                 0,
@@ -20259,8 +20259,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "パターン1",
-                                    "パターン2"
+                                    "Pattern 1",
+                                    "Pattern 2"
                                 ],
                                 -1,
                                 0,
@@ -20441,9 +20441,9 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "名前「バンディット」",
-                                    "名前「\\v[618]」",
-                                    "やめる"
+                                    "Name Bandit",
+                                    "Name \\v[618]",
+                                    "Stop"
                                 ],
                                 -2,
                                 -1,
@@ -20538,8 +20538,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "パターン1",
-                                    "パターン2"
+                                    "Pattern 1",
+                                    "Pattern 2"
                                 ],
                                 -1,
                                 0,
@@ -20699,8 +20699,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "パターン1",
-                                    "パターン2"
+                                    "Pattern 1",
+                                    "Pattern 2"
                                 ],
                                 -1,
                                 0,
@@ -20890,10 +20890,10 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "名前「触手魔獣」",
-                                    "名前「デーモン」",
-                                    "名前「\\v[618]」",
-                                    "やめる"
+                                    "Name Tentacle Beast",
+                                    "Name Demon",
+                                    "Name \\v[618]",
+                                    "Stop"
                                 ],
                                 -2,
                                 -1,
@@ -21198,8 +21198,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "パターン1",
-                                    "パターン2"
+                                    "Pattern 1",
+                                    "Pattern 2"
                                 ],
                                 -1,
                                 0,
@@ -21380,10 +21380,10 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "名前「触手魔獣」",
-                                    "名前「デーモン」",
-                                    "名前「\\v[618]」",
-                                    "やめる"
+                                    "Name Tentacle Beast",
+                                    "Name Demon",
+                                    "Name \\v[618]",
+                                    "Stop"
                                 ],
                                 -2,
                                 -1,
@@ -21688,8 +21688,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "パターン1",
-                                    "パターン2"
+                                    "Pattern 1",
+                                    "Pattern 2"
                                 ],
                                 -1,
                                 0,
@@ -21879,9 +21879,9 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "名前「スライム」",
-                                    "名前「\\v[618]」",
-                                    "やめる"
+                                    "Name Slime",
+                                    "Name \\v[618]",
+                                    "Stop"
                                 ],
                                 -2,
                                 -1,
@@ -22207,9 +22207,9 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "名前「スライム」",
-                                    "名前「\\v[618]」",
-                                    "やめる"
+                                    "Name Slime",
+                                    "Name \\v[618]",
+                                    "Stop"
                                 ],
                                 -2,
                                 -1,
@@ -22639,9 +22639,9 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "名前「バンディット」",
-                                    "名前「\\v[618]」",
-                                    "やめる"
+                                    "Name Bandit",
+                                    "Name \\v[618]",
+                                    "Stop"
                                 ],
                                 -2,
                                 -1,
@@ -22736,8 +22736,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "パターン1",
-                                    "パターン2"
+                                    "Pattern 1",
+                                    "Pattern 2"
                                 ],
                                 -1,
                                 0,
@@ -22897,8 +22897,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "パターン1",
-                                    "パターン2"
+                                    "Pattern 1",
+                                    "Pattern 2"
                                 ],
                                 -1,
                                 0,
@@ -23079,9 +23079,9 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "名前「バンディット」",
-                                    "名前「\\v[618]」",
-                                    "やめる"
+                                    "Name Bandit",
+                                    "Name \\v[618]",
+                                    "Stop"
                                 ],
                                 -2,
                                 -1,
@@ -23176,8 +23176,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "パターン1",
-                                    "パターン2"
+                                    "Pattern 1",
+                                    "Pattern 2"
                                 ],
                                 -1,
                                 0,
@@ -23337,8 +23337,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "パターン1",
-                                    "パターン2"
+                                    "Pattern 1",
+                                    "Pattern 2"
                                 ],
                                 -1,
                                 0,
@@ -23528,9 +23528,9 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "名前「獣」",
-                                    "名前「\\v[618]」",
-                                    "やめる"
+                                    "Name Beast",
+                                    "Name \\v[618]",
+                                    "Stop"
                                 ],
                                 -2,
                                 -1,
@@ -23856,9 +23856,9 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "名前「獣」",
-                                    "名前「\\v[618]」",
-                                    "やめる"
+                                    "Name Beast",
+                                    "Name \\v[618]",
+                                    "Stop"
                                 ],
                                 -2,
                                 -1,
@@ -24193,10 +24193,10 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "名前「バンディット」",
-                                    "名前「デーモン」",
-                                    "名前「\\v[618]」",
-                                    "やめる"
+                                    "Name Bandit",
+                                    "Name Demon",
+                                    "Name \\v[618]",
+                                    "Stop"
                                 ],
                                 -2,
                                 -1,
@@ -24501,8 +24501,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "パターン1",
-                                    "パターン2"
+                                    "Pattern 1",
+                                    "Pattern 2"
                                 ],
                                 -1,
                                 0,
@@ -24683,10 +24683,10 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "名前「バンディット」",
-                                    "名前「デーモン」",
-                                    "名前「\\v[618]」",
-                                    "やめる"
+                                    "Name Bandit",
+                                    "Name Demon",
+                                    "Name \\v[618]",
+                                    "Stop"
                                 ],
                                 -2,
                                 -1,
@@ -24991,8 +24991,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "パターン1",
-                                    "パターン2"
+                                    "Pattern 1",
+                                    "Pattern 2"
                                 ],
                                 -1,
                                 0,
@@ -25182,9 +25182,9 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "名前「タイタン」",
-                                    "名前「\\v[618]」",
-                                    "やめる"
+                                    "Name Titan",
+                                    "Name \\v[618]",
+                                    "Stop"
                                 ],
                                 -2,
                                 -1,
@@ -25510,9 +25510,9 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "名前「タイタン」",
-                                    "名前「\\v[618]」",
-                                    "やめる"
+                                    "Name Titan",
+                                    "Name \\v[618]",
+                                    "Stop"
                                 ],
                                 -2,
                                 -1,
@@ -25847,11 +25847,11 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "通常コノハ←→悪堕ちコノハのチェンジ",
-                                    "妊娠する←→妊娠やめる",
-                                    "淫乱値変更",
-                                    "衣装破れ値変更",
-                                    "処女←→非処女"
+                                    "Normal Konoha ←→ Fallen Konoha Change",
+                                    "Get pregnant ←→ Stop getting pregnant",
+                                    "Change Lewdness Value",
+                                    "Costume tear value change",
+                                    "Virgin ←→ Non-virgin"
                                 ],
                                 -2,
                                 0,
@@ -25978,10 +25978,10 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "ロリモン",
-                                    "魔獣",
-                                    "デーモン",
-                                    "ヒト"
+                                    "Lolimon",
+                                    "Demon Beast",
+                                    "Demon",
+                                    "Human"
                                 ],
                                 -2,
                                 -1,
@@ -26208,9 +26208,9 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "衣装100％",
-                                    "衣装50％",
-                                    "衣装0％"
+                                    "100% Costume",
+                                    "Costume 50%",
+                                    "Outfit 0%"
                                 ],
                                 -2,
                                 0,
@@ -26360,14 +26360,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\C[2]処女になりました"
+                                "I became a virgin, and my first partner was \\C[2]."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "初めての相手が「ーーー」になりました"
+                                ""
                             ]
                         },
                         {
@@ -26403,7 +26403,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\C[2]非処女になりました"
+                                "\\C[2] I became non-virgin."
                             ]
                         },
                         {
@@ -26539,9 +26539,9 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "通常立ち絵",
-                                    "戦闘立ち絵",
-                                    "やめる"
+                                    "Normal standing pose",
+                                    "Battle CG",
+                                    "Stop"
                                 ],
                                 -2,
                                 0,
@@ -26576,11 +26576,11 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "普通",
-                                    "楽しい",
-                                    "困り（悲しい）",
-                                    "怒り",
-                                    "喜び"
+                                    "Normal",
+                                    "Fun",
+                                    "Troubled (Sad)",
+                                    "Anger",
+                                    "Joy"
                                 ],
                                 -2,
                                 -1,
@@ -26835,11 +26835,11 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "ダウン",
-                                    "エロ",
-                                    "カットイン（EX）",
-                                    "カットイン（絶頂）",
-                                    "戻る"
+                                    "Down",
+                                    "Erotic",
+                                    "Cut-in (EX)",
+                                    "Cut-in (Orgasm)",
+                                    "Return"
                                 ],
                                 -2,
                                 0,
@@ -26926,10 +26926,10 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "エロ１",
-                                    "エロ２",
-                                    "エロ３",
-                                    "エロ４"
+                                    "Ero 1",
+                                    "Ero 2",
+                                    "Ero 3",
+                                    "Ero 4"
                                 ],
                                 -2,
                                 0,
@@ -27472,9 +27472,9 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "通常立ち絵",
-                                    "戦闘立ち絵",
-                                    "やめる"
+                                    "Normal standing pose",
+                                    "Battle CG",
+                                    "Stop"
                                 ],
                                 -2,
                                 0,
@@ -27509,11 +27509,11 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "普通",
-                                    "楽しい",
-                                    "困り（悲しい）",
-                                    "怒り",
-                                    "喜び"
+                                    "Normal",
+                                    "Fun",
+                                    "Troubled (Sad)",
+                                    "Anger",
+                                    "Joy"
                                 ],
                                 -2,
                                 -1,
@@ -27768,11 +27768,11 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "ダウン",
-                                    "エロ",
-                                    "カットイン（EX）",
-                                    "カットイン（絶頂）",
-                                    "戻る"
+                                    "Down",
+                                    "Erotic",
+                                    "Cut-in (EX)",
+                                    "Cut-in (Orgasm)",
+                                    "Return"
                                 ],
                                 -2,
                                 0,
@@ -27859,10 +27859,10 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "エロ１",
-                                    "エロ２",
-                                    "エロ３",
-                                    "エロ４"
+                                    "Ero 1",
+                                    "Ero 2",
+                                    "Ero 3",
+                                    "Ero 4"
                                 ],
                                 -2,
                                 0,
@@ -28405,9 +28405,9 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "通常立ち絵",
-                                    "戦闘立ち絵",
-                                    "やめる"
+                                    "Normal standing pose",
+                                    "Battle CG",
+                                    "Stop"
                                 ],
                                 -2,
                                 0,
@@ -28442,11 +28442,11 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "普通",
-                                    "楽しい",
-                                    "困り（悲しい）",
-                                    "怒り",
-                                    "喜び"
+                                    "Normal",
+                                    "Fun",
+                                    "Troubled (Sad)",
+                                    "Anger",
+                                    "Joy"
                                 ],
                                 -2,
                                 -1,
@@ -28701,11 +28701,11 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "ダウン",
-                                    "エロ",
-                                    "カットイン（EX）",
-                                    "カットイン（絶頂）",
-                                    "戻る"
+                                    "Down",
+                                    "Erotic",
+                                    "Cut-in (EX)",
+                                    "Cut-in (Orgasm)",
+                                    "Return"
                                 ],
                                 -2,
                                 0,
@@ -28792,10 +28792,10 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "エロ１",
-                                    "エロ２",
-                                    "エロ３",
-                                    "エロ４"
+                                    "Ero 1",
+                                    "Ero 2",
+                                    "Ero 3",
+                                    "Ero 4"
                                 ],
                                 -2,
                                 0,
@@ -29338,9 +29338,9 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "通常立ち絵",
-                                    "戦闘立ち絵",
-                                    "やめる"
+                                    "Normal standing pose",
+                                    "Battle CG",
+                                    "Stop"
                                 ],
                                 -2,
                                 0,
@@ -29375,11 +29375,11 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "普通",
-                                    "楽しい",
-                                    "困り（悲しい）",
-                                    "怒り",
-                                    "喜び"
+                                    "Normal",
+                                    "Fun",
+                                    "Troubled (Sad)",
+                                    "Anger",
+                                    "Joy"
                                 ],
                                 -2,
                                 -1,
@@ -29634,11 +29634,11 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "ダウン",
-                                    "エロ",
-                                    "カットイン（EX）",
-                                    "カットイン（絶頂）",
-                                    "戻る"
+                                    "Down",
+                                    "Erotic",
+                                    "Cut-in (EX)",
+                                    "Cut-in (Orgasm)",
+                                    "Return"
                                 ],
                                 -2,
                                 0,
@@ -29725,10 +29725,10 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "エロ１",
-                                    "エロ２",
-                                    "エロ３",
-                                    "エロ４"
+                                    "Ero 1",
+                                    "Ero 2",
+                                    "Ero 3",
+                                    "Ero 4"
                                 ],
                                 -2,
                                 0,
@@ -30271,9 +30271,9 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "通常立ち絵",
-                                    "戦闘立ち絵",
-                                    "やめる"
+                                    "Normal standing pose",
+                                    "Battle CG",
+                                    "Stop"
                                 ],
                                 -2,
                                 0,
@@ -30308,11 +30308,11 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "普通",
-                                    "楽しい",
-                                    "困り（悲しい）",
-                                    "怒り",
-                                    "喜び"
+                                    "Normal",
+                                    "Fun",
+                                    "Troubled (Sad)",
+                                    "Anger",
+                                    "Joy"
                                 ],
                                 -2,
                                 -1,
@@ -30567,11 +30567,11 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "ダウン",
-                                    "エロ",
-                                    "カットイン（EX）",
-                                    "カットイン（絶頂）",
-                                    "戻る"
+                                    "Down",
+                                    "Erotic",
+                                    "Cut-in (EX)",
+                                    "Cut-in (Orgasm)",
+                                    "Return"
                                 ],
                                 -2,
                                 0,
@@ -30658,10 +30658,10 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "エロ１",
-                                    "エロ２",
-                                    "エロ３",
-                                    "エロ４"
+                                    "Ero 1",
+                                    "Ero 2",
+                                    "Ero 3",
+                                    "Ero 4"
                                 ],
                                 -2,
                                 0,
@@ -31204,9 +31204,9 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "通常立ち絵",
-                                    "戦闘立ち絵",
-                                    "やめる"
+                                    "Normal standing pose",
+                                    "Battle CG",
+                                    "Stop"
                                 ],
                                 -2,
                                 0,
@@ -31241,11 +31241,11 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "普通",
-                                    "楽しい",
-                                    "困り（悲しい）",
-                                    "怒り",
-                                    "喜び"
+                                    "Normal",
+                                    "Fun",
+                                    "Troubled (Sad)",
+                                    "Anger",
+                                    "Joy"
                                 ],
                                 -2,
                                 -1,
@@ -31500,11 +31500,11 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "ダウン",
-                                    "エロ",
-                                    "カットイン（EX）",
-                                    "カットイン（絶頂）",
-                                    "戻る"
+                                    "Down",
+                                    "Erotic",
+                                    "Cut-in (EX)",
+                                    "Cut-in (Orgasm)",
+                                    "Return"
                                 ],
                                 -2,
                                 0,
@@ -31591,10 +31591,10 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "エロ１",
-                                    "エロ２",
-                                    "エロ３",
-                                    "エロ４"
+                                    "Ero 1",
+                                    "Ero 2",
+                                    "Ero 3",
+                                    "Ero 4"
                                 ],
                                 -2,
                                 0,
@@ -32137,9 +32137,9 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "通常立ち絵",
-                                    "戦闘立ち絵",
-                                    "やめる"
+                                    "Normal standing pose",
+                                    "Battle CG",
+                                    "Stop"
                                 ],
                                 -2,
                                 0,
@@ -32174,11 +32174,11 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "普通",
-                                    "楽しい",
-                                    "困り（悲しい）",
-                                    "怒り",
-                                    "喜び"
+                                    "Normal",
+                                    "Fun",
+                                    "Troubled (Sad)",
+                                    "Anger",
+                                    "Joy"
                                 ],
                                 -2,
                                 -1,
@@ -32433,11 +32433,11 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "ダウン",
-                                    "エロ",
-                                    "カットイン（EX）",
-                                    "カットイン（絶頂）",
-                                    "戻る"
+                                    "Down",
+                                    "Erotic",
+                                    "Cut-in (EX)",
+                                    "Cut-in (Orgasm)",
+                                    "Return"
                                 ],
                                 -2,
                                 0,
@@ -32524,10 +32524,10 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "エロ１",
-                                    "エロ２",
-                                    "エロ３",
-                                    "エロ４"
+                                    "Ero 1",
+                                    "Ero 2",
+                                    "Ero 3",
+                                    "Ero 4"
                                 ],
                                 -2,
                                 0,
@@ -33070,9 +33070,9 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "通常立ち絵",
-                                    "戦闘立ち絵",
-                                    "やめる"
+                                    "Normal standing pose",
+                                    "Battle CG",
+                                    "Stop"
                                 ],
                                 -2,
                                 0,
@@ -33107,11 +33107,11 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "普通",
-                                    "楽しい",
-                                    "困り（悲しい）",
-                                    "怒り",
-                                    "喜び"
+                                    "Normal",
+                                    "Fun",
+                                    "Troubled (Sad)",
+                                    "Anger",
+                                    "Joy"
                                 ],
                                 -2,
                                 -1,
@@ -33366,11 +33366,11 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "ダウン",
-                                    "エロ",
-                                    "カットイン（EX）",
-                                    "カットイン（絶頂）",
-                                    "戻る"
+                                    "Down",
+                                    "Erotic",
+                                    "Cut-in (EX)",
+                                    "Cut-in (Orgasm)",
+                                    "Return"
                                 ],
                                 -2,
                                 0,
@@ -33457,10 +33457,10 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "エロ１",
-                                    "エロ２",
-                                    "エロ３",
-                                    "エロ４"
+                                    "Ero 1",
+                                    "Ero 2",
+                                    "Ero 3",
+                                    "Ero 4"
                                 ],
                                 -2,
                                 0,
@@ -34003,9 +34003,9 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "通常立ち絵",
-                                    "戦闘立ち絵",
-                                    "やめる"
+                                    "Normal standing pose",
+                                    "Battle CG",
+                                    "Stop"
                                 ],
                                 -2,
                                 0,
@@ -34040,11 +34040,11 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "普通",
-                                    "楽しい",
-                                    "困り（悲しい）",
-                                    "怒り",
-                                    "喜び"
+                                    "Normal",
+                                    "Fun",
+                                    "Troubled (Sad)",
+                                    "Anger",
+                                    "Joy"
                                 ],
                                 -2,
                                 -1,
@@ -34299,11 +34299,11 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "ダウン",
-                                    "エロ",
-                                    "カットイン（EX）",
-                                    "カットイン（絶頂）",
-                                    "戻る"
+                                    "Down",
+                                    "Erotic",
+                                    "Cut-in (EX)",
+                                    "Cut-in (Climax)",
+                                    "Return"
                                 ],
                                 -2,
                                 0,
@@ -34390,10 +34390,10 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "エロ１",
-                                    "エロ２",
-                                    "エロ３",
-                                    "エロ４"
+                                    "Ero 1",
+                                    "Ero 2",
+                                    "Ero 3",
+                                    "Ero 4"
                                 ],
                                 -2,
                                 0,
@@ -34936,9 +34936,9 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "通常立ち絵",
-                                    "戦闘立ち絵",
-                                    "やめる"
+                                    "Normal standing pose",
+                                    "Battle CG",
+                                    "Stop"
                                 ],
                                 -2,
                                 0,
@@ -34973,11 +34973,11 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "普通",
-                                    "楽しい",
-                                    "困り（悲しい）",
-                                    "怒り",
-                                    "喜び"
+                                    "Normal",
+                                    "Fun",
+                                    "Troubled (Sad)",
+                                    "Anger",
+                                    "Joy"
                                 ],
                                 -2,
                                 -1,
@@ -35232,11 +35232,11 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "ダウン",
-                                    "エロ",
-                                    "カットイン（EX）",
-                                    "カットイン（絶頂）",
-                                    "戻る"
+                                    "Down",
+                                    "Erotic",
+                                    "Cut-in (EX)",
+                                    "Cut-in (Orgasm)",
+                                    "Return"
                                 ],
                                 -2,
                                 0,
@@ -35323,10 +35323,10 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "エロ１",
-                                    "エロ２",
-                                    "エロ３",
-                                    "エロ４"
+                                    "Ero 1",
+                                    "Ero 2",
+                                    "Ero 3",
+                                    "Ero 4"
                                 ],
                                 -2,
                                 0,
@@ -35869,9 +35869,9 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "通常立ち絵",
-                                    "戦闘立ち絵",
-                                    "やめる"
+                                    "Normal standing pose",
+                                    "Battle CG",
+                                    "Stop"
                                 ],
                                 -2,
                                 0,
@@ -35906,11 +35906,11 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "普通",
-                                    "楽しい",
-                                    "困り（悲しい）",
-                                    "怒り",
-                                    "喜び"
+                                    "Normal",
+                                    "Fun",
+                                    "Troubled (Sad)",
+                                    "Anger",
+                                    "Joy"
                                 ],
                                 -2,
                                 -1,
@@ -36165,11 +36165,11 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "ダウン",
-                                    "エロ",
-                                    "カットイン（EX）",
-                                    "カットイン（絶頂）",
-                                    "戻る"
+                                    "Down",
+                                    "Erotic",
+                                    "Cut-in (EX)",
+                                    "Cut-in (Climax)",
+                                    "Return"
                                 ],
                                 -2,
                                 0,
@@ -36256,10 +36256,10 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "エロ１",
-                                    "エロ２",
-                                    "エロ３",
-                                    "エロ４"
+                                    "Ero 1",
+                                    "Ero 2",
+                                    "Ero 3",
+                                    "Ero 4"
                                 ],
                                 -2,
                                 0,
@@ -36802,9 +36802,9 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "通常立ち絵",
-                                    "戦闘立ち絵",
-                                    "やめる"
+                                    "Normal standing pose",
+                                    "Battle CG",
+                                    "Stop"
                                 ],
                                 -2,
                                 0,
@@ -36839,11 +36839,11 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "普通",
-                                    "楽しい",
-                                    "困り（悲しい）",
-                                    "怒り",
-                                    "喜び"
+                                    "Normal",
+                                    "Fun",
+                                    "Troubled (Sad)",
+                                    "Anger",
+                                    "Joy"
                                 ],
                                 -2,
                                 -1,
@@ -37098,11 +37098,11 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "ダウン",
-                                    "エロ",
-                                    "カットイン（EX）",
-                                    "カットイン（絶頂）",
-                                    "戻る"
+                                    "Down",
+                                    "Erotic",
+                                    "Cut-in (EX)",
+                                    "Cut-in (Climax)",
+                                    "Return"
                                 ],
                                 -2,
                                 0,
@@ -37189,10 +37189,10 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "エロ１",
-                                    "エロ２",
-                                    "エロ３",
-                                    "エロ４"
+                                    "Ero 1",
+                                    "Ero 2",
+                                    "Ero 3",
+                                    "Ero 4"
                                 ],
                                 -2,
                                 0,
@@ -37735,9 +37735,9 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "通常立ち絵",
-                                    "戦闘立ち絵",
-                                    "やめる"
+                                    "Normal standing pose",
+                                    "Battle CG",
+                                    "Stop"
                                 ],
                                 -2,
                                 0,
@@ -37772,11 +37772,11 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "普通",
-                                    "楽しい",
-                                    "困り（悲しい）",
-                                    "怒り",
-                                    "喜び"
+                                    "Normal",
+                                    "Fun",
+                                    "Troubled (Sad)",
+                                    "Anger",
+                                    "Joy"
                                 ],
                                 -2,
                                 -1,
@@ -38031,11 +38031,11 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "ダウン",
-                                    "エロ",
-                                    "カットイン（EX）",
-                                    "カットイン（絶頂）",
-                                    "戻る"
+                                    "Down",
+                                    "Erotic",
+                                    "Cut-in (EX)",
+                                    "Cut-in (Orgasm)",
+                                    "Return"
                                 ],
                                 -2,
                                 0,
@@ -38122,10 +38122,10 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "エロ１",
-                                    "エロ２",
-                                    "エロ３",
-                                    "エロ４"
+                                    "Ero 1",
+                                    "Ero 2",
+                                    "Ero 3",
+                                    "Ero 4"
                                 ],
                                 -2,
                                 0,
@@ -38668,9 +38668,9 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "通常立ち絵",
-                                    "戦闘立ち絵",
-                                    "やめる"
+                                    "Normal standing pose",
+                                    "Battle CG",
+                                    "Stop"
                                 ],
                                 -2,
                                 0,
@@ -38705,11 +38705,11 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "普通",
-                                    "楽しい",
-                                    "困り（悲しい）",
-                                    "怒り",
-                                    "喜び"
+                                    "Normal",
+                                    "Fun",
+                                    "Troubled (Sad)",
+                                    "Anger",
+                                    "Joy"
                                 ],
                                 -2,
                                 -1,
@@ -38964,11 +38964,11 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "ダウン",
-                                    "エロ",
-                                    "カットイン（EX）",
-                                    "カットイン（絶頂）",
-                                    "戻る"
+                                    "Down",
+                                    "Erotic",
+                                    "Cut-in (EX)",
+                                    "Cut-in (Orgasm)",
+                                    "Return"
                                 ],
                                 -2,
                                 0,
@@ -39055,10 +39055,10 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "エロ１",
-                                    "エロ２",
-                                    "エロ３",
-                                    "エロ４"
+                                    "Ero 1",
+                                    "Ero 2",
+                                    "Ero 3",
+                                    "Ero 4"
                                 ],
                                 -2,
                                 0,
@@ -39601,9 +39601,9 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "通常立ち絵",
-                                    "戦闘立ち絵",
-                                    "やめる"
+                                    "Normal standing pose",
+                                    "Battle CG",
+                                    "Stop"
                                 ],
                                 -2,
                                 0,
@@ -39638,11 +39638,11 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "普通",
-                                    "楽しい",
-                                    "困り（悲しい）",
-                                    "怒り",
-                                    "喜び"
+                                    "Normal",
+                                    "Fun",
+                                    "Troubled (Sad)",
+                                    "Anger",
+                                    "Joy"
                                 ],
                                 -2,
                                 -1,
@@ -39897,11 +39897,11 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "ダウン",
-                                    "エロ",
-                                    "カットイン（EX）",
-                                    "カットイン（絶頂）",
-                                    "戻る"
+                                    "Down",
+                                    "Erotic",
+                                    "Cut-in (EX)",
+                                    "Cut-in (Orgasm)",
+                                    "Return"
                                 ],
                                 -2,
                                 0,
@@ -39988,10 +39988,10 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "エロ１",
-                                    "エロ２",
-                                    "エロ３",
-                                    "エロ４"
+                                    "Ero 1",
+                                    "Ero 2",
+                                    "Ero 3",
+                                    "Ero 4"
                                 ],
                                 -2,
                                 0,
@@ -40566,11 +40566,11 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "フェラチオ段階１en(s[1101])",
-                                    "フェラチオ段階２en(s[1102])",
-                                    "フェラチオ段階３en(s[1103])",
-                                    "竿役設定変更",
-                                    "やめる"
+                                    "Blowjob Stage 1en(s[1101])",
+                                    "Blowjob Stage 2en(s[1102])",
+                                    "Blowjob Stage 3en(s[1103])",
+                                    "Change protagonist's role",
+                                    "Stop"
                                 ],
                                 -2,
                                 0,
@@ -40795,10 +40795,10 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "真面目系青年",
-                                    "チャラい系青年",
-                                    "真面目系おっさん",
-                                    "ゲスいおっさん"
+                                    "Serious young person",
+                                    "Playful young person",
+                                    "Serious-type middle-aged person",
+                                    "Sleazy old man"
                                 ],
                                 -2,
                                 -1,
@@ -40939,8 +40939,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "名前「男」デフォルト",
-                                    "名前「\\v[618]」自由変更用"
+                                    "Default name Male",
+                                    "Name \\v[618] for free customization"
                                 ],
                                 -2,
                                 -1,
@@ -41276,11 +41276,11 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "フェラチオ段階１en(s[1110])",
-                                    "フェラチオ段階２en(s[1111])",
-                                    "フェラチオ段階３en(s[1112])",
-                                    "竿役設定変更",
-                                    "やめる"
+                                    "Blowjob Stage 1en(s[1110])",
+                                    "Blowjob Stage 2en(s[1111])",
+                                    "Blowjob Stage 3en(s[1112])",
+                                    "Change protagonist's role",
+                                    "Stop"
                                 ],
                                 -2,
                                 0,
@@ -41505,10 +41505,10 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "真面目系青年",
-                                    "チャラい系青年",
-                                    "真面目系おっさん",
-                                    "ゲスいおっさん"
+                                    "Serious young person",
+                                    "Playful young person",
+                                    "Serious-type middle-aged person",
+                                    "Sleazy old man"
                                 ],
                                 -2,
                                 -1,
@@ -41649,8 +41649,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "名前「男」デフォルト",
-                                    "名前「\\v[618]」自由変更用"
+                                    "Default name Male",
+                                    "Name \\v[618] for free customization"
                                 ],
                                 -2,
                                 -1,
@@ -41995,11 +41995,11 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "正常位段階１en(s[1104])",
-                                    "正常位段階２en(s[1105])",
-                                    "正常位段階３en(s[1106])",
-                                    "竿役設定変更",
-                                    "やめる"
+                                    "Normal Position Stage 1en(s[1104])",
+                                    "Missionary Position Level 2en(s[1105])",
+                                    "Missionary Position Level 3en(s[1106])",
+                                    "Change protagonist's role",
+                                    "Stop"
                                 ],
                                 -2,
                                 0,
@@ -42224,10 +42224,10 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "真面目系青年",
-                                    "チャラい系青年",
-                                    "真面目系おっさん",
-                                    "ゲスいおっさん"
+                                    "Serious young person",
+                                    "Playful young person",
+                                    "Serious-type middle-aged person",
+                                    "Sleazy old man"
                                 ],
                                 -2,
                                 -1,
@@ -42368,8 +42368,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "名前「男」デフォルト",
-                                    "名前「\\v[618]」自由変更用"
+                                    "Default name Male",
+                                    "Name \\v[618] for free customization"
                                 ],
                                 -2,
                                 -1,
@@ -42705,11 +42705,11 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "騎乗位段階１en(s[1113])",
-                                    "騎乗位段階２en(s[1114])",
-                                    "騎乗位段階３en(s[1115])",
-                                    "竿役設定変更",
-                                    "やめる"
+                                    "Cowgirl Level 1en(s[1113])",
+                                    "Cowgirl Level 2en(s[1114])",
+                                    "Cowgirl Level 3en(s[1115])",
+                                    "Change protagonist's role",
+                                    "Stop"
                                 ],
                                 -2,
                                 0,
@@ -42934,10 +42934,10 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "真面目系青年",
-                                    "チャラい系青年",
-                                    "真面目系おっさん",
-                                    "ゲスいおっさん"
+                                    "Serious young person",
+                                    "Playful young person",
+                                    "Serious-type middle-aged person",
+                                    "Sleazy old man"
                                 ],
                                 -2,
                                 -1,
@@ -43078,8 +43078,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "名前「男」デフォルト",
-                                    "名前「\\v[618]」自由変更用"
+                                    "Default name Male",
+                                    "Name \\v[618] for free customization"
                                 ],
                                 -2,
                                 -1,
@@ -43424,11 +43424,11 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "背後位段階１en(s[1107])",
-                                    "背後位段階２en(s[1108])",
-                                    "背後位段階３en(s[1109])",
-                                    "竿役設定変更",
-                                    "やめる"
+                                    "Back position stage 1en(s[1107])",
+                                    "Back position stage 2en(s[1108])",
+                                    "Back position level 3en(s[1109])",
+                                    "Change protagonist's role",
+                                    "Stop"
                                 ],
                                 -2,
                                 0,
@@ -43653,10 +43653,10 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "真面目系青年",
-                                    "チャラい系青年",
-                                    "真面目系おっさん",
-                                    "ゲスいおっさん"
+                                    "Serious young person",
+                                    "Playful young person",
+                                    "Serious-type middle-aged person",
+                                    "Sleazy old man"
                                 ],
                                 -2,
                                 -1,
@@ -43797,8 +43797,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "名前「男」デフォルト",
-                                    "名前「\\v[618]」自由変更用"
+                                    "Default name Male",
+                                    "Name \\v[618] for free customization"
                                 ],
                                 -2,
                                 -1,
@@ -44134,11 +44134,11 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "立ちバック段階１en(s[1116])",
-                                    "立ちバック段階２en(s[1117])",
-                                    "立ちバック段階３en(s[1118])",
-                                    "竿役設定変更",
-                                    "やめる"
+                                    "Standing back stage 1en(s[1116])",
+                                    "Standing back position level 2en(s[1117])",
+                                    "Standing back stage 3en(s[1118])",
+                                    "Change protagonist's role",
+                                    "Stop"
                                 ],
                                 -2,
                                 0,
@@ -44363,10 +44363,10 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "真面目系青年",
-                                    "チャラい系青年",
-                                    "真面目系おっさん",
-                                    "ゲスいおっさん"
+                                    "Serious young person",
+                                    "Playful young person",
+                                    "Serious-type middle-aged person",
+                                    "Sleazy old man"
                                 ],
                                 -2,
                                 -1,
@@ -44507,8 +44507,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "名前「男」デフォルト",
-                                    "名前「\\v[618]」自由変更用"
+                                    "Default name Male",
+                                    "Name \\v[618] for free customization"
                                 ],
                                 -2,
                                 -1,
@@ -44853,10 +44853,10 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "滅王メア敗北時en(s[1136])",
-                                    "冥王ハーディス敗北時en(s[1139])",
-                                    "死王アフリオズ敗北時en(s[1138])",
-                                    "魔王サータ敗北時en(s[1137])"
+                                    "Mea's Defeat as the Demon Kingen(s[1136])",
+                                    "Defeat of the Dark Lord Hadesen(s[1139])",
+                                    "Defeat of Death King Afuriozen(s[1138])",
+                                    "Demon Lord Sata's Defeaten(s[1137])"
                                 ],
                                 -2,
                                 0,
@@ -44877,8 +44877,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "名前「メア」デフォルト",
-                                    "名前「\\v[618]」自由変更用"
+                                    "Name Mea Default",
+                                    "Name \\v[618] for free customization"
                                 ],
                                 -2,
                                 -1,
@@ -45114,8 +45114,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "名前「ハーディス」デフォルト",
-                                    "名前「\\v[618]」自由変更用"
+                                    "Name Hardis Default",
+                                    "Name \\v[618] for free customization"
                                 ],
                                 -2,
                                 -1,
@@ -45351,8 +45351,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "名前「アフリオズ」デフォルト",
-                                    "名前「\\v[618]」自由変更用"
+                                    "Name Afuriozu Default",
+                                    "Name \\v[618] for free customization"
                                 ],
                                 -2,
                                 -1,
@@ -45588,8 +45588,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "名前「サータ」デフォルト",
-                                    "名前「\\v[618]」自由変更用"
+                                    "Name Sata Default",
+                                    "Name \\v[618] for free customization"
                                 ],
                                 -2,
                                 -1,
@@ -45953,10 +45953,10 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "滅王メア敗北時en(s[1160])",
-                                    "冥王ハーディス敗北時en(s[1163])",
-                                    "死王アフリオズ敗北時en(s[1162])",
-                                    "魔王サータ敗北時en(s[1161])"
+                                    "Mea's Defeat as the Demon Kingen(s[1160])",
+                                    "Defeat of the Dark Lord Hadesen(s[1163])",
+                                    "Defeat of Death King Afuriozen(s[1162])",
+                                    "Demon Lord Sata's Defeaten(s[1161])"
                                 ],
                                 -2,
                                 0,
@@ -45977,8 +45977,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "名前「メア」デフォルト",
-                                    "名前「\\v[618]」自由変更用"
+                                    "Name Mea Default",
+                                    "Name \\v[618] for free customization"
                                 ],
                                 -2,
                                 -1,
@@ -46214,8 +46214,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "名前「ハーディス」デフォルト",
-                                    "名前「\\v[618]」自由変更用"
+                                    "Name Hardis Default",
+                                    "Name \\v[618] for free customization"
                                 ],
                                 -2,
                                 -1,
@@ -46451,8 +46451,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "名前「アフリオズ」デフォルト",
-                                    "名前「\\v[618]」自由変更用"
+                                    "Name Afuriozu Default",
+                                    "Name \\v[618] for free customization"
                                 ],
                                 -2,
                                 -1,
@@ -46688,8 +46688,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "名前「サータ」デフォルト",
-                                    "名前「\\v[618]」自由変更用"
+                                    "Name Sata Default",
+                                    "Name \\v[618] for free customization"
                                 ],
                                 -2,
                                 -1,
@@ -47062,9 +47062,9 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "折檻エロ段階１en(s[1140])",
-                                    "折檻エロ段階２en(s[1140])",
-                                    "折檻エロ段階３en(s[1140])"
+                                    "Discipline Erotic Stage 1en(s[1140])",
+                                    "Discipline Erotic Stage 2en(s[1140])",
+                                    "Discipline Erotic Stage 3en(s[1140])"
                                 ],
                                 -2,
                                 0,
@@ -47085,8 +47085,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "名前「憲兵」デフォルト",
-                                    "名前「\\v[618]」自由変更用"
+                                    "Name Kenpei Default",
+                                    "Name \\v[618] for free customization"
                                 ],
                                 -2,
                                 -1,
@@ -47355,8 +47355,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "名前「憲兵」デフォルト",
-                                    "名前「\\v[618]」自由変更用"
+                                    "Name Kenpei Default",
+                                    "Name \\v[618] for free customization"
                                 ],
                                 -2,
                                 -1,
@@ -47625,8 +47625,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "名前「憲兵」デフォルト",
-                                    "名前「\\v[618]」自由変更用"
+                                    "Name Kenpei Default",
+                                    "Name \\v[618] for free customization"
                                 ],
                                 -2,
                                 -1,
@@ -48032,12 +48032,12 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "マッサージ１（未催眠）en(s[1142])",
-                                    "マッサージ１（催眠初回）en(s[1142])",
-                                    "マッサージ１（催眠２回目）en(s[1142])",
-                                    "マッサージ１（催眠３回目）en(s[1142])",
-                                    "マッサージ１（催眠それ以降）en(s[1142])",
-                                    "マッサージ２（催眠）en(s[1143])"
+                                    "Massage 1 (Non-hypnotized)en(s[1142])",
+                                    "Massage 1 (Hypnosis First Time)en(s[1142])",
+                                    "Massage 1 (Hypnosis 2nd Time)en(s[1142])",
+                                    "Massage 1 (Hypnosis 3rd Time)en(s[1142])",
+                                    "Massage 1 (Hypnosis and Beyond)en(s[1142])",
+                                    "Massage 2 (Hypnosis)en(s[1143])"
                                 ],
                                 -2,
                                 0,
@@ -48058,8 +48058,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "名前「フルト」デフォルト",
-                                    "名前「\\v[618]」自由変更用"
+                                    "Name Flute Default",
+                                    "Name \\v[618] for free customization"
                                 ],
                                 -2,
                                 -1,
@@ -48336,8 +48336,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "名前「フルト」デフォルト",
-                                    "名前「\\v[618]」自由変更用"
+                                    "Name Flute Default",
+                                    "Name \\v[618] for free customization"
                                 ],
                                 -2,
                                 -1,
@@ -48614,8 +48614,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "名前「フルト」デフォルト",
-                                    "名前「\\v[618]」自由変更用"
+                                    "Name Flute Default",
+                                    "Name \\v[618] for free customization"
                                 ],
                                 -2,
                                 -1,
@@ -48892,8 +48892,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "名前「フルト」デフォルト",
-                                    "名前「\\v[618]」自由変更用"
+                                    "Name Flute Default",
+                                    "Name \\v[618] for free customization"
                                 ],
                                 -2,
                                 -1,
@@ -49170,8 +49170,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "名前「フルト」デフォルト",
-                                    "名前「\\v[618]」自由変更用"
+                                    "Name Flute Default",
+                                    "Name \\v[618] for free customization"
                                 ],
                                 -2,
                                 -1,
@@ -49448,8 +49448,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "名前「フルト」デフォルト",
-                                    "名前「\\v[618]」自由変更用"
+                                    "Name Flute Default",
+                                    "Name \\v[618] for free customization"
                                 ],
                                 -2,
                                 -1,
@@ -49843,11 +49843,11 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "売春１（真面目青年系）en(s[1144])",
-                                    "売春１（チャラい青年系）en(s[1144])",
-                                    "売春１（真面目おっさん系）en(s[1144])",
-                                    "売春１（ゲスいおっさん系）en(s[1144])",
-                                    "ゲストキャラはこちらen(s[1144])"
+                                    "Prostitution 1 (Serious Young Man Type)en(s[1144])",
+                                    "Prostitution 1 (Playboy Youth Type)en(s[1144])",
+                                    "Prostitution 1 (Serious Middle-aged Guy Type)en(s[1144])",
+                                    "Prostitution 1 (Dirty Old Man Type)en(s[1144])",
+                                    "Guest characters are hereen(s[1144])"
                                 ],
                                 -2,
                                 0,
@@ -49868,8 +49868,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "名前「男」デフォルト",
-                                    "名前「\\v[618]」自由変更用"
+                                    "Default name Male",
+                                    "Name \\v[618] for free customization"
                                 ],
                                 -2,
                                 -1,
@@ -50126,8 +50126,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "名前「男」デフォルト",
-                                    "名前「\\v[618]」自由変更用"
+                                    "Default name Male",
+                                    "Name \\v[618] for free customization"
                                 ],
                                 -2,
                                 -1,
@@ -50384,8 +50384,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "名前「男」デフォルト",
-                                    "名前「\\v[618]」自由変更用"
+                                    "Default name Male",
+                                    "Name \\v[618] for free customization"
                                 ],
                                 -2,
                                 -1,
@@ -50642,8 +50642,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "名前「男」デフォルト",
-                                    "名前「\\v[618]」自由変更用"
+                                    "Default name Male",
+                                    "Name \\v[618] for free customization"
                                 ],
                                 -2,
                                 -1,
@@ -50900,12 +50900,12 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "風神",
-                                    "同人パンダ",
-                                    "アイポス",
+                                    "Wind God",
+                                    "Doujin Panda",
+                                    "Aipos",
                                     "kashi",
-                                    "アルタイル",
-                                    "moもんじゃ"
+                                    "Altair",
+                                    "Mo-Monja"
                                 ],
                                 -2,
                                 -1,
@@ -50926,8 +50926,8 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "名前「風神」デフォルト",
-                                    "名前「\\v[618]」自由変更用"
+                                    "Name Fujin Default",
+                                    "Name \\v[618] for free customization"
                                 ],
                                 -2,
                                 -1,
@@ -51205,8 +51205,8 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "名前「同人パンダ」デフォルト",
-                                    "名前「\\v[618]」自由変更用"
+                                    "Name Doujin Panda Default",
+                                    "Name \\v[618] for free customization"
                                 ],
                                 -2,
                                 -1,
@@ -51484,8 +51484,8 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "名前「アイポス」デフォルト",
-                                    "名前「\\v[618]」自由変更用"
+                                    "Name Aipos Default",
+                                    "Name \\v[618] for free customization"
                                 ],
                                 -2,
                                 -1,
@@ -51763,8 +51763,8 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "名前「カシエル」デフォルト",
-                                    "名前「\\v[618]」自由変更用"
+                                    "Name Cassiel Default",
+                                    "Name \\v[618] for free customization"
                                 ],
                                 -2,
                                 -1,
@@ -52042,8 +52042,8 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "名前「アルタイル」デフォルト",
-                                    "名前「\\v[618]」自由変更用"
+                                    "Name Altair Default",
+                                    "Name \\v[618] for free customization"
                                 ],
                                 -2,
                                 -1,
@@ -52321,8 +52321,8 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "名前「タネツーケ」デフォルト",
-                                    "名前「\\v[618]」自由変更用"
+                                    "Name Tanetsuke Default",
+                                    "Name \\v[618] for free customization"
                                 ],
                                 -2,
                                 -1,
@@ -52760,10 +52760,10 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "売春２（真面目青年系）en(s[1145])",
-                                    "売春２（チャラい青年系）en(s[1145])",
-                                    "売春２（真面目おっさん系）en(s[1145])",
-                                    "売春２（ゲスいおっさん系）en(s[1145])"
+                                    "Prostitution 2 (Serious Young Man Type)en(s[1145])",
+                                    "Prostitution 2 (Playboy Youth Type)en(s[1145])",
+                                    "Prostitution 2 (Serious Middle-aged Guy Type)en(s[1145])",
+                                    "Prostitution 2 (Dirty Old Man Type)en(s[1145])"
                                 ],
                                 -2,
                                 0,
@@ -52784,8 +52784,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "名前「男」デフォルト",
-                                    "名前「\\v[618]」自由変更用"
+                                    "Default name Male",
+                                    "Name \\v[618] for free customization"
                                 ],
                                 -2,
                                 -1,
@@ -53042,8 +53042,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "名前「男」デフォルト",
-                                    "名前「\\v[618]」自由変更用"
+                                    "Default name Male",
+                                    "Name \\v[618] for free customization"
                                 ],
                                 -2,
                                 -1,
@@ -53300,8 +53300,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "名前「男」デフォルト",
-                                    "名前「\\v[618]」自由変更用"
+                                    "Default name Male",
+                                    "Name \\v[618] for free customization"
                                 ],
                                 -2,
                                 -1,
@@ -53558,8 +53558,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "名前「男」デフォルト",
-                                    "名前「\\v[618]」自由変更用"
+                                    "Default name Male",
+                                    "Name \\v[618] for free customization"
                                 ],
                                 -2,
                                 -1,
@@ -53953,7 +53953,7 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "睡眠姦en(s[1166])"
+                                    "Sleep Rapeen(s[1166])"
                                 ],
                                 -2,
                                 0,
@@ -53974,8 +53974,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "名前「バンディット」デフォルト",
-                                    "名前「\\v[618]」自由変更用"
+                                    "Name Bandit Default",
+                                    "Name \\v[618] for free customization"
                                 ],
                                 -2,
                                 -1,
@@ -54370,9 +54370,9 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "壁尻段階１en(s[1147])",
-                                    "壁尻段階２en(s[1147])",
-                                    "壁尻段階３en(s[1147])"
+                                    "Wall Butt Stage 1en(s[1147])",
+                                    "Wall Butt Stage 2en(s[1147])",
+                                    "Wall Butt Stage 3en(s[1147])"
                                 ],
                                 -2,
                                 0,
@@ -54393,8 +54393,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "名前「バンディット」デフォルト",
-                                    "名前「\\v[618]」自由変更用"
+                                    "Name Bandit Default",
+                                    "Name \\v[618] for free customization"
                                 ],
                                 -2,
                                 -1,
@@ -54663,8 +54663,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "名前「バンディット」デフォルト",
-                                    "名前「\\v[618]」自由変更用"
+                                    "Name Bandit Default",
+                                    "Name \\v[618] for free customization"
                                 ],
                                 -2,
                                 -1,
@@ -54933,8 +54933,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "名前「バンディット」デフォルト",
-                                    "名前「\\v[618]」自由変更用"
+                                    "Name Bandit Default",
+                                    "Name \\v[618] for free customization"
                                 ],
                                 -2,
                                 -1,
@@ -55340,7 +55340,7 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "ミミック尻段階１en(s[1148])"
+                                    "Mimic Ass Stage 1en(s[1148])"
                                 ],
                                 -2,
                                 0,
@@ -55361,8 +55361,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "名前「名も知らぬ男」デフォルト",
-                                    "名前「\\v[618]」自由変更用"
+                                    "Name Unknown Man Default",
+                                    "Name \\v[618] for free customization"
                                 ],
                                 -2,
                                 -1,
@@ -55757,7 +55757,7 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "コノハ温泉en(s[1149])"
+                                    "Konoha Hot Springsen(s[1149])"
                                 ],
                                 -2,
                                 0,
@@ -55983,8 +55983,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "出産ダービー勝利en(s[1150])",
-                                    "出産ダービー敗北en(s[1150])"
+                                    "Birth Derby Victoryen(s[1150])",
+                                    "Birth Derby Defeaten(s[1150])"
                                 ],
                                 -2,
                                 0,
@@ -56300,7 +56300,7 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "コノハJP戦１エロen(s[1151])"
+                                    "Konoha JP Battle 1 Eroen(s[1151])"
                                 ],
                                 -2,
                                 0,
@@ -56526,7 +56526,7 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "コノハJP戦２肉便器エロen(s[1152])"
+                                    "Konoha JP Battle 2 Flesh Toilet Eroticen(s[1152])"
                                 ],
                                 -2,
                                 0,
@@ -56752,9 +56752,9 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "コノハオナニーLV1 en(s[1155])",
-                                    "コノハオナニーLV2 en(s[1155])",
-                                    "コノハオナニーLV3（バイブ※妊娠時不可）en(s[1155])"
+                                    "Konoha Masturbation LV1 en(s[1155])",
+                                    "Konoha Masturbation LV2 en(s[1155])",
+                                    "Konoha Masturbation LV3 (Vibrator *Not recommended during pregnancy)en(s[1155])"
                                 ],
                                 -2,
                                 0,
@@ -57149,10 +57149,10 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "コノハロリモン出産en(s[1143])",
-                                    "コノハ魔獣出産en(s[1143])",
-                                    "コノハデーモン出産en(s[1143])",
-                                    "コノハヒト出産en(s[1143])"
+                                    "Konoha gives birth to a babyen(s[1143])",
+                                    "Konoha's Monster Birthen(s[1143])",
+                                    "Konoha Demon Birthen(s[1143])",
+                                    "Konoha gives birthen(s[1143])"
                                 ],
                                 -2,
                                 0,
@@ -57573,10 +57573,10 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "悪堕ちコノハロリモン出産en(s[1165])",
-                                    "悪堕ちコノハ魔獣出産en(s[1165])",
-                                    "悪堕ちコノハデーモン出産en(s[1165])",
-                                    "悪堕ちコノハヒト出産en(s[1165])"
+                                    "Konoha's Corrupted Fall and Loli Monster Birthen(s[1165])",
+                                    "Corrupted Konoha Gives Birth to a Demon Beasten(s[1165])",
+                                    "Konoha's Corruption: Demon Birthen(s[1165])",
+                                    "Corrupted Konoha gives birth to a childen(s[1165])"
                                 ],
                                 -2,
                                 0,
@@ -58006,7 +58006,7 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "コノハ輪姦en(s[1141])"
+                                    "Konoha Gangbangen(s[1141])"
                                 ],
                                 -2,
                                 0,
@@ -58232,8 +58232,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "コノハ結婚エロ１en(s[1157])",
-                                    "ゲストキャラはこちらen(s[1157])"
+                                    "Konoha Marriage Ero 1en(s[1157])",
+                                    "Guest characters are hereen(s[1157])"
                                 ],
                                 -2,
                                 0,
@@ -58329,12 +58329,12 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "風神",
-                                    "同人パンダ",
-                                    "アイポス",
+                                    "Wind God",
+                                    "Doujin Panda",
+                                    "Aipos",
                                     "kashi",
-                                    "アルタイル",
-                                    "moもんじゃ"
+                                    "Altair",
+                                    "Mo-Monja"
                                 ],
                                 -2,
                                 -1,
@@ -58355,8 +58355,8 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "名前「風神」デフォルト",
-                                    "名前「\\v[618]」自由変更用"
+                                    "Name Fujin Default",
+                                    "Name \\v[618] for free customization"
                                 ],
                                 -2,
                                 -1,
@@ -58630,8 +58630,8 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "名前「同人パンダ」デフォルト",
-                                    "名前「\\v[618]」自由変更用"
+                                    "Name Doujin Panda Default",
+                                    "Name \\v[618] for free customization"
                                 ],
                                 -2,
                                 -1,
@@ -58905,8 +58905,8 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "名前「アイポス」デフォルト",
-                                    "名前「\\v[618]」自由変更用"
+                                    "Name Aipos Default",
+                                    "Name \\v[618] for free customization"
                                 ],
                                 -2,
                                 -1,
@@ -59180,8 +59180,8 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "名前「カシエル」デフォルト",
-                                    "名前「\\v[618]」自由変更用"
+                                    "Name Cassiel Default",
+                                    "Name \\v[618] for free customization"
                                 ],
                                 -2,
                                 -1,
@@ -59455,8 +59455,8 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "名前「アルタイル」デフォルト",
-                                    "名前「\\v[618]」自由変更用"
+                                    "Name Altair Default",
+                                    "Name \\v[618] for free customization"
                                 ],
                                 -2,
                                 -1,
@@ -59730,8 +59730,8 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "名前「タネツーケ」デフォルト",
-                                    "名前「\\v[618]」自由変更用"
+                                    "Name Tanetsuke Default",
+                                    "Name \\v[618] for free customization"
                                 ],
                                 -2,
                                 -1,
@@ -60165,8 +60165,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "コノハラスボス敗北en(s[1156])",
-                                    "いいえ"
+                                    "Konoha's boss defeaten(s[1156])",
+                                    "No"
                                 ],
                                 -2,
                                 0,
@@ -60396,8 +60396,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "悪堕ちコノハラスボス敗北en(s[1164])",
-                                    "いいえ"
+                                    "Konoha, the corrupted boss, is defeateden(s[1164])",
+                                    "No"
                                 ],
                                 -2,
                                 0,
@@ -60636,7 +60636,7 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "コノハ苗床化en(s[1159])"
+                                    "Konoha Becomes a Breeding Grounden(s[1159])"
                                 ],
                                 -2,
                                 0,
@@ -60862,8 +60862,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "コノハ結婚エロ２en(s[1158])",
-                                    "ゲストキャラはこちらen(s[1158])"
+                                    "Konoha Marriage Ero 2en(s[1158])",
+                                    "Guest characters are hereen(s[1158])"
                                 ],
                                 -2,
                                 0,
@@ -60959,12 +60959,12 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "風神",
-                                    "同人パンダ",
-                                    "アイポス",
+                                    "Wind God",
+                                    "Doujin Panda",
+                                    "Aipos",
                                     "kashi",
-                                    "アルタイル",
-                                    "moもんじゃ"
+                                    "Altair",
+                                    "Mo-Monja"
                                 ],
                                 -2,
                                 -1,
@@ -60985,8 +60985,8 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "名前「風神」デフォルト",
-                                    "名前「\\v[618]」自由変更用"
+                                    "Name Fujin Default",
+                                    "Name \\v[618] for free customization"
                                 ],
                                 -2,
                                 -1,
@@ -61260,8 +61260,8 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "名前「同人パンダ」デフォルト",
-                                    "名前「\\v[618]」自由変更用"
+                                    "Name Doujin Panda Default",
+                                    "Name \\v[618] for free customization"
                                 ],
                                 -2,
                                 -1,
@@ -61535,8 +61535,8 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "名前「アイポス」デフォルト",
-                                    "名前「\\v[618]」自由変更用"
+                                    "Name Aipos Default",
+                                    "Name \\v[618] for free customization"
                                 ],
                                 -2,
                                 -1,
@@ -61810,8 +61810,8 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "名前「カシエル」デフォルト",
-                                    "名前「\\v[618]」自由変更用"
+                                    "Name Cassiel Default",
+                                    "Name \\v[618] for free customization"
                                 ],
                                 -2,
                                 -1,
@@ -62085,8 +62085,8 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "名前「アルタイル」デフォルト",
-                                    "名前「\\v[618]」自由変更用"
+                                    "Name Altair Default",
+                                    "Name \\v[618] for free customization"
                                 ],
                                 -2,
                                 -1,
@@ -62360,8 +62360,8 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "名前「タネツーケ」デフォルト",
-                                    "名前「\\v[618]」自由変更用"
+                                    "Name Tanetsuke Default",
+                                    "Name \\v[618] for free customization"
                                 ],
                                 -2,
                                 -1,
@@ -62795,11 +62795,11 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "ショタ精通エロen(s[1167])",
-                                    "宿屋ネンゴロ大男en(s[1168])",
-                                    "魔獣植卵en(s[1169])",
-                                    "授乳でイくen(s[1170])",
-                                    "乳首、クリ肥大責めen(s[1171])"
+                                    "Shota expertise eroticaen(s[1167])",
+                                    "Inn Nengoro Big Manen(s[1168])",
+                                    "Demon Beast Ovipositionen(s[1169])",
+                                    "Cumming from breastfeedingen(s[1170])",
+                                    "Nipples, Clit Enlargement Tortureen(s[1171])"
                                 ],
                                 -2,
                                 -1,
@@ -62953,8 +62953,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "赤ちゃん授乳",
-                                    "魔獣授乳"
+                                    "Baby Nursing",
+                                    "Demon Beast Nursing"
                                 ],
                                 -1,
                                 -1,
@@ -63199,11 +63199,11 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "宿屋ネンゴロ逆レイプen(s[1172])",
-                                    "コノハふたなり化en(s[1173]))",
-                                    "魔獣両穴責めen(s[1174])",
-                                    "オホ声出産ショーen(s[1175])",
-                                    "アナル固めen(s[1176])"
+                                    "Inn Nengoro Reverse Rapeen(s[1172])",
+                                    "Konoha's futanari transformationen(s[1173]))",
+                                    "Double Penetration by Demon Beastsen(s[1174])",
+                                    "Oh Voice Birth Showen(s[1175])",
+                                    "Anal playen(s[1176])"
                                 ],
                                 -2,
                                 -1,

@@ -16,7 +16,7 @@
         "volume": 80
     },
     "disableDashing": false,
-    "displayName": "転生の塔1F",
+    "displayName": "Tower of Reincarnation 1F",
     "encounterList": [],
     "encounterStep": 30,
     "height": 40,
@@ -9519,14 +9519,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[1]転生の塔監視兵\\C[0]"
+                                "\\C[1]Tower Guardian\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "どうしたんだ？敵にでもやられたか？"
+                                "What's wrong? Did you get taken down by the enemy?"
                             ]
                         },
                         {
@@ -9553,21 +9553,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[1]転生の塔監視兵\\C[0]"
+                                "\\C[1]Tower Guardian\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ここは転生者のための塔だ。ここに導き、街の方に連れて"
+                                "This is a tower for reincarnators. Our job is to\nguide them here and lead them towards the city."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "いくのが私達の仕事さ"
+                                ""
                             ]
                         },
                         {

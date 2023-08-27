@@ -16,7 +16,7 @@
         "volume": 80
     },
     "disableDashing": false,
-    "displayName": "B1F 医務室、懺悔室",
+    "displayName": "B1F Infirmary, Confession Room",
     "encounterList": [],
     "encounterStep": 30,
     "height": 40,
@@ -9286,21 +9286,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[1]医務室長\\C[0]"
+                                "\\C[1]Infirmary Chief\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "それは趣味かね？それとも敵に衣服を破かれたのかな？"
+                                "Is that your hobby? Or did someone tear your\nclothes off? If they were torn, it's best to talk\nto the shrine maiden in the adjacent confessional\nroom."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "もし破かれたのであれば隣の懺悔室にいる巫女に話すといい"
+                                ""
                             ]
                         },
                         {
@@ -9327,21 +9327,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[1]医務室長\\C[0]"
+                                "\\C[1]Infirmary Chief\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "完全にデーモンに種付けされておる……"
+                                "You have been completely impregnated by a demon...\nHowever, if you don't wake up, I won't be able to\ntreat you. For now, all we can do is wait."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "しかし目を覚まさねば処置ができない。今は待つしかないのじゃ"
+                                ""
                             ]
                         },
                         {
@@ -10569,14 +10569,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[1]ギルド長\\C[0]"
+                                "\\C[1]Guild Leader\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "お目覚めのようですな。救世主様"
+                                "It seems you have awakened, Savior-sama."
                             ]
                         },
                         {
@@ -10680,21 +10680,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "えっ！あなたはクロパンのお父さん？！"
+                                "Huh?! Are you Kuropan's dad?! Why are you here?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "どうしてここに？"
+                                ""
                             ]
                         },
                         {
@@ -10738,21 +10738,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[1]ギルド長\\C[0]"
+                                "\\C[1]Guild Leader\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ほへっ？ク、クロパン？？？"
+                                "Huh? K-Kuropan? What is that?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "とは、なんですじゃ？？？"
+                                ""
                             ]
                         },
                         {
@@ -10769,21 +10769,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（あれ？クロパンって誰だっけ？"
+                                "(Huh? Who is Kuropan again? I've heard the name\nbefore, but I can't remember.)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　名前だけ出てきたけど、思い出せないわ）"
+                                ""
                             ]
                         },
                         {
@@ -10800,14 +10800,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "いたた……頭痛い…"
+                                "Ouch... my head hurts..."
                             ]
                         },
                         {
@@ -10867,14 +10867,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ご、ごめんなさい、まだ混乱してるみたい"
+                                "S-Sorry, it seems like I'm still confused."
                             ]
                         },
                         {
@@ -10909,21 +10909,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[1]ギルド長\\C[0]"
+                                "\\C[1]Guild Leader\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "おそらく転生後の影響でおぼつかないんですじゃきっと"
+                                "It seems that due to the influence of your\nreincarnation, you are still uncertain. It must\nhave been a quite unusual reincarnation..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "かなり異例の転生だったようで…"
+                                ""
                             ]
                         },
                         {
@@ -10958,28 +10958,28 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "転生…"
+                                "Reincarnation... (I see... I came here for some\nreason... Someone was talking about something, I\nthink...)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "（そっか…何かの原因で私はここに来たのね……"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　誰かが何か語ってたような…）"
+                                ""
                             ]
                         },
                         {
@@ -11014,14 +11014,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "他の怪我人は？街はだいぶやられていたようだけど"
+                                "What about the other injured people? It seems like\nthe town has been quite damaged."
                             ]
                         },
                         {
@@ -11056,21 +11056,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[1]ギルド長\\C[0]"
+                                "\\C[1]Guild Leader\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ご心配には及びませぬです、あなた様が眠っていた間に"
+                                "There is no need to worry, while you were asleep,\nthe town has almost fully recovered."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "街はほぼ復旧しましたですじゃ"
+                                ""
                             ]
                         },
                         {
@@ -11105,21 +11105,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "えっ"
+                                "Huh? How long was I asleep for? How long was I\nasleep for?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "私ってどれくらい眠っていたの？"
+                                ""
                             ]
                         },
                         {
@@ -11154,14 +11154,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[1]ギルド長\\C[0]"
+                                "\\C[1]Guild Leader\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "丸三日、といったところですじゃ…"
+                                "It's been about three whole days..."
                             ]
                         },
                         {
@@ -11196,21 +11196,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "三日……"
+                                "Three days... I slept that long."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "そんなに眠っていたのね"
+                                ""
                             ]
                         },
                         {
@@ -11270,21 +11270,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "気を失った私をここまで運んでくれたのね"
+                                "Thank you for bringing me here when I fainted, I\nwant to express my gratitude."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ありがとう、礼を言うわ"
+                                ""
                             ]
                         },
                         {
@@ -11319,21 +11319,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[1]ギルド長\\C[0]"
+                                "\\C[1]Guild Leader\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "礼なんてとんでもない！あなたは、あの危機を救ってくれたの"
+                                "No need for thanks! You were the one who saved us\nfrom that crisis! It is us who should be\nexpressing gratitude, not you."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ですじゃ！礼を言うのは、こちらの方なのですじゃ"
+                                ""
                             ]
                         },
                         {
@@ -11368,21 +11368,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[1]ギルド長\\C[0]"
+                                "\\C[1]Guild Leader\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "申し遅れました、わたくし、この魔法少女ギルドのマスターを"
+                                "I apologize for the delay. I am the master of this\nMagical Girl Guild, and my name is Guild Leader\nGilcho."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "務めさせております、ギルド長のギルチョーと申しますです"
+                                ""
                             ]
                         },
                         {
@@ -11399,28 +11399,28 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[1]ギルチョー\\C[0]"
+                                "\\C[1]Gilcho\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "普段はみんなから気軽にギルチョーと呼ばれておりますゆえ、"
+                                "Normally, everyone calls me Gilcho casually, so\nplease feel free to do so... By the way, do you...\nremember your name?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "どうぞお見知りおきを…"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "して、あなたは……お名前は覚えておられますか？"
+                                ""
                             ]
                         },
                         {
@@ -11496,21 +11496,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "私は……コノハ。そう、コノハよ。よろしくねギルチョー"
+                                "I am... Konoha. Yes, it's Konoha. Nice to meet\nyou, Gilcho. There are a lot of things I want to\nask..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "いろいろ聞きたいのだけど……"
+                                ""
                             ]
                         },
                         {
@@ -11545,28 +11545,28 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[1]ギルチョー\\C[0]"
+                                "\\C[1]Gilcho\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "コノハ、良い名前ですじゃ！"
+                                "Konoha, that's a nice name! Well then, Konoha-\nchan, I would like to ask you something if you\ndon't mind..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "それではコノハしゃんなんなりとお聞きください"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "といきたいところですが…"
+                                ""
                             ]
                         },
                         {
@@ -11601,21 +11601,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[1]ギルチョー\\C[0]"
+                                "\\C[1]Gilcho\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "わたくし、一旦仕事場に戻らないといけないので"
+                                "I have to go back to my workplace for a moment, so\ncan I ask you to hear the details there?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "詳しいことはそこでまた聞いてもらっていいですかな？"
+                                ""
                             ]
                         },
                         {
@@ -11650,21 +11650,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そうなのね。もちろんかまわないわよ"
+                                "I see. Of course, I don't mind staying here..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ここは…"
+                                ""
                             ]
                         },
                         {
@@ -11699,21 +11699,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[1]ギルチョー\\C[0]"
+                                "\\C[1]Gilcho\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ここはギルドの地下にある医務施設ですじゃ"
+                                "This is the medical facility located in the\nbasement of the guild. I am usually at the\nreception on the first floor, so please feel free\nto come and see me."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "一階受け付けにわたくしは大抵居るので、よろしくですじゃ"
+                                ""
                             ]
                         },
                         {

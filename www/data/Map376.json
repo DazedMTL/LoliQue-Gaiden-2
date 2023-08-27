@@ -21113,7 +21113,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[2]特殊な扉のようで、びくともしない"
+                                "It seems like a special door, not even flinching."
                             ]
                         },
                         {
@@ -22456,8 +22456,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "戦う",
-                                    "やめておく"
+                                    "Fight",
+                                    "I'll stop"
                                 ],
                                 -2,
                                 0,
@@ -22526,14 +22526,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "さぁ、今度は前のようにはいかんぞ"
+                                "Now, there's a new magical girl who has become the\nmaster, so things won't go as they did before!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "主となった魔法少女がおるからのう！"
+                                ""
                             ]
                         },
                         {
@@ -22557,7 +22557,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "デーモン、今度こそ倒す！"
+                                "Daemon, I'll defeat you this time for sure!"
                             ]
                         },
                         {
@@ -22574,14 +22574,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\C[1]デーモン\\C[0]"
+                                "\\C[1]Daemon\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "シヘノ　カツボウ　ウケタマワリ"
+                                "I've received the power of temptation."
                             ]
                         },
                         {
@@ -22927,45 +22927,14 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "カカッ！倒した……！倒したぞコノハ！！！"
+                                "Kakaa! I defeated...! I defeated you, Konoha!!!\nThis feels amazing..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 3,
                             "parameters": [
-                                "最高の気分じゃ……"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 3,
-                            "parameters": [
-                                "A_face03",
-                                1,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "\\C[1]\\N[23]\\C[0]"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "これで、思い残すことはないのじゃ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "さぁ、コノハまだまだデーモンはおるのじゃろう？"
+                                ""
                             ]
                         },
                         {
@@ -22989,14 +22958,45 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "デーモンのいる拠点に出向いて残さず駆逐せねばのう"
+                                "With this, there should be no regrets, right?\nKonoha, there are still plenty of demons around,\naren't there?"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 3,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 3,
+                            "parameters": [
+                                "A_face03",
+                                1,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "カカッ！"
+                                "\\C[1]\\N[23]\\C[0]"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 3,
+                            "parameters": [
+                                "We must go to Daemon's base and exterminate them\nall, without leaving any behind! Kakaa!"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 3,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -23134,7 +23134,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "わらわをバトルメンバーに入れるんじゃ！"
+                                "Don't you dare put me in your battle party!"
                             ]
                         },
                         {

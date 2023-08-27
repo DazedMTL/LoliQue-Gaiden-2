@@ -16,7 +16,7 @@
         "volume": 80
     },
     "disableDashing": false,
-    "displayName": "ローディス洞窟",
+    "displayName": "Roudis Cave",
     "encounterList": [
         {
             "regionSet": [],
@@ -22254,21 +22254,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[1]ルター\\C[0]"
+                                "\\C[1]Luther\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "来てくれたんだね。よかった"
+                                "I'm glad you came. Let's search together and find\nsome clues along the way."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "探索しながら手がかりを見つけて行こう"
+                                ""
                             ]
                         },
                         {
@@ -22516,21 +22516,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[1]ルター\\C[0]"
+                                "\\C[1]Luther\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "まだ新しい血痕がある……"
+                                "There are still fresh bloodstains... Could it\nbe...?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "まさか…？"
+                                ""
                             ]
                         },
                         {

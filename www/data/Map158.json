@@ -14102,21 +14102,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[1]天才鍛冶屋さん\\C[0]"
+                                "\\C[1]Genius Blacksmith\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "お？客が来たみてえだな"
+                                "Oh? Looks like we have a customer. Our\nblacksmithing here is a bit different from the\ndwarves."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "うちの鍛冶はドワーフのところとは一味ちげぇよ"
+                                ""
                             ]
                         },
                         {
@@ -14589,7 +14589,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[2]Σシグマストーンが鈍く光っているようだ……"
+                                "\\C[2]It seems like the Sigma Stone is emitting a\ndull light..."
                             ]
                         },
                         {
@@ -14658,14 +14658,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\C[1]調査スキルが発動！"
+                                "\\C[2]Investigation skill activated! There was a\nhidden door in the wall!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "壁に隠し扉があった！"
+                                ""
                             ]
                         },
                         {
@@ -14738,21 +14738,21 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "うーん…誰かが\\C[1]調査スキルLV2\\C[0]を習得してれば"
+                                "Hmm... If someone had learned the\n\\C[1]Investigation Skill LV2\\C[0], they might be\nable to figure something out..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 3,
                             "parameters": [
-                                "何かがわかりそうね…"
+                                ""
                             ]
                         },
                         {
@@ -14779,14 +14779,14 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\C[1]調査スキルLV2\\C[0]誰か持ってないのかしら？"
+                                "I wonder if someone has \\C[1]Investigation Skill\nLV2\\C[0]..."
                             ]
                         },
                         {
@@ -15222,14 +15222,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーンロック\\C[2]「Σシグマ」\\C[0]が掛かっているようだ"
+                                "Rune Lock \\C[2] Σ Sigma \\C[0] seems to be in\nplace, it can't be opened with picking."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ピッキングでは開けられない"
+                                ""
                             ]
                         },
                         {
@@ -15245,8 +15245,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "ルーンストーンを使って解錠する",
-                                    "何もしない"
+                                    "Unlock using the rune stone",
+                                    "Do nothing"
                                 ],
                                 1,
                                 0,
@@ -15770,14 +15770,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[2]ルダリングによっておぞましい力の象徴を感じる……"
+                                "Do you feel the symbol of repulsive power through\n\\C[2] rendering... Will you fight?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "戦いますか？"
+                                ""
                             ]
                         },
                         {
@@ -15785,8 +15785,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "戦う",
-                                    "やめておく"
+                                    "Fight",
+                                    "I'll stop"
                                 ],
                                 -2,
                                 0,

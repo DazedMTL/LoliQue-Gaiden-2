@@ -16,7 +16,7 @@
         "volume": 80
     },
     "disableDashing": false,
-    "displayName": "ダートルのアジト",
+    "displayName": "Dirtle's Hideout",
     "encounterList": [
         {
             "regionSet": [],
@@ -18422,7 +18422,7 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "会話"
+                                    "Conversation"
                                 ],
                                 -1,
                                 0,
@@ -18468,7 +18468,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "へへ…さすがいい身体してるぜ～♪"
+                                "Hehe... You certainly have a nice body~♪"
                             ]
                         },
                         {
@@ -18502,14 +18502,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "あんた、こっち側だな？"
+                                "Are you on this side? If there's something you\nwant, I'll pass it to you."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "欲しい物あったらまわすぜ"
+                                ""
                             ]
                         },
                         {
@@ -18544,9 +18544,9 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "\\C[22]♥誘惑en(v[261]>=300)",
-                                    "\\C[14]♠窃盗en(v[263]>=20)",
-                                    "\\C[3]☠攻撃en(v[263]>=100)"
+                                    "\\C[22]♥ Temptationen(v[261]>=300)",
+                                    "\\C[14]♠Theften(v[263]>=20)",
+                                    "\\C[3]☠ Attacken(v[263]>=100)"
                                 ],
                                 -2,
                                 -1,
@@ -18709,14 +18709,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ぐえっ"
+                                "What the hell are you doing?!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "なにすんだ！"
+                                ""
                             ]
                         },
                         {
@@ -18762,7 +18762,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ぎえ…"
+                                "G-geez..."
                             ]
                         },
                         {
@@ -18821,7 +18821,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ざけんなよ……デビルウィッチは仲間じゃなかったのか"
+                                "Don't mess around... Wasn't the Devil Witch\nsupposed to be our ally?"
                             ]
                         },
                         {
@@ -19625,8 +19625,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "ピッキングで解錠する",
-                                    "やめる"
+                                    "Unlocking with lock picking",
+                                    "Stop"
                                 ],
                                 1,
                                 0,
@@ -19721,21 +19721,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[2]ピッキングツール\\C[0]と\\C[2]ヘアピン\\C[0]を持っていれば"
+                                "If you have a \\C[2]lock-picking tool\\C[0] and a\n\\C[2]hairpin\\C[0], you might be able to challenge\nunlocking the door..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "鍵開けに挑戦できるかもしれないわね…"
+                                ""
                             ]
                         },
                         {
@@ -20679,7 +20679,7 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "会話"
+                                    "Conversation"
                                 ],
                                 -1,
                                 0,
@@ -20725,7 +20725,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "あんたとヤれたらさぞ最高なんだろうな"
+                                "It must be amazing to be able to fuck with you."
                             ]
                         },
                         {
@@ -20759,14 +20759,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ダートル様は寛大なお方だ"
+                                "Lord Dartle is a generous person. Devil witches\nare very welcome."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "デビルウィッチは大歓迎だぞ"
+                                ""
                             ]
                         },
                         {
@@ -20794,9 +20794,9 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "\\C[22]♥誘惑en(v[261]>=300)",
-                                    "\\C[14]♠窃盗en(v[263]>=20)",
-                                    "\\C[3]☠攻撃en(v[263]>=100)"
+                                    "\\C[22]♥ Temptationen(v[261]>=300)",
+                                    "\\C[14]♠Theften(v[263]>=20)",
+                                    "\\C[3]☠ Attacken(v[263]>=100)"
                                 ],
                                 -2,
                                 -1,
@@ -20959,14 +20959,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ぐえっ"
+                                "What the fuck are you doing?!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "なにすんだ！"
+                                ""
                             ]
                         },
                         {
@@ -21012,7 +21012,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ぎえ…"
+                                "G-geez..."
                             ]
                         },
                         {
@@ -21071,7 +21071,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ざけんなよ……デビルウィッチは仲間じゃなかったのか"
+                                "Don't fuck around... Weren't you supposed to be\nour ally, Devil Witch?"
                             ]
                         },
                         {
@@ -22365,7 +22365,7 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "会話"
+                                    "Conversation"
                                 ],
                                 -1,
                                 0,
@@ -22411,7 +22411,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "はぁはぁ、スレンダーで最高じゃねぇか…"
+                                "Haa haa, slender and amazing..."
                             ]
                         },
                         {
@@ -22445,14 +22445,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "デーモンと契約して大正解だったぜ。この身体なら"
+                                "It was a great decision to make a contract with a\ndemon. With this body, there's nothing I can't do!\nYou think the same, right?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "何一つ不自由しねぇ！あんたもそう思うだろ？"
+                                ""
                             ]
                         },
                         {
@@ -22480,9 +22480,9 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "\\C[22]♥誘惑en(v[261]>=300)",
-                                    "\\C[14]♠窃盗en(v[263]>=20)",
-                                    "\\C[3]☠攻撃en(v[263]>=100)"
+                                    "\\C[22]♥ Temptationen(v[261]>=300)",
+                                    "\\C[14]♠Theften(v[263]>=20)",
+                                    "\\C[3]☠ Attacken(v[263]>=100)"
                                 ],
                                 -2,
                                 -1,
@@ -22645,14 +22645,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ぐえっ"
+                                "What the hell are you doing?!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "なにすんだ！"
+                                ""
                             ]
                         },
                         {
@@ -22698,7 +22698,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ぎえ…"
+                                "G-geez..."
                             ]
                         },
                         {
@@ -22757,7 +22757,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ざけんなよ……デビルウィッチは仲間じゃなかったのか"
+                                "Don't mess around... Wasn't the Devil Witch\nsupposed to be our ally?"
                             ]
                         },
                         {
@@ -24044,7 +24044,7 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "会話"
+                                    "Conversation"
                                 ],
                                 -1,
                                 0,
@@ -24090,14 +24090,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "へぇ、この太陽の中すっぱだか…"
+                                "Wow, you're completely naked in the middle of the\nsun... You're quite daring, aren't you?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "只もんじゃないなあんた？"
+                                ""
                             ]
                         },
                         {
@@ -24131,14 +24131,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ふん、なかなかの顔立ちじゃないか"
+                                "Hmph, with such a handsome face, Dartle-sama might\nbe interested."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "ダートル様は気にいるかもしれんな"
+                                ""
                             ]
                         },
                         {
@@ -24166,9 +24166,9 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "\\C[22]♥誘惑en(v[261]>=300)",
-                                    "\\C[14]♠窃盗en(v[263]>=20)",
-                                    "\\C[3]☠攻撃en(v[263]>=100)"
+                                    "\\C[22]♥ Temptationen(v[261]>=300)",
+                                    "\\C[14]♠Theften(v[263]>=20)",
+                                    "\\C[3]☠Attacken(v[263]>=100)"
                                 ],
                                 -2,
                                 -1,
@@ -24331,14 +24331,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ぐえっ"
+                                "What the hell are you doing?!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "なにすんだ！"
+                                ""
                             ]
                         },
                         {
@@ -24384,7 +24384,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ぎえ…"
+                                "G-geez..."
                             ]
                         },
                         {
@@ -24443,7 +24443,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ざけんなよ……デビルウィッチは仲間じゃなかったのか"
+                                "Don't mess around... Wasn't Devil Witch supposed\nto be our ally?"
                             ]
                         },
                         {

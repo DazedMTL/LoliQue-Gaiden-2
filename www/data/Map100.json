@@ -16,7 +16,7 @@
         "volume": 80
     },
     "disableDashing": false,
-    "displayName": "ヤーグルフィス砦",
+    "displayName": "Yagurufisu Fortress",
     "encounterList": [],
     "encounterStep": 30,
     "height": 50,
@@ -17410,8 +17410,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "ピッキングで解錠する",
-                                    "やめる"
+                                    "Unlocking with lock picking",
+                                    "Stop"
                                 ],
                                 1,
                                 0,
@@ -17506,21 +17506,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[2]ピッキングツール\\C[0]と\\C[2]ヘアピン\\C[0]を持っていれば"
+                                "If you have a \\C[2]lock-picking tool\\C[0] and a\n\\C[2]hairpin\\C[0], you might be able to challenge\nunlocking the door..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "鍵開けに挑戦できるかもしれないわね…"
+                                ""
                             ]
                         },
                         {
@@ -17949,14 +17949,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "お待たせ、首尾はどうかしら"
+                                "Sorry to keep you waiting, how did it go?"
                             ]
                         },
                         {
@@ -17973,14 +17973,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[1]ティリーヌ\\C[0]"
+                                "\\C[1]Tillyne\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "多分大丈夫。今日は奴ら少ないかもしれない"
+                                "Maybe it's fine. There might be fewer of them\ntoday."
                             ]
                         },
                         {
@@ -18022,28 +18022,28 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[1]ティリーヌ\\C[0]"
+                                "\\C[1]Tillyne\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "一応砦の内部の構造を簡単に説明しておくわね"
+                                "Let me briefly explain the structure inside the\nfortress. Our comrades should be in the dungeon on\nthe basement floor. However, you can't go directly\nfrom the first floor to the basement, so be\ncareful."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "仲間は地下１階の牢屋のはず。ただ１階からすぐに地下へは"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "行けないから注意して　"
+                                ""
                             ]
                         },
                         {
@@ -18060,21 +18060,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[1]ティリーヌ\\C[0]"
+                                "\\C[1]Tillyne\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "一度二階に上がって、別の下に降りる階段を探して"
+                                "Once you go up to the second floor, look for\nanother staircase leading down and you should be\nable to go to the basement from there."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "そこから地下へ行けるはずだから　"
+                                ""
                             ]
                         },
                         {
@@ -18082,8 +18082,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "わかった！",
-                                    "もう一回"
+                                    "Understood!",
+                                    "One more time"
                                 ],
                                 -2,
                                 0,
@@ -18131,14 +18131,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "わかったわ"
+                                "I understand."
                             ]
                         },
                         {
@@ -18155,21 +18155,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[1]ティリーヌ\\C[0]"
+                                "\\C[1]Tillyne\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "中に入ったらすぐに私がスキルで派手にやるから"
+                                "Once we enter, I'll use my skills to attract a lot\nof bandits, so if you do that, we should be able\nto draw in many of them."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "そうすればバンディットの多くを引きつけられるはず"
+                                ""
                             ]
                         },
                         {
@@ -18186,14 +18186,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[1]ティリーヌ\\C[0]"
+                                "\\C[1]Tillyne\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "その隙に侵入して"
+                                "Take advantage of that opening and infiltrate."
                             ]
                         },
                         {
@@ -18380,14 +18380,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ん？もう一回"
+                                "Hm? One more time."
                             ]
                         },
                         {
@@ -18610,14 +18610,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[1]ティリーヌ\\C[0]"
+                                "\\C[1]Tillyne\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "コノハ！こっちこっち！"
+                                "Konoha! Over here, come here!"
                             ]
                         },
                         {

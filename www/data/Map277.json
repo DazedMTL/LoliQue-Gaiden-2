@@ -16430,14 +16430,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[2]このネストストーンを魔力で制御できるようになった"
+                                "\\C[2]The nearby enemies became docile after being\nable to control this Nest Stone with magic\\C[1]!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "\\C[1]付近の敵がおとなしくなった！"
+                                ""
                             ]
                         },
                         {
@@ -16609,14 +16609,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[2]ネストストーンの制御を解除しますか？"
+                                "Do you want to release the control of the Nest\nStone? If you release it, nearby enemies will\nattack."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "\\C[3]解除すると、付近の敵が襲ってきます"
+                                ""
                             ]
                         },
                         {
@@ -16624,8 +16624,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "解除する",
-                                    "解除しない"
+                                    "Release",
+                                    "Don't release it"
                                 ],
                                 -1,
                                 -1,
@@ -16672,7 +16672,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[2]ネストストーンの制御を解除した！"
+                                "Released the control of the Nest Stone!"
                             ]
                         },
                         {
@@ -16837,14 +16837,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[2]このネストストーンを魔力で制御した！"
+                                "\\C[2]I controlled this Nest Stone with magic!\n\\C[1]The nearby enemies became docile!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "\\C[1]付近の敵がおとなしくなった！"
+                                ""
                             ]
                         },
                         {
@@ -19234,7 +19234,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[2]炎スキルを使えるロリモンが蔓を焼き払った！"
+                                "The loli character who can use fire skills burned\naway the vines!"
                             ]
                         },
                         {
@@ -19286,7 +19286,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\C[2]炎スキルを使えるロリモンが蔓を焼き払った！"
+                                "The loli character who can use fire skills burned\naway the vines!"
                             ]
                         },
                         {
@@ -19338,7 +19338,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\C[2]炎スキルを使えるロリモンが蔓を焼き払った！"
+                                "The loli character who can use fire skills burned\naway the vines!"
                             ]
                         },
                         {
@@ -19373,14 +19373,14 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "宝箱に\\C[2]蔓\\C[0]が巻き付いてしまっている"
+                                "If there is someone in the party who can use the\nfire skill LV1 and there are vines wrapped around\nthe treasure chest, they could probably burn them\naway."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 3,
                             "parameters": [
-                                "\\C[3]炎スキルLV1\\C[0]を使える者がパーティに居れば焼き払えそうだ"
+                                ""
                             ]
                         },
                         {
@@ -19840,8 +19840,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "ピッキングで解錠する",
-                                    "やめる"
+                                    "Unlocking with lockpicking",
+                                    "Stop"
                                 ],
                                 1,
                                 0,
@@ -19936,21 +19936,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[2]ピッキングツール\\C[0]と\\C[2]ヘアピン\\C[0]を持っていれば"
+                                "If you have a \\C[2]lock-picking tool\\C[0] and a\n\\C[2]hairpin\\C[0], you might be able to challenge\nunlocking the door..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "鍵開けに挑戦できるかもしれないわね…"
+                                ""
                             ]
                         },
                         {
@@ -20397,8 +20397,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "ピッキングで解錠する",
-                                    "やめる"
+                                    "Unlocking with lockpicking",
+                                    "Stop"
                                 ],
                                 1,
                                 0,
@@ -20493,21 +20493,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[2]ピッキングツール\\C[0]と\\C[2]ヘアピン\\C[0]を持っていれば"
+                                "If you have a \\C[2]lock-picking tool\\C[0] and a\n\\C[2]hairpin\\C[0], you might be able to challenge\nunlocking the door..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "鍵開けに挑戦できるかもしれないわね…"
+                                ""
                             ]
                         },
                         {
@@ -20954,8 +20954,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "ピッキングで解錠する",
-                                    "やめる"
+                                    "Unlocking with lock picking",
+                                    "Stop"
                                 ],
                                 1,
                                 0,
@@ -21050,21 +21050,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[2]ピッキングツール\\C[0]と\\C[2]ヘアピン\\C[0]を持っていれば"
+                                "If you have a \\C[2]lock-picking tool\\C[0] and a\n\\C[2]hairpin\\C[0], you might be able to challenge\nunlocking the door..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "鍵開けに挑戦できるかもしれないわね…"
+                                ""
                             ]
                         },
                         {
@@ -21512,21 +21512,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "これは普通の鍵じゃないわ"
+                                "This isn't an ordinary key, it's sealed with\nmagic. There might be some kind of mechanism."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "魔力で封印されてる。何か仕掛けがあるのかも"
+                                ""
                             ]
                         },
                         {
@@ -21760,21 +21760,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[1]デュラハン\\C[0]"
+                                "\\C[1]Dullahan\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "わわっ！お祈りしてたら、助けがきてくれました！"
+                                "Wow! While I was praying, someone came to my\nrescue! It seems to be the will of the goddess\nArtemis."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "女神アルテアの思し召しにかないました"
+                                ""
                             ]
                         },
                         {
@@ -21818,28 +21818,28 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[1]デュラハン\\C[0]"
+                                "\\C[1]Dullahan\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "なんと、もうすでに私の仲間がおられましたか"
+                                "Oh, it seems that I already have companions. I'm\nsure we're getting along well. Thank you very\nmuch!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "きっと仲良くさせてもらってるのでしょうね"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "ありがとうございます！"
+                                ""
                             ]
                         },
                         {
@@ -21856,21 +21856,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[1]デュラハン\\C[0]"
+                                "\\C[1]Dullahan\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "少ないですが、本日のお礼をお受取り下さい"
+                                "Please accept my gratitude for today, although it\nmay be little. Thank you very much!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "それでは、ありがとうございました！"
+                                ""
                             ]
                         },
                         {
@@ -21975,14 +21975,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[6]コノハ\\c[0]"
+                                "\\c[6]Konoha\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "無事みたいでよかったわ"
+                                "I'm glad it seems like everyone is safe."
                             ]
                         },
                         {
@@ -22009,14 +22009,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[6]コノハ\\c[0]"
+                                "\\c[6]Konoha\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "大丈夫？"
+                                "Are you okay?"
                             ]
                         },
                         {
@@ -22061,28 +22061,28 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[1]デュラハン\\C[0]"
+                                "\\C[1]Dullahan\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "こんなところまで来て助けに来ていただいて"
+                                "I'm so grateful that you came all the way here to\nrescue me. Thank you very much! I may be\ninexperienced, but please let me accompany you on\nyour journey!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "感謝感激です。ありがとうございます！不束者ですが"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "ぜひ私をあなたの旅のお供に！"
+                                ""
                             ]
                         },
                         {
@@ -22151,14 +22151,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[6]コノハ\\c[0]"
+                                "\\c[6]Konoha\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "助かるわ！よろしくね"
+                                "I'm saved! Nice to meet you."
                             ]
                         },
                         {
@@ -22185,14 +22185,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[6]コノハ\\c[0]"
+                                "\\c[6]Konoha\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "いいわね。よろしくー"
+                                "That's nice. Nice to meet you."
                             ]
                         },
                         {
@@ -22231,7 +22231,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[6]新しいロリモンが仲間になった！"
+                                "A new loli character has joined the party!"
                             ]
                         },
                         {
@@ -22551,21 +22551,21 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "あ、この結界柱は破損部分があるわ"
+                                "Ah, there's a damaged part on this barrier pillar.\nIt needs to be repaired."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "これは要修復ね"
+                                ""
                             ]
                         },
                         {
@@ -22592,14 +22592,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "あーーこれはダメねぶっ壊れてる"
+                                "Ah, this is no good. It's completely broken."
                             ]
                         },
                         {
@@ -22719,28 +22719,28 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "よし、全部確認終わったわ"
+                                "Alright, I've finished checking everything. Two of\nthe barrier pillars are damaged. It seems that\nthis is the cause of the weakened barrier."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 3,
                             "parameters": [
-                                "２本ダメになってたわね。結界が弱まってるのはやはり"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 3,
                             "parameters": [
-                                "これが原因ね"
+                                ""
                             ]
                         },
                         {
@@ -22767,21 +22767,21 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "全確認終わりーっ"
+                                "Finished checking everything. Two of them are in\nbad shape. There's no doubt that these are the\ncause of the weakened barrier."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 3,
                             "parameters": [
-                                "２本がダメダメね。結界の弱体原因は間違いなくこれね"
+                                ""
                             ]
                         },
                         {
@@ -23198,14 +23198,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "えーと……この結界柱は問題なさそうね"
+                                "Um... this barrier pillar seems to be fine."
                             ]
                         },
                         {
@@ -23232,14 +23232,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "よーし、問題なし！"
+                                "Alright, no problem!"
                             ]
                         },
                         {
@@ -23359,28 +23359,28 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "よし、全部確認終わったわ"
+                                "Alright, I've finished checking everything. It\nseems that two of the barrier pillars are damaged.\nThe weakening of the barrier is indeed caused by\nthis."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 3,
                             "parameters": [
-                                "２本ダメになってたわね。結界が弱まってるのはやはり"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 3,
                             "parameters": [
-                                "これが原因ね"
+                                ""
                             ]
                         },
                         {
@@ -23407,21 +23407,21 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "全確認終わりーっ"
+                                "Finished checking everything. Two of them are no\ngood. The weakening of the barrier is definitely\ncaused by this."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 3,
                             "parameters": [
-                                "２本がダメダメね。結界の弱体原因は間違いなくこれね"
+                                ""
                             ]
                         },
                         {
@@ -23625,21 +23625,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[1]ロロノフ\\C[0]"
+                                "\\C[1]Roronofu\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "よし、これでラストじゃな"
+                                "Alright, with this we've got a tough enemy for the\nlast one, so hold your ground!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "敵も手強いじゃろうが、踏ん張ってくれよ！"
+                                ""
                             ]
                         },
                         {
@@ -23674,14 +23674,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "了解！"
+                                "Understood!"
                             ]
                         },
                         {
@@ -23698,14 +23698,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[1]ロロノフ\\C[0]"
+                                "\\C[1]Roronofu\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "準備はいいか？"
+                                "Are you ready?"
                             ]
                         },
                         {
@@ -23732,21 +23732,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[1]ロロノフ\\C[0]"
+                                "\\C[1]Roronofu\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "おっ来たな。早速取り掛かるが、頼むぞい"
+                                "Oh, you've arrived. Let's get started right away,\nbut be careful. Those damn demons always show up\nwhen we start repairing, you know."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "修復を開始すると必ず現れるからのぉデーモンのやつら"
+                                ""
                             ]
                         },
                         {
@@ -23781,14 +23781,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "わかったわ！任せておいて…！"
+                                "Got it! Leave it to me...!"
                             ]
                         },
                         {
@@ -23805,14 +23805,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[1]ロロノフ\\C[0]"
+                                "\\C[1]Roronofu\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "準備はいいか？"
+                                "Are you ready?"
                             ]
                         },
                         {
@@ -23847,8 +23847,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "開始",
-                                    "ちょっと待って"
+                                    "Start",
+                                    "Wait a moment"
                                 ],
                                 -1,
                                 -1,
@@ -24029,21 +24029,21 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "\\C[1]ロロノフ\\C[0]"
+                                "\\C[1]Roronofu\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "よし！完了じゃ"
+                                "Alright! It's complete. You held your ground well.\nThank you."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 5,
                             "parameters": [
-                                "あんたもよう持ちこたえてくれたな。ありがとうな"
+                                ""
                             ]
                         },
                         {
@@ -24078,28 +24078,28 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "これくらいなんてことないわよ"
+                                "It's no big deal. I'll let Dorotea know that the\nrepairs are complete. Good job, Roronofu. You must\nbe tired."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 5,
                             "parameters": [
-                                "私はドロテアに修復が完了したことを伝えるわ"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 5,
                             "parameters": [
-                                "お疲れ様ロロノフ"
+                                ""
                             ]
                         },
                         {
@@ -24169,21 +24169,21 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "\\C[1]ロロノフ\\C[0]"
+                                "\\C[1]Roronofu\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "いい感じじゃ！あんた強いのぉ"
+                                "Looking good! You're strong, I'm impressed. Let's\nmove on to the next one."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 5,
                             "parameters": [
-                                "ほれ、次いくぞい"
+                                ""
                             ]
                         },
                         {
@@ -24309,21 +24309,21 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\C[1]ロロノフ\\C[0]"
+                                "\\C[1]Roronofu\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ほげー！一旦退散じゃ！"
+                                "Hoge! Retreat for now! We'll come back again!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "また戻ってくるんじゃぞ！"
+                                ""
                             ]
                         },
                         {
@@ -24395,14 +24395,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "一旦準備するわね！"
+                                "Let's prepare for now!"
                             ]
                         },
                         {
@@ -24699,14 +24699,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "はぴの落とした楽譜！こんなとこにあったなの！"
+                                "The sheet music that Hapi dropped! It was here all\nalong! I'm so glad~!!!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "よかったなの～！！！"
+                                ""
                             ]
                         },
                         {
@@ -24915,14 +24915,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "うわでたぁぁぁぁぁ！！！！！！！"
+                                "Uwaaaahhhhh!!!! It's so biiiiiggggg!!!!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "でかいいいいぃぃぃぃ！！！！！！！"
+                                ""
                             ]
                         },
                         {
@@ -25242,21 +25242,21 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "はぁはぁ…！やった……倒した…？！"
+                                "Haa... Haa...! I did it... I defeated them...?!\nThank you so much, Konoha-san... Amazing... This\nis power...!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "ありがとうございますコノハさん……"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "凄い……これが力……！"
+                                ""
                             ]
                         },
                         {
@@ -25410,7 +25410,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "コノハさん私を…バトルメンバーに……っ"
+                                "Konoha-san, please... make me... a member of the\nbattle team..."
                             ]
                         },
                         {

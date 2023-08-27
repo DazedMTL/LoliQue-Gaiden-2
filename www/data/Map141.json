@@ -16,7 +16,7 @@
         "volume": 80
     },
     "disableDashing": false,
-    "displayName": "魔法少女専門【マッサージ】",
+    "displayName": "Specialized Magical Girl [Massage]",
     "encounterList": [],
     "encounterStep": 30,
     "height": 30,
@@ -7831,14 +7831,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[1]フルト\\C[0]"
+                                "\\C[1]Flute\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "はっはっは、もう裸になられて準備万端ですな♪"
+                                "Hahaha, you're already naked and ready to go, huh?\n♪"
                             ]
                         },
                         {
@@ -7865,21 +7865,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[1]フルト\\C[0]"
+                                "\\C[1]Flute\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "私のマッサージを続けてもらえば、身体の方は良い状態に"
+                                "If you continue to receive my massages, it will\nhelp maintain your body in good condition. So, I\nhope you can come regularly."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "保てますので是非、定期的に通ってもらえればなと思います"
+                                ""
                             ]
                         },
                         {
@@ -7887,8 +7887,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "マッサージを始める",
-                                    "今日はやめておく"
+                                    "Start the massage",
+                                    "I'll pass on today"
                                 ],
                                 1,
                                 0,
@@ -7927,21 +7927,21 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\C[1]フルト\\C[0]"
+                                "\\C[1]Flute\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "おやおや、あなた今妊娠中ですね。残念ですが妊娠中は"
+                                "Oh my, it seems you're pregnant now.\nUnfortunately, I can't perform this massage while\nyou're pregnant."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 3,
                             "parameters": [
-                                "こちらのマッサージは施術できません"
+                                ""
                             ]
                         },
                         {
@@ -7958,21 +7958,21 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\C[1]フルト\\C[0]"
+                                "\\C[1]Flute\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "堕胎などで引き起こす後遺症などに特に効果があります"
+                                "If you experience any aftereffects caused by\nabortion or other procedures, my massages are\nparticularly effective. Please come to me if that\nhappens."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 3,
                             "parameters": [
-                                "もし、そうなってしまった時においでください"
+                                ""
                             ]
                         },
                         {
@@ -7999,14 +7999,14 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\C[1]フルト\\C[0]"
+                                "\\C[1]Flute\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "それでは早速始めましょう"
+                                "Well then, let's get started right away."
                             ]
                         },
                         {
@@ -8023,14 +8023,14 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "よろしくね"
+                                "Nice to meet you."
                             ]
                         },
                         {
@@ -8098,21 +8098,21 @@
                             "code": 401,
                             "indent": 6,
                             "parameters": [
-                                "\\c[1]ケットシー\\c[0]"
+                                "\\c[1]Kettshi\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 6,
                             "parameters": [
-                                "\\C[4]コノハ気をつけるっち！こいつ、催眠かけようと"
+                                "\\C[4]Konoha, be careful! This person is trying to\nhypnotize you! Don't look directly into their\neyes!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 6,
                             "parameters": [
-                                "してきてるっち！目を直視しちゃダメっち！"
+                                ""
                             ]
                         },
                         {
@@ -8148,21 +8148,21 @@
                             "code": 401,
                             "indent": 6,
                             "parameters": [
-                                "\\c[1]テンコ\\c[0]"
+                                "\\c[1]Tenko\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 6,
                             "parameters": [
-                                "\\C[4]こやつ、催眠を使うとは小賢しい猿め"
+                                "\\C[4]You sly little monkey, Konoha, using hypnosis\nlike that. Don't be deceived by such childish\ngames."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 6,
                             "parameters": [
-                                "コノハよ、そのような児戯に惑わさられるでないぞ"
+                                ""
                             ]
                         },
                         {
@@ -8180,8 +8180,8 @@
                             "indent": 5,
                             "parameters": [
                                 [
-                                    "目を逸らす",
-                                    "目を逸らさない"
+                                    "Look away",
+                                    "Don't look away"
                                 ],
                                 -1,
                                 0,
@@ -8220,14 +8220,14 @@
                             "code": 401,
                             "indent": 7,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 7,
                             "parameters": [
-                                "\\c[4]ありがとう\\N[14]！"
+                                "Thank you \\c[4]!"
                             ]
                         },
                         {
@@ -8263,14 +8263,14 @@
                             "code": 401,
                             "indent": 7,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 7,
                             "parameters": [
-                                "\\c[4]ありがとう\\N[23]！"
+                                "Thank you \\c[4]!"
                             ]
                         },
                         {
@@ -8328,14 +8328,14 @@
                             "code": 401,
                             "indent": 6,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 6,
                             "parameters": [
-                                "\\c[4]あっしまった…"
+                                "Oh no..."
                             ]
                         },
                         {
@@ -8352,14 +8352,14 @@
                             "code": 401,
                             "indent": 6,
                             "parameters": [
-                                "\\C[1]フルト\\C[0]"
+                                "\\C[1]Flute\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 6,
                             "parameters": [
-                                "\\c[4]ふふふ、かかりましたね♪"
+                                "Hehehe, I got you now♪"
                             ]
                         },
                         {
@@ -8463,14 +8463,14 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "んっ…？"
+                                "Mmm...?"
                             ]
                         },
                         {
@@ -8487,14 +8487,14 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "\\C[1]フルト\\C[0]"
+                                "\\C[1]Flute\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "\\c[4]ふふふ、かかりましたね♪"
+                                "Hehehe, I got you now♪"
                             ]
                         },
                         {
@@ -8628,28 +8628,28 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "\\C[1]フルト\\C[0]"
+                                "\\C[1]Flute\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "さぁ、今日はどうしましょうかねぇ？"
+                                "Well, what shall we do today? Hehehe...♪ Please\nchoose the massage that Konoha-san likes."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 5,
                             "parameters": [
-                                "ふふふ…♪コノハさんのお好きなマッサージを"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 5,
                             "parameters": [
-                                "お選びくださいな"
+                                ""
                             ]
                         },
                         {
@@ -8666,21 +8666,21 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "は……はい♪"
+                                "Umm... Yes♪ Well then..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 5,
                             "parameters": [
-                                "それじゃあ…"
+                                ""
                             ]
                         },
                         {
@@ -8688,8 +8688,8 @@
                             "indent": 5,
                             "parameters": [
                                 [
-                                    "手マンをお願いします",
-                                    "中出し射精をお願いします"
+                                    "Please finger me",
+                                    "Please cum inside me"
                                 ],
                                 -1,
                                 -1,
@@ -8766,14 +8766,14 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "\\C[1]フルト\\C[0]"
+                                "\\C[1]Flute\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "それでは施術の準備を開始しましょうかね"
+                                "Shall we begin preparing for the treatment then?"
                             ]
                         },
                         {
@@ -8874,7 +8874,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\C[2]堕胎後遺症\\C[0]から回復した！"
+                                "\\C[2]Post-Abortion Syndrome\\C[0]Recovered from it!"
                             ]
                         },
                         {
@@ -8931,7 +8931,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "\\C[2]堕胎後遺症\\C[0]から回復した！"
+                                "\\C[2]Post-Abortion Syndrome\\C[0]Recovered from it!"
                             ]
                         },
                         {
@@ -8978,7 +8978,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "\\C[6]身体の調子が良くなったような気がする！"
+                                "I feel like my body is in better condition now!"
                             ]
                         },
                         {
@@ -9149,14 +9149,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[1]フルト\\C[0]"
+                                "\\C[1]Flute\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "はっはっは、もう裸になられて準備万端ですな♪"
+                                "Hahaha, you're already naked and ready to go, huh?\n♪"
                             ]
                         },
                         {
@@ -9183,14 +9183,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[1]フルト\\C[0]"
+                                "\\C[1]Flute\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "また明日以降にでもご来院ください♪"
+                                "Please come back another day♪"
                             ]
                         },
                         {
@@ -9352,14 +9352,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[1]受付け\\C[0]"
+                                "\\C[1]Receptionist\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "お客様、洋服は中で脱いでくださいませ"
+                                "Please take off your clothes inside, customer."
                             ]
                         },
                         {
@@ -9386,21 +9386,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[1]受付け\\C[0]"
+                                "\\C[1]Receptionist\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "いらっしゃいませ。\\C[2]マッサージ無料券\\C[0]があればどんな方でも"
+                                "Welcome. If you have a free massage ticket, we can\nprovide a consultation for free to anyone. If you\ndon't have one, it will be a flat rate of 3500 Lo."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "無料で診察できます。無い場合は一律3500Loとなっております"
+                                ""
                             ]
                         },
                         {
@@ -9408,8 +9408,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "マッサージ受ける【3500Lo】",
-                                    "受けない"
+                                    "Receive a massage [3500 Lo]",
+                                    "Not receiving"
                                 ],
                                 1,
                                 0,
@@ -9457,21 +9457,21 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\C[1]受付け\\C[0]"
+                                "\\C[1]Receptionist\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "ありがとうございます。それでは扉の奥にお進みください"
+                                "Thank you very much. Please proceed to the back of\nthe door, as the teacher is waiting for you there."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 3,
                             "parameters": [
-                                "先生が待機しておられますので"
+                                ""
                             ]
                         },
                         {
@@ -9507,14 +9507,14 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\C[1]受付け\\C[0]"
+                                "\\C[1]Receptionist\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "申し訳ありません、お金が足らないようです"
+                                "I'm sorry, it seems like you don't have enough\nmoney."
                             ]
                         },
                         {
@@ -9554,14 +9554,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\C[1]受付け\\C[0]"
+                                "\\C[1]Receptionist\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "調子の悪い時はいつでもご来店くださいませ"
+                                "Please feel free to visit us anytime when you're\nfeeling down."
                             ]
                         },
                         {
@@ -9673,14 +9673,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[1]受付け\\C[0]"
+                                "\\C[1]Receptionist\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "お客様、洋服は中で脱いでくださいませ"
+                                "Please take off your clothes inside, customer."
                             ]
                         },
                         {
@@ -9707,21 +9707,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[1]受付け\\C[0]"
+                                "\\C[1]Receptionist\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "いらっしゃいませ。\\C[2]マッサージ無料券\\C[0]があればどんな方でも"
+                                "Welcome. If you have a free massage ticket, we can\nprovide a consultation for free to anyone. If you\ndon't have one, it will be a flat rate of 3500 Lo."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "無料で診察できます。無い場合は一律3500Loとなっております"
+                                ""
                             ]
                         },
                         {
@@ -9729,8 +9729,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "マッサージ受ける【無料】",
-                                    "受けない"
+                                    "Receive a massage [for free]",
+                                    "Not receiving"
                                 ],
                                 1,
                                 0,
@@ -9760,21 +9760,21 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\C[1]受付け\\C[0]"
+                                "\\C[1]Receptionist\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ありがとうございます。それでは扉の奥にお進みください"
+                                "Thank you very much. Please proceed to the back of\nthe door, as the teacher is waiting for you there."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "先生が待機しておられますので"
+                                ""
                             ]
                         },
                         {
@@ -9813,14 +9813,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\C[1]受付け\\C[0]"
+                                "\\C[1]Receptionist\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "調子の悪い時はいつでもご来店くださいませ"
+                                "Please feel free to visit us anytime when you're\nfeeling down."
                             ]
                         },
                         {
@@ -9932,14 +9932,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[1]受付け\\C[0]"
+                                "\\C[1]Receptionist\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "お客様、洋服は中で脱いでくださいませ"
+                                "Please take off your clothes inside, customer."
                             ]
                         },
                         {
@@ -9966,14 +9966,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[1]受付け\\C[0]"
+                                "\\C[1]Receptionist\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ドアを奥にお進みください"
+                                "Please proceed to the back of the door."
                             ]
                         },
                         {
@@ -10674,21 +10674,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[9]♥乳首クリトリス勃起イベント"
+                                "\\C[9]♥ Nipple and Clitoris Erection Event Trigger\nConditions: After Hypnosis, the number of massages\nmust be 10 or more. Currently \\v[576] times for\nnon-pregnant women."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "発生条件：催眠後マッサージ数が10回以上　非妊婦"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "現在　\\v[576]回"
+                                ""
                             ]
                         },
                         {
@@ -10868,14 +10868,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[1]フルト\\C[0]"
+                                "\\C[1]Flute\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "師匠、ご無沙汰してます"
+                                "Master, it's been a while."
                             ]
                         },
                         {
@@ -10892,14 +10892,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[1]フルトの師匠\\C[0]"
+                                "\\C[1]Fult's Master\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ふむ、元気にやってそうじゃないか"
+                                "Hmmm, looks like you're doing well."
                             ]
                         },
                         {
@@ -10916,21 +10916,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[1]フルト\\C[0]"
+                                "\\C[1]Flute\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "お陰様で……へへ…"
+                                "Thanks to you... hehe... What's the sudden\noccasion today?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "急に今日はどうしたんでしょう？"
+                                ""
                             ]
                         },
                         {
@@ -10947,21 +10947,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[1]フルトの師匠\\C[0]"
+                                "\\C[1]Fult's Master\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "なに……新しい”技”を、な"
+                                "What... you've brought a new technique, my\ndisciple."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "持ってきてやったぞ我が弟子よ"
+                                ""
                             ]
                         },
                         {
@@ -10978,21 +10978,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[1]フルト\\C[0]"
+                                "\\C[1]Flute\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……！？"
+                                "......!? W-What's happening now..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "い、今なんと……"
+                                ""
                             ]
                         },
                         {
@@ -11009,14 +11009,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[1]フルトの師匠\\C[0]"
+                                "\\C[1]Fult's Master\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "新しい技を伝授しにやってきたのだ"
+                                "I've come to teach you a new technique."
                             ]
                         },
                         {
@@ -11033,21 +11033,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[1]フルト\\C[0]"
+                                "\\C[1]Flute\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "これはまたありがたいことに……"
+                                "This is... quite a blessing... What kind of\ntechnique is it?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "一体それはどのような"
+                                ""
                             ]
                         },
                         {
@@ -11064,21 +11064,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[1]フルトの師匠\\C[0]"
+                                "\\C[1]Fult's Master\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "これだ。”肥大の鍼”……"
+                                "Here it is. The Enlargement Needle... Just shoot\nthis into the pressure point... and the rest is up\nto you... ♪"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "これをツボに射すだけで……後はお楽しみだ…♪"
+                                ""
                             ]
                         },
                         {
@@ -11095,21 +11095,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[1]フルト\\C[0]"
+                                "\\C[1]Flute\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……！"
+                                "......! A-Amazing..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "す、素晴らしい……"
+                                ""
                             ]
                         },
                         {
@@ -11126,21 +11126,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[1]フルトの師匠\\C[0]"
+                                "\\C[1]Fult's Master\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "わかっておるだろうが、しっかりと”催眠”を掛けておきたまえ"
+                                "You understand, right? Make sure to hypnotize them\nproperly, or they'll figure it out right away."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "でないとすぐにバレてしまうだろうからな"
+                                ""
                             ]
                         },
                         {
@@ -11157,14 +11157,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[1]フルト\\C[0]"
+                                "\\C[1]Flute\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そりゃもちろん……師匠いつもありがとうございます…"
+                                "Of course... Master, thank you as always..."
                             ]
                         },
                         {
@@ -11181,21 +11181,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[1]フルトの師匠\\C[0]"
+                                "\\C[1]Fult's Master\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あぁもちろんただではない"
+                                "Ah, of course it's not for free. You've been\nsaving up, right? I'll make sure you pay me back\nproperly."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "どうせ、貯め込んでいるのだろう？しっかりと払ってもらうぞ"
+                                ""
                             ]
                         },
                         {
@@ -11212,21 +11212,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[1]フルト\\C[0]"
+                                "\\C[1]Flute\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ぐっ…（やはり金か……）"
+                                "Guh... (As expected, it's money...) O-Of course,\nI'll definitely pay! Hehe..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "そ、そりゃもちろん払いますとも！へへ……"
+                                ""
                             ]
                         },
                         {
@@ -11243,21 +11243,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "フルトは催眠の掛かった魔法少女にさらなる卑猥なことを"
+                                "Flute seems to be planning to do even more obscene\nthings to the hypnotized magical girl. By\nrepeating hypnotic sex, they might use that\ntechnique again..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "仕掛けるつもりのようだ。\\C[2]催眠エッチを繰り返す\\C[0]ことによって"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "例の技を掛けてくるかもしれない……"
+                                ""
                             ]
                         },
                         {
@@ -11446,14 +11446,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[9]♥乳首クリトリス勃起イベント"
+                                "If you talk to Furuuto while in a hypnotized state\nwith your nipples and clitoris erect..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "催眠状態でフルトと話せば……"
+                                ""
                             ]
                         },
                         {

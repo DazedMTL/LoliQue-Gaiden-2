@@ -29742,7 +29742,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[2]戦闘中だ！"
+                                "\\c[2]We're in the middle of a battle!"
                             ]
                         },
                         {
@@ -30293,7 +30293,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[2]戦闘中だ！"
+                                "\\c[2]We're in the middle of a battle!"
                             ]
                         },
                         {
@@ -30371,7 +30371,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[2]戦闘中だ！"
+                                "\\c[2]We're in the middle of a battle!"
                             ]
                         },
                         {
@@ -30449,7 +30449,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[2]戦闘中だ！"
+                                "\\c[2]is in the middle of a battle!"
                             ]
                         },
                         {
@@ -30527,7 +30527,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[2]戦闘中だ！"
+                                "\\c[2]We're in the middle of a battle!"
                             ]
                         },
                         {
@@ -30605,7 +30605,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[2]戦闘中だ！"
+                                "\\c[2]We're in the middle of a battle!"
                             ]
                         },
                         {
@@ -30683,7 +30683,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[2]戦闘中だ！"
+                                "\\c[2]We're in the middle of a battle!"
                             ]
                         },
                         {
@@ -30761,7 +30761,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[2]戦闘中だ！"
+                                "\\c[2]We're in the middle of a battle!"
                             ]
                         },
                         {
@@ -30839,7 +30839,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[2]戦闘中だ！"
+                                "\\c[2]We're in the middle of a battle!"
                             ]
                         },
                         {
@@ -31222,14 +31222,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "どっか行ってくれなんて悪かった！"
+                                "I'm sorry for telling you to go away! Please fight\nwith me!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "一緒に戦ってくれ！"
+                                ""
                             ]
                         },
                         {
@@ -31307,14 +31307,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "戦ってやってもいいけど～"
+                                "I don't mind fighting, but... I'll need double the\nusual reward, okay?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "いつもの倍はもらうよ？"
+                                ""
                             ]
                         },
                         {
@@ -31474,7 +31474,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[2]戦闘中だ！"
+                                "\\c[2]We're in the middle of a battle!"
                             ]
                         },
                         {
@@ -31552,7 +31552,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[2]戦闘中だ！"
+                                "\\c[2]We're in the middle of a battle!"
                             ]
                         },
                         {
@@ -31630,7 +31630,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[2]戦闘中だ！"
+                                "\\c[2]We're in the middle of a battle!"
                             ]
                         },
                         {
@@ -32135,7 +32135,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[2]戦闘中だ！"
+                                "\\c[2]We're in the middle of a battle!"
                             ]
                         },
                         {
@@ -32341,7 +32341,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[2]戦闘中だ！"
+                                "\\c[2]We're in the middle of a battle!"
                             ]
                         },
                         {
@@ -32875,14 +32875,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[6]コノハ\\c[0]"
+                                "\\c[6]Konoha\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ルイーザ、ダルクもいるのね！"
+                                "Louisa and Dark are here too!"
                             ]
                         },
                         {
@@ -32917,21 +32917,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[1]ルイーザ\\c[0]"
+                                "\\c[1]Louisa\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "コノハ、全部あんたの言ったとおりやった"
+                                "Konoha, Aldo, who did everything you told him to,\nbetrayed us and sided with the demons."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "アルドが裏切ってデーモン側についてしまってたんや"
+                                ""
                             ]
                         },
                         {
@@ -32948,21 +32948,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[1]ダルク\\c[0]"
+                                "\\c[1]Dark\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "まったく、今どき遠征クエストに呼ばれるなんて"
+                                "I thought it was strange to be called for an\nexpedition quest these days. I never expected it\nto turn out like this."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "おかしいと思ってたよ、まさかこんなことになるとはね"
+                                ""
                             ]
                         },
                         {
@@ -32997,14 +32997,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[6]コノハ\\c[0]"
+                                "\\c[6]Konoha\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "あれが滅王メア…！"
+                                "That's the Demon King Mea...!"
                             ]
                         },
                         {
@@ -33021,21 +33021,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[10]滅王メア\\c[0]"
+                                "Mea, the Demon King: Ahahahaha! Such overflowing\npower! This is the power of the sacred treasure...\nI shall annihilate these insects!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "アハハハハハ！湧き出る力だ！"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "これが、秘宝の力か……虫けら共を一掃してやろう…"
+                                ""
                             ]
                         },
                         {
@@ -33052,21 +33052,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[1]アルド\\c[0]"
+                                "\\c[1]Aldo\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "メア様、こいつらは私にお任せください…"
+                                "Mea-sama, leave these guys to me... Dark, let's\nsettle this, shall we?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "ダルク、決着をつけようじゃないか"
+                                ""
                             ]
                         },
                         {
@@ -33083,21 +33083,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[1]ダルク\\c[0]"
+                                "\\c[1]Dark\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "本気で俺に勝てると思ってるのか？"
+                                "Do you really think you can beat me? You were\nprobably deceived by being told that your sister\nwould be revived, you fool."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "妹が生き返るとか言われて騙されたんだろう、この阿呆が"
+                                ""
                             ]
                         },
                         {
@@ -33114,28 +33114,28 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[1]アルド\\c[0]"
+                                "\\c[1]Aldo\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "黙れ！メア様は妹を助けてくれるんだ！"
+                                "Shut up! Mea-sama will save my sister! You\ncouldn't do anything... I won't forgive you..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "おまえは何もできなかったくせに…っ！"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "許さない…"
+                                ""
                             ]
                         },
                         {
@@ -33177,28 +33177,28 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[10]滅王メア\\c[0]"
+                                "Mea, the Demon King: I shall claim that magical\ngirl... It seems she also possesses the sacred\ntreasure. Even though it has been released, I must\nretrieve it."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "では、我はその魔法少女をいただこう……"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "どうやら秘宝も持っているようだ"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "解放済みとはいえ、回収しておかねばならん"
+                                ""
                             ]
                         },
                         {
@@ -33233,21 +33233,21 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[1]ルイーザ\\c[0]"
+                                "\\c[1]Louisa\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "コノハ、秘宝も取り戻してくれたんやね、ありがとな"
+                                "Konoha, you managed to retrieve the treasure,\nthank you. I'll support Dark, can we do it?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "うちは、ダルクをサポートするが、いけるか？"
+                                ""
                             ]
                         },
                         {
@@ -33304,24 +33304,24 @@
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "\\c[6]コノハ\\c[0]"
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "大丈夫、こっちは気にしないでアルドを助けるのよ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "メアは私に任せて"
+                                "Leave it to me, Mea."
                             ]
                         },
                         {
@@ -33348,28 +33348,28 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[10]滅王メア\\c[0]"
+                                "\\c[10]Mea, the Demon King\\c[0], I shall claim that\nmagical girl... The sacred treasure has already\nbeen collected by me... My power has become\nabsolute..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "では、我はその魔法少女をいただこう……"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "秘宝もこちらに回収ずみ…"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "我が力は絶対のものとなった…"
+                                ""
                             ]
                         },
                         {
@@ -33404,21 +33404,21 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[1]ルイーザ\\c[0]"
+                                "\\c[1]Louisa\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "コノハ、もしかして秘宝奪取失敗したんか？"
+                                "Konoha, did you fail to retrieve the sacred\ntreasure? But it seems like you're safe, so that's\ngood."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "でも無事やったみたいでよかったで"
+                                ""
                             ]
                         },
                         {
@@ -33478,21 +33478,21 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[6]コノハ\\c[0]"
+                                "\\c[6]Konoha\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ごめん、でもメアを倒せば秘宝は取り戻せるわ"
+                                "I'm sorry, but if we defeat Mea, we can retrieve\nthe sacred treasure. Leave it to me here."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "ここは私に任せて"
+                                ""
                             ]
                         },
                         {
@@ -33625,21 +33625,21 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[10]滅王メア\\c[0]"
+                                "\\c[10]Mea, the Demon King\\c[0]: Gyaahhh!\nImpossible... This power of mine...!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "ぎゃああああああ！"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "まさか…この我が……！"
+                                ""
                             ]
                         },
                         {
@@ -33656,21 +33656,21 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[6]コノハ\\c[0]"
+                                "\\c[6]Konoha\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "はぁ…はぁ……なんとか…勝ったわね……"
+                                "Haa... haa... Somehow... I won... What about\neveryone else...!?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "みんなは…！？"
+                                ""
                             ]
                         },
                         {
@@ -33687,21 +33687,21 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[1]ダルク\\c[0]"
+                                "\\c[1]Dark\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "アルド、わかってたはずだ……"
+                                "Aldo, you should have known... There's no way your\nsister can be revived."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "妹が生き返るなんてないこと"
+                                ""
                             ]
                         },
                         {
@@ -33718,28 +33718,28 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[1]アルド\\c[0]"
+                                "\\c[1]Aldo\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "そうさ……そんなことわかってた…"
+                                "Yeah... I knew that... but... if there was a\nchance... if I thought that maybe... I could see\nmy sister, Ann..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "でも…もしかしたら…って思ったら…妹のアンに会えるかもって"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "思ったら…"
+                                ""
                             ]
                         },
                         {
@@ -33756,21 +33756,21 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[1]アルド\\c[0]"
+                                "\\c[1]Aldo\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "うぅ…ごめん……全部僕のせいさ…"
+                                "Ugh... I'm sorry... It's all my fault... Louisa-\nsama... Please pass judgment."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "ルイーザ様…裁きをお願いします"
+                                ""
                             ]
                         },
                         {
@@ -33805,21 +33805,21 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[1]ルイーザ\\c[0]"
+                                "\\c[1]Louisa\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ふーんむ……ひとまず牢屋に入ってもらっとこか"
+                                "Hmmm... For now, let's put you in a cell and think\nabout what to do next."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "後のことはゆっくり考えるとして"
+                                ""
                             ]
                         },
                         {
@@ -33854,28 +33854,28 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[1]ルイーザ\\c[0]"
+                                "\\c[1]Louisa\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "今回、コノハのおかげでメアの襲撃から守れたと言える"
+                                "This time, it is very significant that we were\nable to defeat the Demon Lord, who was known as\none of the Four Heavenly Kings of the demons,\nthanks to Konoha's protection from Mea's attack."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "デーモンの四天王と言われた滅王を撃破できたことは"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "非常に大きい"
+                                ""
                             ]
                         },
                         {
@@ -33892,14 +33892,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[1]ルイーザ\\c[0]"
+                                "\\c[1]Louisa\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "村の損害も多少はあるが、少なく済んだし"
+                                "Although there is some damage to the village, it\nwas kept to a minimum."
                             ]
                         },
                         {
@@ -33916,28 +33916,28 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[1]ダルク\\c[0]"
+                                "\\c[1]Dark\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "秘宝も戻ってきて、よかったじゃないか"
+                                "It's good that the sacred treasure has been\nreturned. Well, I'll leave Aldo's future in your\nhands, Konoha. Even though we're best friends,\nit's a grave sin."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "まぁアルドの今後は任せるよ"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "親友とはいえ、大罪だ"
+                                ""
                             ]
                         },
                         {
@@ -34060,21 +34060,21 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[6]コノハ\\c[0]"
+                                "\\c[6]Konoha\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "あぐぅ…！"
+                                "Ugh...! M-my body... can't move..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "か、身体が…動かない……"
+                                ""
                             ]
                         },
                         {
@@ -34091,14 +34091,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[10]滅王メア\\c[0]"
+                                "Mea, the Demon King: Too bad... I won..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "残念だったな…我の勝ちだ…"
+                                ""
                             ]
                         },
                         {
@@ -34115,21 +34115,21 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[1]アルド\\c[0]"
+                                "\\c[1]Aldo\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ダルク、僕らの勝ちだ……"
+                                "Dark, we won... Thank you for everything... You\nwere truly my best friend."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "今までありがとう…君は本当に親友だったよ"
+                                ""
                             ]
                         },
                         {
@@ -34146,14 +34146,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[1]ダルク\\c[0]"
+                                "\\c[1]Dark\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "……ぐっ……ここまでか…"
+                                "......Ugh... Is this the end..."
                             ]
                         },
                         {
@@ -34188,14 +34188,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[1]ルイーザ\\c[0]"
+                                "\\c[1]Louisa\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "…すまん…うちの力不足や……"
+                                "...I'm sorry... for my lack of power..."
                             ]
                         },
                         {
@@ -34404,14 +34404,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[6]コノハ\\c[0]"
+                                "\\c[6]Konoha\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ルイーザ、ダルクもいるのね！"
+                                "Louisa, Dark is here too!"
                             ]
                         },
                         {
@@ -34446,28 +34446,28 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[1]ルイーザ\\c[0]"
+                                "\\c[1]Louisa\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "コノハ、戻ったか！あんたの言ったとおり、うちはここに"
+                                "Konoha, you're back! Just as you said, it was the\nright decision for me to stay here. I don't know\nwhat happened, but the demons suddenly attacked!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "残って正解やったわ。なんやわからんけど急にデーモンが"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "襲撃しにきおった！"
+                                ""
                             ]
                         },
                         {
@@ -34484,21 +34484,21 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[1]ダルク\\c[0]"
+                                "\\c[1]Dark\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "俺がデーモンに捕まったってどういうことだよ？"
+                                "What do you mean I got captured by demons? What\nkind of lie is Aldo spreading?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "アルドはなんだってそんな嘘を"
+                                ""
                             ]
                         },
                         {
@@ -34533,14 +34533,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[6]コノハ\\c[0]"
+                                "\\c[6]Konoha\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "アルド、ちゃんと説明するのよ"
+                                "Aldo, please explain properly."
                             ]
                         },
                         {
@@ -34557,21 +34557,21 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[1]アルド\\c[0]"
+                                "\\c[1]Aldo\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ごめんダルク…ルイーザ様……"
+                                "I'm sorry, Dark... Lady Louisa... I'm already...\nunder Lady Mea's..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "僕はもう…メア様に…"
+                                ""
                             ]
                         },
                         {
@@ -34588,21 +34588,21 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[1]ダルク\\c[0]"
+                                "\\c[1]Dark\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "あぁ？！なんだって？"
+                                "Huh? What did you say? I can't hear you!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "聞こえねぇ！"
+                                ""
                             ]
                         },
                         {
@@ -34637,14 +34637,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[1]ルイーザ\\c[0]"
+                                "\\c[1]Louisa\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "待つんやダルク、そいつ様子がおかしいで！"
+                                "Wait, Dark! Something seems off about that person!"
                             ]
                         },
                         {
@@ -34661,21 +34661,21 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[10]滅王メア\\c[0]"
+                                "\\c[10]Mea, the Demon Lord\\c[0] Hahaha...! So\nyou've returned, Aldo... Just in time for your\ndownfall..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "クハハハ…！戻ったかアルド……"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "ヘマをしおってからに…"
+                                ""
                             ]
                         },
                         {
@@ -34692,28 +34692,28 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[1]アルド\\c[0]"
+                                "\\c[1]Aldo\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "すいません…メア様…！"
+                                "I'm sorry... Lady Mea...! The treasure should have\nbeen taken back by the demons... We just need to\ndefeat Louisa and listen to the spell... Then"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "秘宝はデーモンが持ち帰ったはず…あとはルイーザを"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "倒して呪文を聞きましょう…さすれば"
+                                ""
                             ]
                         },
                         {
@@ -34758,14 +34758,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[1]アルド\\c[0]"
+                                "\\c[1]Aldo\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ぐはぁ…！"
+                                "Guh...!"
                             ]
                         },
                         {
@@ -34821,21 +34821,21 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[10]滅王メア\\c[0]"
+                                "Mea, the Demon Lord: Hmph, useless fool... You're\nalready of no use to me."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "ふん、使えんやつめ……"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "おまえなどもう用済みよ"
+                                ""
                             ]
                         },
                         {
@@ -34861,21 +34861,21 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[1]ダルク\\c[0]"
+                                "\\c[1]Dark\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "アルドーっ！"
+                                "Aldo! Mea, you bastard!!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "メア、貴様ぁ！！"
+                                ""
                             ]
                         },
                         {
@@ -34910,21 +34910,21 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[1]ルイーザ\\c[0]"
+                                "\\c[1]Louisa\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "デーモンとの契約が発動しておるんや"
+                                "The contract with the demons has been activated,\nthere's no saving me anymore..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "もう助からん……"
+                                ""
                             ]
                         },
                         {
@@ -34976,14 +34976,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[6]コノハ\\c[0]"
+                                "\\c[6]Konoha\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "そんな…許せない…"
+                                "That... I can't forgive..."
                             ]
                         },
                         {
@@ -35000,21 +35000,21 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[1]ルイーザ\\c[0]"
+                                "\\c[1]Louisa\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "コノハ、滅王メア頼めるか……？"
+                                "Konoha, can we rely on Demon Lord Mea...? It's\nimpossible for Dark, a man, to defeat a boss-level\ndemon."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "ボス級デーモンは男のダルクが仕留めるのは無理や"
+                                ""
                             ]
                         },
                         {
@@ -35031,21 +35031,21 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[1]ダルク\\c[0]"
+                                "\\c[1]Dark\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "くそっくそっ！"
+                                "Damn it, damn it! I'm counting on you, Konoha!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "コノハ頼むぞっ！"
+                                ""
                             ]
                         },
                         {
@@ -35105,21 +35105,21 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[6]コノハ\\c[0]"
+                                "\\c[6]Konoha\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "もちろんよ、滅王メア"
+                                "Of course, I will defeat you, Demon Lord Mea."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "あなたを倒す"
+                                ""
                             ]
                         },
                         {
@@ -35242,21 +35242,21 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\c[10]滅王メア\\c[0]"
+                                "\\c[10]Mea, the Demon Lord\\c[0] Gyaaaaaaah! No\nway... this is... me...!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 3,
                             "parameters": [
-                                "ぎゃああああああ！"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 3,
                             "parameters": [
-                                "まさか…この我が……！"
+                                ""
                             ]
                         },
                         {
@@ -35273,21 +35273,21 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\c[6]コノハ\\c[0]"
+                                "\\c[6]Konoha\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "はぁ…はぁ……なんとか…勝ったわね……"
+                                "Haa... haa... Somehow... I won... What about\neveryone...!?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 3,
                             "parameters": [
-                                "みんなは…！？"
+                                ""
                             ]
                         },
                         {
@@ -35322,21 +35322,21 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\c[1]ルイーザ\\c[0]"
+                                "\\c[1]Louisa\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "コノハやりおったな…さすがや……"
+                                "Konoha, you did it... As expected... We're safe\nhere."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 3,
                             "parameters": [
-                                "こっちは無事や"
+                                ""
                             ]
                         },
                         {
@@ -35353,21 +35353,21 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\c[1]ダルク\\c[0]"
+                                "\\c[1]Dark\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "アルド…くそ…すまん……"
+                                "Aldo... damn it... I'm sorry... If only I had\nrealized it sooner..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 3,
                             "parameters": [
-                                "もっと早くに気づいてやれれば"
+                                ""
                             ]
                         },
                         {
@@ -35384,14 +35384,14 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\c[1]ルイーザ\\c[0]"
+                                "\\c[1]Louisa\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "くっ…やりきれんの…"
+                                "Ugh... I can't stand it..."
                             ]
                         },
                         {
@@ -35426,21 +35426,21 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\c[6]コノハ\\c[0]"
+                                "\\c[6]Konoha\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "アルドは死んだ妹さんを生き返らせたい一心で、そこを"
+                                "Aldo, with the single-minded desire to bring back\nhis dead sister, ended up being possessed by a\ndemon there."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 3,
                             "parameters": [
-                                "デーモンに付かれてしまったのね"
+                                ""
                             ]
                         },
                         {
@@ -35457,14 +35457,14 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\c[1]ダルク\\c[0]"
+                                "\\c[1]Dark\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "………"
+                                "........."
                             ]
                         },
                         {
@@ -35499,21 +35499,21 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\c[1]ルイーザ\\c[0]"
+                                "\\c[1]Louisa\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "どうする、ダルク"
+                                "What should we do, Dark? Even though he's your\nbest friend, he's also a traitor."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 3,
                             "parameters": [
-                                "おまえの親友とはいえ、裏切り者でもある"
+                                ""
                             ]
                         },
                         {
@@ -35530,21 +35530,21 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\c[1]ダルク\\c[0]"
+                                "\\c[1]Dark\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "死んだアルドの代わりに俺が罪を被ろう"
+                                "Let me take the blame instead of the deceased\nAldo. He didn't do anything wrong, actually..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 3,
                             "parameters": [
-                                "あいつは本当は何も悪くない…"
+                                ""
                             ]
                         },
                         {
@@ -35579,14 +35579,14 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\c[1]ルイーザ\\c[0]"
+                                "\\c[1]Louisa\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "それでいいんか？死んだことで、贖罪としてもいいんやで"
+                                "Is that really okay? Even as atonement for his\ndeath, it's fine."
                             ]
                         },
                         {
@@ -35603,21 +35603,21 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\c[1]ダルク\\c[0]"
+                                "\\c[1]Dark\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "いや、これは俺の贖罪だ"
+                                "No, this is my atonement. I entrust the judgment\nto you, Louisa."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 3,
                             "parameters": [
-                                "ルイーザに裁きを頼む"
+                                ""
                             ]
                         },
                         {
@@ -35747,21 +35747,21 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\c[6]コノハ\\c[0]"
+                                "\\c[6]Konoha\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "あぐぅ…！"
+                                "Ugh...! M-my body... won't move..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 3,
                             "parameters": [
-                                "か、身体が…動かない……"
+                                ""
                             ]
                         },
                         {
@@ -35778,14 +35778,14 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\c[10]滅王メア\\c[0]"
+                                "Metsuou Mea, it's a shame... I have won..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 3,
                             "parameters": [
-                                "残念だったな…我の勝ちだ…"
+                                ""
                             ]
                         },
                         {
@@ -35802,14 +35802,14 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\c[1]ダルク\\c[0]"
+                                "\\c[1]Dark\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "……ぐっ……ここまでか…"
+                                "......Ugh...... Is this... the end..."
                             ]
                         },
                         {
@@ -35844,14 +35844,14 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\c[1]ルイーザ\\c[0]"
+                                "\\c[1]Louisa\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "…すまん…うちの力不足や……"
+                                "...I'm sorry...for my lack of power..."
                             ]
                         },
                         {
@@ -36060,14 +36060,14 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\c[6]コノハ\\c[0]"
+                                "\\c[6]Konoha\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "ルイーザ、ダルクもいるのね！"
+                                "Louisa, Dark is here too!"
                             ]
                         },
                         {
@@ -36102,21 +36102,21 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\c[1]ルイーザ\\c[0]"
+                                "\\c[1]Louisa\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "まさかアルドが黒幕やったなんてな……"
+                                "I can't believe Aldo was the mastermind... Konoha,\nare you okay?!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 3,
                             "parameters": [
-                                "コノハ、大丈夫やったか？！"
+                                ""
                             ]
                         },
                         {
@@ -36151,21 +36151,21 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\c[6]コノハ\\c[0]"
+                                "\\c[6]Konoha\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "ごめん、さっきやられて逃しちゃったわ…"
+                                "Sorry, I got beaten earlier and let them escape...\nThey were really strong..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 3,
                             "parameters": [
-                                "かなり強いわ…"
+                                ""
                             ]
                         },
                         {
@@ -36199,28 +36199,28 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\c[1]ダルク\\c[0]"
+                                "\\c[1]Dark\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "あいつはもうアルドじゃねぇ…"
+                                "That person is no longer Aldo... They have\nobtained the power of a demon... They're a Bandit!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 3,
                             "parameters": [
-                                "デーモンの力を手に入れてしまってる…"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 3,
                             "parameters": [
-                                "バンディットだ！"
+                                ""
                             ]
                         },
                         {
@@ -36237,21 +36237,21 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\c[10]滅王メア\\c[0]"
+                                "\\c[10]Metsuou Mea\\c[0] Kukuku... No matter how\nmany weaklings gather, it's all the same... Now,\nLouisa... Teach me the incantation to release the\nhidden treasure..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 3,
                             "parameters": [
-                                "ククク……弱き者どもが集まっても同じこと……"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 3,
                             "parameters": [
-                                "さぁ、ルイーザよ……秘宝の解放呪文を教えなさい…"
+                                ""
                             ]
                         },
                         {
@@ -36286,21 +36286,21 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\c[1]ルイーザ\\c[0]"
+                                "\\c[1]Louisa\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "誰が言うかい！ダルク、コノハ、厳しい戦いやけど"
+                                "Who's saying that?! Dark, Konoha, it's a tough\nbattle but we'll definitely win! Hell yeah!!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 3,
                             "parameters": [
-                                "絶対勝つで！ええな！！"
+                                ""
                             ]
                         },
                         {
@@ -36317,21 +36317,21 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\c[1]アルド\\c[0]"
+                                "\\c[1]Aldo\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "メア様のおかげで力が漲るよ…！"
+                                "Thanks to Mea-sama, my power is overflowing...!\nAhahaha! I feel invincible, like I can't lose to\nanyone..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 3,
                             "parameters": [
-                                "アハハハ！誰にも負ける気がしない……"
+                                ""
                             ]
                         },
                         {
@@ -36348,21 +36348,21 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\c[1]ダルク\\c[0]"
+                                "\\c[1]Dark\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "くそぉ…こんなことになってしまうなんて……"
+                                "Damn it... To end up like this... But... There's\nno other choice... Aldo, I'll put you out of your\nmisery right now...!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 3,
                             "parameters": [
-                                "でも…仕方ない……アルド、お前を今すぐ楽にしてやる…！"
+                                ""
                             ]
                         },
                         {
@@ -36422,21 +36422,21 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\c[6]コノハ\\c[0]"
+                                "\\c[6]Konoha\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "滅王メア、あなたの相手は私よ"
+                                "Metsuou Mea, come at me if you dare!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 3,
                             "parameters": [
-                                "かかってきなさい！"
+                                ""
                             ]
                         },
                         {
@@ -36453,21 +36453,21 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\c[10]滅王メア\\c[0]"
+                                "\\c[10]Metsuou Mea\\c[0] How clever! You shall learn\nthe difference in power...!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 3,
                             "parameters": [
-                                "小賢しい！"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 3,
                             "parameters": [
-                                "力の差を思い知るがいい…！"
+                                ""
                             ]
                         },
                         {
@@ -36590,21 +36590,21 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\c[10]滅王メア\\c[0]"
+                                "\\c[10]Metsuou Mea\\c[0] Gyaaaaaaah! No way... this\nis... my...!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 4,
                             "parameters": [
-                                "ぎゃああああああ！"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 4,
                             "parameters": [
-                                "まさか…この我が……！"
+                                ""
                             ]
                         },
                         {
@@ -36621,21 +36621,21 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\c[6]コノハ\\c[0]"
+                                "\\c[6]Konoha\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "はぁ…はぁ……なんとか…勝ったわね……"
+                                "Haa... haa... Somehow... we won... Is everyone...\nokay?!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 4,
                             "parameters": [
-                                "みんなは…！？"
+                                ""
                             ]
                         },
                         {
@@ -36670,21 +36670,21 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\c[1]ルイーザ\\c[0]"
+                                "\\c[1]Louisa\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "コノハやりおったな…さすがや……"
+                                "Konoha, you did it... As expected... We're all\nsafe."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 4,
                             "parameters": [
-                                "こっちは無事や"
+                                ""
                             ]
                         },
                         {
@@ -36701,21 +36701,21 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\c[1]ダルク\\c[0]"
+                                "\\c[1]Dark\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "アルド…くそ…すまん……"
+                                "Aldo... damn it... I'm sorry... If only I had\nrealized sooner..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 4,
                             "parameters": [
-                                "もっと早くに気づいてやれれば"
+                                ""
                             ]
                         },
                         {
@@ -36750,14 +36750,14 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\c[1]ルイーザ\\c[0]"
+                                "\\c[1]Louisa\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "くっ…やりきれんの…"
+                                "Ugh... I can't stand this..."
                             ]
                         },
                         {
@@ -36792,21 +36792,21 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\c[6]コノハ\\c[0]"
+                                "\\c[6]Konoha\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "アルドは死んだ妹さんを生き返らせたい一心で、そこを"
+                                "Aldo, with the single-minded desire to bring back\nhis deceased sister, ended up being possessed by a\ndemon there."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 4,
                             "parameters": [
-                                "デーモンに付かれてしまったのね"
+                                ""
                             ]
                         },
                         {
@@ -36823,14 +36823,14 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\c[1]ダルク\\c[0]"
+                                "\\c[1]Dark\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "………"
+                                "........."
                             ]
                         },
                         {
@@ -36865,21 +36865,21 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\c[1]ルイーザ\\c[0]"
+                                "\\c[1]Louisa\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "どうする、ダルク"
+                                "What are you going to do, Dark? Even though he's\nyour best friend, he's also a traitor."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 4,
                             "parameters": [
-                                "おまえの親友とはいえ、裏切り者でもある"
+                                ""
                             ]
                         },
                         {
@@ -36896,21 +36896,21 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\c[1]ダルク\\c[0]"
+                                "\\c[1]Dark\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "死んだアルドの代わりに俺が罪を被ろう"
+                                "Let me take the blame instead of the deceased\nAldo. He didn't do anything wrong, actually..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 4,
                             "parameters": [
-                                "あいつは本当は何も悪くない…"
+                                ""
                             ]
                         },
                         {
@@ -36945,14 +36945,14 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\c[1]ルイーザ\\c[0]"
+                                "\\c[1]Louisa\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "それでいいんか？死んだことで、贖罪としてもいいんやで"
+                                "Is that really okay? Even if he's dead, it could\nserve as atonement."
                             ]
                         },
                         {
@@ -36969,21 +36969,21 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\c[1]ダルク\\c[0]"
+                                "\\c[1]Dark\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "いや、これは俺の贖罪だ"
+                                "No, this is my atonement. I entrust the judgment\nto you, Louisa."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 4,
                             "parameters": [
-                                "ルイーザに裁きを頼む"
+                                ""
                             ]
                         },
                         {
@@ -37113,21 +37113,21 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\c[6]コノハ\\c[0]"
+                                "\\c[6]Konoha\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "あぐぅ…！"
+                                "Ugh...! M-my body... won't move..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 4,
                             "parameters": [
-                                "か、身体が…動かない……"
+                                ""
                             ]
                         },
                         {
@@ -37144,14 +37144,14 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\c[10]滅王メア\\c[0]"
+                                "Metsuou Mea, it's a shame... I have won..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 4,
                             "parameters": [
-                                "残念だったな…我の勝ちだ…"
+                                ""
                             ]
                         },
                         {
@@ -37168,14 +37168,14 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\c[1]ダルク\\c[0]"
+                                "\\c[1]Dark\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "……ぐっ……ここまでか…"
+                                "......Ugh... Is this... the end..."
                             ]
                         },
                         {
@@ -37210,14 +37210,14 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\c[1]ルイーザ\\c[0]"
+                                "\\c[1]Louisa\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "…すまん…うちの力不足や……"
+                                "...I'm sorry...for my lack of power..."
                             ]
                         },
                         {

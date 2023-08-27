@@ -16,7 +16,7 @@
         "volume": 80
     },
     "disableDashing": false,
-    "displayName": "魔導部屋",
+    "displayName": "Magic Room",
     "encounterList": [],
     "encounterStep": 30,
     "height": 30,
@@ -5667,21 +5667,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[6]コノハ\\c[0]"
+                                "\\c[6]Konoha\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ん？！"
+                                "Huh?! You're here...!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "いた…！"
+                                ""
                             ]
                         },
                         {
@@ -5707,14 +5707,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[1]マレウス\\c[0]"
+                                "\\c[1]Mareus\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あぁ？！コノハ殿…と国王も…ということは……"
+                                "Huh?! Lady Konoha... and the king too... does that\nmean..."
                             ]
                         },
                         {
@@ -6104,14 +6104,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[1]マレウス\\c[0]"
+                                "\\c[1]Mareus\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あぎゃー！"
+                                "Ahh!"
                             ]
                         },
                         {
@@ -6333,21 +6333,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[1]側近\\c[0]"
+                                "\\c[1]Aide\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ひえぇ！どうしたんですかコノハ殿！"
+                                "Eek! What's wrong, Lord Konoha! What on earth\nhappened?!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "一体なぜ？！"
+                                ""
                             ]
                         },
                         {
@@ -6364,21 +6364,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[6]コノハ\\c[0]"
+                                "\\c[6]Konoha\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ぜんぶこいつのせいよ"
+                                "It's all because of this! Mareus is the one who\ncreated the grimoire called Grimoire."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "グリモアという魔導書を作ったのはマレウスなのよ"
+                                ""
                             ]
                         },
                         {
@@ -6395,14 +6395,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[1]側近\\c[0]"
+                                "\\c[1]Aide\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "なんですって～！？"
+                                "What did you say?!"
                             ]
                         },
                         {
@@ -6419,21 +6419,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[1]マレウス\\c[0]"
+                                "\\c[1]Mareus\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あわわわ……そんな……"
+                                "Ahh... no way... I can't believe you came back...\nlike that..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "まさか帰ってくるなんて…そんな"
+                                ""
                             ]
                         },
                         {
@@ -6450,14 +6450,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[6]コノハ\\c[0]"
+                                "\\c[6]Konoha\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あんたのせいで、いろんな世界の少女が大変な目にあったのよ"
+                                "Because of you, girls from various worlds have\ngone through a lot of trouble."
                             ]
                         },
                         {
@@ -6474,21 +6474,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[6]コノハ\\c[0]"
+                                "\\c[6]Konoha\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "魔道士としては有能かもしれないけど、許されない犯罪よ"
+                                "You may be skilled as a magician, but committing\nsuch crimes is unforgivable. It would be best for\nyou to receive punishment directly from the king."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "国王から直々に罰を受けるといいわ"
+                                ""
                             ]
                         },
                         {
@@ -6550,21 +6550,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[1]国王レオン\\c[0]"
+                                "\\c[1]King Leon\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "どういう概念でそんなことできるのかわからないけど"
+                                "I don't understand the concept behind how you can\ndo such a thing, but it means that you scattered\nthis Grimoire book across multiple dimensions,\nright?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "このグリモアの書を多次元にばらまいたってことだよな"
+                                ""
                             ]
                         },
                         {
@@ -6581,21 +6581,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[1]国王レオン\\c[0]"
+                                "\\c[1]King Leon\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "読んじゃった僕も悪いかもだけどさ"
+                                "Maybe it's my fault for reading it, but when I\nentered the world, I ended up being reincarnated\nas the worst person in that world."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "入った世界で一番悪いやつに転生しちゃったんだよ"
+                                ""
                             ]
                         },
                         {
@@ -6612,14 +6612,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[1]マレウス\\c[0]"
+                                "\\c[1]Mareus\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ううぅ……"
+                                "Ugh..."
                             ]
                         },
                         {
@@ -6636,21 +6636,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[1]国王レオン\\c[0]"
+                                "\\c[1]King Leon\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ひとまず、牢屋な"
+                                "For now, I won't treat you poorly in the prison,\nso behave yourself a little."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "待遇は悪くしないから少し大人しくしててもらおう"
+                                ""
                             ]
                         },
                         {
@@ -6667,21 +6667,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[1]国王レオン\\c[0]"
+                                "\\c[1]King Leon\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "それとシルキーバックス学園に連絡してこのグリモアを"
+                                "Also, contact Silky Bucks Academy and have them\ninvestigate this Grimoire and seal it properly."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "調べてもらってちゃんと封印するように"
+                                ""
                             ]
                         },
                         {
@@ -6698,14 +6698,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[1]側近\\c[0]"
+                                "\\c[1]Aide\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "はっ！"
+                                "Hah!"
                             ]
                         },
                         {
@@ -6753,14 +6753,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[6]コノハ\\c[0]"
+                                "\\c[6]Konoha\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "これでなんとか…一件落着かしらね……"
+                                "With this... I wonder if we can finally put this\nincident to rest..."
                             ]
                         },
                         {
@@ -6808,21 +6808,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[1]国王レオン\\c[0]"
+                                "\\c[1]King Leon\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "うーんそうだね～"
+                                "Hmm, I guess Konoha's breasts are the best at this\nsize, huh?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "コノハのおっぱいもやっぱこれくらいが一番かなぁ？"
+                                ""
                             ]
                         },
                         {
@@ -6860,21 +6860,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[1]国王レオン\\c[0]"
+                                "\\c[1]King Leon\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "膨らみかけが一番ってやつだね～"
+                                "The ones that are just starting to swell are the\nbest, huh~ Ehehehe"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "エヘヘへ"
+                                ""
                             ]
                         },
                         {
@@ -6891,21 +6891,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[6]コノハ\\c[0]"
+                                "\\c[6]Konoha\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ばかー！どさくさに紛れて何やってんのよ！"
+                                "You idiot! What are you doing, trying to hide in\nthe chaos! Seriously, geez!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "まったくもう！"
+                                ""
                             ]
                         },
                         {
@@ -7038,14 +7038,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[1]国王レオン\\c[0]"
+                                "\\c[1]King Leon\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "いてて……そんな本気で…ぶつことないでしょ"
+                                "Ouch... You don't have to hit me that hard..."
                             ]
                         },
                         {
@@ -7403,14 +7403,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[1]宮廷魔道士マレウス\\C[0]"
+                                "\\C[1]Court Mage Maleus\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……。"
+                                "......."
                             ]
                         },
                         {

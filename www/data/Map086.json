@@ -16,7 +16,7 @@
         "volume": 80
     },
     "disableDashing": false,
-    "displayName": "いじわるな迷いの森",
+    "displayName": "Forest of Wicked Confusion",
     "encounterList": [
         {
             "regionSet": [],
@@ -3872,7 +3872,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[3]淫魔に認められし者のみが真の道に辿り着ける\\C[0]"
+                                "\\C[3]Only those recognized by the succubus can reach the true path\\C[0]"
                             ]
                         },
                         {
@@ -3969,7 +3969,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[2]Θシータストーンが鈍く光っているようだ……"
+                                "\\C[2]It seems like the Theta Stone is emitting a\ndull light..."
                             ]
                         },
                         {
@@ -4063,7 +4063,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\C[1]隠し階段\\C[0]を見つけた！"
+                                "\\C[1]Hidden Staircase\\C[0]Found the Hidden Staircase!"
                             ]
                         },
                         {
@@ -4129,21 +4129,21 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "うーん…誰かが\\C[1]調査スキルLV1\\C[0]を習得してれば"
+                                "Hmm... If someone has learned the\n\\C[1]Investigation Skill Level 1\\C[0], they might\nbe able to figure something out..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 4,
                             "parameters": [
-                                "何かがわかりそうね…"
+                                ""
                             ]
                         },
                         {
@@ -4170,14 +4170,14 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\C[1]調査スキルLV1\\C[0]誰か持ってないのかしら？"
+                                "I wonder if someone has \\C[1]Investigation Skill\nLevel 1\\C[0]..."
                             ]
                         },
                         {

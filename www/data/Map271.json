@@ -7324,8 +7324,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "ピッキングで解錠する",
-                                    "やめる"
+                                    "Unlocking with lock picking",
+                                    "Stop"
                                 ],
                                 1,
                                 0,
@@ -7420,21 +7420,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[2]ピッキングツール\\C[0]と\\C[2]ヘアピン\\C[0]を持っていれば"
+                                "If you have a \\C[2]lock-picking tool\\C[0] and a\n\\C[2]hairpin\\C[0], you might be able to challenge\nunlocking the door..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "鍵開けに挑戦できるかもしれないわね…"
+                                ""
                             ]
                         },
                         {
@@ -7897,14 +7897,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あなたがノアね！しっかりして…！"
+                                "You're Noah, right? Pull yourself together...!"
                             ]
                         },
                         {
@@ -7921,21 +7921,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[1]ノア\\C[0]"
+                                "\\C[1]Noah\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……ん…あ……ダメ……"
+                                "......Mmm...Ah...No...Don't come...Don't..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "来ちゃ……ダメ…"
+                                ""
                             ]
                         },
                         {
@@ -7970,28 +7970,28 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "意識が混濁してるっ？！"
+                                "Are you feeling disoriented?! It's dangerous...\nbut why...? This child's body won't move."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "危険ね……でもなぜ…？"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "この子の身体が動かないっ"
+                                ""
                             ]
                         },
                         {
@@ -8034,7 +8034,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "勝手なことをスルナ……"
+                                "Don't ignore me..."
                             ]
                         },
                         {
@@ -8140,21 +8140,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あなたがレミィ？！"
+                                "Are you Remi?! I wonder if you're the master of\nthis pond."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "この池の主さんかしら"
+                                ""
                             ]
                         },
                         {
@@ -8240,21 +8240,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[1]レミィ\\C[0]"
+                                "\\C[1]Remi\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "この贄は自らのイシで……ここにキタのだ……"
+                                "This sacrifice is of my own will... It has come\nhere... Do not interfere..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "邪魔をするでナイ……"
+                                ""
                             ]
                         },
                         {
@@ -8289,21 +8289,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "どういうこと……？！"
+                                "What's going on...?! I came here to help at the\nrequest of Noah's friend, Edda!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ノアの親友のエッダに頼まれて助けにきたのよ！"
+                                ""
                             ]
                         },
                         {
@@ -8320,21 +8320,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[1]ノア\\C[0]"
+                                "\\C[1]Noah\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……あなたには関係ない…こと……"
+                                "......It's none of your business... hurry... go\nback... because it's what I wanted..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "早く…帰って……私が望んだことだから……"
+                                ""
                             ]
                         },
                         {
@@ -8400,21 +8400,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そんな…？！"
+                                "What...?! But being a sacrifice means... dying\nhere, right?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "でも贄って……ここで死ぬってことよ？"
+                                ""
                             ]
                         },
                         {
@@ -8431,21 +8431,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[1]ノア\\C[0]"
+                                "\\C[1]Noah\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レミィ様に……捧げるのよ……"
+                                "I will offer myself to Remi-sama... and... all of\nme will be saved... This is salvation."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "そして……私の全てが救われるの……これは救済なのよ"
+                                ""
                             ]
                         },
                         {
@@ -8462,14 +8462,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[1]レミィ\\C[0]"
+                                "\\C[1]Remi\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そういうことダ………部外者は早々に立ち去れィ"
+                                "That's right... Outsiders should leave promptly."
                             ]
                         },
                         {
@@ -8535,14 +8535,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "くっ……！"
+                                "Kuh...!"
                             ]
                         },
                         {
@@ -8550,8 +8550,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "ノアを助ける",
-                                    "ノアを助けない"
+                                    "Help Noah",
+                                    "Don't help Noah"
                                 ],
                                 -1,
                                 -1,
@@ -8611,21 +8611,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "悪いけど、このまま帰るわけにはいかないわねっ"
+                                "I'm sorry, but I can't just go back like this. I\ncan't ignore Edda's request."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "エッダの依頼を反故するわけにはいかないわ"
+                                ""
                             ]
                         },
                         {
@@ -8642,14 +8642,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[1]レミィ\\C[0]"
+                                "\\C[1]Remi\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "我に刃向かうモノは……ユルサレヌ……"
+                                "Those who oppose me... shall not be forgiven..."
                             ]
                         },
                         {
@@ -8666,14 +8666,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[1]レミィ\\C[0]"
+                                "\\C[1]Remi\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "後悔するガイイッッッッッ！"
+                                "You'll regret it, damn it!"
                             ]
                         },
                         {
@@ -9011,14 +9011,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "なんとか、倒したけど……"
+                                "I managed to defeat them, but..."
                             ]
                         },
                         {
@@ -9098,21 +9098,21 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ノア、意識はもう大丈夫ね"
+                                "Noah, are you really conscious and did you really\ncome here on your own?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "自分からここに来たって本当なの？"
+                                ""
                             ]
                         },
                         {
@@ -9129,21 +9129,21 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\C[1]ノア\\C[0]"
+                                "\\C[1]Noah\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "レミィ様が……死んだ……"
+                                "Remi-sama... is dead... how could this..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "なんてこと……"
+                                ""
                             ]
                         },
                         {
@@ -9178,21 +9178,21 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "上でエッダが待ってるわ"
+                                "Edda is waiting upstairs. For now, let's just go\nback."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "今はとにかく戻りましょう"
+                                ""
                             ]
                         },
                         {
@@ -9246,21 +9246,21 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\C[1]ノア\\C[0]"
+                                "\\C[1]Noah\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "うふふ……戻る……？"
+                                "Hehehe... Go back...? What are you talking\nabout... I will become the next Remi."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "何を言ってるのよ……私は次のレミィになるわ"
+                                ""
                             ]
                         },
                         {
@@ -9277,14 +9277,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\C[1]ノア\\C[0]"
+                                "\\C[1]Noah\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "そして……エッダを……うふふふふふ……"
+                                "And... Edda... ufufufufu..."
                             ]
                         },
                         {
@@ -9319,14 +9319,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "何言ってるの？！"
+                                "What are you saying?!"
                             ]
                         },
                         {
@@ -9449,14 +9449,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "……！？"
+                                "......！？"
                             ]
                         },
                         {
@@ -9473,14 +9473,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "消えた……"
+                                "She's gone..."
                             ]
                         },
                         {
@@ -9546,21 +9546,21 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "結局助けられなかったわね……"
+                                "In the end, I couldn't save her... I have no\nchoice but to report to Edda, who is waiting at\nthe entrance."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "入り口で待ってるエッダに報告するしかないわ"
+                                ""
                             ]
                         },
                         {
@@ -9656,14 +9656,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "あぐっ…！つ、強い……"
+                                "Ahh...! S-Strong..."
                             ]
                         },
                         {
@@ -9680,14 +9680,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\C[1]レミィ\\C[0]"
+                                "\\C[1]Remi\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "口ほどにもナイ………"
+                                "Not as much as you talk..."
                             ]
                         },
                         {
@@ -9704,21 +9704,21 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\C[1]ノア\\C[0]"
+                                "\\C[1]Noah\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "あぁ……これで……レミィ様と一つに……"
+                                "Ahh... With this... I will become one with Remi-\nsama... and all of our wishes... will come true..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "全ての願いが……叶います……"
+                                ""
                             ]
                         },
                         {
@@ -9824,21 +9824,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "理由はわからないけど……本人の意思なら……"
+                                "I don't understand the reason... but if it's their\nown will... I have no choice but to respect it..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "尊重せざるを得ないわ……"
+                                ""
                             ]
                         },
                         {
@@ -9855,21 +9855,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[1]ノア\\C[0]"
+                                "\\C[1]Noah\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ありがとう……絶対に成し遂げねばならない……"
+                                "Thank you... I absolutely must accomplish it... My\nfinal wish... It will come true with this..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "私の最後の願い……これで叶うわ……"
+                                ""
                             ]
                         },
                         {
@@ -9886,21 +9886,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[1]ノア\\C[0]"
+                                "\\C[1]Noah\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "エッダには……私は大丈夫だと伝えてくれればいいから…"
+                                "If you could just tell Edda that I'll be fine...\nThank you, unknown magical girl..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "見ず知らずの魔法少女さん…ありがとう…"
+                                ""
                             ]
                         },
                         {
@@ -10037,14 +10037,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ノアもレミィも消えた……"
+                                "Noah and Remi have disappeared..."
                             ]
                         },
                         {
@@ -10061,21 +10061,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "何か事情があるのかもしれない……"
+                                "There might be some circumstances... I need to\nreport to Edda, who is waiting at the entrance for\nnow..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "とりあえず入り口で待ってるエッダに報告しないと…"
+                                ""
                             ]
                         },
                         {

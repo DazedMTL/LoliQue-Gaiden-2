@@ -18,7 +18,7 @@
                 var S = v[h], R = (S.rect.x, S.rect.y, S.rect.width), N = S.rect.height, D = S.img, O = (new Uint32Array(D.buffer), 4 * R), L = 4; if (T <= 256 && 0 == s) {
                     O = Math.ceil(l * R / 8); for (var C = new Uint8Array(O * N), F = m[h], M = 0; M < N; M++) {
                         var _ = M * O, P = M * R
-                        ; if (8 == l) for (var H = 0; H < R; H++)C[_ + H] = F[P + H]; else if (4 == l) for (var H = 0; H < R; H++)C[_ + (H >> 1)] |= F[P + H] << 4 - 4 * (1 & H); else if (2 == l) for (var H = 0; H < R; H++)C[_ + (H >> 2)] |= F[P + H] << 6 - 2 * (3 & H); else if (1 == l) for (var H = 0; H < R; H++)C[_ + (H >> 3)] |= F[P + H] << 7 - 1 * (7 & H)
+                            ; if (8 == l) for (var H = 0; H < R; H++)C[_ + H] = F[P + H]; else if (4 == l) for (var H = 0; H < R; H++)C[_ + (H >> 1)] |= F[P + H] << 4 - 4 * (1 & H); else if (2 == l) for (var H = 0; H < R; H++)C[_ + (H >> 2)] |= F[P + H] << 6 - 2 * (3 & H); else if (1 == l) for (var H = 0; H < R; H++)C[_ + (H >> 3)] |= F[P + H] << 7 - 1 * (7 & H)
                     } D = C, o = 3, L = 1
                 } else if (0 == c && 1 == v.length) { for (var C = new Uint8Array(R * N * 3), j = R * N, _ = 0; _ < j; _++) { var E = 3 * _, q = 4 * _; C[E] = D[q], C[E + 1] = D[q + 1], C[E + 2] = D[q + 2] } D = C, o = 2, L = 3, O = 3 * R } S.img = D, S.bpl = O, S.bpp = L
             } return { ctype: o, depth: l, plte: b, frames: v }

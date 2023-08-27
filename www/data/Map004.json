@@ -2439,7 +2439,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【転生の塔】に移動しますか？"
+                                "Would you like to move to the Tower of\nReincarnation?"
                             ]
                         },
                         {
@@ -2447,8 +2447,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -2716,28 +2716,28 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "まだ「ポータル」の登録をしていないようです。"
+                                "It seems that you haven't registered the portal\nyet. Let's touch the portal installation locations\nin various places in the field and register it.\n*First, please go outside of the Reingarnet and\nregister."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "フィールドの各所にある「ポータル」設置場所に触れて登録を"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "しましょう"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "\\C[2]※まずはリインガーネットの外に出て登録してください"
+                                ""
                             ]
                         },
                         {
@@ -2981,7 +2981,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【リインガーネットの街】に移動しますか？"
+                                "Would you like to move to the city of Rein Garnet?"
                             ]
                         },
                         {
@@ -2989,8 +2989,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -3199,7 +3199,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【黄金の街】に移動しますか？"
+                                "Would you like to move to the Golden City?"
                             ]
                         },
                         {
@@ -3207,8 +3207,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -3417,7 +3417,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【淫魔の村】に移動しますか？"
+                                "Would you like to move to the Village of Lustful\nDemons?"
                             ]
                         },
                         {
@@ -3425,8 +3425,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -3635,7 +3635,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【神樹の里】に移動しますか？"
+                                "Do you want to move to the Village of the Divine\nTree?"
                             ]
                         },
                         {
@@ -3643,8 +3643,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -3853,7 +3853,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【ブラッドムーン城】に移動しますか？"
+                                "Do you want to move to the [Blood Moon Castle]?"
                             ]
                         },
                         {
@@ -3861,8 +3861,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -4071,7 +4071,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【アスタロト迷宮】に移動しますか？"
+                                "Do you want to move to the Astalot Labyrinth?"
                             ]
                         },
                         {
@@ -4079,8 +4079,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -4289,7 +4289,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【ローディス洞窟：出】に移動しますか？"
+                                "Do you want to move to [Rudis Cave: Exit]?"
                             ]
                         },
                         {
@@ -4297,8 +4297,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -4567,7 +4567,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【リーディスの祠】に移動しますか？"
+                                "Do you want to move to the Shrine of Leedis?"
                             ]
                         },
                         {
@@ -4575,8 +4575,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -4785,7 +4785,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【バルンツ遺跡：北】に移動しますか？"
+                                "Do you want to move to the 【Baluntz Ruins: North】?"
                             ]
                         },
                         {
@@ -4793,8 +4793,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -5003,7 +5003,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【バルンツ遺跡：南】に移動しますか？"
+                                "Would you like to move to the Baluntz Ruins:\nSouth?"
                             ]
                         },
                         {
@@ -5011,8 +5011,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -5221,7 +5221,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【ヤーグルフィス砦】に移動しますか？"
+                                "Would you like to move to Yagurufisu Fortress?"
                             ]
                         },
                         {
@@ -5229,8 +5229,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -5439,7 +5439,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【グラックの洞窟：入】に移動しますか？"
+                                "Would you like to move to Grack's Cave: Entrance?"
                             ]
                         },
                         {
@@ -5447,8 +5447,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -5657,7 +5657,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【グラックの洞窟：出】に移動しますか？"
+                                "Do you want to move to the Grack Cave: Exit?"
                             ]
                         },
                         {
@@ -5665,8 +5665,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -5875,7 +5875,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【ラソール村跡】に移動しますか？"
+                                "Do you want to move to the ruins of Lasol Village?"
                             ]
                         },
                         {
@@ -5883,8 +5883,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -6093,7 +6093,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【トロンコ洞穴】に移動しますか？"
+                                "Do you want to move to the Trunko Cave?"
                             ]
                         },
                         {
@@ -6101,8 +6101,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -6311,7 +6311,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【アロングの家】に移動しますか？"
+                                "Do you want to move to Along's House?"
                             ]
                         },
                         {
@@ -6319,8 +6319,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -6529,7 +6529,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【ドングーのアジト】に移動しますか？"
+                                "Would you like to move to the Dongu's Hideout?"
                             ]
                         },
                         {
@@ -6537,8 +6537,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -6747,7 +6747,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【紅き血族の遺跡：南】に移動しますか？"
+                                "Would you like to move to the Crimson Bloodline\nRuins: South?"
                             ]
                         },
                         {
@@ -6755,8 +6755,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -6965,7 +6965,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【グリティア墓】に移動しますか？"
+                                "Do you want to move to the Gritia Tomb?"
                             ]
                         },
                         {
@@ -6973,8 +6973,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -7183,7 +7183,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【ローディス洞窟：入】に移動しますか？"
+                                "Would you like to move to the Rhodis Cave:\nEntrance?"
                             ]
                         },
                         {
@@ -7191,8 +7191,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -7401,7 +7401,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【タリラリのオアシス】に移動しますか？"
+                                "Would you like to move to Talirari Oasis?"
                             ]
                         },
                         {
@@ -7409,8 +7409,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -7619,7 +7619,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【マリディス遺跡】に移動しますか？"
+                                "Would you like to move to the Maridis Ruins?"
                             ]
                         },
                         {
@@ -7627,8 +7627,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -7837,7 +7837,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【ダートルのアジト】に移動しますか？"
+                                "Would you like to move to Dartle's hideout?"
                             ]
                         },
                         {
@@ -7845,8 +7845,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -8055,7 +8055,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【アルヴァーン亭】に移動しますか？"
+                                "Do you want to move to the Alvaan Inn?"
                             ]
                         },
                         {
@@ -8063,8 +8063,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -8273,7 +8273,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【ダルクの隠れ道】に移動しますか？"
+                                "Would you like to move to Dark's Hidden Path?"
                             ]
                         },
                         {
@@ -8281,8 +8281,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -8491,7 +8491,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【ダルクの家】に移動しますか？"
+                                "Do you want to move to Dark's House?"
                             ]
                         },
                         {
@@ -8499,8 +8499,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -8709,7 +8709,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【サリアン遺跡：出】に移動しますか？"
+                                "Do you want to move to the Sarian Ruins: Exit?"
                             ]
                         },
                         {
@@ -8717,8 +8717,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -8927,7 +8927,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【サリアン遺跡：入】に移動しますか？"
+                                "Would you like to move to the Salian Ruins:\nEntrance?"
                             ]
                         },
                         {
@@ -8935,8 +8935,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -9145,7 +9145,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【ハルディア宮殿】に移動しますか？"
+                                "Would you like to move to the 【Harudia Palace】?"
                             ]
                         },
                         {
@@ -9153,8 +9153,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -9363,7 +9363,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【妖精村の跡】に移動しますか？"
+                                "Do you want to move to the Ruins of the Fairy\nVillage?"
                             ]
                         },
                         {
@@ -9371,8 +9371,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -9581,7 +9581,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【紅き血族の遺跡：北】に移動しますか？"
+                                "Would you like to move to the Crimson Bloodline\nRuins: North?"
                             ]
                         },
                         {
@@ -9589,8 +9589,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -9799,7 +9799,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【フライヤの家】に移動しますか？"
+                                "Do you want to move to Frya's house?"
                             ]
                         },
                         {
@@ -9807,8 +9807,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -10017,7 +10017,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【監視塔】に移動しますか？"
+                                "Do you want to move to the Observation Tower?"
                             ]
                         },
                         {
@@ -10025,8 +10025,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -10235,7 +10235,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【万魔の門】に移動しますか？"
+                                "Would you like to move to the Gate of Ten Thousand\nDemons?"
                             ]
                         },
                         {
@@ -10243,8 +10243,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,

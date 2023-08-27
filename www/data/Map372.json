@@ -5932,8 +5932,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "ピッキングで解錠する",
-                                    "やめる"
+                                    "Unlocking with lock picking",
+                                    "Stop"
                                 ],
                                 1,
                                 0,
@@ -6028,21 +6028,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[2]ピッキングツール\\C[0]と\\C[2]ヘアピン\\C[0]を持っていれば"
+                                "If you have a \\C[2]lock-picking tool\\C[0] and a\n\\C[2]hairpin\\C[0], you might be able to challenge\nunlocking the door..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "鍵開けに挑戦できるかもしれないわね…"
+                                ""
                             ]
                         },
                         {
@@ -6763,7 +6763,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[2]こちらからでは何もできない"
+                                "I can't do anything from here."
                             ]
                         },
                         {
@@ -7199,7 +7199,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[3]勾留期間は不明です"
+                                "The duration of \\c[3]'s detention is unknown."
                             ]
                         },
                         {
@@ -7225,14 +7225,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[6]コノハ\\c[0]"
+                                "\\c[6]Konoha\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ふーん……"
+                                "Hmmm..."
                             ]
                         },
                         {
@@ -7259,14 +7259,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[6]コノハ\\c[0]"
+                                "\\c[6]Konoha\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "なによもう…"
+                                "What is it now..."
                             ]
                         },
                         {
@@ -7321,7 +7321,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "しっかりと孕んでもらおうか……"
+                                "Shall I impregnate you thoroughly..."
                             ]
                         },
                         {
@@ -7355,7 +7355,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "デビルウィッチ、我らの子を増やせ……"
+                                "Devil Witch, let us increase our offspring..."
                             ]
                         },
                         {
@@ -7390,14 +7390,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[6]コノハ\\c[0]"
+                                "\\c[6]Konoha\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "しょうがないわねぇ"
+                                "Oh well, can't be helped."
                             ]
                         },
                         {
@@ -8103,9 +8103,9 @@
                             "indent": 3,
                             "parameters": [
                                 [
-                                    "寝る",
-                                    "\\c[22]♥エッチな本を読んでみる",
-                                    "何もしない"
+                                    "Sleep",
+                                    "\\c[22]♥ I'll try reading a naughty book",
+                                    "Doing nothing"
                                 ],
                                 1,
                                 0,
@@ -8927,8 +8927,8 @@
                             "indent": 3,
                             "parameters": [
                                 [
-                                    "寝る",
-                                    "何もしない"
+                                    "Sleep",
+                                    "Doing nothing"
                                 ],
                                 1,
                                 0,

@@ -16,7 +16,7 @@
         "volume": 100
     },
     "disableDashing": false,
-    "displayName": "パエリス湖「ドングーのアジト、紅き血族の遺跡」",
+    "displayName": "Lake Paelis \"Dungoo's Hideout, Ruins of the Crimson Bloodline",
     "encounterList": [
         {
             "regionSet": [],
@@ -18515,7 +18515,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[2]【ドングーのアジト】\\c[0]をポータルに記録しました"
+                                "\\c[2][Dungo's Hideout]\\c[0]Recorded in the portal."
                             ]
                         },
                         {
@@ -18787,7 +18787,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[2]【紅き血族の遺跡：南】\\c[0]をポータルに記録しました"
+                                "\\c[2][Crimson Bloodline Ruins: South]\\c[0]South]: South]: South] has been recorded in the\nportal."
                             ]
                         },
                         {
@@ -19111,21 +19111,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[1]エッダ\\C[0]"
+                                "\\C[1]Edda\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ここです。レミィはとても恐ろしい魔獣と昔から"
+                                "Here it is. I've heard a lot about Remi being a\nvery scary monster, so please be careful..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "よく聞いていますので、気をつけてください……"
+                                ""
                             ]
                         },
                         {
@@ -19264,14 +19264,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[1]エッダ\\C[0]"
+                                "\\C[1]Edda\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "あのっ！？ノアは……！"
+                                "Ah! Noah...!"
                             ]
                         },
                         {
@@ -19306,21 +19306,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "エッダ、言いにくいんだけど彼女は……"
+                                "Edda, it's difficult for me to say, but she...\ncame here on her own and went to Remi's place."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "自分からここに来て、レミィの元へ行ったそうよ"
+                                ""
                             ]
                         },
                         {
@@ -19337,14 +19337,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[1]エッダ\\C[0]"
+                                "\\C[1]Edda\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "えっ"
+                                "Huh?"
                             ]
                         },
                         {
@@ -19361,21 +19361,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "理由まではわからなかったけど、騙されてるとか"
+                                "I didn't know the reason, but it didn't feel like\nshe was being deceived or anything like that. It\nwas a firm determination."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "そういう感じではなかった。あれは確固たる意思だったわ"
+                                ""
                             ]
                         },
                         {
@@ -19392,14 +19392,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[1]エッダ\\C[0]"
+                                "\\C[1]Edda\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "そんな……"
+                                "No way..."
                             ]
                         },
                         {
@@ -19434,14 +19434,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ごめんね、結果的には助けられなかったわ"
+                                "I'm sorry, but in the end, I couldn't help her."
                             ]
                         },
                         {
@@ -19458,21 +19458,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[1]エッダ\\C[0]"
+                                "\\C[1]Edda\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "いえ……これは私の責任でもあるから……"
+                                "No... This is also my responsibility... Ah, let's\nconsider the quest complete."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "あ、クエストは完了とさせてください"
+                                ""
                             ]
                         },
                         {
@@ -19507,14 +19507,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "え、っでも"
+                                "E-Even though..."
                             ]
                         },
                         {
@@ -19531,21 +19531,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[1]エッダ\\C[0]"
+                                "\\C[1]Edda\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ここを潜れなかったら、何もわからなかったんです"
+                                "If I hadn't infiltrated here, I wouldn't have\nknown anything. Thank you so much for doing\nvarious things in my place."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "私の代わりにいろいろとありがとうございました"
+                                ""
                             ]
                         },
                         {
@@ -19663,21 +19663,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "うーん……いろいろと腑に落ちなかったけど……"
+                                "Hmm... I couldn't quite understand everything,\nbut... I guess there's no helping it this time."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "今回は仕方ないわね"
+                                ""
                             ]
                         },
                         {
@@ -19711,14 +19711,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[1]エッダ\\C[0]"
+                                "\\C[1]Edda\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "あのっ！？ノアは……！"
+                                "Ah! Noah...!"
                             ]
                         },
                         {
@@ -19753,21 +19753,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "レミィは倒したんだけど……"
+                                "I defeated Remi... but Noah... disappeared just\nlike that."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "ノアはそのまま……消えたわ"
+                                ""
                             ]
                         },
                         {
@@ -19784,14 +19784,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[1]エッダ\\C[0]"
+                                "\\C[1]Edda\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "消えた？！"
+                                "Disappeared?!"
                             ]
                         },
                         {
@@ -19808,21 +19808,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "理由まではわからなかったけど"
+                                "I didn't know the reason, but she came here on her\nown and went to Remi's place."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "自分からここに来て、レミィの元へ行ったそうよ"
+                                ""
                             ]
                         },
                         {
@@ -19857,21 +19857,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "無理矢理でも助けようと思ったんだけど……"
+                                "I tried to help her by force if necessary... but\nit didn't work."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "ダメだったわ"
+                                ""
                             ]
                         },
                         {
@@ -19888,21 +19888,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[1]エッダ\\C[0]"
+                                "\\C[1]Edda\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ああ……やはり……すでにレミィに魅了されて"
+                                "Ah... Perhaps... I was already captivated by\nRemi..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "いたのかもしれません……"
+                                ""
                             ]
                         },
                         {
@@ -19919,21 +19919,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[1]エッダ\\C[0]"
+                                "\\C[1]Edda\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "でも……これは私の責任でもあるから……"
+                                "But... this is also my responsibility... Ah, let's\nconsider the quest complete."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "あ、クエストは完了とさせてください"
+                                ""
                             ]
                         },
                         {
@@ -19968,14 +19968,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "え、っでも"
+                                "E-Even though..."
                             ]
                         },
                         {
@@ -19992,21 +19992,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[1]エッダ\\C[0]"
+                                "\\C[1]Edda\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ここを潜れなかったら、何もわからなかったんです"
+                                "If I hadn't infiltrated here, I wouldn't have\nknown anything. Thank you so much for doing\nvarious things in my place."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "私の代わりにいろいろとありがとうございました"
+                                ""
                             ]
                         },
                         {
@@ -20124,21 +20124,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "うーん……いろいろと腑に落ちなかったけど……"
+                                "Hmm... I couldn't quite understand everything,\nbut... I guess there's no helping it this time."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "今回は仕方ないわね"
+                                ""
                             ]
                         },
                         {
@@ -20815,14 +20815,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[2]このネストストーンを魔力で制御できるようになった"
+                                "\\C[2]The enemies in the vicinity became docile\nafter being able to control this Nest Stone with\nmagic\\C[1]!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "\\C[1]付近の敵がおとなしくなった！"
+                                ""
                             ]
                         },
                         {
@@ -20994,14 +20994,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[2]ネストストーンの制御を解除しますか？"
+                                "Do you want to release the control of the Nest\nStone? If you release it, nearby enemies will\nattack."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "\\C[3]解除すると、付近の敵が襲ってきます"
+                                ""
                             ]
                         },
                         {
@@ -21009,8 +21009,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "解除する",
-                                    "解除しない"
+                                    "Release",
+                                    "Don't release it"
                                 ],
                                 -1,
                                 -1,
@@ -21057,7 +21057,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[2]ネストストーンの制御を解除した！"
+                                "Released the control of the Nest Stone!"
                             ]
                         },
                         {
@@ -21222,14 +21222,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[2]このネストストーンを魔力で制御した！"
+                                "\\C[2]I controlled this Nest Stone with magic!\n\\C[1]The nearby enemies became docile!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "\\C[1]付近の敵がおとなしくなった！"
+                                ""
                             ]
                         },
                         {
@@ -23225,7 +23225,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ナメたマネしてくれたなぁこらぁ！"
+                                "Oh, you imitated me so well, naughty one!"
                             ]
                         },
                         {
@@ -23292,7 +23292,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "へっへっへ…しっかり落とし前はつけてもらうぜ"
+                                "Hehehe... I'll make sure you pay for it properly."
                             ]
                         },
                         {
@@ -23359,7 +23359,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "楽しませてもらおうか…！"
+                                "Let me entertain you...!"
                             ]
                         },
                         {
@@ -23426,7 +23426,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "おらっ…！尻上げろや"
+                                "Ora...! Lift that ass up!"
                             ]
                         },
                         {
@@ -23493,7 +23493,7 @@
                             "code": 401,
                             "indent": 6,
                             "parameters": [
-                                "もう逃げられねぇぜ…！"
+                                "There's no escaping anymore...!"
                             ]
                         },
                         {
@@ -23549,7 +23549,7 @@
                             "code": 401,
                             "indent": 6,
                             "parameters": [
-                                "いい身体じゃねぇか……へへ"
+                                "You've got a nice body... hehe"
                             ]
                         },
                         {
@@ -23847,7 +23847,7 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "会話"
+                                    "Conversation"
                                 ],
                                 -1,
                                 0,
@@ -23893,7 +23893,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "へへ…さすがいい身体してるぜ～♪"
+                                "Hehe... You sure have a nice body~♪"
                             ]
                         },
                         {
@@ -23927,14 +23927,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "あんた、こっち側だな？"
+                                "Are you on this side? If there's something you\nwant, I'll pass it to you."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "欲しい物あったらまわすぜ"
+                                ""
                             ]
                         },
                         {
@@ -23969,9 +23969,9 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "\\C[22]♥誘惑en(v[261]>=300)",
-                                    "\\C[14]♠窃盗en(v[263]>=20)",
-                                    "\\C[3]☠攻撃en(v[263]>=100)"
+                                    "\\C[22]♥ Temptationen(v[261]>=300)",
+                                    "\\C[14]♠Theften(v[263]>=20)",
+                                    "\\C[3]☠ Attacken(v[263]>=100)"
                                 ],
                                 -2,
                                 -1,
@@ -24106,14 +24106,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ぐえっ"
+                                "What the hell are you doing?!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "なにすんだ！"
+                                ""
                             ]
                         },
                         {
@@ -24178,7 +24178,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ぎえ…"
+                                "G-geez..."
                             ]
                         },
                         {
@@ -24352,7 +24352,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "ナメたマネしてくれたなぁこらぁ！"
+                                "You imitated me, you little rascal!"
                             ]
                         },
                         {
@@ -24419,7 +24419,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "へっへっへ…しっかり落とし前はつけてもらうぜ"
+                                "Hehehe... I'll make sure you pay for it properly."
                             ]
                         },
                         {
@@ -24486,7 +24486,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "楽しませてもらおうか…！"
+                                "Let me entertain you...!"
                             ]
                         },
                         {
@@ -24553,7 +24553,7 @@
                             "code": 401,
                             "indent": 6,
                             "parameters": [
-                                "おらっ…！尻上げろや"
+                                "Ora...! Lift up your ass!"
                             ]
                         },
                         {
@@ -24620,7 +24620,7 @@
                             "code": 401,
                             "indent": 7,
                             "parameters": [
-                                "もう逃げられねぇぜ…！"
+                                "You can't escape anymore...!"
                             ]
                         },
                         {
@@ -24676,7 +24676,7 @@
                             "code": 401,
                             "indent": 7,
                             "parameters": [
-                                "いい身体じゃねぇか……へへ"
+                                "You've got a nice body... hehe."
                             ]
                         },
                         {
@@ -29996,7 +29996,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\C[1]潜水スキル\\C[0]で潜った！"
+                                "\\C[1]Diving Skill\\C[0]Dived!"
                             ]
                         },
                         {
@@ -30044,21 +30044,21 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "うーん…誰かが\\C[1]潜水スキルLV2\\C[0]を習得してれば"
+                                "Hmm... If someone has learned \\C[1]Diving Skill\nLV2\\C[0], it seems like they can dive."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 3,
                             "parameters": [
-                                "潜れそうね"
+                                ""
                             ]
                         },
                         {
@@ -30085,14 +30085,14 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\C[1]潜水スキルLV2\\C[0]誰か持ってないのかしら？"
+                                "I wonder if someone has \\C[1]Diving Skill\nLV2\\C[0]..."
                             ]
                         },
                         {
@@ -30820,7 +30820,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ナメたマネしてくれたなぁこらぁ！"
+                                "Oh, you imitated me so well, naughty one!"
                             ]
                         },
                         {
@@ -30887,7 +30887,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "へっへっへ…しっかり落とし前はつけてもらうぜ"
+                                "Hehehe... I'll make sure you pay for it properly."
                             ]
                         },
                         {
@@ -30954,7 +30954,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "楽しませてもらおうか…！"
+                                "Let me entertain you...!"
                             ]
                         },
                         {
@@ -31021,7 +31021,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "おらっ…！尻上げろや"
+                                "Ora...! Lift that ass up!"
                             ]
                         },
                         {
@@ -31088,7 +31088,7 @@
                             "code": 401,
                             "indent": 6,
                             "parameters": [
-                                "もう逃げられねぇぜ…！"
+                                "There's no escaping anymore...!"
                             ]
                         },
                         {
@@ -31144,7 +31144,7 @@
                             "code": 401,
                             "indent": 6,
                             "parameters": [
-                                "いい身体じゃねぇか……へへ"
+                                "You've got a nice body... hehe"
                             ]
                         },
                         {
@@ -31442,7 +31442,7 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "会話"
+                                    "Conversation"
                                 ],
                                 -1,
                                 0,
@@ -31488,7 +31488,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "へへ…さすがいい身体してるぜ～♪"
+                                "Hehe... You sure have a nice body~♪"
                             ]
                         },
                         {
@@ -31522,14 +31522,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "あんた、こっち側だな？"
+                                "Are you on this side? If there's something you\nwant, I'll pass it to you."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "欲しい物あったらまわすぜ"
+                                ""
                             ]
                         },
                         {
@@ -31564,9 +31564,9 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "\\C[22]♥誘惑en(v[261]>=300)",
-                                    "\\C[14]♠窃盗en(v[263]>=20)",
-                                    "\\C[3]☠攻撃en(v[263]>=100)"
+                                    "\\C[22]♥ Temptationen(v[261]>=300)",
+                                    "\\C[14]♠Theften(v[263]>=20)",
+                                    "\\C[3]☠ Attacken(v[263]>=100)"
                                 ],
                                 -2,
                                 -1,
@@ -31701,14 +31701,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ぐえっ"
+                                "What the hell are you doing?!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "なにすんだ！"
+                                ""
                             ]
                         },
                         {
@@ -31773,7 +31773,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ぎえ…"
+                                "G-geez..."
                             ]
                         },
                         {
@@ -31947,7 +31947,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "ナメたマネしてくれたなぁこらぁ！"
+                                "You imitated me, you little shit!"
                             ]
                         },
                         {
@@ -32014,7 +32014,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "へっへっへ…しっかり落とし前はつけてもらうぜ"
+                                "Hehehe... I'll make sure you pay for this\nproperly."
                             ]
                         },
                         {
@@ -32081,7 +32081,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "楽しませてもらおうか…！"
+                                "Let me entertain you...!"
                             ]
                         },
                         {
@@ -32148,7 +32148,7 @@
                             "code": 401,
                             "indent": 6,
                             "parameters": [
-                                "おらっ…！尻上げろや"
+                                "Ora...! Lift up your ass!"
                             ]
                         },
                         {
@@ -32215,7 +32215,7 @@
                             "code": 401,
                             "indent": 7,
                             "parameters": [
-                                "もう逃げられねぇぜ…！"
+                                "There's no escaping anymore...!"
                             ]
                         },
                         {
@@ -32271,7 +32271,7 @@
                             "code": 401,
                             "indent": 7,
                             "parameters": [
-                                "いい身体じゃねぇか……へへ"
+                                "You've got a nice body... hehe."
                             ]
                         },
                         {
@@ -32946,7 +32946,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ナメたマネしてくれたなぁこらぁ！"
+                                "Oh, you imitated me so well, naughty one!"
                             ]
                         },
                         {
@@ -33013,7 +33013,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "へっへっへ…しっかり落とし前はつけてもらうぜ"
+                                "Hehehe... I'll make sure you pay for it properly."
                             ]
                         },
                         {
@@ -33080,7 +33080,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "楽しませてもらおうか…！"
+                                "Let me entertain you...!"
                             ]
                         },
                         {
@@ -33147,7 +33147,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "おらっ…！尻上げろや"
+                                "Ora...! Lift that ass up!"
                             ]
                         },
                         {
@@ -33214,7 +33214,7 @@
                             "code": 401,
                             "indent": 6,
                             "parameters": [
-                                "もう逃げられねぇぜ…！"
+                                "You can't escape anymore...!"
                             ]
                         },
                         {
@@ -33270,7 +33270,7 @@
                             "code": 401,
                             "indent": 6,
                             "parameters": [
-                                "いい身体じゃねぇか……へへ"
+                                "You've got a nice body... hehe"
                             ]
                         },
                         {
@@ -33568,7 +33568,7 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "会話"
+                                    "Conversation"
                                 ],
                                 -1,
                                 0,
@@ -33614,7 +33614,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "へへ…さすがいい身体してるぜ～♪"
+                                "Hehe... You sure have a nice body~♪"
                             ]
                         },
                         {
@@ -33648,14 +33648,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "あんた、こっち側だな？"
+                                "Are you on this side? If there's something you\nwant, I'll pass it to you."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "欲しい物あったらまわすぜ"
+                                ""
                             ]
                         },
                         {
@@ -33690,9 +33690,9 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "\\C[22]♥誘惑en(v[261]>=300)",
-                                    "\\C[14]♠窃盗en(v[263]>=20)",
-                                    "\\C[3]☠攻撃en(v[263]>=100)"
+                                    "\\C[22]♥ Temptationen(v[261]>=300)",
+                                    "\\C[14]♠Theften(v[263]>=20)",
+                                    "\\C[3]☠ Attacken(v[263]>=100)"
                                 ],
                                 -2,
                                 -1,
@@ -33827,14 +33827,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ぐえっ"
+                                "What the hell are you doing?!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "なにすんだ！"
+                                ""
                             ]
                         },
                         {
@@ -33899,7 +33899,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ぎえ…"
+                                "G-geez..."
                             ]
                         },
                         {
@@ -34073,7 +34073,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "ナメたマネしてくれたなぁこらぁ！"
+                                "You imitated me, you little shit!"
                             ]
                         },
                         {
@@ -34140,7 +34140,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "へっへっへ…しっかり落とし前はつけてもらうぜ"
+                                "Hehehe... I'll make sure you pay for this\nproperly."
                             ]
                         },
                         {
@@ -34207,7 +34207,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "楽しませてもらおうか…！"
+                                "Let me entertain you...!"
                             ]
                         },
                         {
@@ -34274,7 +34274,7 @@
                             "code": 401,
                             "indent": 6,
                             "parameters": [
-                                "おらっ…！尻上げろや"
+                                "Ora...! Lift up your ass!"
                             ]
                         },
                         {
@@ -34341,7 +34341,7 @@
                             "code": 401,
                             "indent": 7,
                             "parameters": [
-                                "もう逃げられねぇぜ…！"
+                                "There's no escaping anymore...!"
                             ]
                         },
                         {
@@ -34397,7 +34397,7 @@
                             "code": 401,
                             "indent": 7,
                             "parameters": [
-                                "いい身体じゃねぇか……へへ"
+                                "You've got a nice body... hehe"
                             ]
                         },
                         {
@@ -35072,7 +35072,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ナメたマネしてくれたなぁこらぁ！"
+                                "Oh, you imitated me so well, naughty one!"
                             ]
                         },
                         {
@@ -35139,7 +35139,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "へっへっへ…しっかり落とし前はつけてもらうぜ"
+                                "Hehehe... I'll make sure you pay for it properly."
                             ]
                         },
                         {
@@ -35206,7 +35206,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "楽しませてもらおうか…！"
+                                "Let me entertain you...!"
                             ]
                         },
                         {
@@ -35273,7 +35273,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "おらっ…！尻上げろや"
+                                "Ora...! Lift that ass up!"
                             ]
                         },
                         {
@@ -35340,7 +35340,7 @@
                             "code": 401,
                             "indent": 6,
                             "parameters": [
-                                "もう逃げられねぇぜ…！"
+                                "There's no escaping anymore...!"
                             ]
                         },
                         {
@@ -35396,7 +35396,7 @@
                             "code": 401,
                             "indent": 6,
                             "parameters": [
-                                "いい身体じゃねぇか……へへ"
+                                "You've got a nice body... hehe"
                             ]
                         },
                         {
@@ -35694,7 +35694,7 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "会話"
+                                    "Conversation"
                                 ],
                                 -1,
                                 0,
@@ -35740,7 +35740,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "へへ…さすがいい身体してるぜ～♪"
+                                "Hehe... You sure have a nice body~♪"
                             ]
                         },
                         {
@@ -35774,14 +35774,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "あんた、こっち側だな？"
+                                "Are you on this side? If there's something you\nwant, I'll pass it to you."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "欲しい物あったらまわすぜ"
+                                ""
                             ]
                         },
                         {
@@ -35816,9 +35816,9 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "\\C[22]♥誘惑en(v[261]>=300)",
-                                    "\\C[14]♠窃盗en(v[263]>=20)",
-                                    "\\C[3]☠攻撃en(v[263]>=100)"
+                                    "\\C[22]♥ Temptationen(v[261]>=300)",
+                                    "\\C[14]♠Theften(v[263]>=20)",
+                                    "\\C[3]☠ Attacken(v[263]>=100)"
                                 ],
                                 -2,
                                 -1,
@@ -35953,14 +35953,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ぐえっ"
+                                "What the hell are you doing?!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "なにすんだ！"
+                                ""
                             ]
                         },
                         {
@@ -36025,7 +36025,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ぎえ…"
+                                "G-geez..."
                             ]
                         },
                         {
@@ -36199,7 +36199,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "ナメたマネしてくれたなぁこらぁ！"
+                                "You imitated me, you little rascal!"
                             ]
                         },
                         {
@@ -36266,7 +36266,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "へっへっへ…しっかり落とし前はつけてもらうぜ"
+                                "Hehehe... I'll make sure you pay for it properly."
                             ]
                         },
                         {
@@ -36333,7 +36333,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "楽しませてもらおうか…！"
+                                "Let me entertain you...!"
                             ]
                         },
                         {
@@ -36400,7 +36400,7 @@
                             "code": 401,
                             "indent": 6,
                             "parameters": [
-                                "おらっ…！尻上げろや"
+                                "Ora...! Lift up your ass!"
                             ]
                         },
                         {
@@ -36467,7 +36467,7 @@
                             "code": 401,
                             "indent": 7,
                             "parameters": [
-                                "もう逃げられねぇぜ…！"
+                                "You can't escape anymore...!"
                             ]
                         },
                         {
@@ -36523,7 +36523,7 @@
                             "code": 401,
                             "indent": 7,
                             "parameters": [
-                                "いい身体じゃねぇか……へへ"
+                                "You've got a nice body... hehe."
                             ]
                         },
                         {
@@ -37198,7 +37198,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ナメたマネしてくれたなぁこらぁ！"
+                                "Oh, you imitated me so well, naughty one!"
                             ]
                         },
                         {
@@ -37265,7 +37265,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "へっへっへ…しっかり落とし前はつけてもらうぜ"
+                                "Hehehe... I'll make sure you pay for it properly."
                             ]
                         },
                         {
@@ -37332,7 +37332,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "楽しませてもらおうか…！"
+                                "Let me entertain you...!"
                             ]
                         },
                         {
@@ -37399,7 +37399,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "おらっ…！尻上げろや"
+                                "Ora...! Lift that ass up!"
                             ]
                         },
                         {
@@ -37466,7 +37466,7 @@
                             "code": 401,
                             "indent": 6,
                             "parameters": [
-                                "もう逃げられねぇぜ…！"
+                                "You can't escape anymore...!"
                             ]
                         },
                         {
@@ -37522,7 +37522,7 @@
                             "code": 401,
                             "indent": 6,
                             "parameters": [
-                                "いい身体じゃねぇか……へへ"
+                                "You've got a nice body... hehe"
                             ]
                         },
                         {
@@ -37820,7 +37820,7 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "会話"
+                                    "Conversation"
                                 ],
                                 -1,
                                 0,
@@ -37866,7 +37866,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "へへ…さすがいい身体してるぜ～♪"
+                                "Hehe... You sure have a nice body~♪"
                             ]
                         },
                         {
@@ -37900,14 +37900,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "あんた、こっち側だな？"
+                                "Are you on this side? If there's something you\nwant, I'll pass it to you."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "欲しい物あったらまわすぜ"
+                                ""
                             ]
                         },
                         {
@@ -37942,9 +37942,9 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "\\C[22]♥誘惑en(v[261]>=300)",
-                                    "\\C[14]♠窃盗en(v[263]>=20)",
-                                    "\\C[3]☠攻撃en(v[263]>=100)"
+                                    "\\C[22]♥ Temptationen(v[261]>=300)",
+                                    "\\C[14]♠Theften(v[263]>=20)",
+                                    "\\C[3]☠ Attacken(v[263]>=100)"
                                 ],
                                 -2,
                                 -1,
@@ -38079,14 +38079,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ぐえっ"
+                                "What the hell are you doing?!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "なにすんだ！"
+                                ""
                             ]
                         },
                         {
@@ -38151,7 +38151,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ぎえ…"
+                                "G-geez..."
                             ]
                         },
                         {
@@ -38325,7 +38325,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "ナメたマネしてくれたなぁこらぁ！"
+                                "You imitated me, you little shit!"
                             ]
                         },
                         {
@@ -38392,7 +38392,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "へっへっへ…しっかり落とし前はつけてもらうぜ"
+                                "Hehehe... I'll make sure you pay for this\nproperly."
                             ]
                         },
                         {
@@ -38459,7 +38459,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "楽しませてもらおうか…！"
+                                "Let me entertain you...!"
                             ]
                         },
                         {
@@ -38526,7 +38526,7 @@
                             "code": 401,
                             "indent": 6,
                             "parameters": [
-                                "おらっ…！尻上げろや"
+                                "Ora...! Lift up your ass!"
                             ]
                         },
                         {
@@ -38593,7 +38593,7 @@
                             "code": 401,
                             "indent": 7,
                             "parameters": [
-                                "もう逃げられねぇぜ…！"
+                                "There's no escaping anymore...!"
                             ]
                         },
                         {
@@ -38649,7 +38649,7 @@
                             "code": 401,
                             "indent": 7,
                             "parameters": [
-                                "いい身体じゃねぇか……へへ"
+                                "You've got a nice body... hehe"
                             ]
                         },
                         {
@@ -39324,7 +39324,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ナメたマネしてくれたなぁこらぁ！"
+                                "Oh, you imitated me so well, naughty one!"
                             ]
                         },
                         {
@@ -39391,7 +39391,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "へっへっへ…しっかり落とし前はつけてもらうぜ"
+                                "Hehehe... I'll make sure you pay for it properly."
                             ]
                         },
                         {
@@ -39458,7 +39458,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "楽しませてもらおうか…！"
+                                "Let me entertain you...!"
                             ]
                         },
                         {
@@ -39525,7 +39525,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "おらっ…！尻上げろや"
+                                "Ora...! Lift that ass up!"
                             ]
                         },
                         {
@@ -39592,7 +39592,7 @@
                             "code": 401,
                             "indent": 6,
                             "parameters": [
-                                "もう逃げられねぇぜ…！"
+                                "You can't escape anymore...!"
                             ]
                         },
                         {
@@ -39648,7 +39648,7 @@
                             "code": 401,
                             "indent": 6,
                             "parameters": [
-                                "いい身体じゃねぇか……へへ"
+                                "You've got a nice body... hehe"
                             ]
                         },
                         {
@@ -39946,7 +39946,7 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "会話"
+                                    "Conversation"
                                 ],
                                 -1,
                                 0,
@@ -39992,7 +39992,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "へへ…さすがいい身体してるぜ～♪"
+                                "Hehe... You sure have a nice body~♪"
                             ]
                         },
                         {
@@ -40026,14 +40026,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "あんた、こっち側だな？"
+                                "Are you on this side? If there's something you\nwant, I'll pass it to you."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "欲しい物あったらまわすぜ"
+                                ""
                             ]
                         },
                         {
@@ -40068,9 +40068,9 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "\\C[22]♥誘惑en(v[261]>=300)",
-                                    "\\C[14]♠窃盗en(v[263]>=20)",
-                                    "\\C[3]☠攻撃en(v[263]>=100)"
+                                    "\\C[22]♥ Temptationen(v[261]>=300)",
+                                    "\\C[14]♠Theften(v[263]>=20)",
+                                    "\\C[3]☠ Attacken(v[263]>=100)"
                                 ],
                                 -2,
                                 -1,
@@ -40205,14 +40205,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ぐえっ"
+                                "What the hell are you doing?!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "なにすんだ！"
+                                ""
                             ]
                         },
                         {
@@ -40277,7 +40277,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ぎえ…"
+                                "G-geez..."
                             ]
                         },
                         {
@@ -40451,7 +40451,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "ナメたマネしてくれたなぁこらぁ！"
+                                "You imitated me, you little rascal!"
                             ]
                         },
                         {
@@ -40518,7 +40518,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "へっへっへ…しっかり落とし前はつけてもらうぜ"
+                                "Hehehe... I'll make sure you pay for it properly."
                             ]
                         },
                         {
@@ -40585,7 +40585,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "楽しませてもらおうか…！"
+                                "Let me entertain you...!"
                             ]
                         },
                         {
@@ -40652,7 +40652,7 @@
                             "code": 401,
                             "indent": 6,
                             "parameters": [
-                                "おらっ…！尻上げろや"
+                                "Ora...! Lift that ass up!"
                             ]
                         },
                         {
@@ -40719,7 +40719,7 @@
                             "code": 401,
                             "indent": 7,
                             "parameters": [
-                                "もう逃げられねぇぜ…！"
+                                "You can't escape anymore...!"
                             ]
                         },
                         {
@@ -40775,7 +40775,7 @@
                             "code": 401,
                             "indent": 7,
                             "parameters": [
-                                "いい身体じゃねぇか……へへ"
+                                "You've got a nice body... hehe"
                             ]
                         },
                         {
@@ -41450,7 +41450,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ナメたマネしてくれたなぁこらぁ！"
+                                "Oh, you imitated me so well, naughty one!"
                             ]
                         },
                         {
@@ -41517,7 +41517,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "へっへっへ…しっかり落とし前はつけてもらうぜ"
+                                "Hehehe... I'll make sure you pay for it properly."
                             ]
                         },
                         {
@@ -41584,7 +41584,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "楽しませてもらおうか…！"
+                                "Let me entertain you...!"
                             ]
                         },
                         {
@@ -41651,7 +41651,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "おらっ…！尻上げろや"
+                                "Ora...! Lift that ass up!"
                             ]
                         },
                         {
@@ -41718,7 +41718,7 @@
                             "code": 401,
                             "indent": 6,
                             "parameters": [
-                                "もう逃げられねぇぜ…！"
+                                "You can't escape anymore...!"
                             ]
                         },
                         {
@@ -41774,7 +41774,7 @@
                             "code": 401,
                             "indent": 6,
                             "parameters": [
-                                "いい身体じゃねぇか……へへ"
+                                "You've got a nice body... hehe"
                             ]
                         },
                         {
@@ -42072,7 +42072,7 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "会話"
+                                    "Conversation"
                                 ],
                                 -1,
                                 0,
@@ -42118,7 +42118,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "へへ…さすがいい身体してるぜ～♪"
+                                "Hehe... You sure have a nice body~♪"
                             ]
                         },
                         {
@@ -42152,14 +42152,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "あんた、こっち側だな？"
+                                "Are you on this side? If there's something you\nwant, I'll pass it to you."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "欲しい物あったらまわすぜ"
+                                ""
                             ]
                         },
                         {
@@ -42194,9 +42194,9 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "\\C[22]♥誘惑en(v[261]>=300)",
-                                    "\\C[14]♠窃盗en(v[263]>=20)",
-                                    "\\C[3]☠攻撃en(v[263]>=100)"
+                                    "\\C[22]♥ Temptationen(v[261]>=300)",
+                                    "\\C[14]♠Theften(v[263]>=20)",
+                                    "\\C[3]☠ Attacken(v[263]>=100)"
                                 ],
                                 -2,
                                 -1,
@@ -42331,14 +42331,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ぐえっ"
+                                "What the hell are you doing?!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "なにすんだ！"
+                                ""
                             ]
                         },
                         {
@@ -42403,7 +42403,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ぎえ…"
+                                "G-geez..."
                             ]
                         },
                         {
@@ -42577,7 +42577,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "ナメたマネしてくれたなぁこらぁ！"
+                                "You imitated me, you little shit!"
                             ]
                         },
                         {
@@ -42644,7 +42644,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "へっへっへ…しっかり落とし前はつけてもらうぜ"
+                                "Hehehe... I'll make sure you pay for this\nproperly."
                             ]
                         },
                         {
@@ -42711,7 +42711,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "楽しませてもらおうか…！"
+                                "Let me entertain you...!"
                             ]
                         },
                         {
@@ -42778,7 +42778,7 @@
                             "code": 401,
                             "indent": 6,
                             "parameters": [
-                                "おらっ…！尻上げろや"
+                                "Ora...! Lift up your ass!"
                             ]
                         },
                         {
@@ -42845,7 +42845,7 @@
                             "code": 401,
                             "indent": 7,
                             "parameters": [
-                                "もう逃げられねぇぜ…！"
+                                "There's no escaping anymore...!"
                             ]
                         },
                         {
@@ -42901,7 +42901,7 @@
                             "code": 401,
                             "indent": 7,
                             "parameters": [
-                                "いい身体じゃねぇか……へへ"
+                                "You've got a nice body... hehe"
                             ]
                         },
                         {

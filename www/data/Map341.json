@@ -16,7 +16,7 @@
         "volume": 80
     },
     "disableDashing": false,
-    "displayName": "２階：娯楽場",
+    "displayName": "2nd Floor: Amusement Hall",
     "encounterList": [],
     "encounterStep": 30,
     "height": 30,
@@ -9353,14 +9353,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[2]見習いテーブル\\C[0]"
+                                "\\C[2]Apprentice Table\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ジャックポーカーを開始しますか？"
+                                "Would you like to start a game of Jack Poker?"
                             ]
                         },
                         {
@@ -9368,8 +9368,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -9515,14 +9515,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[2]上級者テーブル\\C[0]"
+                                "\\C[2]Advanced Player Table\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ジャックポーカーを開始しますか？"
+                                "Would you like to start Jack Poker?"
                             ]
                         },
                         {
@@ -9530,8 +9530,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -10427,21 +10427,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
+                                "Jack Poker is the best, after all! The tactics and\nmind games are exquisite and amazing."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
                                 ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "やっぱジャックポーカーは最高だよなぁ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "駆け引きが絶妙で最高だぜ"
+                                ""
                             ]
                         },
                         {
@@ -10519,28 +10519,28 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
+                                "Wow, winning day after day! I guess this is what\nthey mean by having an easy talent."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
                                 ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "いやぁ連日連勝！"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ちょろいちょろい"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "博才を持ってるってこういうことを言うんだろうね"
+                                ""
                             ]
                         },
                         {
@@ -10618,14 +10618,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[1]BJ受付け\\c[0]"
+                                "\\c[1]BJ Reception\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "いらっしゃいませ、娯楽場へようこそ"
+                                "Welcome to the entertainment venue."
                             ]
                         },
                         {
@@ -10633,9 +10633,9 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "ルール説明",
-                                    "話す",
-                                    "なんでもない"
+                                    "Rule Explanation",
+                                    "Speak",
+                                    "Nothing special"
                                 ],
                                 1,
                                 0,
@@ -10799,21 +10799,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[1]BJ受付け\\c[0]"
+                                "\\c[1]BJ Reception\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ジャックポーカーのテスト版です！"
+                                "This is a test version of Jack Poker! Thank you\nfor playing."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "プレイしてくれてありがとうございます。"
+                                ""
                             ]
                         },
                         {
@@ -10830,14 +10830,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[1]BJ受付け\\c[0]"
+                                "\\c[1]BJ Reception\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "もしよかったら是非感想を作者に聞かせてくださいね！"
+                                "If you don't mind, please let the author know your\nthoughts!"
                             ]
                         },
                         {
@@ -11243,14 +11243,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                ""
+                                "If you take a seat, you can play anytime ♪"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "席についていただければいつでもプレイすることができますよ♪"
+                                ""
                             ]
                         },
                         {
@@ -11328,14 +11328,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                ""
+                                "Please ask about the rules at the reception."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ルールについては受付けで聞いてくださいね"
+                                ""
                             ]
                         },
                         {
@@ -11413,14 +11413,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                ""
+                                "Please ask about the rules at the reception."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ルールについては受付けで聞いてくださいね"
+                                ""
                             ]
                         },
                         {
@@ -11498,21 +11498,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
+                                "Today, I'm playing it safe, so I'm winning a\nlittle. I tend to lose quickly when I get carried\naway, you know."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
                                 ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "今日は堅実にやってるからちょい勝ちってとこだな"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "おらぁは調子に乗るとすぐ負けるからよぉ"
+                                ""
                             ]
                         },
                         {
@@ -11529,14 +11529,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                ""
+                                "I always consider my timing carefully when I'm\nplaying, you know~"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "引き際もきちんと考えてやってるんだぜ～"
+                                ""
                             ]
                         },
                         {
@@ -11614,28 +11614,28 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
+                                "Haah! It's no good, it's no good!!! I can't win at\nall!!! Aaaaaahhhhh! My entire fortune!!!!"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
                                 ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "はーーーっ！ダメだダメだ！！！"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "全然勝てねぇっぞ！！！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ああああああっっっっ！俺の全財産が！！！！"
+                                ""
                             ]
                         },
                         {
@@ -11713,14 +11713,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                ""
+                                "I'll earn money here and get myself some good\nequipment...!!!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ここで稼いで良い装備を整えるのよ…！！！"
+                                ""
                             ]
                         },
                         {
@@ -11807,14 +11807,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                ""
+                                "Oh my?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "あらあら？"
+                                ""
                             ]
                         },
                         {
@@ -11841,21 +11841,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
+                                "The timing of raising is also important... How to\nmake the opponent drop..."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
                                 ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "レイズするタイミングも重要ね…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "いかに相手をドロップさせられるか…"
+                                ""
                             ]
                         },
                         {
@@ -11943,28 +11943,28 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
+                                "If you're not satisfied with the betting amount\nhere... there are even more amazing places... of\ncourse, the risk is also high though."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
                                 ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ここの掛け金に満足できなくなったら…"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "もっと凄いとこもあるんだぜ…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "もちろんリスクも高いけどな"
+                                ""
                             ]
                         },
                         {
@@ -12042,14 +12042,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                ""
+                                "We are monitoring to ensure there is no\nmisconduct."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "不正がないか監視しております"
+                                ""
                             ]
                         },
                         {
@@ -12127,14 +12127,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                ""
+                                "We are monitoring to ensure there is no\nmisconduct."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "不正がないか監視しております"
+                                ""
                             ]
                         },
                         {
@@ -12212,14 +12212,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                ""
+                                "We are monitoring to ensure there is no\nmisconduct."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "不正がないか監視しております"
+                                ""
                             ]
                         },
                         {
@@ -12311,14 +12311,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[2]初心者テーブル\\C[0]"
+                                "\\C[2]Beginner Table\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ジャックポーカーを開始しますか？"
+                                "Would you like to start Jack Poker?"
                             ]
                         },
                         {
@@ -12326,8 +12326,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -12459,21 +12459,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
+                                "It seems like my luck has returned lately. I've\nmanaged to recover quite a bit and earned some\nchips. Maybe it's time to have a cozy time\nunderground..."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
                                 ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "最近ツキが戻ってきたみたいだ、だいぶ取り戻したぜ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "チップは稼いだし、たまには地下でしっぽりと…"
+                                ""
                             ]
                         },
                         {
@@ -12721,28 +12721,28 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[1]怪しい男\\C[0]"
+                                "\\C[1]Suspicious Man\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "なかなか強いなぁあんた？"
+                                "You're quite strong, aren't you? How about it, if\nyou're interested, I can show you a place to earn\neven more..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "どうだい、よければ案内するぜ"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "もっと儲ける場所をよ……"
+                                ""
                             ]
                         },
                         {
@@ -12759,21 +12759,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[1]怪しい男\\C[0]"
+                                "\\C[1]Suspicious Man\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ただし、条件がある……"
+                                "However, there are conditions... Once you go\nthere, you won't be able to come back right\naway... Hehehe."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "そこに行ったらすぐには戻れないからな…へへへ"
+                                ""
                             ]
                         },
                         {
@@ -12790,7 +12790,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[3]※行くとここには戻ってこれません"
+                                "\\C[3]※Once you go there, you won't be able to come\nback here."
                             ]
                         },
                         {
@@ -12798,8 +12798,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "行くわ",
-                                    "やめておくわ"
+                                    "I'm going",
+                                    "I'll stop"
                                 ],
                                 1,
                                 0,
@@ -12847,14 +12847,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\C[1]怪しい男\\C[0]"
+                                "\\C[1]Suspicious Man\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "じゃあついてきな…"
+                                "Well then, come with me..."
                             ]
                         },
                         {
@@ -12914,14 +12914,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\C[1]怪しい男\\C[0]"
+                                "\\C[1]Suspicious Man\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "いつでも言ってくれよ…"
+                                "Tell me anytime..."
                             ]
                         },
                         {
@@ -12958,21 +12958,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[1]怪しい男\\C[0]"
+                                "\\C[1]Suspicious Man\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "まだまだだなぁ……"
+                                "Not yet... Come back when you can win more..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "もっと勝てるようになってから来な…"
+                                ""
                             ]
                         },
                         {

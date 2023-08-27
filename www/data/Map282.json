@@ -16,7 +16,7 @@
         "volume": 80
     },
     "disableDashing": false,
-    "displayName": "裏切りの深淵B1F",
+    "displayName": "Abyss of Betrayal B1F",
     "encounterList": [],
     "encounterStep": 30,
     "height": 30,
@@ -6047,14 +6047,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[3]「裏切りの深淵」と呼ばれる迷宮"
+                                "\\c[3]Prepare yourself if you venture into the\nlabyrinth known as the Abyss of Betrayal."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "進む場合は覚悟せよ"
+                                ""
                             ]
                         },
                         {
@@ -6310,14 +6310,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ロリモンの石像がある。しかしとても大きい力を感じる…"
+                                "There is a statue of a loli monster. However, I\nfeel a very strong power... Would you like to\ntouch it?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "触ってみますか？"
+                                ""
                             ]
                         },
                         {
@@ -6325,8 +6325,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "触る",
-                                    "やめておく"
+                                    "Touch it",
+                                    "I'll pass"
                                 ],
                                 -2,
                                 -1,
@@ -6385,21 +6385,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[1]オロチ\\C[0]"
+                                "\\C[1]Orochi\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "………むむぅ……？"
+                                ".........Hmmm......?...You..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "…おまえさん……は……"
+                                ""
                             ]
                         },
                         {
@@ -6434,14 +6434,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "とてつもない大きな力……！"
+                                "Incredible power...!"
                             ]
                         },
                         {
@@ -6458,21 +6458,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[1]オロチ\\C[0]"
+                                "\\C[1]Orochi\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "われを…目覚めさせるとは……"
+                                "To awaken me... is it a magical girl who has\nappeared... Kikihi..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "魔法少女が現れたのか……キヒヒ…"
+                                ""
                             ]
                         },
                         {
@@ -6507,14 +6507,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "あなたもしかして、伝説のロリモン…！？"
+                                "Are you perhaps the legendary loli monster...!?"
                             ]
                         },
                         {
@@ -6531,21 +6531,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[1]オロチ\\C[0]"
+                                "\\C[1]Orochi\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "伝説か、面白いの。われこそはオロチ"
+                                "A legend, how interesting. I am Orochi. I devour\nall those who displease me, I am Orochi-sama."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "気に入らぬ者は全てを喰らう、オロチ様じゃ"
+                                ""
                             ]
                         },
                         {
@@ -6580,21 +6580,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "凄く強そうね。よければ私と一緒にデーモンと戦わない？"
+                                "You seem really strong. If you're interested,\nwould you like to fight demons with me? We could\nbecome the ultimate fighting force."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "最高の戦力になりそう"
+                                ""
                             ]
                         },
                         {
@@ -6611,21 +6611,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[1]オロチ\\C[0]"
+                                "\\C[1]Orochi\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "なるほど、確かにデーモンがまだまだうろついているようじゃ"
+                                "I see, it seems that demons are still lurking\naround. However, as you can see, I am currently\nsealed."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "しかし、見ての通りわれは封印されておる"
+                                ""
                             ]
                         },
                         {
@@ -6642,21 +6642,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[1]オロチ\\C[0]"
+                                "\\C[1]Orochi\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "われの封印を解いてくれれば、おまえさんの力に"
+                                "If you release my seal, I will lend you my power."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "なってやろうぞ"
+                                ""
                             ]
                         },
                         {
@@ -6691,14 +6691,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "封印はどうすれば解けるの？"
+                                "How can the seal be released?"
                             ]
                         },
                         {
@@ -6715,21 +6715,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[1]オロチ\\C[0]"
+                                "\\C[1]Orochi\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "そうじゃの。この\\C[2]裏切りの深淵\\C[0]と言う忌々しい"
+                                "Yes, indeed. In this accursed dungeon called the\nAbyss of Betrayal\\C[2], there should be a magical\nbeast known as the Gokuhyou Daikyojin\\C[0]."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "ダンジョンに「獄氷大巨人」という魔獣がおるはずじゃ"
+                                ""
                             ]
                         },
                         {
@@ -6746,21 +6746,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[1]オロチ\\C[0]"
+                                "\\C[1]Orochi\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "そいつを倒して「虹氷の塊」を手に入れてきてほしい"
+                                "I want you to defeat it and bring back the Rainbow\nIce Clump. It is the source of my power. With\nthat, there would be no need for such sealing\nrituals."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "われの力の源じゃからの。それがあればこんな封印造作もない"
+                                ""
                             ]
                         },
                         {
@@ -6795,21 +6795,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「虹氷の塊」ね。わかったわ…！"
+                                "The Rainbow Ice Clump, huh? I got it...! I'll go\nto the dungeon, defeat the enemies, and bring it\nback."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "ダンジョンに行って敵を倒して取って来るわ"
+                                ""
                             ]
                         },
                         {
@@ -6826,14 +6826,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[1]オロチ\\C[0]"
+                                "\\C[1]Orochi\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "頼んだぞ魔法少女。ところでおまえさんの名は？"
+                                "I'm counting on you, magical girl. By the way,\nwhat's your name?"
                             ]
                         },
                         {
@@ -6868,21 +6868,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "コノハよ"
+                                "Nice to meet you, Orochi."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "よろしくね、オロチ"
+                                ""
                             ]
                         },
                         {
@@ -7087,7 +7087,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "オロチは反応がない……"
+                                "Orochi doesn't react..."
                             ]
                         },
                         {
@@ -7244,14 +7244,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "虹氷の塊、持ってきたわよ！"
+                                "I brought a chunk of rainbow ice!"
                             ]
                         },
                         {
@@ -7401,21 +7401,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[1]オロチ\\C[0]"
+                                "\\C[1]Orochi\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "おおおっ！"
+                                "Ohhh! The seal has been released!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "封印が解けた！"
+                                ""
                             ]
                         },
                         {
@@ -7450,14 +7450,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "よかったわ。それじゃあ、一緒に来てくれるのよね"
+                                "I'm glad. So, you'll come with me, right?"
                             ]
                         },
                         {
@@ -7492,14 +7492,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[1]オロチ\\C[0]"
+                                "\\C[1]Orochi\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "えーっと？なんじゃったかの？？？"
+                                "Um? What was it again???"
                             ]
                         },
                         {
@@ -7534,21 +7534,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "封印解いてあげたら仲間になってくれるって"
+                                "You promised to become my ally if I released the\nseal, right?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "約束でしょ？"
+                                ""
                             ]
                         },
                         {
@@ -7583,21 +7583,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[1]オロチ\\C[0]"
+                                "\\C[1]Orochi\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "しらーーーーーん！しらんしらんしらんしらんしらん！！！"
+                                "I don't knooooow! I don't know, I don't know, I\ndon't know, I don't know, I don't know!!! Are you\ntrying to give me orders, you?!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "われに命令する気かおまえさん！"
+                                ""
                             ]
                         },
                         {
@@ -7614,21 +7614,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[1]オロチ\\C[0]"
+                                "\\C[1]Orochi\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ちょっと、下手に出てればいい気になりおって"
+                                "Hey, even though you're acting all cute and\nmagical girl-like, don't think you can\nunderestimate me."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "魔法少女風情のくせにわれを侮るか"
+                                ""
                             ]
                         },
                         {
@@ -7663,21 +7663,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[1]オロチ\\C[0]"
+                                "\\C[1]Orochi\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "封印解除に関しては褒めてやってもいいが"
+                                "I may praise you for releasing the seal, but that\nalone doesn't mean I'll become your servant."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "それだけでおまえさんの下僕になどなるわけがないわ"
+                                ""
                             ]
                         },
                         {
@@ -7694,21 +7694,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[1]オロチ\\C[0]"
+                                "\\C[1]Orochi\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "われは外の世界を見にいきたいからの"
+                                "I want to go see the outside world, so goodbye for\nnow. Take care, Konoha! Kikihi!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ここでおさらばじゃ。達者でなコノハ！キヒヒ！"
+                                ""
                             ]
                         },
                         {
@@ -7805,14 +7805,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ま、待ちなさい……よ！！！"
+                                "W-Wait...wait!!!"
                             ]
                         },
                         {
@@ -7847,21 +7847,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "何が伝説のロリモンよ！！！！"
+                                "What do you mean by legendary loli-mon!!!! The\npromise is different, isn't it!!!!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "約束が違うじゃないの！！！！"
+                                ""
                             ]
                         },
                         {
@@ -7896,14 +7896,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[6]コノハ\\C[0]"
+                                "\\C[6]Konoha\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "必ず見つけて、仲間にするわよ～"
+                                "I will definitely find you and make you my ally~"
                             ]
                         },
                         {

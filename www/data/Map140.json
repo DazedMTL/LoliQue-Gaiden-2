@@ -10533,14 +10533,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>\\C[2]→　地下街"
+                                "\\>\\C[2]→Underground Street\\> \\c[2]↓Massage Health"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "\\>\\c[2]↓　マッサージヘルス"
+                                ""
                             ]
                         },
                         {
@@ -10795,14 +10795,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "もしかして地下にでも行くの？"
+                                "Are you going to the underground or something?\nYou're not a slave... right?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "まさか奴隷…じゃないわよね"
+                                ""
                             ]
                         },
                         {
@@ -10829,21 +10829,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "そこの南の通りを入ったところに魔法少女専門のマッサージ屋さん"
+                                "There's a magic girl specialized massage parlor\njust down the southern street over there. It's not\ntoo bad, so it might be a good idea to go there\nwhen you're feeling down."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "があるわよ。なかなか悪くないから、調子出ないときは"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "行くといいかもしれないわね"
+                                ""
                             ]
                         },
                         {
@@ -11005,7 +11005,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "やだもう！寒くないの？？"
+                                "Oh no, it's so cold! Aren't you cold??"
                             ]
                         },
                         {
@@ -11032,14 +11032,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ここは領主様が私達魔法少女のために設けてくれたんですって"
+                                "I heard that this place has a barrier even\nstronger than the one above, which the Lord set up\nfor us magical girls."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "上の結界よりもさらに強めの結界を張っているらしいわ"
+                                ""
                             ]
                         },
                         {
@@ -11319,8 +11319,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "会話",
-                                    "クエスト"
+                                    "Conversation",
+                                    "Quest"
                                 ],
                                 -2,
                                 0,
@@ -11359,21 +11359,21 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[1]ジェム\\c[0]"
+                                "\\c[1]Gem\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "どうしたのかね！？"
+                                "What's wrong!? It's dangerous to dress like that."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "そんな格好では危ないよ"
+                                ""
                             ]
                         },
                         {
@@ -11400,21 +11400,21 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[1]ジェム\\c[0]"
+                                "\\c[1]Gem\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "地下街はあまり良い治安ではないぞ"
+                                "The underground city doesn't have the best\nsecurity, so if you're going there, it's best to\ngo prepared."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "行くなら覚悟持って行くと良い"
+                                ""
                             ]
                         },
                         {
@@ -11454,21 +11454,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[1]ジェム\\c[0]"
+                                "\\c[1]Gem\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "いやー参った。せっかく\\c[2]地下カジノ通行証\\c[0]を手に入れた"
+                                "Oh no, I'm in trouble. I finally got my hands on\nthe underground casino pass, but I was just robbed\na little while ago."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "のに、さっきひったくりに遭ってのぉ"
+                                ""
                             ]
                         },
                         {
@@ -11485,21 +11485,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[1]ジェム\\c[0]"
+                                "\\c[1]Gem\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "せっかく大金はたいて手に入れたというのに、これでは"
+                                "Even though I finally got my hands on a large sum\nof money, I won't be able to play at the\nunderground casino like this."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "裏カジノで遊ぶことができないわい"
+                                ""
                             ]
                         },
                         {
@@ -11507,8 +11507,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "見つけたら取り返してくるわ",
-                                    "今忙しいから…"
+                                    "I'll make sure to retrieve it once I find it",
+                                    "I'm busy right now"
                                 ],
                                 1,
                                 0,
@@ -11556,21 +11556,21 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[6]コノハ\\c[0]"
+                                "\\c[6]Konoha\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "それは酷いわね。怪しいやつがいたら私が"
+                                "That's terrible. If there's a suspicious person,\nI'll go get it back."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "取り返してくるわ"
+                                ""
                             ]
                         },
                         {
@@ -11587,21 +11587,21 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[1]ジェム\\c[0]"
+                                "\\c[1]Gem\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "おぉ！それはありがたい。可愛い魔法少女さん。でも"
+                                "Oh! That's appreciated. Cute magical girl. But the\nopponent is surely a bandit. Be careful, okay?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "相手はきっとバンディットじゃろう。気をつけるんじゃぞ"
+                                ""
                             ]
                         },
                         {
@@ -11676,14 +11676,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[6]コノハ\\c[0]"
+                                "\\c[6]Konoha\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "それは大変だったわね。またきっと手に入るわよ"
+                                "That was tough. But I'm sure I'll get it again."
                             ]
                         },
                         {
@@ -11742,9 +11742,9 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "\\C[22]♥誘惑en(v[261]>=300)",
-                                    "\\C[14]♠窃盗en(v[263]>=20)",
-                                    "\\C[3]☠攻撃en(v[263]>=100)"
+                                    "\\C[22]♥ Temptationen(v[261]>=300)",
+                                    "\\C[14]♠Theften(v[263]>=20)",
+                                    "\\C[3]☠ Attacken(v[263]>=100)"
                                 ],
                                 -2,
                                 -1,
@@ -11925,7 +11925,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "がは…そんな…"
+                                "Haha... No way..."
                             ]
                         },
                         {
@@ -12167,8 +12167,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "会話",
-                                    "クエスト"
+                                    "Conversation",
+                                    "Quest"
                                 ],
                                 -2,
                                 0,
@@ -12207,21 +12207,21 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[1]ジェム\\c[0]"
+                                "\\c[1]Gem\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "どうしたのかね！？"
+                                "What's wrong!? It's dangerous to dress like that."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "そんな格好では危ないよ"
+                                ""
                             ]
                         },
                         {
@@ -12248,21 +12248,21 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[1]ジェム\\c[0]"
+                                "\\c[1]Gem\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "地下街はあまり良い治安ではないぞ"
+                                "The underground city doesn't have the best\nsecurity, so if you're going there, it's best to\ngo prepared."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "行くなら覚悟持って行くと良い"
+                                ""
                             ]
                         },
                         {
@@ -12302,28 +12302,28 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[1]ジェム\\c[0]"
+                                "\\c[1]Gem\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "頼んだぞ。恐らく犯人はスラム街のどこかにいるじゃろう"
+                                "I'm counting on you. The culprit is probably\nsomewhere in the slums. Judging by their\nappearance, it seems they don't have any money, so\nthey probably won't head to the casino right away,\nI think."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "あの感じだと金は持ってないと見えるからすぐには"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "カジノに出向かんじゃろうと思う"
+                                ""
                             ]
                         },
                         {
@@ -12372,9 +12372,9 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "\\C[22]♥誘惑en(v[261]>=300)",
-                                    "\\C[14]♠窃盗en(v[263]>=20)",
-                                    "\\C[3]☠攻撃en(v[263]>=100)"
+                                    "\\C[22]♥ Temptationen(v[261]>=300)",
+                                    "\\C[14]♠Theften(v[263]>=20)",
+                                    "\\C[3]☠Attacken(v[263]>=100)"
                                 ],
                                 -2,
                                 -1,
@@ -12555,7 +12555,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "がは…そんな…"
+                                "Haha... No way..."
                             ]
                         },
                         {
@@ -12797,8 +12797,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "会話",
-                                    "クエスト"
+                                    "Conversation",
+                                    "Quest"
                                 ],
                                 -2,
                                 0,
@@ -12837,21 +12837,21 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[1]ジェム\\c[0]"
+                                "\\c[1]Gem\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "どうしたのかね！？"
+                                "What's wrong!? It's dangerous to dress like that."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "そんな格好では危ないよ"
+                                ""
                             ]
                         },
                         {
@@ -12878,21 +12878,21 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[1]ジェム\\c[0]"
+                                "\\c[1]Gem\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "地下街はあまり良い治安ではないぞ"
+                                "The underground city doesn't have the best\nsecurity, so if you're going there, it's best to\ngo prepared."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "行くなら覚悟持って行くと良い"
+                                ""
                             ]
                         },
                         {
@@ -12950,21 +12950,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[6]コノハ\\c[0]"
+                                "\\c[6]Konoha\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ほら、取り戻してきたわ。通行証"
+                                "Look, I've retrieved it. As expected, it was a\npathetic guy with a pass case."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "案の定、ヘボい男だったわ"
+                                ""
                             ]
                         },
                         {
@@ -12981,21 +12981,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[1]ジェム\\c[0]"
+                                "\\c[1]Gem\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "おぉ、これは確かに私の通行証！"
+                                "Oh, this is definitely my pass case! Wow, thank\nyou so much...!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "いやー本当にありがとう…！"
+                                ""
                             ]
                         },
                         {
@@ -13030,21 +13030,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[6]コノハ\\c[0]"
+                                "\\c[6]Konoha\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "まぁ、気をつけてね"
+                                "Well, be careful. But, well, the security\nunderground is really not good."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "しかしまぁ、地下の治安は本当によくないわね"
+                                ""
                             ]
                         },
                         {
@@ -13061,21 +13061,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[1]ジェム\\c[0]"
+                                "\\c[1]Gem\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "せっかくカジノで一儲け…と思っていたが、この調子じゃと"
+                                "I thought I could make a fortune at the casino,\nbut at this rate, I might end up losing it all...\nIf my money gets stolen, it'll be a total\ndisaster."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "また奪われかねん……お金を強奪されては元も子もない"
+                                ""
                             ]
                         },
                         {
@@ -13092,28 +13092,28 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[1]ジェム\\c[0]"
+                                "\\c[1]Gem\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "お礼の代わりと言ってはなんじゃが"
+                                "Instead of thanks, I'll give you this underground\ncasino pass. Please use it effectively."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "この地下カジノ通行証はあんたに進呈しよう"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "有効に使ってくれたまえ"
+                                ""
                             ]
                         },
                         {
@@ -13148,14 +13148,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[6]コノハ\\c[0]"
+                                "\\c[6]Konoha\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "いいの？ありがとう！"
+                                "Is it okay? Thank you!"
                             ]
                         },
                         {
@@ -13223,9 +13223,9 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "\\C[22]♥誘惑en(v[261]>=300)",
-                                    "\\C[14]♠窃盗en(v[263]>=20)",
-                                    "\\C[3]☠攻撃en(v[263]>=100)"
+                                    "\\C[22]♥ Temptationen(v[261]>=300)",
+                                    "\\C[14]♠Theften(v[263]>=20)",
+                                    "\\C[3]☠ Attacken(v[263]>=100)"
                                 ],
                                 -2,
                                 -1,
@@ -13406,7 +13406,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "がは…そんな…"
+                                "Haha... No way..."
                             ]
                         },
                         {
@@ -13634,7 +13634,7 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "会話"
+                                    "Conversation"
                                 ],
                                 -2,
                                 0,
@@ -13673,21 +13673,21 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[1]ジェム\\c[0]"
+                                "\\c[1]Gem\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "どうしたのかね！？"
+                                "What's wrong!? It's dangerous to dress like that."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "そんな格好では危ないよ"
+                                ""
                             ]
                         },
                         {
@@ -13714,21 +13714,21 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[1]ジェム\\c[0]"
+                                "\\c[1]Gem\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "地下街はあまり良い治安ではないぞ"
+                                "The underground city doesn't have the best\nsecurity, so if you're going there, it's best to\ngo prepared."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "行くなら覚悟持って行くと良い"
+                                ""
                             ]
                         },
                         {
@@ -13769,9 +13769,9 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "\\C[22]♥誘惑en(v[261]>=300)",
-                                    "\\C[14]♠窃盗en(v[263]>=20)",
-                                    "\\C[3]☠攻撃en(v[263]>=100)"
+                                    "\\C[22]♥ Temptationen(v[261]>=300)",
+                                    "\\C[14]♠Theften(v[263]>=20)",
+                                    "\\C[3]☠ Attacken(v[263]>=100)"
                                 ],
                                 -2,
                                 -1,
@@ -13952,7 +13952,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "がは…そんな…"
+                                "Haha... No way..."
                             ]
                         },
                         {
@@ -14194,8 +14194,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "会話",
-                                    "クエスト"
+                                    "Conversation",
+                                    "Quest"
                                 ],
                                 -2,
                                 0,
@@ -14234,14 +14234,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[1]ジェム\\c[0]"
+                                "\\c[1]Gem\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "……。"
+                                "......."
                             ]
                         },
                         {
@@ -14268,21 +14268,21 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[1]ジェム\\c[0]"
+                                "\\c[1]Gem\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "何か報告しなければいけないことが"
+                                "Do you have something you need to report?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "あるんじゃないかね？"
+                                ""
                             ]
                         },
                         {
@@ -14322,28 +14322,28 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[1]ジェム\\c[0]"
+                                "\\c[1]Gem\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "頼んでいた通行証、取り戻してあんたがそのまま"
+                                "It seems like you're using the travel permit I\nasked for and took back. Isn't that no different\nfrom being a thief?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "使ってるみたいじゃが。それは窃盗した男と変わらんでは"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "ないか"
+                                ""
                             ]
                         },
                         {
@@ -14360,14 +14360,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[1]ジェム\\c[0]"
+                                "\\c[1]Gem\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "もうええわい。ろくでもない"
+                                "Enough already. It's hopeless."
                             ]
                         },
                         {
@@ -14454,9 +14454,9 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "\\C[22]♥誘惑en(v[261]>=300)",
-                                    "\\C[14]♠窃盗en(v[263]>=20)",
-                                    "\\C[3]☠攻撃en(v[263]>=100)"
+                                    "\\C[22]♥ Temptationen(v[261]>=300)",
+                                    "\\C[14]♠Theften(v[263]>=20)",
+                                    "\\C[3]☠ Attacken(v[263]>=100)"
                                 ],
                                 -2,
                                 -1,
@@ -14637,7 +14637,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "がは…そんな…"
+                                "Haha... No way..."
                             ]
                         },
                         {
@@ -14923,21 +14923,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ほー！あなた実に素晴らしいスレンダーなお身体ですな！"
+                                "Wow! Your slender body is truly amazing! Oh my, I\ndon't really like my body with unnecessary fat...\nA physique like yours is truly ideal."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "いやはや、私無駄な贅肉のついた身体があまり好きではなくて…"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "あなたのような体躯は実に理想ですぞ"
+                                ""
                             ]
                         },
                         {
@@ -14964,21 +14964,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "こちら、魔法少女専門のマッサージヘルスとなっております"
+                                "Here, we specialize in magical girl-themed massage\nservices. It works wonders for various conditions,\nso please feel free to consult with us if you have\nany concerns.♪"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "様々な症状に良く効きますので、お困りの際は是非中で"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "ご相談くださいませ♪"
+                                ""
                             ]
                         },
                         {
@@ -15310,7 +15310,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[2]今日はもう入れてくれないようだ"
+                                "It seems like \\C[2] won't let me in anymore today."
                             ]
                         },
                         {

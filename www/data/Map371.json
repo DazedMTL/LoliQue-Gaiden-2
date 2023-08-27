@@ -18507,7 +18507,7 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "会話"
+                                    "Conversation"
                                 ],
                                 -1,
                                 0,
@@ -18546,14 +18546,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[1]守衛\\v[111]\\c[0]"
+                                "\\c[1]Guard\\v[111]\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "裸であることは普通のことだ…"
+                                "Being naked is normal..."
                             ]
                         },
                         {
@@ -18580,21 +18580,21 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[1]守衛\\v[111]\\c[0]"
+                                "\\c[1]Guard\\v[111]\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "「デヴィル」様に楯突こうものならば"
+                                "If you dare to oppose Lord Devil, I will send you\nstraight to hell..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "すぐにでも地獄へ落としてやろう…"
+                                ""
                             ]
                         },
                         {
@@ -18622,9 +18622,9 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "\\C[22]×♥誘惑en(v[261]>=300)",
-                                    "\\C[14]♠窃盗en(v[263]>=20)",
-                                    "\\C[3]☠攻撃en(v[263]>=100)"
+                                    "\\C[22]×♥ Temptationen(v[261]>=300)",
+                                    "\\C[14]♠Theften(v[263]>=20)",
+                                    "\\C[3]☠ Attacken(v[263]>=100)"
                                 ],
                                 -2,
                                 -1,
@@ -18654,14 +18654,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[1]守衛\\v[111]\\c[0]"
+                                "\\c[1]Guard\\v[111]\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "無駄だ"
+                                "It's futile."
                             ]
                         },
                         {
@@ -18776,14 +18776,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[1]守衛\\v[111]\\c[0]"
+                                "\\c[1]Guard\\v[111]\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "宣戦布告とみなす"
+                                "Consider it a declaration of war."
                             ]
                         },
                         {
@@ -18833,14 +18833,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[1]守衛\\v[111]\\c[0]"
+                                "\\c[1]Guard\\v[111]\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "……おのれ……"
+                                "...You..."
                             ]
                         },
                         {
@@ -18885,21 +18885,21 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[1]守衛\\v[111]\\c[0]"
+                                "\\c[1]Guard\\v[111]\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "終わりだ…"
+                                "It's over... come here."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "こい"
+                                ""
                             ]
                         },
                         {
@@ -19918,14 +19918,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[1]守衛\\v[111]\\c[0]"
+                                "\\c[1]Guard\\v[111]\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "観念するがいい"
+                                "You better give up."
                             ]
                         },
                         {
@@ -19933,9 +19933,9 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "わかったわよ",
-                                    "\\C[22]×♥お願いここは許して…en(v[261]>=300)",
-                                    "\\C[3]☠私に勝てるとでも思ってる？en(v[263]>=100)"
+                                    "Got it",
+                                    "\\C[22]×♥Please, forgive me hereen(v[261]>=300)",
+                                    "Do you think you can beat me, ☠?en(v[263]>=100)"
                                 ],
                                 -1,
                                 -1,
@@ -19985,14 +19985,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[1]守衛\\v[111]\\c[0]"
+                                "\\c[1]Guard\\v[111]\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "戯言を…"
+                                "Nonsense..."
                             ]
                         },
                         {
@@ -20038,14 +20038,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[1]守衛\\v[111]\\c[0]"
+                                "\\c[1]Guard\\v[111]\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "貴様、許さん…"
+                                "You, I won't forgive..."
                             ]
                         },
                         {
@@ -20102,14 +20102,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[1]守衛\\v[111]\\c[0]"
+                                "\\c[1]Guard\\v[111]\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "…ぐっ……"
+                                "...ugh..."
                             ]
                         },
                         {
@@ -20154,14 +20154,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[1]守衛\\v[111]\\c[0]"
+                                "\\c[1]Guard\\v[111]\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "永遠の苦しみを味わうがいい"
+                                "You shall taste eternal suffering."
                             ]
                         },
                         {
@@ -22396,7 +22396,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "デヴィル様は寛容だ……"
+                                "Devil-sama is lenient..."
                             ]
                         },
                         {
@@ -22488,21 +22488,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ほぉ？悪の道を突き進むのか？"
+                                "Oh? So you're determined to walk the path of evil?\nWhat a splendid idea. Go ahead and keep killing."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "素晴らしい考えだな"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "どんどん殺してくるがいいぞ"
+                                ""
                             ]
                         },
                         {
@@ -22594,21 +22594,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "我らデーモンはまだまだ戦力が足らないのだ"
+                                "We demons still lack sufficient power. We must\ncontinue to use humans and magical girls as\nbreeding grounds to produce stronger beings."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "どんどんヒトや魔法少女を苗床にして強い我らを"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "産まなくては困る"
+                                ""
                             ]
                         },
                         {
