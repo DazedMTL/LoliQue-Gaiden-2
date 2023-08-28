@@ -11,5 +11,73 @@
 !README.md
 package.json
 
-# Images
+# Ignore all files
+*.*
 
+# Except
+!*.json
+!*.js
+!*.zip
+!*.7z
+!*.csv
+!.gitignore
+!README.md
+package.json
+
+# Images
+!Bst001_ninsin.rpgmvp
+!Bst002_datai.rpgmvp
+!Bst003_hatujo.rpgmvp
+!Bst003_Template.rpgmvp
+!Bst004_seieki.rpgmvp
+!Bst005_inmon.rpgmvp
+!Bst006_doping.rpgmvp
+!Bst007_kairaku.rpgmvp
+!Bst008_bonyu.rpgmvp
+!Bst009_kisei.rpgmvp
+!Bst010_dorei.rpgmvp
+!Bst011_torauma.rpgmvp
+!Bst012_bive.rpgmvp
+!Bst013_tikubi.rpgmvp
+!Bst014_kuripi.rpgmvp
+!Bst015_kando3000.rpgmvp
+!Bst016_seiekimore.rpgmvp
+!Bst017_saimin.rpgmvp
+!Bst018_hairan.rpgmvp
+!Bst019_deisui.rpgmvp
+!Bst020_houkai.rpgmvp
+!Bst021_massyou.rpgmvp
+!Bst022_naedoko.rpgmvp
+!Bst023_kongou.rpgmvp
+!Bstbt001_chichi.rpgmvp
+!Bstbt002 Template.rpgmvp
+!Bstbt002_zettyou.rpgmvp
+!Bstbt003_stuchi.rpgmvp
+!Bstbt004_htuchi.rpgmvp
+!Bstbt005_skouin.rpgmvp
+!Bstbt006_hkouin.rpgmvp
+!Bstbt007_skousoku.rpgmvp
+!Bstbt008_hagaijime.rpgmvp
+!Bstbt009_slkousoku.rpgmvp
+!Bstbt010_kkousoku.rpgmvp
+!Bstbt011_ssounyu.rpgmvp
+!Bstbt012_hsounyu.rpgmvp
+!Bstbt013_hsounyu2.rpgmvp
+!Bstbt014_slsounyu.rpgmvp
+!Bstbt015_jsounyu.rpgmvp
+!Bstbt016_ksounyu.rpgmvp
+!Bstbt017_hsounyu3.rpgmvp
+!Bstbt017_teisi.rpgmvp
+!Bstbt018_suikan.rpgmvp
+!Bstbt018_teisi.rpgmvp
+!Bstbt019_suikan.rpgmvp
+!H_menu1.rpgmvp
+!H_menu3.rpgmvp
+!myhouseUI02.rpgmvp
+!!$Bst_idou.rpgmvp
+!!Bad_st01.rpgmvp
+!!Bad_st01a.rpgmvp
+!!Bad_st02.rpgmvp
+!!Bad_st02a.rpgmvp
+!Helloworld.rpgmvp
+!Tatie_onoff.rpgmvp
