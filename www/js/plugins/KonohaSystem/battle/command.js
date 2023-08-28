@@ -61,7 +61,7 @@
     };
 
     Window_ActorCommand.prototype.addStateListCommands = function () {
-        this.addCommand('ステート一覧', 'state', true);
+        this.addCommand('States', 'state', true);
     };
 
 })();
