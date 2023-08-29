@@ -22108,14 +22108,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[2]I will sell the house cheaply! If you are interested, please go to the \"Dragon Fang Tavern\" and ask for \\c[1]Doporu\\c[0]"
+                                "\\c[2]We are selling a cheap house! If you are\ninterested, please inquire at the Dragon Fang\nTavern and ask for Dopol."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "Please inquire until \\c[1]."
+                                ""
                             ]
                         },
                         {
