@@ -17,9 +17,9 @@
     };
 
     Window_ActorCommand.prototype.addResistCommands = function () {
-        this.addCommand('振りほどく', 'extract');
-        this.addCommand('耐える', 'bear');
-        this.addCommand('受け入れる', 'skill', true, 4);
+        this.addCommand('Struggle', 'extract');
+        this.addCommand('Endure', 'bear');
+        this.addCommand('Accept', 'skill', true, 4);
     };
 
     Window_ActorCommand.prototype.makeCommandList = function () {
