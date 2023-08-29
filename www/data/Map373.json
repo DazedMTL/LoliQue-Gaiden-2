@@ -18321,7 +18321,7 @@
         null,
         {
             "id": 9,
-            "name": "\"Quest 3: Subjugation\"",
+            "name": "Quest 3: Subjugation",
             "note": "<hzChoice:que>",
             "pages": [
                 {
@@ -31275,21 +31275,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>\\C[2]Switches the rank of the defeat quests."
+                                "\\>\\C[2]Switches the rank of the defeat\nquests.\\>There are ranks 1 thru 3, and you can\nswitch to the\\>next rank after completing all\nquests of that rank."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "\\>There are ranks 1 thru 3, and you can switch to the"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "\\>next rank after completing all quests of that rank."
+                                ""
                             ]
                         },
                         {
