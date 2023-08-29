@@ -437,7 +437,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Recover from abnormal states ■ Recover from\nconfusion/paralysis/petrification",
+        "description": "Recover from abnormal states ■ Recover from confusion/paralysis/petrification",
         "effects": [
             {
                 "code": 22,
@@ -507,7 +507,7 @@
         "iconIndex": 1410,
         "itypeId": 1,
         "name": "Body Washer",
-        "note": "itemMaxNum:5\n<SG種別:2>\n<SGカテゴリ:回復/強化>\n<SG説明: \\DATA[description] Amount \\DATA[price]Lo All males, including humans,\nmonsters, and demons, release semen. There are times when they can\nhave their semen spilled during battles. And of course, not just in\nbattles... If their semen is spilled on them, it will awaken the\ninstincts of females, and their bodies will immediately become hot and\nflushed.>\n<Info Text Bottom>\n\nAll males, including monsters and demons, ejaculate. They may also ejaculate during battles. And of course, not just in battles... If they ejaculate on a female, it will awaken her primal instincts, and her body will immediately become hot with desire.\n</Info Text Bottom>",
+        "note": "itemMaxNum:5\n<SG種別:2>\n<SGカテゴリ:回復/強化>\n<SG説明: \\DATA[description] Amount \\DATA[price]Lo All males, including humans,\nmonsters, and demons, release semen. There are times when they can\nhave their semen spilled during battles. And of course, not just in\nbattles... If their semen is spilled on them, it will awaken the\ninstincts of females, and their bodies will immediately become hot and\nflushed.>\n<Info Text Bottom>\n All males, including monsters and demons, ejaculate. They may also ejaculate during battles. And of course, not just in battles... If they ejaculate on a female, it will awaken her primal instincts, and her body will immediately become hot with desire.\n</Info Text Bottom>",
         "occasion": 0,
         "price": 300,
         "repeats": 1,
@@ -593,7 +593,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": " Restore HP and MP to full and remove abnormal status (all)  ■ Restore\nHP, MP, and abnormal status",
+        "description": " Restore HP and MP to full and remove abnormal status (all)  ■ Restore HP, MP, and abnormal status",
         "effects": [
             {
                 "code": 11,
@@ -737,7 +737,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Instantly repairs torn clothing. It is called a Repair Kit. ■ Costume\nRepair",
+        "description": "Instantly repairs torn clothing. It is called a Repair Kit. ■ Costume Repair",
         "effects": [
             {
                 "code": 44,
@@ -770,7 +770,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Ability to remove debuffs ■ Recovers from ATK/DEF/MAG/RES/AGI/LUK\ndebuffs",
+        "description": "Ability to remove debuffs ■ Recovers from ATK/DEF/MAG/RES/AGI/LUK debuffs",
         "effects": [
             {
                 "code": 34,
@@ -833,7 +833,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": " An orb in which the source of power is sealed. It breaks upon use. ■\nIncreases attack power by 50% for 5 turns.",
+        "description": " An orb in which the source of power is sealed. It breaks upon use. ■ Increases attack power by 50% for 5 turns.",
         "effects": [
             {
                 "code": 31,
@@ -852,7 +852,7 @@
         "iconIndex": 1748,
         "itypeId": 1,
         "name": "Power Orb",
-        "note": "itemMaxNum:5\n<SG種別:2>\n<SGカテゴリ:回復/強化>\n<SG説明: \\DATA[description] A buff item in the form of an orb that can be\ncrushed and used on the spot during battles. The technique of sealing\nmagic power into orbs is quite difficult, and when it was established,\nit became very useful. It would be particularly helpful for those who\ndo not possess buff skills.>\n<Info Text Bottom>\n\nA buff item in the form of an orb that can be crushed and used on the spot during battles. The technique of sealing magic power into orbs is quite difficult, but once established, it became very useful. It would be particularly helpful for those who do not possess any buff skills.\n</Info Text Bottom>",
+        "note": "itemMaxNum:5\n<SG種別:2>\n<SGカテゴリ:回復/強化>\n<SG説明: \\DATA[description] A buff item in the form of an orb that can be\ncrushed and used on the spot during battles. The technique of sealing\nmagic power into orbs is quite difficult, and when it was established,\nit became very useful. It would be particularly helpful for those who\ndo not possess buff skills.>\n<Info Text Bottom>\n A buff item in the form of an orb that can be crushed and used on the spot during battles. The technique of sealing magic power into orbs is quite difficult, but once established, it became very useful. It would be particularly helpful for those who do not possess any buff skills.\n</Info Text Bottom>",
         "occasion": 1,
         "price": 1000,
         "repeats": 1,
@@ -872,7 +872,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "An orb that seals the source of protection. It breaks upon use. ■\nIncreases defense power by 50% for 5 turns.",
+        "description": "An orb that seals the source of protection. It breaks upon use. ■ Increases defense power by 50% for 5 turns.",
         "effects": [
             {
                 "code": 31,
@@ -891,7 +891,7 @@
         "iconIndex": 1748,
         "itypeId": 1,
         "name": "Guard Orb",
-        "note": "itemMaxNum:5\n<SG種別:2>\n<SGカテゴリ:回復/強化>\n<SG説明: \\DATA[description] A buff item in the form of an orb that can be\ncrushed and used on the spot during battles. The technique of sealing\nmagic power into orbs is quite difficult, and when it was established,\nit became very useful. It would be particularly helpful for those who\ndo not possess buff skills.>\n<Info Text Bottom>\n\nA buff item in the form of an orb that can be crushed and used on the spot during battles. The technique of sealing magic power into orbs is quite difficult, but once established, it became very useful. It would be particularly helpful for those who do not possess any buff skills.\n</Info Text Bottom>",
+        "note": "itemMaxNum:5\n<SG種別:2>\n<SGカテゴリ:回復/強化>\n<SG説明: \\DATA[description] A buff item in the form of an orb that can be\ncrushed and used on the spot during battles. The technique of sealing\nmagic power into orbs is quite difficult, and when it was established,\nit became very useful. It would be particularly helpful for those who\ndo not possess buff skills.>\n<Info Text Bottom>\n A buff item in the form of an orb that can be crushed and used on the spot during battles. The technique of sealing magic power into orbs is quite difficult, but once established, it became very useful. It would be particularly helpful for those who do not possess any buff skills.\n</Info Text Bottom>",
         "occasion": 1,
         "price": 1500,
         "repeats": 1,
@@ -911,7 +911,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": " Orb in which the source of magic is sealed. It breaks upon use. ■\nIncreases magic power by 50% for 5 turns.",
+        "description": " Orb in which the source of magic is sealed. It breaks upon use. ■ Increases magic power by 50% for 5 turns.",
         "effects": [
             {
                 "code": 31,
@@ -930,7 +930,7 @@
         "iconIndex": 1748,
         "itypeId": 1,
         "name": "Magic Orb",
-        "note": "itemMaxNum:5\n<SG種別:2>\n<SGカテゴリ:回復/強化>\n<SG説明:\\DATA[description] is an orb-shaped buff item that can be crushed and\nused on the spot during battles, with a value of \\DATA[price] Lo. The\ntechnique of sealing magic power into orbs is quite difficult, but\nonce established, it became highly valued. It would be particularly\nuseful for those who do not possess buff-type skills.>\n<Info Text Bottom>\n\nA buff item in the form of an orb that can be crushed and used on the spot during battles. The technique of sealing magic power into orbs is quite difficult, but once established, it became very useful. It would be particularly helpful for those who do not possess any buff skills.\n</Info Text Bottom>",
+        "note": "itemMaxNum:5\n<SG種別:2>\n<SGカテゴリ:回復/強化>\n<SG説明:\\DATA[description] is an orb-shaped buff item that can be crushed and\nused on the spot during battles, with a value of \\DATA[price] Lo. The\ntechnique of sealing magic power into orbs is quite difficult, but\nonce established, it became highly valued. It would be particularly\nuseful for those who do not possess buff-type skills.>\n<Info Text Bottom>\n A buff item in the form of an orb that can be crushed and used on the spot during battles. The technique of sealing magic power into orbs is quite difficult, but once established, it became very useful. It would be particularly helpful for those who do not possess any buff skills.\n</Info Text Bottom>",
         "occasion": 1,
         "price": 2000,
         "repeats": 1,
@@ -950,7 +950,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": " An orb that seals the source of magical defense. It breaks upon use.\n■ Increases magic defense by 50% for 5 turns.",
+        "description": " An orb that seals the source of magical defense. It breaks upon use. ■ Increases magic defense by 50% for 5 turns.",
         "effects": [
             {
                 "code": 31,
@@ -969,7 +969,7 @@
         "iconIndex": 1748,
         "itypeId": 1,
         "name": "Resist Orb",
-        "note": "itemMaxNum:5\n<SG種別:2>\n<SGカテゴリ:回復/強化>\n<SG説明:\\DATA[description] Orb Buff Item that can be crushed and used on the\nspot during battles, costing \\DATA[price] Lo. The technique of sealing\nmagic power into orbs is quite difficult, but once established, it\nbecame highly valued. It would be particularly useful for those who do\nnot possess buff-type skills.>\n<Info Text Bottom>\n\nA buff item in the form of an orb that can be crushed and used on the spot during battles. The technique of sealing magic power into orbs is quite difficult, but once established, it became very useful. It would be particularly helpful for those who do not possess any buff skills.\n</Info Text Bottom>",
+        "note": "itemMaxNum:5\n<SG種別:2>\n<SGカテゴリ:回復/強化>\n<SG説明:\\DATA[description] Orb Buff Item that can be crushed and used on the\nspot during battles, costing \\DATA[price] Lo. The technique of sealing\nmagic power into orbs is quite difficult, but once established, it\nbecame highly valued. It would be particularly useful for those who do\nnot possess buff-type skills.>\n<Info Text Bottom>\n A buff item in the form of an orb that can be crushed and used on the spot during battles. The technique of sealing magic power into orbs is quite difficult, but once established, it became very useful. It would be particularly helpful for those who do not possess any buff skills.\n</Info Text Bottom>",
         "occasion": 1,
         "price": 2500,
         "repeats": 1,
@@ -989,7 +989,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "An orb that seals the source of agility. It breaks upon use. ■ Agility\n+50% for 5 turns.",
+        "description": "An orb that seals the source of agility. It breaks upon use. ■ Agility +50% for 5 turns.",
         "effects": [
             {
                 "code": 31,
@@ -1008,7 +1008,7 @@
         "iconIndex": 1748,
         "itypeId": 1,
         "name": "Agility Orb",
-        "note": "itemMaxNum:5\n<SG種別:2>\n<SGカテゴリ:回復/強化>\n<SG説明: \\DATA[description] A buff item in the form of an orb that can be\ncrushed and used on the spot during battles. The technique of sealing\nmagic power into orbs is quite difficult, and when it was established,\nit became very useful. It would be particularly helpful for those who\ndo not possess buff skills.>\n<Info Text Bottom>\n\nA buff item in the form of an orb that can be crushed and used on the spot during battles. The technique of sealing magic power into orbs is quite difficult, but once established, it became very useful. It would be particularly helpful for those who do not possess any buff skills.\n</Info Text Bottom>",
+        "note": "itemMaxNum:5\n<SG種別:2>\n<SGカテゴリ:回復/強化>\n<SG説明: \\DATA[description] A buff item in the form of an orb that can be\ncrushed and used on the spot during battles. The technique of sealing\nmagic power into orbs is quite difficult, and when it was established,\nit became very useful. It would be particularly helpful for those who\ndo not possess buff skills.>\n<Info Text Bottom>\n A buff item in the form of an orb that can be crushed and used on the spot during battles. The technique of sealing magic power into orbs is quite difficult, but once established, it became very useful. It would be particularly helpful for those who do not possess any buff skills.\n</Info Text Bottom>",
         "occasion": 1,
         "price": 2500,
         "repeats": 1,
@@ -1028,7 +1028,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "A doping agent that increases all parameters for a certain period of\ntime. However, excessive use can cause side effects.",
+        "description": "A doping agent that increases all parameters for a certain period of time. However, excessive use can cause side effects.",
         "effects": [
             {
                 "code": 31,
@@ -1856,7 +1856,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Decreases enemy's attack power (all) ■ Attack power down by 25% / 3\nturns",
+        "description": "Decreases enemy's attack power (all) ■ Attack power down by 25% / 3 turns",
         "effects": [
             {
                 "code": 32,
@@ -1889,7 +1889,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": " Decreases enemy defense power (all) ■ Defense power down by 25% / 3\nturns",
+        "description": " Decreases enemy defense power (all) ■ Defense power down by 25% / 3 turns",
         "effects": [
             {
                 "code": 32,
@@ -1955,7 +1955,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": " Decreases enemy's magic defense (all) ■ Magic defense reduced by 25%\n/ 3 turns",
+        "description": " Decreases enemy's magic defense (all) ■ Magic defense reduced by 25% / 3 turns",
         "effects": [
             {
                 "code": 32,
@@ -1988,7 +1988,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "When used, it makes you feel horny. ■ State: ♥ Estrus 50% (consumed\nonly during battles, during lodging)",
+        "description": "When used, it makes you feel horny. ■ State: ♥ Estrus 50% (consumed only during battles, during lodging)",
         "effects": [
             {
                 "code": 21,
@@ -2027,7 +2027,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "When used, it makes you feel horny. ■ State: ♥ Estrus 70% (consumed\nonly during battles, during lodging)",
+        "description": "When used, it makes you feel horny. ■ State: ♥ Estrus 70% (consumed only during battles, during lodging)",
         "effects": [
             {
                 "code": 21,
@@ -2066,7 +2066,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "When used, it makes you feel horny. ■ State: ♥ Estrus 100% (consumed\nonly during battles, during lodging)",
+        "description": "When used, it makes you feel horny. ■ State: ♥ Estrus 100% (consumed only during battles, during lodging)",
         "effects": [
             {
                 "code": 21,
@@ -2105,7 +2105,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "When used, the body becomes sensitive. ■ Decreased resistance to\nestrus, risk of drug addiction.",
+        "description": "When used, the body becomes sensitive. ■ Decreased resistance to estrus, risk of drug addiction.",
         "effects": [
             {
                 "code": 21,
@@ -2144,7 +2144,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "When used, the body becomes overly sensitive. ■ Decreased resistance\nto estrus, risk of drug addiction.",
+        "description": "When used, the body becomes overly sensitive. ■ Decreased resistance to estrus, risk of drug addiction.",
         "effects": [
             {
                 "code": 21,
@@ -2189,7 +2189,7 @@
         "iconIndex": 859,
         "itypeId": 1,
         "name": "Smooth Lotion",
-        "note": "<SG種別:2>\n<SGカテゴリ:エッチなアイテム>\n<SG説明: With this lotion, even in a state where \\DATA[description] cannot be\neasily inserted, there will be no problem. Even in a tight slit, the\n\\DATA[price] cock will easily slide in. If used on the entire body, it\nwill provide even better stimulation.>\n<Info Text Bottom>\n\nEven in a state where insertion is difficult, with this lotion, there's no problem. Even in a tight slit, the cock will easily slide in. If you use it on your whole body, you'll be able to get even better stimulation.\n</Info Text Bottom>",
+        "note": "<SG種別:2>\n<SGカテゴリ:エッチなアイテム>\n<SG説明: With this lotion, even in a state where \\DATA[description] cannot be\neasily inserted, there will be no problem. Even in a tight slit, the\n\\DATA[price] cock will easily slide in. If used on the entire body, it\nwill provide even better stimulation.>\n<Info Text Bottom>\n Even in a state where insertion is difficult, with this lotion, there's no problem. Even in a tight slit, the cock will easily slide in. If you use it on your whole body, you'll be able to get even better stimulation.\n</Info Text Bottom>",
         "occasion": 3,
         "price": 5000,
         "repeats": 1,
@@ -2209,7 +2209,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Let's perform the cleansing of the uterus with this. ■ Fertilization\nrate 0%.",
+        "description": "Let's perform the cleansing of the uterus with this. ■ Fertilization rate 0%.",
         "effects": [
             {
                 "code": 44,
@@ -2222,7 +2222,7 @@
         "iconIndex": 1036,
         "itypeId": 1,
         "name": "♥After Pipirun",
-        "note": "itemMaxNum:5\n<SG種別:2>\n<SGカテゴリ:エッチなアイテム>\n<SG説明: To avoid unwanted pregnancies, it is essential to clean yourself with\nthis item after being creampied a few times. This item is a must-have\nin this world.>\n<Info Text Bottom>\n\nTo avoid unwanted pregnancies, use this item to clean yourself after being creampied a few times. It is an essential item in this world.\n</Info Text Bottom>",
+        "note": "itemMaxNum:5\n<SG種別:2>\n<SGカテゴリ:エッチなアイテム>\n<SG説明: To avoid unwanted pregnancies, it is essential to clean yourself with\nthis item after being creampied a few times. This item is a must-have\nin this world.>\n<Info Text Bottom>\n To avoid unwanted pregnancies, use this item to clean yourself after being creampied a few times. It is an essential item in this world.\n</Info Text Bottom>",
         "occasion": 2,
         "price": 2000,
         "repeats": 1,
@@ -2242,7 +2242,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Becomes 3000 times more sensitive. ■ State: ♥ Sensitivity increased by\n3000 times.",
+        "description": "Becomes 3000 times more sensitive. ■ State: ♥ Sensitivity increased by 3000 times.",
         "effects": [
             {
                 "code": 21,
@@ -2255,7 +2255,7 @@
         "iconIndex": 1416,
         "itypeId": 1,
         "name": "♥Bikubikun",
-        "note": "itemMaxNum:3\n<SG種別:2>\n<SGカテゴリ:エッチなアイテム>\n<SG説明:\\DATA[description] Amount \\DATA[price]Lo. It is not something that one\nwould normally use on themselves. If used, it will lead to the\nultimate climax hell. One will be constantly in a state of orgasm and\nlose their sense of self as a human. To recover, a sensitivity\nstabilizer is necessary.>\n<Info Text Bottom>\n\nNormally, one would not use it on themselves. If used, it will lead to the ultimate climax hell. It will constantly make you orgasm and you will lose your sense of self as a human. To recover, a sensitivity stabilizer is necessary.\n</Info Text Bottom>",
+        "note": "itemMaxNum:3\n<SG種別:2>\n<SGカテゴリ:エッチなアイテム>\n<SG説明:\\DATA[description] Amount \\DATA[price]Lo. It is not something that one\nwould normally use on themselves. If used, it will lead to the\nultimate climax hell. One will be constantly in a state of orgasm and\nlose their sense of self as a human. To recover, a sensitivity\nstabilizer is necessary.>\n<Info Text Bottom>\n Normally, one would not use it on themselves. If used, it will lead to the ultimate climax hell. It will constantly make you orgasm and you will lose your sense of self as a human. To recover, a sensitivity stabilizer is necessary.\n</Info Text Bottom>",
         "occasion": 0,
         "price": 3000,
         "repeats": 1,
@@ -2275,7 +2275,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": " Healing Sensitivity 3000 Times ■ State: ♥ Sensitivity 3000 Times\nRecovery",
+        "description": " Healing Sensitivity 3000 Times ■ State: ♥ Sensitivity 3000 Times Recovery",
         "effects": [
             {
                 "code": 22,
@@ -2308,7 +2308,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": " Talisman to absolutely protect the hymen. (Effect can be switched\nwhen used) ■ State: Diamond Membrane Transformation (Grant or Remove)",
+        "description": " Talisman to absolutely protect the hymen. (Effect can be switched when used) ■ State: Diamond Membrane Transformation (Grant or Remove)",
         "effects": [
             {
                 "code": 44,
@@ -2321,7 +2321,7 @@
         "iconIndex": 230,
         "itypeId": 2,
         "name": "♥Kongou Membrane Card",
-        "note": "<SG種別:2>\n<SGカテゴリ:ツール>\n<SG説明:\\DATA[description] A card that will always protect the purity of a\nmaiden, \\DATA[price] Lo. *However, only during battles or unforeseen\ncircumstances.>\n<Info Text Bottom>\n\nA talisman that will always protect the purity of a maiden. *However, only during battles or unforeseen circumstances.\n</Info Text Bottom>\n",
+        "note": "<SG種別:2>\n<SGカテゴリ:ツール>\n<SG説明:\\DATA[description] A card that will always protect the purity of a\nmaiden, \\DATA[price] Lo. *However, only during battles or unforeseen\ncircumstances.>\n<Info Text Bottom>\n A talisman that will always protect the purity of a maiden. *However, only during battles or unforeseen circumstances.\n</Info Text Bottom>\n",
         "occasion": 2,
         "price": 0,
         "repeats": 1,
@@ -2439,7 +2439,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Using it increases SP (skill points). SP is necessary for skill\nacquisition.",
+        "description": "Using it increases SP (skill points). SP is necessary for skill acquisition.",
         "effects": [
             {
                 "code": 44,
@@ -2472,7 +2472,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Using it increases SP (skill points). SP is necessary for skill\nacquisition.",
+        "description": "Using it increases SP (skill points). SP is necessary for skill acquisition.",
         "effects": [
             {
                 "code": 44,
@@ -2505,7 +2505,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Using it increases SP (skill points). SP is necessary for acquiring\nskills.",
+        "description": "Using it increases SP (skill points). SP is necessary for acquiring skills.",
         "effects": [
             {
                 "code": 44,
@@ -2538,7 +2538,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Using it increases SP (skill points). SP is necessary for skill\nacquisition.",
+        "description": "Using it increases SP (skill points). SP is necessary for skill acquisition.",
         "effects": [
             {
                 "code": 44,
@@ -2571,7 +2571,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Using it increases SP (skill points). SP is necessary for skill\nacquisition.",
+        "description": "Using it increases SP (skill points). SP is necessary for skill acquisition.",
         "effects": [
             {
                 "code": 44,
@@ -3000,7 +3000,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "A bag filled with a large amount of money. When used, money is\nobtained.",
+        "description": "A bag filled with a large amount of money. When used, money is obtained.",
         "effects": [
             {
                 "code": 44,
@@ -3333,7 +3333,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "A tool used to open locks. It is meaningless without being accompanied\nby a hairpin.",
+        "description": "A tool used to open locks. It is meaningless without being accompanied by a hairpin.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 2192,
@@ -3522,7 +3522,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "When you start to understand fishing, use this. Stable catch. ■ For\nfishing use",
+        "description": "When you start to understand fishing, use this. Stable catch. ■ For fishing use",
         "effects": [],
         "hitType": 0,
         "iconIndex": 1303,
@@ -3548,7 +3548,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "I'm the one who will catch the boss! I won't let it escape, no matter\nwhat. ■For fishing",
+        "description": "I'm the one who will catch the boss! I won't let it escape, no matter what. ■For fishing",
         "effects": [],
         "hitType": 0,
         "iconIndex": 1303,
@@ -3574,7 +3574,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "I will show you how to catch all the fish in my hands. ■ For fishing\nuse",
+        "description": "I will show you how to catch all the fish in my hands. ■ For fishing use",
         "effects": [],
         "hitType": 0,
         "iconIndex": 1303,
@@ -3600,7 +3600,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "A worn-out pickaxe that looks like it could break at any moment. ■ For\nmining use.",
+        "description": "A worn-out pickaxe that looks like it could break at any moment. ■ For mining use.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 2348,
@@ -3704,7 +3704,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "The strongest pickaxe that can break any unbreakable rock.  ■ For\nmining use.",
+        "description": "The strongest pickaxe that can break any unbreakable rock.  ■ For mining use.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 2348,
@@ -3782,7 +3782,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Just a hairpin that can also be used to open locks. If you fail, it\nwill break.",
+        "description": "Just a hairpin that can also be used to open locks. If you fail, it will break.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 745,
@@ -3808,7 +3808,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "A lovely hairpin that can also be used to open locks. It has high\ndurability, but if used incorrectly, it may break.",
+        "description": "A lovely hairpin that can also be used to open locks. It has high durability, but if used incorrectly, it may break.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 745,
@@ -3834,7 +3834,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "The best hairpin that can also be used to open locks. It has a\nconsiderably high durability. If you fail, it will break.",
+        "description": "The best hairpin that can also be used to open locks. It has a considerably high durability. If you fail, it will break.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 745,
@@ -3860,7 +3860,7 @@
             "type": 3,
             "variance": 20
         },
-        "description": " Comparatively warm region's edible fish ■ Cooking ingredient\n(fishing)",
+        "description": " Comparatively warm region's edible fish ■ Cooking ingredient (fishing)",
         "effects": [],
         "hitType": 0,
         "iconIndex": 1206,
@@ -3886,7 +3886,7 @@
             "type": 3,
             "variance": 20
         },
-        "description": " Comparatively warm region's edible fish ■ Cooking ingredient\n(fishing)",
+        "description": " Comparatively warm region's edible fish ■ Cooking ingredient (fishing)",
         "effects": [],
         "hitType": 0,
         "iconIndex": 1206,
@@ -3912,7 +3912,7 @@
             "type": 3,
             "variance": 20
         },
-        "description": " Comparatively warm region's edible fish ■ Cooking ingredient\n(fishing)",
+        "description": " Comparatively warm region's edible fish ■ Cooking ingredient (fishing)",
         "effects": [],
         "hitType": 0,
         "iconIndex": 1206,
@@ -3938,7 +3938,7 @@
             "type": 3,
             "variance": 20
         },
-        "description": " Comparatively warm region's edible fish ■ Cooking ingredient\n(fishing)",
+        "description": " Comparatively warm region's edible fish ■ Cooking ingredient (fishing)",
         "effects": [],
         "hitType": 0,
         "iconIndex": 1206,
@@ -3964,7 +3964,7 @@
             "type": 3,
             "variance": 20
         },
-        "description": " Comparatively warm region's edible fish ■ Cooking ingredient\n(fishing)",
+        "description": " Comparatively warm region's edible fish ■ Cooking ingredient (fishing)",
         "effects": [],
         "hitType": 0,
         "iconIndex": 1206,
@@ -3990,7 +3990,7 @@
             "type": 3,
             "variance": 20
         },
-        "description": " Comparatively warm region's edible fish ■ Cooking ingredient\n(fishing)",
+        "description": " Comparatively warm region's edible fish ■ Cooking ingredient (fishing)",
         "effects": [],
         "hitType": 0,
         "iconIndex": 1206,
@@ -4016,7 +4016,7 @@
             "type": 3,
             "variance": 20
         },
-        "description": " Comparatively warm region's edible fish ■ Cooking ingredient\n(fishing)",
+        "description": " Comparatively warm region's edible fish ■ Cooking ingredient (fishing)",
         "effects": [],
         "hitType": 0,
         "iconIndex": 1206,
@@ -4042,7 +4042,7 @@
             "type": 3,
             "variance": 20
         },
-        "description": " Comparatively warm region's edible fish ■ Cooking ingredient\n(fishing)",
+        "description": " Comparatively warm region's edible fish ■ Cooking ingredient (fishing)",
         "effects": [],
         "hitType": 0,
         "iconIndex": 1206,
@@ -4068,7 +4068,7 @@
             "type": 3,
             "variance": 20
         },
-        "description": " Comparatively warm region's edible fish ■ Cooking ingredient\n(fishing)",
+        "description": " Comparatively warm region's edible fish ■ Cooking ingredient (fishing)",
         "effects": [],
         "hitType": 0,
         "iconIndex": 1206,
@@ -4094,7 +4094,7 @@
             "type": 3,
             "variance": 20
         },
-        "description": " Comparatively warm region's edible fish ■ Cooking ingredient\n(fishing)",
+        "description": " Comparatively warm region's edible fish ■ Cooking ingredient (fishing)",
         "effects": [],
         "hitType": 0,
         "iconIndex": 1206,
@@ -4120,7 +4120,7 @@
             "type": 3,
             "variance": 20
         },
-        "description": "Edible fish from relatively cold regions. ■ Cooking ingredient\n(fishing)",
+        "description": "Edible fish from relatively cold regions. ■ Cooking ingredient (fishing)",
         "effects": [],
         "hitType": 0,
         "iconIndex": 1205,
@@ -4146,7 +4146,7 @@
             "type": 3,
             "variance": 20
         },
-        "description": "Edible fish from relatively cold regions. ■ Cooking ingredient\n(fishing)",
+        "description": "Edible fish from relatively cold regions. ■ Cooking ingredient (fishing)",
         "effects": [],
         "hitType": 0,
         "iconIndex": 1205,
@@ -4172,7 +4172,7 @@
             "type": 3,
             "variance": 20
         },
-        "description": "Edible fish from relatively cold regions. ■ Cooking ingredient\n(fishing)",
+        "description": "Edible fish from relatively cold regions. ■ Cooking ingredient (fishing)",
         "effects": [],
         "hitType": 0,
         "iconIndex": 1205,
@@ -4198,7 +4198,7 @@
             "type": 3,
             "variance": 20
         },
-        "description": "Edible fish from relatively cold regions. ■ Cooking ingredient\n(fishing)",
+        "description": "Edible fish from relatively cold regions. ■ Cooking ingredient (fishing)",
         "effects": [],
         "hitType": 0,
         "iconIndex": 1205,
@@ -4224,7 +4224,7 @@
             "type": 3,
             "variance": 20
         },
-        "description": "Edible fish from relatively cold regions. ■ Cooking ingredient\n(fishing)",
+        "description": "Edible fish from relatively cold regions. ■ Cooking ingredient (fishing)",
         "effects": [],
         "hitType": 0,
         "iconIndex": 1205,
@@ -4250,7 +4250,7 @@
             "type": 3,
             "variance": 20
         },
-        "description": "Edible fish from relatively cold regions. ■ Cooking ingredient\n(fishing)",
+        "description": "Edible fish from relatively cold regions. ■ Cooking ingredient (fishing)",
         "effects": [],
         "hitType": 0,
         "iconIndex": 1205,
@@ -4276,7 +4276,7 @@
             "type": 3,
             "variance": 20
         },
-        "description": "Edible fish from relatively cold regions. ■ Cooking ingredient\n(fishing)",
+        "description": "Edible fish from relatively cold regions. ■ Cooking ingredient (fishing)",
         "effects": [],
         "hitType": 0,
         "iconIndex": 1205,
@@ -4302,7 +4302,7 @@
             "type": 3,
             "variance": 20
         },
-        "description": "Edible fish from relatively cold regions. ■ Cooking ingredient\n(fishing)",
+        "description": "Edible fish from relatively cold regions. ■ Cooking ingredient (fishing)",
         "effects": [],
         "hitType": 0,
         "iconIndex": 1205,
@@ -4328,7 +4328,7 @@
             "type": 3,
             "variance": 20
         },
-        "description": "Edible fish from relatively cold regions. ■ Cooking ingredient\n(fishing)",
+        "description": "Edible fish from relatively cold regions. ■ Cooking ingredient (fishing)",
         "effects": [],
         "hitType": 0,
         "iconIndex": 1205,
@@ -4354,7 +4354,7 @@
             "type": 3,
             "variance": 20
         },
-        "description": "Edible fish from relatively cold regions. ■ Cooking ingredient\n(fishing)",
+        "description": "Edible fish from relatively cold regions. ■ Cooking ingredient (fishing)",
         "effects": [],
         "hitType": 0,
         "iconIndex": 1205,
@@ -4822,7 +4822,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "A stone that can float when infused with magic power. ■ Material\n(mining)",
+        "description": "A stone that can float when infused with magic power. ■ Material (mining)",
         "effects": [],
         "hitType": 0,
         "iconIndex": 1857,
@@ -5004,7 +5004,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Mysterious stone with the power to cause destruction. ■ Material\n(mining)",
+        "description": "Mysterious stone with the power to cause destruction. ■ Material (mining)",
         "effects": [],
         "hitType": 0,
         "iconIndex": 1969,
@@ -5108,7 +5108,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "A stone that contains a very high-quality iron component. ■ Material\n(mining)",
+        "description": "A stone that contains a very high-quality iron component. ■ Material (mining)",
         "effects": [],
         "hitType": 0,
         "iconIndex": 1977,
@@ -5160,7 +5160,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "A stone with a light weight and incredibly hard nature. ■ Material\n(mining)",
+        "description": "A stone with a light weight and incredibly hard nature. ■ Material (mining)",
         "effects": [],
         "hitType": 0,
         "iconIndex": 1970,
@@ -5186,7 +5186,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": " Magic power and material are both top class stones. ■ Material\n(mining)",
+        "description": " Magic power and material are both top class stones. ■ Material (mining)",
         "effects": [],
         "hitType": 0,
         "iconIndex": 1973,
@@ -5212,7 +5212,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "It is an ominous stone that has accumulated negative energy, but it is\nvaluable. ■ Material (mining)",
+        "description": "It is an ominous stone that has accumulated negative energy, but it is valuable. ■ Material (mining)",
         "effects": [],
         "hitType": 0,
         "iconIndex": 1863,
@@ -5238,7 +5238,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "A stone said to have fallen from the sky in ancient times. ■ Material\n(mining)",
+        "description": "A stone said to have fallen from the sky in ancient times. ■ Material (mining)",
         "effects": [],
         "hitType": 0,
         "iconIndex": 1977,
@@ -5394,7 +5394,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "It is delicious with a firm and juicy texture from the bright red\nfruit. ■ Ingredients (harvesting)",
+        "description": "It is delicious with a firm and juicy texture from the bright red fruit. ■ Ingredients (harvesting)",
         "effects": [],
         "hitType": 0,
         "iconIndex": 1144,
@@ -5524,7 +5524,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Intensely smelly poop. However, it is used for blending and other\npurposes. ■ Material (collection)",
+        "description": "Intensely smelly poop. However, it is used for blending and other purposes. ■ Material (collection)",
         "effects": [],
         "hitType": 0,
         "iconIndex": 1143,
@@ -6018,7 +6018,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Dry, hard bones that are as brittle as a skeleton. ■ Material\n(Collection)",
+        "description": "Dry, hard bones that are as brittle as a skeleton. ■ Material (Collection)",
         "effects": [],
         "hitType": 0,
         "iconIndex": 1104,
@@ -6148,7 +6148,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "A bone with a mysterious power that surpasses the white night. ■\nMaterial (Collection)",
+        "description": "A bone with a mysterious power that surpasses the white night. ■ Material (Collection)",
         "effects": [],
         "hitType": 0,
         "iconIndex": 1104,
@@ -6226,7 +6226,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Mysterious droplet imbued with the power of the stars ■ Material\n(Collection)",
+        "description": "Mysterious droplet imbued with the power of the stars ■ Material (Collection)",
         "effects": [],
         "hitType": 0,
         "iconIndex": 1193,
@@ -6252,7 +6252,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Angel wings said to be a fantasy. It is unknown if they actually\nexist. ■ Material (Collection)",
+        "description": "Angel wings said to be a fantasy. It is unknown if they actually exist. ■ Material (Collection)",
         "effects": [],
         "hitType": 0,
         "iconIndex": 1108,
@@ -6278,7 +6278,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": " Ancient precious bones that shine in golden color. ■ Material\n(Gathering)",
+        "description": " Ancient precious bones that shine in golden color. ■ Material (Gathering)",
         "effects": [],
         "hitType": 0,
         "iconIndex": 1104,
@@ -6304,7 +6304,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Insect with beautiful wings that reflect like a mirror ■ Material\n(Collection)",
+        "description": "Insect with beautiful wings that reflect like a mirror ■ Material (Collection)",
         "effects": [],
         "hitType": 0,
         "iconIndex": 1139,
@@ -7604,7 +7604,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Description to Translate: Magic core that houses the power of life. ■\nMaterial (Enemy)",
+        "description": "Description to Translate: Magic core that houses the power of life. ■ Material (Enemy)",
         "effects": [],
         "hitType": 0,
         "iconIndex": 1105,
@@ -7890,7 +7890,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Part of the magical power gem that resides within the body of a demon.\n■ Material (Enemy)",
+        "description": "Part of the magical power gem that resides within the body of a demon. ■ Material (Enemy)",
         "effects": [],
         "hitType": 0,
         "iconIndex": 1105,
@@ -7994,7 +7994,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Core of magical power residing within the body of a demon. ■ Material\n(Enemy)",
+        "description": "Core of magical power residing within the body of a demon. ■ Material (Enemy)",
         "effects": [],
         "hitType": 0,
         "iconIndex": 1105,
@@ -8442,7 +8442,7 @@
         "iconIndex": 1170,
         "itypeId": 1,
         "name": "Azera's Memoir 2/3",
-        "note": "<Menu Category: Archive>\n<SG種別:2>\n<SGカテゴリ:手記、日記、宣伝物>\n<SG説明: \\DATA[description] Amount \\DATA[price]Lo. I listen to those who seem\nknowledgeable about the underground, but it seems difficult to uncover\nthe truth. The master of Dragon Fang, the jackal of underground\ngambling, Doporu of real estate, Moran of loan sharks... If I poke\naround carelessly, only snakes will likely come out... What I\nunderstand is that many magical girls are deceived and sold to\nperverts...>\n<Info Text Bottom>\n\nI try to talk to someone who seems knowledgeable about the underground, but it's difficult to get to the truth. The master of Dragon Fang, the jackal of underground gambling, Doporu of real estate, Moran of loan sharks... If I poke around too much, I'll probably just stir up trouble... What I do know is that many magical girls are being deceived and sold to perverts...\n</Info Text Bottom>",
+        "note": "<Menu Category: Archive>\n<SG種別:2>\n<SGカテゴリ:手記、日記、宣伝物>\n<SG説明: \\DATA[description] Amount \\DATA[price]Lo. I listen to those who seem\nknowledgeable about the underground, but it seems difficult to uncover\nthe truth. The master of Dragon Fang, the jackal of underground\ngambling, Doporu of real estate, Moran of loan sharks... If I poke\naround carelessly, only snakes will likely come out... What I\nunderstand is that many magical girls are deceived and sold to\nperverts...>\n<Info Text Bottom>\n I try to talk to someone who seems knowledgeable about the underground, but it's difficult to get to the truth. The master of Dragon Fang, the jackal of underground gambling, Doporu of real estate, Moran of loan sharks... If I poke around too much, I'll probably just stir up trouble... What I do know is that many magical girls are being deceived and sold to perverts...\n</Info Text Bottom>",
         "occasion": 3,
         "price": 0,
         "repeats": 1,
@@ -8494,7 +8494,7 @@
         "iconIndex": 1170,
         "itypeId": 1,
         "name": "Belri's Memoirs",
-        "note": "<Menu Category: Archive>\n<SG種別:2>\n<SGカテゴリ:手記、日記、宣伝物>\n<SG説明: Hey you, who wants to take their lewdness to the extreme! We have a\nplan to turn magical girls into horny bitches! What am I talking\nabout? For more details, come to the Magic Girl Guild on the 2nd\nfloor! Only those who have this paper will be given special\ninstructions.>\n<Info Text Bottom>\n\nHey you, who wants to explore the naughty side! We have a plan to turn magical girls into horny bitches! What am I talking about? For more details, come to the second floor of the Magical Girl Guild! Only those who have this paper will be given special instructions.\n</Info Text Bottom>",
+        "note": "<Menu Category: Archive>\n<SG種別:2>\n<SGカテゴリ:手記、日記、宣伝物>\n<SG説明: Hey you, who wants to take their lewdness to the extreme! We have a\nplan to turn magical girls into horny bitches! What am I talking\nabout? For more details, come to the Magic Girl Guild on the 2nd\nfloor! Only those who have this paper will be given special\ninstructions.>\n<Info Text Bottom>\n Hey you, who wants to explore the naughty side! We have a plan to turn magical girls into horny bitches! What am I talking about? For more details, come to the second floor of the Magical Girl Guild! Only those who have this paper will be given special instructions.\n</Info Text Bottom>",
         "occasion": 3,
         "price": 0,
         "repeats": 1,
@@ -8546,7 +8546,7 @@
         "iconIndex": 1170,
         "itypeId": 1,
         "name": "Lucy's Memoir",
-        "note": "<Menu Category: Archive>\n<SG種別:2>\n<SGカテゴリ:手記、日記、宣伝物>\n<SG説明:\\DATA[description] The amount \\DATA[price]Lo is strange. I should be\nmuch stronger, the strongest! But why have I become so weak? And I\ncan't even remember my name properly. Maybe it was Lus... or something\nlike that. For now, I'm going by Lucy. It's frustrating to have such\nvague memories. Anyway, I was supposed to be the strongest! Yes, I was\nsupposed to be (It seems like a very old diary entry).>\n<Info Text Bottom>\n\n\nThis is strange. I should be much stronger, the strongest! But why have I become so weak? And I can't even remember my name properly. Maybe it was Luci... or something like that. For now, I'll go by Lucy. It's frustrating to have such vague memories. Anyway, I was supposed to be the strongest! Yes, I was supposed to be. (Seems like a very old diary entry)\n</Info Text Bottom>",
+        "note": "<Menu Category: Archive>\n<SG種別:2>\n<SGカテゴリ:手記、日記、宣伝物>\n<SG説明:\\DATA[description] The amount \\DATA[price]Lo is strange. I should be\nmuch stronger, the strongest! But why have I become so weak? And I\ncan't even remember my name properly. Maybe it was Lus... or something\nlike that. For now, I'm going by Lucy. It's frustrating to have such\nvague memories. Anyway, I was supposed to be the strongest! Yes, I was\nsupposed to be (It seems like a very old diary entry).>\n<Info Text Bottom>\n  This is strange. I should be much stronger, the strongest! But why have I become so weak? And I can't even remember my name properly. Maybe it was Luci... or something like that. For now, I'll go by Lucy. It's frustrating to have such vague memories. Anyway, I was supposed to be the strongest! Yes, I was supposed to be. (Seems like a very old diary entry)\n</Info Text Bottom>",
         "occasion": 3,
         "price": 0,
         "repeats": 1,
@@ -8598,7 +8598,7 @@
         "iconIndex": 1170,
         "itypeId": 1,
         "name": "Leedis' Memoirs",
-        "note": "<Menu Category: Archive>\n<SG種別:2>\n<SGカテゴリ:手記、日記、宣伝物>\n<SG説明: \\DATA[description] Amount \\DATA[price] Lo If someone is reading this,\nthen I must no longer exist in this world. The only regret I have is\nnot being able to deliver the flowers to you every year without fail.\nTo you, who is reading this, the flower blooming beside the altar is a\nprecious flower called the Sacred White Flower. If you are under the\nprotection of the benevolent goddess Baretta, I hope you will deliver\nthis flower to Marimari. - Rudia>\n<Info Text Bottom>\n\nIf someone is reading this, then I must no longer exist in this world. The only regret I have is not being able to deliver the flowers to you every year without fail. To you, who is reading this, the flower blooming beside the altar is a precious flower called the 'Sacred White Flower.' If you are under the protection of the benevolent goddess Baretta, I ask that you kindly deliver this flower to Marimari. - Rudia\n</Info Text Bottom>",
+        "note": "<Menu Category: Archive>\n<SG種別:2>\n<SGカテゴリ:手記、日記、宣伝物>\n<SG説明: \\DATA[description] Amount \\DATA[price] Lo If someone is reading this,\nthen I must no longer exist in this world. The only regret I have is\nnot being able to deliver the flowers to you every year without fail.\nTo you, who is reading this, the flower blooming beside the altar is a\nprecious flower called the Sacred White Flower. If you are under the\nprotection of the benevolent goddess Baretta, I hope you will deliver\nthis flower to Marimari. - Rudia>\n<Info Text Bottom>\n If someone is reading this, then I must no longer exist in this world. The only regret I have is not being able to deliver the flowers to you every year without fail. To you, who is reading this, the flower blooming beside the altar is a precious flower called the 'Sacred White Flower.' If you are under the protection of the benevolent goddess Baretta, I ask that you kindly deliver this flower to Marimari. - Rudia\n</Info Text Bottom>",
         "occasion": 3,
         "price": 0,
         "repeats": 1,
@@ -8624,7 +8624,7 @@
         "iconIndex": 1170,
         "itypeId": 1,
         "name": "Downey's Memoirs",
-        "note": "<Menu Category: Archive>\n<SG種別:2>\n<SGカテゴリ:手記、日記、宣伝物>\n<SG説明:\\DATA[description] Amount \\DATA[price]Lo A small island in the\nsoutheast... At first glance, it may seem like there's nothing there,\nbut if you investigate thoroughly... If I say this much, you'll\ndesperately search the area. Make sure to max out your investigation\nskill and diving skill.>\n<Info Text Bottom>\n南東の小島... At first glance, it may seem like there's nothing there, but if you investigate thoroughly... Once I say this much, you'll desperately search the area. Make sure to max out your investigation and diving skills.\n</Info Text Bottom>",
+        "note": "<Menu Category: Archive>\n<SG種別:2>\n<SGカテゴリ:手記、日記、宣伝物>\n<SG説明:\\DATA[description] Amount \\DATA[price]Lo A small island in the\nsoutheast... At first glance, it may seem like there's nothing there,\nbut if you investigate thoroughly... If I say this much, you'll\ndesperately search the area. Make sure to max out your investigation\nskill and diving skill.>\n<Info Text Bottom>\nThe small island in the southeast... At first glance, it may seem like there's nothing there, but if you investigate thoroughly... Once I say this much, you'll desperately search the area. Make sure to max out your investigation and diving skills.\n</Info Text Bottom>",
         "occasion": 3,
         "price": 0,
         "repeats": 1,
@@ -8728,7 +8728,7 @@
         "iconIndex": 1170,
         "itypeId": 1,
         "name": "Tein's Diary",
-        "note": "<Menu Category: Archive>\n<SG種別:2>\n<SGカテゴリ:手記、日記、宣伝物>\n<SG説明: \\DATA[description] Amount \\DATA[price]Lo Nice to meet you... If the\nperson who received this letter is a woman... could you please talk to\nme, who is outside the entertainment area of Rein Garnet? I'm sure\nyou're my destined person... I want to give my first time to my\ndestined person, that's what I'm thinking... This is not a lie, it's\nmy true feelings. I sincerely hope to meet you. Tein>\n<Info Text Bottom>\n\nNice to meet you... If the person who received this letter is a woman... Would you please talk to me, who is outside the amusement park of Reingarnet? Surely, you are my destined person... I want to give my first time to my destined person, that's what I'm thinking... This is not a lie, it's my true feelings. I sincerely hope to meet you. - Tein\n</Info Text Bottom>",
+        "note": "<Menu Category: Archive>\n<SG種別:2>\n<SGカテゴリ:手記、日記、宣伝物>\n<SG説明: \\DATA[description] Amount \\DATA[price]Lo Nice to meet you... If the\nperson who received this letter is a woman... could you please talk to\nme, who is outside the entertainment area of Rein Garnet? I'm sure\nyou're my destined person... I want to give my first time to my\ndestined person, that's what I'm thinking... This is not a lie, it's\nmy true feelings. I sincerely hope to meet you. Tein>\n<Info Text Bottom>\n Nice to meet you... If the person who received this letter is a woman... Would you please talk to me, who is outside the amusement park of Reingarnet? Surely, you are my destined person... I want to give my first time to my destined person, that's what I'm thinking... This is not a lie, it's my true feelings. I sincerely hope to meet you. - Tein\n</Info Text Bottom>",
         "occasion": 3,
         "price": 0,
         "repeats": 1,
@@ -8858,7 +8858,7 @@
         "iconIndex": 1168,
         "itypeId": 1,
         "name": "Yaguru's Letter",
-        "note": "<Menu Category: Archive>\n<SG種別:2>\n<SGカテゴリ:手記、日記、宣伝物>\n<SG説明: \\DATA[description] Amount \\DATA[price]Lo To all parties concerned, an\ninteresting gambling game has finally been born. Whether you crush or\nspare the magical girls... It's the best entertainment where we can\nbet money while enjoying the sight of them desperately giving birth,\nclinging to straws. If things go well, I'd like to expand it in the\nfuture. Everyone, please support us.>\n<Info Text Bottom>\n\nTo all parties concerned, an interesting gambling game has finally been born. Whether you crush or spare the magical girls... It's the ultimate entertainment where we can bet money while enjoying the sight of desperately enduring the urge to give birth. If things go well, I'd like to expand it in the future. Everyone, please support us.\n</Info Text Bottom>",
+        "note": "<Menu Category: Archive>\n<SG種別:2>\n<SGカテゴリ:手記、日記、宣伝物>\n<SG説明: \\DATA[description] Amount \\DATA[price]Lo To all parties concerned, an\ninteresting gambling game has finally been born. Whether you crush or\nspare the magical girls... It's the best entertainment where we can\nbet money while enjoying the sight of them desperately giving birth,\nclinging to straws. If things go well, I'd like to expand it in the\nfuture. Everyone, please support us.>\n<Info Text Bottom>\n To all parties concerned, an interesting gambling game has finally been born. Whether you crush or spare the magical girls... It's the ultimate entertainment where we can bet money while enjoying the sight of desperately enduring the urge to give birth. If things go well, I'd like to expand it in the future. Everyone, please support us.\n</Info Text Bottom>",
         "occasion": 3,
         "price": 0,
         "repeats": 1,
@@ -8936,7 +8936,7 @@
         "iconIndex": 1168,
         "itypeId": 1,
         "name": "Marina's Memoirs",
-        "note": "<Menu Category: Archive>\n<SG種別:2>\n<SGカテゴリ:手記、日記、宣伝物>\n<SG説明:\\DATA[description] The amount \\DATA[price]Lo is ready. I will\ndefinitely kill that witch. She abandoned my dearest friend. Will I\never forgive her?>\n<Info Text Bottom>\n\nPreparations are complete. That witch abandoned my dearest friend. There's no way I'll forgive her. I will definitely kill her.\n</Info Text Bottom>",
+        "note": "<Menu Category: Archive>\n<SG種別:2>\n<SGカテゴリ:手記、日記、宣伝物>\n<SG説明:\\DATA[description] The amount \\DATA[price]Lo is ready. I will\ndefinitely kill that witch. She abandoned my dearest friend. Will I\never forgive her?>\n<Info Text Bottom>\n Preparations are complete. That witch abandoned my dearest friend. There's no way I'll forgive her. I will definitely kill her.\n</Info Text Bottom>",
         "occasion": 3,
         "price": 0,
         "repeats": 1,
@@ -9066,7 +9066,7 @@
         "iconIndex": 1170,
         "itypeId": 1,
         "name": "Grieda's Diary",
-        "note": "<Menu Category: Archive>\n<SG種別:2>\n<SGカテゴリ:手記、日記、宣伝物>\n<SG説明: \\DATA[description] Amount \\DATA[price] Lo. A new life has been\nconceived. Those around me say that I shouldn't give birth. Yes,\nbecause I am a magical girl, losing my powers would diminish our\nstrength as humans. However, I have spent a considerable amount of\ntime fighting. Now, there is someone I truly love. That's why I want\nto give birth. I earnestly wish for a time when a magical girl who has\ngiven birth can live with hope...>\n<Info Text Bottom>\n\nI have been blessed with a new life. Everyone around me says I shouldn't give birth. Yes, because I am a magical girl, losing my powers would weaken our forces as humans. But I have spent a considerable amount of time fighting. Now, there is someone I truly love. That's why I want to give birth. I earnestly wish for a time when a magical girl who has given birth can live with hope...\n</Info Text Bottom>",
+        "note": "<Menu Category: Archive>\n<SG種別:2>\n<SGカテゴリ:手記、日記、宣伝物>\n<SG説明: \\DATA[description] Amount \\DATA[price] Lo. A new life has been\nconceived. Those around me say that I shouldn't give birth. Yes,\nbecause I am a magical girl, losing my powers would diminish our\nstrength as humans. However, I have spent a considerable amount of\ntime fighting. Now, there is someone I truly love. That's why I want\nto give birth. I earnestly wish for a time when a magical girl who has\ngiven birth can live with hope...>\n<Info Text Bottom>\n I have been blessed with a new life. Everyone around me says I shouldn't give birth. Yes, because I am a magical girl, losing my powers would weaken our forces as humans. But I have spent a considerable amount of time fighting. Now, there is someone I truly love. That's why I want to give birth. I earnestly wish for a time when a magical girl who has given birth can live with hope...\n</Info Text Bottom>",
         "occasion": 3,
         "price": 0,
         "repeats": 1,
@@ -9222,7 +9222,7 @@
         "iconIndex": 1170,
         "itypeId": 1,
         "name": "Along's Diary",
-        "note": "<Menu Category: Archive>\n<SG種別:2>\n<SGカテゴリ:手記、日記、宣伝物>\n<SG説明: \\DATA[description] Amount \\DATA[price]Lo Why did you give birth...\nNo, you did nothing wrong... I understand that. It's my responsibility\nfor falling in love with you, a magical girl. As soon as the demons\nrealized she had lost her powers, they took her away... Ah, what\nshould I do, how can I save her? Oh God, please... give me... power...>\n<Info Text Bottom>\n\nWhy did you give birth... No, it's not your fault... I understand that. It's my responsibility for falling in love with you, a magical girl. As soon as the demons learned that she had lost her powers, they took her away... Ah, what should I do? How can I save her? Oh God, please... give me the power...\n</Info Text Bottom>",
+        "note": "<Menu Category: Archive>\n<SG種別:2>\n<SGカテゴリ:手記、日記、宣伝物>\n<SG説明: \\DATA[description] Amount \\DATA[price]Lo Why did you give birth...\nNo, you did nothing wrong... I understand that. It's my responsibility\nfor falling in love with you, a magical girl. As soon as the demons\nrealized she had lost her powers, they took her away... Ah, what\nshould I do, how can I save her? Oh God, please... give me... power...>\n<Info Text Bottom>\n Why did you give birth... No, it's not your fault... I understand that. It's my responsibility for falling in love with you, a magical girl. As soon as the demons learned that she had lost her powers, they took her away... Ah, what should I do? How can I save her? Oh God, please... give me the power...\n</Info Text Bottom>",
         "occasion": 3,
         "price": 0,
         "repeats": 1,
@@ -9430,7 +9430,7 @@
         "iconIndex": 1752,
         "itypeId": 2,
         "name": "Flyer for Carefully Selected Items 1",
-        "note": "<Cannot Discard>\n<Menu Category: Archive>\n<SG種別:2>\n<SGカテゴリ:手記、日記、宣伝物>\n<SG説明:\\DATA[description] Amount \\DATA[price]Lo. Alright, here's a flyer from\nthe carefully selected item shop! You, who have obtained this!\nFantastic! I am located beside the house of a man living alone on the\nnorthern hill of the village of lewd demons. Please come find me.\nI'll be waiting for you!>\n<Info Text Bottom>\n\nHaaai, it's a flyer from the carefully selected item shop! You, who have obtained this! Amazing! I am located near the house of a man living alone on the northern hill of the village of lustful demons~ Please come find me. I'll be waiting!\n</Info Text Bottom>",
+        "note": "<Cannot Discard>\n<Menu Category: Archive>\n<SG種別:2>\n<SGカテゴリ:手記、日記、宣伝物>\n<SG説明:\\DATA[description] Amount \\DATA[price]Lo. Alright, here's a flyer from\nthe carefully selected item shop! You, who have obtained this!\nFantastic! I am located beside the house of a man living alone on the\nnorthern hill of the village of lewd demons. Please come find me.\nI'll be waiting for you!>\n<Info Text Bottom>\n Haaai, it's a flyer from the carefully selected item shop! You, who have obtained this! Amazing! I am located near the house of a man living alone on the northern hill of the village of lustful demons~ Please come find me. I'll be waiting!\n</Info Text Bottom>",
         "occasion": 3,
         "price": 0,
         "repeats": 1,
@@ -9508,7 +9508,7 @@
         "iconIndex": 1752,
         "itypeId": 2,
         "name": "Flyer for Carefully Selected Items 2",
-        "note": "<Cannot Discard>\n<Menu Category: Archive>\n<SG種別:2>\n<SGカテゴリ:手記、日記、宣伝物>\n<SG説明:\\DATA[description] The price is \\DATA[price]Lo. Haaai, it's a flyer\nfrom the carefully selected item shop! You, who have obtained this!\nAmazing! I am at the Secret Hot Springs~ Please come and find me.\nI'll be waiting for you!>\n<Info Text Bottom>\n\nHai, it's a flyer from the carefully selected item shop! You, who have obtained this! Amazing! I am at the 'Secret Hot Springs'~ Please come and find me. I'll be waiting!\n</Info Text Bottom>",
+        "note": "<Cannot Discard>\n<Menu Category: Archive>\n<SG種別:2>\n<SGカテゴリ:手記、日記、宣伝物>\n<SG説明:\\DATA[description] The price is \\DATA[price]Lo. Haaai, it's a flyer\nfrom the carefully selected item shop! You, who have obtained this!\nAmazing! I am at the Secret Hot Springs~ Please come and find me.\nI'll be waiting for you!>\n<Info Text Bottom>\n Hai, it's a flyer from the carefully selected item shop! You, who have obtained this! Amazing! I am at the 'Secret Hot Springs'~ Please come and find me. I'll be waiting!\n</Info Text Bottom>",
         "occasion": 3,
         "price": 0,
         "repeats": 1,
@@ -9560,7 +9560,7 @@
         "iconIndex": 1752,
         "itypeId": 2,
         "name": "Flyer for Carefully Selected Items 3",
-        "note": "<Cannot Discard>\n<Menu Category: Archive>\n<SG種別:2>\n<SGカテゴリ:手記、日記、宣伝物>\n<SG説明:\\DATA[description] The price is \\DATA[price]Lo. Haaai, it's a flyer\nfrom the carefully selected item shop! You, who have obtained this!\nAmazing! I am in the cave in the desert with two entrances. Please\ncome and find me. I'll be waiting for you!>\n<Info Text Bottom>\n\nHeeey, it's a flyer from the carefully selected item shop! You, who got this! Awesome! I am in a cave with two entrances in the desert~ Please come and find me. I'll be waiting!\n</Info Text Bottom>",
+        "note": "<Cannot Discard>\n<Menu Category: Archive>\n<SG種別:2>\n<SGカテゴリ:手記、日記、宣伝物>\n<SG説明:\\DATA[description] The price is \\DATA[price]Lo. Haaai, it's a flyer\nfrom the carefully selected item shop! You, who have obtained this!\nAmazing! I am in the cave in the desert with two entrances. Please\ncome and find me. I'll be waiting for you!>\n<Info Text Bottom>\n Heeey, it's a flyer from the carefully selected item shop! You, who got this! Awesome! I am in a cave with two entrances in the desert~ Please come and find me. I'll be waiting!\n</Info Text Bottom>",
         "occasion": 3,
         "price": 0,
         "repeats": 1,
@@ -9866,7 +9866,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "The precious amulet that the young man living in Rein Garnet dropped\nand received from his sister.",
+        "description": "The precious amulet that the young man living in Rein Garnet dropped and received from his sister.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 1065,
@@ -9970,7 +9970,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "A highly practical toy modeled after the treasure of a succubus. It is\nLouise's precious toy.",
+        "description": "A highly practical toy modeled after the treasure of a succubus. It is Louise's precious toy.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 655,
@@ -10132,7 +10132,7 @@
         "iconIndex": 1168,
         "itypeId": 2,
         "name": "Letter to Lumi",
-        "note": "<Cannot Discard>\n<SG種別:2>\n<SGカテゴリ:クエスト>\n<SG説明: \\DATA[description] Amount \\DATA[price] Lo To my beloved Lumie, it's\npainful for me that Auntie doesn't understand me. But it's even more\npainful when you and Auntie fight. I understand that you can't\nunderstand it right away. It's probably because I'm not reliable\nenough. If I can just do my job a little better, things will work out\nsomehow. So please don't rush, just wait a little longer. I will\ndefinitely come to pick you up. So until then... please believe in me\nand wait for me. I love you from the bottom of my heart, Lumie. -\nLauren>\n<Info Text Bottom>\n\nIt's painful for me when even my aunt doesn't understand me. But it's even more painful when you and my aunt fight. I understand that you can't understand it right away. It's probably because I'm not assertive enough. If I could just do my job a little better, things would work out somehow. So please don't rush, just wait a little longer. I'll definitely come to pick you up. So until then... please believe in me and wait for me. I love you from the bottom of my heart, Lumii. - Lauren\n</Info Text Bottom>",
+        "note": "<Cannot Discard>\n<SG種別:2>\n<SGカテゴリ:クエスト>\n<SG説明: \\DATA[description] Amount \\DATA[price] Lo To my beloved Lumie, it's\npainful for me that Auntie doesn't understand me. But it's even more\npainful when you and Auntie fight. I understand that you can't\nunderstand it right away. It's probably because I'm not reliable\nenough. If I can just do my job a little better, things will work out\nsomehow. So please don't rush, just wait a little longer. I will\ndefinitely come to pick you up. So until then... please believe in me\nand wait for me. I love you from the bottom of my heart, Lumie. -\nLauren>\n<Info Text Bottom>\n It's painful for me when even my aunt doesn't understand me. But it's even more painful when you and my aunt fight. I understand that you can't understand it right away. It's probably because I'm not assertive enough. If I could just do my job a little better, things would work out somehow. So please don't rush, just wait a little longer. I'll definitely come to pick you up. So until then... please believe in me and wait for me. I love you from the bottom of my heart, Lumii. - Lauren\n</Info Text Bottom>",
         "occasion": 3,
         "price": 0,
         "repeats": 1,
@@ -10152,7 +10152,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "You can play at a gambling den in the underground city. This is what a\nman named Gem had stolen.",
+        "description": "You can play at a gambling den in the underground city. This is what a man named Gem had stolen.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 2200,
@@ -10282,7 +10282,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "A rare flower occasionally found near Lake Paelis, favored by plant-\ntype Lolimon as a drug.",
+        "description": "A rare flower occasionally found near Lake Paelis, favored by plant- type Lolimon as a drug.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 1121,
@@ -10334,7 +10334,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "A small object made of a very rare and highly valuable mineral called\nPlatinum. It is desired by people from desert regions.",
+        "description": "A small object made of a very rare and highly valuable mineral called Platinum. It is desired by people from desert regions.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 1977,
@@ -10464,7 +10464,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "It is a mushroom that releases toxins from its body, but it is\ndangerous as it is.",
+        "description": "It is a mushroom that releases toxins from its body, but it is dangerous as it is.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 1142,
@@ -10516,7 +10516,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "It seems that Nefi collected materials for Alvan, but it seems to be a\nlittle short.",
+        "description": "It seems that Nefi collected materials for Alvan, but it seems to be a little short.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 2265,
@@ -10672,7 +10672,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Ring that makes you recognize the symbols of the gods scattered\nthroughout the world created by Alon",
+        "description": "Ring that makes you recognize the symbols of the gods scattered throughout the world created by Alon",
         "effects": [],
         "hitType": 0,
         "iconIndex": 809,
@@ -11244,7 +11244,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Three keys are required to open the sealed door on the second floor of\nthe lord's mansion.",
+        "description": "Three keys are required to open the sealed door on the second floor of the lord's mansion.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 2193,
@@ -11270,7 +11270,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Special stones installed at the base Can freely change between magical\ngirls and devil witches",
+        "description": "Special stones installed at the base Can freely change between magical girls and devil witches",
         "effects": [],
         "hitType": 0,
         "iconIndex": 207,
@@ -11296,7 +11296,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "The real staff that the witch Trine used. The magic power has been\nlost.",
+        "description": "The real staff that the witch Trine used. The magic power has been lost.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 1904,
@@ -12466,7 +12466,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "[Item] A short sword commonly used by thieves. Versatile and easy to\nuse. Poor +30.",
+        "description": "[Item] A short sword commonly used by thieves. Versatile and easy to use. Poor +30.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 1137,
@@ -12518,7 +12518,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "【Furniture】Rare item that is thought to be a mysterious weapon Citadel\n+50",
+        "description": "【Furniture】Rare item that is thought to be a mysterious weapon Citadel +50",
         "effects": [],
         "hitType": 0,
         "iconIndex": 1137,
@@ -12882,7 +12882,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "[Item] A weapon that is said to have led everything to destruction\nLuxury +30",
+        "description": "[Item] A weapon that is said to have led everything to destruction Luxury +30",
         "effects": [],
         "hitType": 0,
         "iconIndex": 1137,
@@ -13636,7 +13636,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "[ Furniture ] A mysterious instrument that is not very familiar Luxury\n+ 10",
+        "description": "[ Furniture ] A mysterious instrument that is not very familiar Luxury + 10",
         "effects": [],
         "hitType": 0,
         "iconIndex": 1137,
@@ -14442,7 +14442,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "【Furniture】Precious scales of an ancient dragon. Cannot be processed.\nCitadel +100",
+        "description": "【Furniture】Precious scales of an ancient dragon. Cannot be processed. Citadel +100",
         "effects": [],
         "hitType": 0,
         "iconIndex": 1137,
@@ -14520,7 +14520,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Description \"【Furniture】Various things are written in characters I\nhave never seen before. Poor + 40",
+        "description": "Description \"【Furniture】Various things are written in characters I have never seen before. Poor + 40",
         "effects": [],
         "hitType": 0,
         "iconIndex": 1137,
@@ -14780,7 +14780,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "[ Furniture ] A well-crafted ornament of a finely made treasure chest\nPoor + 100",
+        "description": "[ Furniture ] A well-crafted ornament of a finely made treasure chest Poor + 100",
         "effects": [],
         "hitType": 0,
         "iconIndex": 1137,
@@ -14806,7 +14806,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "【Furniture】Sinister Candle That Does Not Light Up During the Day Poor\n+30",
+        "description": "【Furniture】Sinister Candle That Does Not Light Up During the Day Poor +30",
         "effects": [],
         "hitType": 0,
         "iconIndex": 1137,
@@ -14936,7 +14936,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "【Furniture】There are various things written, but it is not the script\nof this world. Casual +20",
+        "description": "【Furniture】There are various things written, but it is not the script of this world. Casual +20",
         "effects": [],
         "hitType": 0,
         "iconIndex": 1137,
@@ -15144,7 +15144,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "【Furniture】Electrically powered vibrating massage machine Eroticism\n+30",
+        "description": "【Furniture】Electrically powered vibrating massage machine Eroticism +30",
         "effects": [],
         "hitType": 0,
         "iconIndex": 1137,
@@ -15508,7 +15508,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "【Furniture】Seals the field of vision and focuses consciousness on\nerogenous zones Eroticism +20",
+        "description": "【Furniture】Seals the field of vision and focuses consciousness on erogenous zones Eroticism +20",
         "effects": [],
         "hitType": 0,
         "iconIndex": 1137,
@@ -15768,7 +15768,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "[Item] Slightly larger vibrator. Once you get used to it, try this one\nfor more eroticism +40.",
+        "description": "[Item] Slightly larger vibrator. Once you get used to it, try this one for more eroticism +40.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 1137,
@@ -15872,7 +15872,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "【Furniture】Rope for those who want to engage in play that involves\nbinding the body. Eroticism +10.",
+        "description": "【Furniture】Rope for those who want to engage in play that involves binding the body. Eroticism +10.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 1137,
@@ -15950,7 +15950,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "【Furniture】A favorite for those who enjoy sitting on a rocking horse\nEroticism +50",
+        "description": "【Furniture】A favorite for those who enjoy sitting on a rocking horse Eroticism +50",
         "effects": [],
         "hitType": 0,
         "iconIndex": 1137,
@@ -15976,7 +15976,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "【Furniture】A book depicting sexual acts in intricate detail Eroticism\n+10",
+        "description": "【Furniture】A book depicting sexual acts in intricate detail Eroticism +10",
         "effects": [],
         "hitType": 0,
         "iconIndex": 1137,
@@ -16002,7 +16002,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "【Furniture】Medical equipment for checking the condition of the body\nEroticism +20",
+        "description": "【Furniture】Medical equipment for checking the condition of the body Eroticism +20",
         "effects": [],
         "hitType": 0,
         "iconIndex": 1137,
@@ -16054,7 +16054,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "【Furniture】Syringe for directly injecting aphrodisiacs into the body\nEroticism +40",
+        "description": "【Furniture】Syringe for directly injecting aphrodisiacs into the body Eroticism +40",
         "effects": [],
         "hitType": 0,
         "iconIndex": 1137,
@@ -16080,7 +16080,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "【Furniture】A book depicting the intimate acts of petite girls\nEroticism +20",
+        "description": "【Furniture】A book depicting the intimate acts of petite girls Eroticism +20",
         "effects": [],
         "hitType": 0,
         "iconIndex": 1137,
@@ -16106,7 +16106,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "【Furniture】Equipment for observing the interior of the female\ngenitalia Eroticism +30",
+        "description": "【Furniture】Equipment for observing the interior of the female genitalia Eroticism +30",
         "effects": [],
         "hitType": 0,
         "iconIndex": 1137,
@@ -16184,7 +16184,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "【Furniture】A book depicting the intricate sexual acts of mature women\nEroticism + 40",
+        "description": "【Furniture】A book depicting the intricate sexual acts of mature women Eroticism + 40",
         "effects": [],
         "hitType": 0,
         "iconIndex": 1137,
@@ -16210,7 +16210,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "【Furniture】A candle for play that doesn't give a particularly hot\nsensation Eroticism +30",
+        "description": "【Furniture】A candle for play that doesn't give a particularly hot sensation Eroticism +30",
         "effects": [],
         "hitType": 0,
         "iconIndex": 1137,
@@ -16262,7 +16262,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "【Furniture】Medicine that makes it difficult to get pregnant Eroticism\n+20",
+        "description": "【Furniture】Medicine that makes it difficult to get pregnant Eroticism +20",
         "effects": [],
         "hitType": 0,
         "iconIndex": 1137,
@@ -16574,7 +16574,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "[Furniture] A poorly made bed. Looks like it's about to break. Poor\n+30",
+        "description": "[Furniture] A poorly made bed. Looks like it's about to break. Poor +30",
         "effects": [],
         "hitType": 0,
         "iconIndex": 1137,
@@ -16730,7 +16730,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "【Furniture】Convenient shelf that can organize anything you put in it\nPoor +10",
+        "description": "【Furniture】Convenient shelf that can organize anything you put in it Poor +10",
         "effects": [],
         "hitType": 0,
         "iconIndex": 1137,
@@ -16912,7 +16912,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "[ Furniture ] Increase the greenery in your room for relaxation Casual\n+20",
+        "description": "[ Furniture ] Increase the greenery in your room for relaxation Casual +20",
         "effects": [],
         "hitType": 0,
         "iconIndex": 1137,
@@ -16938,7 +16938,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "[ Furniture ] Increase the green in your room for relaxation Casual\n+30",
+        "description": "[ Furniture ] Increase the green in your room for relaxation Casual +30",
         "effects": [],
         "hitType": 0,
         "iconIndex": 1137,
@@ -16964,7 +16964,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "[ Furniture ] Increase the greenery in your room for relaxation Casual\n+ 40",
+        "description": "[ Furniture ] Increase the greenery in your room for relaxation Casual + 40",
         "effects": [],
         "hitType": 0,
         "iconIndex": 1137,
@@ -17120,7 +17120,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "【Furniture】Luxury chest of drawers that can store clothes and more\nCasual +30",
+        "description": "【Furniture】Luxury chest of drawers that can store clothes and more Casual +30",
         "effects": [],
         "hitType": 0,
         "iconIndex": 1137,
@@ -17146,7 +17146,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "[ Furniture ] A slightly larger bookshelf. Can hold a lot of books.\nCasual +30",
+        "description": "[ Furniture ] A slightly larger bookshelf. Can hold a lot of books. Casual +30",
         "effects": [],
         "hitType": 0,
         "iconIndex": 1137,
@@ -17172,7 +17172,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "[Furniture] Large miscellaneous goods shelf. Convenient for various\npurposes. Casual +30",
+        "description": "[Furniture] Large miscellaneous goods shelf. Convenient for various purposes. Casual +30",
         "effects": [],
         "hitType": 0,
         "iconIndex": 1137,
@@ -17328,7 +17328,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "[ Furniture ] Shelf that can be used for storage and enjoying flowers\nCasual +10",
+        "description": "[ Furniture ] Shelf that can be used for storage and enjoying flowers Casual +10",
         "effects": [],
         "hitType": 0,
         "iconIndex": 1137,
@@ -17562,7 +17562,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "[Item] A wooden table with a nice atmosphere. Facing opposite Casual\n+50",
+        "description": "[Item] A wooden table with a nice atmosphere. Facing opposite Casual +50",
         "effects": [],
         "hitType": 0,
         "iconIndex": 1137,
@@ -24528,7 +24528,7 @@
         "iconIndex": 252,
         "itypeId": 2,
         "name": "Unwanted Child... Badge",
-        "note": "<Cannot Discard>\n<Menu Category: Achievements>\n<SG種別:2>\n<SGカテゴリ:実績バッジ>\n<SG説明:\\DATA[description] Amount \\DATA[price] Lo You must not give birth to a\nchild. Even if you become pregnant, you can somehow manage it by\nhaving an abortion. However, if you are in a situation where you\ncannot do that, you have no choice but to give birth. If you give\nbirth, the life of a magical girl will come to an end. It's\nfrustrating, but once it happens, there's nothing you can do about it.\nKonoha decides to accept the child of a human and live a new life.>\n<Info Text Bottom>\n\nYou must not bear a human child. Even if you become pregnant, you can somehow manage with an abortion. However, if you are unable to do so, you have no choice but to give birth. Giving birth will bring an end to the life of a magical girl. It's frustrating, but once it happens, there's nothing more you can do. Konoha decides to accept the human child and live a new life.\n</Info Text Bottom>",
+        "note": "<Cannot Discard>\n<Menu Category: Achievements>\n<SG種別:2>\n<SGカテゴリ:実績バッジ>\n<SG説明:\\DATA[description] Amount \\DATA[price] Lo You must not give birth to a\nchild. Even if you become pregnant, you can somehow manage it by\nhaving an abortion. However, if you are in a situation where you\ncannot do that, you have no choice but to give birth. If you give\nbirth, the life of a magical girl will come to an end. It's\nfrustrating, but once it happens, there's nothing you can do about it.\nKonoha decides to accept the child of a human and live a new life.>\n<Info Text Bottom>\n You must not bear a human child. Even if you become pregnant, you can somehow manage with an abortion. However, if you are unable to do so, you have no choice but to give birth. Giving birth will bring an end to the life of a magical girl. It's frustrating, but once it happens, there's nothing more you can do. Konoha decides to accept the human child and live a new life.\n</Info Text Bottom>",
         "occasion": 3,
         "price": 0,
         "repeats": 1,
@@ -24554,7 +24554,7 @@
         "iconIndex": 252,
         "itypeId": 2,
         "name": "Badge of Bursting Potbelly",
-        "note": "<Cannot Discard>\n<Menu Category: Achievements>\n<SG種別:2>\n<SGカテゴリ:実績バッジ>\n<SG説明:\\DATA[description] Konoha, who was defeated in the final battle, is\nimpregnated by a Devil. Her abnormally swollen belly exceeds its\nlimits and bursts open. From within, a healthy Devil child is born.\nDespite her belly bursting, Konoha, who cannot die, continues to be\nimpregnated by the Devil multiple times and gives birth to strong\ndemons.>\n<Info Text Bottom>\n\nKonoha, who was defeated in the final battle, is impregnated by a devil. Her abnormally swollen belly exceeds its limits and bursts open. From within, a healthy devil child is born. Despite her belly bursting, Konoha does not die and continues to be impregnated by the devil multiple times, giving birth to strong demons.\n</Info Text Bottom>",
+        "note": "<Cannot Discard>\n<Menu Category: Achievements>\n<SG種別:2>\n<SGカテゴリ:実績バッジ>\n<SG説明:\\DATA[description] Konoha, who was defeated in the final battle, is\nimpregnated by a Devil. Her abnormally swollen belly exceeds its\nlimits and bursts open. From within, a healthy Devil child is born.\nDespite her belly bursting, Konoha, who cannot die, continues to be\nimpregnated by the Devil multiple times and gives birth to strong\ndemons.>\n<Info Text Bottom>\n Konoha, who was defeated in the final battle, is impregnated by a devil. Her abnormally swollen belly exceeds its limits and bursts open. From within, a healthy devil child is born. Despite her belly bursting, Konoha does not die and continues to be impregnated by the devil multiple times, giving birth to strong demons.\n</Info Text Bottom>",
         "occasion": 3,
         "price": 0,
         "repeats": 1,
@@ -26727,7 +26727,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "An orb that seals the source of power. It breaks upon use. ■ Increases\nattack power.",
+        "description": "An orb that seals the source of power. It breaks upon use. ■ Increases attack power.",
         "effects": [
             {
                 "code": 31,
@@ -26758,7 +26758,7 @@
         "iconIndex": 1748,
         "itypeId": 1,
         "name": "Power Orb EX",
-        "note": "itemMaxNum:5\n<SG種別:2>\n<SGカテゴリ:回復/強化>\n<SG説明: \\DATA[description] A buff item in the form of an orb that can be\ncrushed and used on the spot during battles. The technique of sealing\nmagic power into orbs is quite difficult, and when it was established,\nit became very useful. It would be particularly helpful for those who\ndo not possess buff skills.>\n<Info Text Bottom>\n\nA buff item in the form of an orb that can be crushed and used on the spot during battles. The technique of sealing magic power into orbs is quite difficult, but once established, it became very useful. It would be particularly helpful for those who do not possess any buff skills.\n</Info Text Bottom>",
+        "note": "itemMaxNum:5\n<SG種別:2>\n<SGカテゴリ:回復/強化>\n<SG説明: \\DATA[description] A buff item in the form of an orb that can be\ncrushed and used on the spot during battles. The technique of sealing\nmagic power into orbs is quite difficult, and when it was established,\nit became very useful. It would be particularly helpful for those who\ndo not possess buff skills.>\n<Info Text Bottom>\n A buff item in the form of an orb that can be crushed and used on the spot during battles. The technique of sealing magic power into orbs is quite difficult, but once established, it became very useful. It would be particularly helpful for those who do not possess any buff skills.\n</Info Text Bottom>",
         "occasion": 1,
         "price": 5000,
         "repeats": 1,
@@ -26778,7 +26778,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "An orb that seals the source of protection. It breaks upon use. ■\nDefense Power UP",
+        "description": "An orb that seals the source of protection. It breaks upon use. ■ Defense Power UP",
         "effects": [
             {
                 "code": 31,
@@ -26809,7 +26809,7 @@
         "iconIndex": 1748,
         "itypeId": 1,
         "name": "Guard Orb EX",
-        "note": "itemMaxNum:5\n<SG種別:2>\n<SGカテゴリ:回復/強化>\n<SG説明: \\DATA[description] A buff item in the form of an orb that can be\ncrushed and used on the spot during battles. The technique of sealing\nmagic power into orbs is quite difficult, and when it was established,\nit became very useful. It would be particularly helpful for those who\ndo not possess buff skills.>\n<Info Text Bottom>\n\nA buff item in the form of an orb that can be crushed and used on the spot during battles. The technique of sealing magic power into orbs is quite difficult, but once established, it became very useful. It would be particularly helpful for those who do not possess any buff skills.\n</Info Text Bottom>",
+        "note": "itemMaxNum:5\n<SG種別:2>\n<SGカテゴリ:回復/強化>\n<SG説明: \\DATA[description] A buff item in the form of an orb that can be\ncrushed and used on the spot during battles. The technique of sealing\nmagic power into orbs is quite difficult, and when it was established,\nit became very useful. It would be particularly helpful for those who\ndo not possess buff skills.>\n<Info Text Bottom>\n A buff item in the form of an orb that can be crushed and used on the spot during battles. The technique of sealing magic power into orbs is quite difficult, but once established, it became very useful. It would be particularly helpful for those who do not possess any buff skills.\n</Info Text Bottom>",
         "occasion": 1,
         "price": 5000,
         "repeats": 1,
@@ -26829,7 +26829,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": " Orb in which the source of magic is sealed. It breaks upon use. ■\nMagic Power UP",
+        "description": " Orb in which the source of magic is sealed. It breaks upon use. ■ Magic Power UP",
         "effects": [
             {
                 "code": 31,
@@ -26860,7 +26860,7 @@
         "iconIndex": 1748,
         "itypeId": 1,
         "name": "Magic Orb EX",
-        "note": "itemMaxNum:5\n<SG種別:2>\n<SGカテゴリ:回復/強化>\n<SG説明: \\DATA[description] A buff item in the form of an orb that can be\ncrushed and used on the spot during battles. The technique of sealing\nmagic power into orbs is quite difficult, and when it was established,\nit became very useful. It would be particularly helpful for those who\ndo not possess buff skills.>\n<Info Text Bottom>\n\nA buff item in the form of an orb that can be crushed and used on the spot during battles. The technique of sealing magic power into orbs is quite difficult, but once established, it became very useful. It would be particularly helpful for those who do not possess any buff skills.\n</Info Text Bottom>",
+        "note": "itemMaxNum:5\n<SG種別:2>\n<SGカテゴリ:回復/強化>\n<SG説明: \\DATA[description] A buff item in the form of an orb that can be\ncrushed and used on the spot during battles. The technique of sealing\nmagic power into orbs is quite difficult, and when it was established,\nit became very useful. It would be particularly helpful for those who\ndo not possess buff skills.>\n<Info Text Bottom>\n A buff item in the form of an orb that can be crushed and used on the spot during battles. The technique of sealing magic power into orbs is quite difficult, but once established, it became very useful. It would be particularly helpful for those who do not possess any buff skills.\n</Info Text Bottom>",
         "occasion": 1,
         "price": 5000,
         "repeats": 1,
@@ -26880,7 +26880,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": " An orb in which the source of magic defense is sealed. It breaks upon\nuse. ■ Magic Defense UP",
+        "description": " An orb in which the source of magic defense is sealed. It breaks upon use. ■ Magic Defense UP",
         "effects": [
             {
                 "code": 31,
@@ -26911,7 +26911,7 @@
         "iconIndex": 1748,
         "itypeId": 1,
         "name": "Resist Orb EX",
-        "note": "itemMaxNum:5\n<SG種別:2>\n<SGカテゴリ:回復/強化>\n<SG説明: \\DATA[description] A buff item in the form of an orb that can be\ncrushed and used on the spot during battles. The technique of sealing\nmagic power into orbs is quite difficult, and when it was established,\nit became very useful. It would be particularly helpful for those who\ndo not possess buff skills.>\n<Info Text Bottom>\n\nA buff item in the form of an orb that can be crushed and used on the spot during battles. The technique of sealing magic power into orbs is quite difficult, but once established, it became very useful. It would be particularly helpful for those who do not possess any buff skills.\n</Info Text Bottom>",
+        "note": "itemMaxNum:5\n<SG種別:2>\n<SGカテゴリ:回復/強化>\n<SG説明: \\DATA[description] A buff item in the form of an orb that can be\ncrushed and used on the spot during battles. The technique of sealing\nmagic power into orbs is quite difficult, and when it was established,\nit became very useful. It would be particularly helpful for those who\ndo not possess buff skills.>\n<Info Text Bottom>\n A buff item in the form of an orb that can be crushed and used on the spot during battles. The technique of sealing magic power into orbs is quite difficult, but once established, it became very useful. It would be particularly helpful for those who do not possess any buff skills.\n</Info Text Bottom>",
         "occasion": 1,
         "price": 5000,
         "repeats": 1,
@@ -26931,7 +26931,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": " An orb that contains the sealed source of agility. It breaks upon\nuse. ■ Agility UP",
+        "description": " An orb that contains the sealed source of agility. It breaks upon use. ■ Agility UP",
         "effects": [
             {
                 "code": 31,
@@ -26962,7 +26962,7 @@
         "iconIndex": 1748,
         "itypeId": 1,
         "name": "Agility Orb EX",
-        "note": "itemMaxNum:5\n<SG種別:2>\n<SGカテゴリ:回復/強化>\n<SG説明: \\DATA[description] A buff item in the form of an orb that can be\ncrushed and used on the spot during battles. The technique of sealing\nmagic power into orbs is quite difficult, and when it was established,\nit became very useful. It would be particularly helpful for those who\ndo not possess buff skills.>\n<Info Text Bottom>\n\nA buff item in the form of an orb that can be crushed and used on the spot during battles. The technique of sealing magic power into orbs is quite difficult, but once established, it became very useful. It would be particularly helpful for those who do not possess any buff skills.\n</Info Text Bottom>",
+        "note": "itemMaxNum:5\n<SG種別:2>\n<SGカテゴリ:回復/強化>\n<SG説明: \\DATA[description] A buff item in the form of an orb that can be\ncrushed and used on the spot during battles. The technique of sealing\nmagic power into orbs is quite difficult, and when it was established,\nit became very useful. It would be particularly helpful for those who\ndo not possess buff skills.>\n<Info Text Bottom>\n A buff item in the form of an orb that can be crushed and used on the spot during battles. The technique of sealing magic power into orbs is quite difficult, but once established, it became very useful. It would be particularly helpful for those who do not possess any buff skills.\n</Info Text Bottom>",
         "occasion": 1,
         "price": 5000,
         "repeats": 1,
