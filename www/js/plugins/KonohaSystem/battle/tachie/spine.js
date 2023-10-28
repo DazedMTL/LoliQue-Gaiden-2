@@ -585,6 +585,9 @@
             super.init();
             this._chroma = {};
             this._slide = {};
+            if (this.spine()) {
+                this.spine().actor._tachieAnimations = [];
+            }
         }
 
         setupAnimationBase() {
